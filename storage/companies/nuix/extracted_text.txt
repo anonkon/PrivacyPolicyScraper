@@ -1,0 +1,303 @@
+Privacy Policy: Safeguarding Your Data | Nuix
+Skip to main content
+Content
+Legal
+PRIVACY POLICY
+Last Modified: April 15, 2026
+Nuix Limited, and its subsidiary companies ("
+Nuix
+"), respect your privacy and are committed to protecting your personal data. In this privacy notice, we describe how we collect, use, maintain, and disclose information that we obtain through your use of our websites (
+https://www.nuix.com
+,
+https://community.nuix.com
+and other websites that post this privacy notice) and from the use of Nuix portals that make reference to this notice (collectively, the “websites”) or otherwise in conducting business or seeking to conduct business with you or your employer and how we use and disclose that information. For purposes of this privacy notice, the terms “user”, “customer”, “vendor”, “you” and “your” are meant to refer to the individuals about whom we may collect data.
+For US users only: By visiting the websites, you agree that your personal data will be handled as described in this privacy notice. Your use of our websites, and any dispute over privacy, is subject to this privacy notice and our
+Website Terms of Service
+, including its applicable limitations on damages and the resolution of disputes. Our Website Terms of Service are incorporated by reference into this privacy notice.
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below.
+SUMMARY
+IMPORTANT INFORMATION AND WHO WE ARE.
+THE INFORMATION WE COLLECT ABOUT YOU.
+USE OF PERSONAL DATA.
+DISCLOSURE OF PERSONAL DATA.
+COOKIES AND OTHER TRACKING MECHANISMS.
+EU-U.S. AND SWISS-U.S. DATA PRIVACY FRAMEWORK.
+USER-GENERATED CONTENT.
+CHILDREN.
+MARKETING EMAILS.
+ACCESS TO MY PERSONAL INFORMATION.
+SECURITY.
+RETENTION OF YOUR PERSONAL DATA.
+EXTERNAL LINKS.
+DISPUTE RESOLUTION.
+CHANGES TO THIS NOTICE.
+ADDITIONAL GDPR INFORMATION.
+HOW TO CONTACT US
+DATA BREACH NOTIFICATION
+ADDITIONAL CALIFORNIA PRIVACY RIGHTS.
+HOW TO SUBMIT A REQUEST
+DATA RETENTION
+1. IMPORTANT INFORMATION AND WHO WE ARE
+Nuix is made up of different legal entities, so when we mention "Nuix", "we", "us" or "our" in this privacy notice, we are referring to the relevant company in the Nuix company group that is responsible for processing your data.
+If you are located in:
+the EU (except the UK), the Middle East, or Africa, Nuix means Nuix Ireland Limited.
+the UK, Nuix means Nuix UK Technology Ltd.
+Australia, NZ, or Asia the Nuix means Nuix.
+North, Central, or South America, Nuix means Nuix North America Inc.
+Contact details
+The Nuix Legal Department is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise any
+rights that may be afforded to you
+, please contact the Legal Department at
+privacy@nuix.com
+or by using the details set out below:
+In the EEA or Switzerland by writing to us at:
+Nuix Ireland Limited
+Attention: Legal Department
+THE BLACK CHURCH
+ST. MARY'S PLACE
+Dublin 7, Ireland, D07 P4AX
+Phone: +44 203 934 1600
+Email:
+privacy@nuix.com
+In the UK by writing to us at:
+Nuix UK Technology Limited
+Attention: Legal Department
+5th Floor, 20 Midtown
+20 Procter Street | London
+WC1V 6NX | United Kingdom
+Email: privacy@nuix.com
+In the United States, or anywhere else not mentioned here, by writing to us at:
+Nuix North America Inc.
+Attention: Legal Department
+Suite 300, 13755 Sunrise Valley Drive
+Herndon, VA 20171
+Phone: +1 8774706849
+Email: privacy@nuix.com
+In Australia by writing to us at:
+Nuix Limited
+Attention: Legal Department
+Level 29 & 30, 1 Market
+Street
+Sydney, NSW 2000
+Phone: +61 2 8320 9444
+Email: privacy@nuix.com
+In the United States, or anywhere else not mentioned here, by writing to us at:
+Nuix North America Inc.
+Attention: Legal Department
+Suite 320, 12100 Sunset Hills Rd.
+Reston, VA 20171
+Phone: +1 8774706849
+Email: privacy@nuix.com
+Internet address:  Level 29 & 30, 1 Market Street, Sydney, NSW 2000.
+2. THE INFORMATION WE COLLECT ABOUT YOU
+We collect information about you directly from you and from other sources, as well as automatically through your use of our websites. The type of information that we collect from you depends on your interaction with our websites.
+Information We Collect Automatically:
+When you visit our websites and accept cookies, our server automatically collects certain browser or device-generated information, which may in some cases constitute personal data, including but not limited to:
+your domain;
+your IP address;
+your date, time, and duration of your visit;
+your browser type;
+your operating system;
+your page visits;
+information from third parties;
+other information about your computer or device;
+Internet traffic.
+We may combine this information with other information that we have collected about you, including, where applicable, your user name, name, and other personal data.  Please see the section “Cookies and Other Tracking Mechanisms” below for more information.
+Information You Provide
+In order to access or use certain portions of the websites or enjoy the full functionality of the websites, or otherwise in conducting business with us or seeking to conduct business with us, you may be prompted to provide certain personal data to us in the following ways:
+by logging in to our websites;
+by registering for an account with us;
+by filling in forms (for example, a 'Contact us', or ‘Request a Demo’ form) on our website or at a trade show or anywhere else we conduct business;
+by downloading documentation from our website;
+by subscribing to newsletters or other communications;
+by corresponding with us by phone, e-mail or otherwise using our contact details;
+by registering or participating in Nuix online trainings, webcasts, webinars or seminars/conferences;
+by applying for employment with us; or
+by submitting questions or comments to us or requesting any other information from us.
+Typically, the personal data you give us may include name, business affiliation, business address, telephone number, and email address, and any personal details that you choose to provide or that are required to resolve any inquiries or complaints.  We will also collect a username and password, and in some cases, a registration code, if you register for an account with us.  If you apply for a job with us, we will collect your name, email, phone number, location, resume, and other information you choose to provide, such as your gender, ethnicity, or disability status, and we will share that information with service providers who assist us in processing job applications, including LinkedIn.
+Personal data may also be required to enter into a contract with you or to perform a contract with you (such as to provide services at your request), and failure to provide any information may result in our inability to provide requested services or products.
+Information From Other Sources
+We may receive information about you from our service providers, or from our business partners instructed to collect information on our behalf. For example, if you register for one of our online training sessions, we may receive your job title, email address, and the method by which you paid from our service provider who processes registrations for our training sessions.
+We also work with other entities (including, for example, sub-contractors in technical, payment, and delivery services, advertising networks, analytics providers, and search information providers) and may receive information about you from them. These third parties include but are not limited to: Pardot, BrightTalk, DiscoverOrg, FSTech, Google, IncNet, Integrate.com, LinkedIn, Meltwater, SurveyMonkey, TechTarget, True Influence, Unbounce, VLG Marketing. For more information, see the section “Cookies and Other Tracking Mechanisms” below.
+3. USE OF PERSONAL DATA
+The following is an overview of our purposes for collecting, using, and holding your personal data. Additional details on how we process your personal data may be provided to you in a separate notice or contract. All processing and use of your personal data are justified by a “condition” for processing, as more fully described below:
+The processing is necessary to perform a contract with you or take steps to enter into a contract at your request, such as:
+provide you with any services or products you have contracted for;
+fulfill an order; to provide product information you have requested;
+provide you with other documentation or communications that you have requested;
+process and complete transactions involving the website, and more generally transactions involving Nuix’s products and services;
+administer and manage the performance of purchase or sales agreements with our suppliers and customers;
+provide after-sales support; correspond with users to resolve your queries or complaints.
+The processing is in our legitimate interests, which are not overridden by your interests and fundamental rights. Our legitimate interests are to use supplier, vendor, customer and website user data to conduct and develop our business activities with them and with others while limiting the use of their personal data to purposes that support the conduct and development of our business, such as:
+evaluate transactions involving the website, and more generally transactions involving Nuix’s products and services;
+operate, evaluate, maintain, improve and develop the website (including by monitoring and analysing trends, access to, and use of the website for advertising and marketing);
+evaluate, improve and develop our products and services generally;
+customize our website to users’ needs;
+engage you about events, promotions, the website and Nuix’s products and services;
+send you marketing communications, where it is lawful for us to do so;
+assist us in advertising our services on other websites and to assist us in evaluating the success of our advertising campaigns in various platforms;
+share aggregate or de-identified information about users with other entities for marketing, advertising, research or similar purposes;
+evaluate or implement the potential or actual sale of part or all of our company, including our securities or assets, or those of any affiliated company, or as part of a bankruptcy proceeding, in which case personal data held by us about our users may be one of the subject or transferred assets;
+secure, protect and ensure the safety of the website, Nuix confidential and proprietary information, and Nuix employees;
+to manage, prevent, and protect against and investigate fraud, risk exposure, claims, harm, loss and other liabilities, and suspected or actual illegal activities, including but not limited to violation of our contract terms or laws or regulations.
+The processing is necessary for us to comply with a relevant legal obligation, such as:
+to keep accounting records;
+to comply with a judicial proceeding, court order, or other legal processes, such as in response to a court order or a subpoena.
+You have consented to the processing: such as:
+to send you marketing information, where your consent is required by law.
+"Nuix may use artificial intelligence, machine learning, or other automated processing technologies in the course of its business operations, including to improve our products and services, support internal decision-making, or enhance security. Where AI or automated technologies are used to process your personal data, we will ensure that appropriate safeguards are in place, including human oversight where decisions have a significant affect on you. We do not use AI to make solely automated decisions that produce legal or similarly significant affects on individuals without appropriate safeguards and, where required, your consent."
+4. DISCLOSURE OF PERSONAL DATA
+We may share your personal data as follows:
+Affiliates.
+Nuix will share personal data with our affiliated companies for the purposes described above.
+Service Providers.
+We may also appoint service providers (who will operate under our instructions) to assist us in providing information, products, or services to you, in conducting and managing our business, in managing and improving our products, services, or website, or in processing your application for a job with us.
+To Protect Us and Others.
+We will share your personal data if we believe it is reasonably necessary to prevent harm or loss, or if we believe that the disclosure will further an investigation of suspected or actual illegal activities to the extent permitted by applicable law.
+In response to Legal Process.
+We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, a court order, or other legal processes, such as in response to a court order or a subpoena. When compelled to disclose personal data in response to a legal process, Nuix limits the personal data disclosed to what is lawful, necessary and proportionate.
+Business Transfers.
+We also may share your personal data with other entities in connection with the potential or actual sale of part or all of our company, including our securities or assets, or those of any affiliated company, or as part of a bankruptcy proceeding, in which case personal data held by us about our users may be one of the subject or transferred assets.
+Aggregate or De-Identified Information.
+We may share aggregate or de-identified information about users with other entities for marketing, advertising, research, or similar purposes.
+Nuix has committed itself to the Data Privacy framework. As such, We are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the EU-U.S., the UK Extension to the EU-U.S. Data Privacy Framework, or Swiss-U.S. Data Privacy Framework in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+If you are an EU resident and your personal data is transferred outside the EU to other Nuix affiliates or to service providers, we will take steps to ensure that your personal data receives the same level of protection as if it remained within the EU, including participation in the EU-U.S. Data Protection Framework Program, the UK extension to the Data Protection Framework, and the Swiss-U.S. Data Protection Framework and by entering into data transfer agreements using the European Commission approved Standard Contractual Clauses. The list of all the countries to which your personal data is transferred is set forth here: United States, United Kingdom, Australia, and the Philippines. You have a right to obtain details of the mechanism under which your personal data is transferred outside of the EU by contacting
+Privacy@nuix.com
+.
+If you are located in Australia, your personal data may be transferred to Germany, Ireland, Japan, the Philippines, Singapore, the United Kingdom, the United States, and the United Arab Emirates. We take reasonable steps to ensure that the recipient complies with the Australian Privacy Principles or is bound by a substantially similar privacy scheme before disclosing your personal data to a country outside Australia.
+Nuix reserves the right to share any information that you provide that is not deemed personal data and is not otherwise subject to contractual or confidentiality restrictions.
+5. COOKIES AND OTHER TRACKING MECHANISMS
+Below is a summary of our use of cookies and other tracking mechanisms. For additional details, please read our Cookie Policy, available
+here
+.
+We and our service providers use cookies and other tracking mechanisms to track information about your use of our websites. We may combine this information with other personal data that we collect from you (and our service providers may do so on our behalf).
+A cookie is a small file of letters and numbers that we put on your computer for certain purposes. These cookies allow us to distinguish you from other users of our websites, which helps us to provide you with a good experience when you browse our websites and also allows us to improve our websites. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+Do-Not-Track
+Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed above (e.g., by disabling cookies).
+For California residents: we do recognize and honor Global Privacy Control (GPC) opt-out preference signals as a valid request to opt out of the sale or sharing of your personal information, as required by the California Privacy Rights Act (CPRA). If you use a browser or browser extension that sends a GPC signal, we will treat that signal as a request to opt out of sale/sharing for the device and browser sending the signal.
+Advertising and Analytics
+We use automated devices and applications, such as Google Analytics, to evaluate the usage of our websites. In addition, we and our service providers may use the information that we collect about you to help us and our service providers identify other devices that you use (e.g., a mobile phone, tablet, other computer) and to serve targeted advertising on your devices and send you emails. We may work with advertisers, including network advertisers, sponsors, and/or traffic measurement services (“
+Ad Networks
+”) who use tracking mechanisms to collect information about you in order to provide you with more relevant ads and content on our websites and other websites, evaluate the success of such ads and content, and manage our advertising on unaffiliated websites, mobile apps, and online services.
+6. EU-U.S. AND SWISS-U.S. and UK-U.S. DATA PRIVACY FRAMEWORK
+Nuix North America Inc. and Nuix USG Inc. (collectively, “
+Nuix U.S.
+”) complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.
+Nuix U.S. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.
+Nuix U.S. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.
+If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.
+To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit
+https://www.dataprivacyframework.gov/
+.
+As described in the “Disclosure of Personal Data” section above, we transfer personal data from the European Union and the United Kingdom and Switzerland to our affiliates and other entities outside those countries. We remain responsible for the personal data we receive and transfer onward under Data Privacy Framework Program.
+In compliance with the Data Privacy Framework Principles, Nuix U.S. commits to resolve complaints about your privacy and our collection or use of your personal data. Data subjects with inquiries or complaints regarding this privacy notice should first contact Nuix U.S. at:
+Privacy@nuix.com
+.
+Under certain conditions, more fully described on the Data Privacy Framework website
+here
+, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Nuix U.S. will renew its Data Privacy Framework certifications annually, unless it subsequently determines that it no longer needs such certification or if it employs a different adequacy mechanism.
+Prior to the re-certification, Nuix U.S. will conduct an in-house verification to ensure that its attestations and assertions with regard to its treatment of personal data are accurate and that the company has appropriately implemented these practices.
+7. USER-GENERATED CONTENT
+We invite you to post content on certain pages of our websites that require a log-in, including your comments, and any other information that you would like to be available. If you post content to our websites, all of the information that you post will be available to registered users of those pages on our websites. If you post your own content on our websites, your posting may become public and we cannot prevent that information from being used in a manner that may violate this privacy notice, the law, or your personal privacy.
+8. CHILDREN
+Our websites are not for use by children under the age of 18 years and Nuix does not knowingly collect, store, share, or use the personal data of children under 18 years. If you are under the age of 18 years, please do not provide any personal data, even if prompted by the websites to do so. If you are under the age of 18 years and you have provided personal data, please ask your parent(s) or guardian(s) to notify Nuix and Nuix will delete all such personal data.
+9. MARKETING EMAILS
+Where lawful to do so, and subject to your consent where required, we may communicate with you by email to tell you about our products and services. If you wish to opt out of receiving marketing communications, please use the ‘unsubscribe’ link provided in our emails, or otherwise contact us directly and we will stop sending you marketing communications. If you opt out of marketing emails from us, we may still send you e-mails about your account or any services you have requested or received from us.
+10. ACCESS TO AND CORRECTION OF MY PERSONAL INFORMATION
+You may request access to and correction of your personal data, limitations on processing or disclosures or your personal data, and erasure of your personal information that we hold about you by contacting us using the contact details set out in
+Section 1
+of this notice. You may modify personal data that you have submitted to certain pages of our websites that require authentication by logging into your account and updating your information. Please note that copies of information that you have updated, modified, or deleted may remain viewable in cached and archived pages of the websites for a period of time.
+11. SECURITY
+Nuix aims to safeguard and protect your personal data from unauthorized access, improper use or disclosure, unauthorized modification or unlawful destruction, or accidental loss, and Nuix utilizes and maintains certain reasonable processes, systems, and technologies to do so. However, you acknowledge that no transmission over the Internet is completely secure or error-free and that these processes, systems, and technologies utilized and maintained by Nuix are subject to compromise. Accordingly, we cannot be held responsible for unauthorized or unintended access that is beyond our control.
+For Australian users: In the event of a data breach that is likely to result in serious harm to any individuals whose personal information is involved, we will comply with the Notifiable Data Breaches (NDB) scheme under the Privacy Act 1988 (Cth). We will notify affected individuals and the Office of the Australian Information Commissioner (OAIC) as required by law.
+12. RETENTION OF YOUR PERSONAL DATA
+We apply a general rule of keeping personal data only for as long as required to fulfill the purposes for which it was collected. In general, we retain your personal data for a period of time corresponding to a statute of limitation, for example, to maintain an accurate record of your dealings with us.
+However, in some circumstances, we may retain personal data for other periods of time, for instance where we are required to do so in accordance with legal, tax, and accounting requirements, or if required to do so by a legal process, legal authority, or other governmental entity having authority to make the request, for so long as required.
+13. EXTERNAL LINKS
+The website may contain links to other entities’ sites. Since Nuix does not control nor is responsible for the privacy practices of those websites, we encourage you to review the privacy policies of those sites.
+14. DISPUTE RESOLUTION
+In compliance with the Data Privacy Framework Principles and applicable privacy laws, Nuix commits to promptly resolve complaints about privacy and our collection or use of personal data. Individuals with questions, concerns, or complaints about the use of their personal data should contact us at:
+Privacy@nuix.com
+or using the contact details set out in Section 1 of this notice and identify the company or other organization with whom they are affiliated or for whom their data was collected, if the collection was for a Nuix customer. We will respond to your concern or complaint within 30 days or the time prescribed by applicable law.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at
+https://feedback-form.truste.com/watchdog/request
+.
+In Australia, you may contact the Office of the Australian Information Commissioner at
+www.oaic.gov.au
+for further information if you are not satisfied with the way we have handled a privacy complaint.
+15. CHANGES TO THIS NOTICE
+Any changes or updates we may make to this notice will be posted on this page. We will endeavor to notify you in advance of any changes to this notice that are material by highlighting the changes on the websites. For other changes, please check back frequently to see any updates or changes to this notice.
+16. ADDITIONAL GDPR INFORMATION
+Controller
+For individuals located in the EEA or Switzerland, Nuix Ireland Limited is the data controller, and for individuals located in the UK, Nuix UK Technology Ltd. is the data controller, in each case as that term is defined under the GDPR.
+The following information describes how we collect and use data that is subject to GDPR, in addition to the information in the remainder of this privacy notice.
+Your Rights.
+Under GDPR, you may have the following rights, subject to conditions set forth in applicable law:
+Request access
+to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+Request correction
+of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+Request the erasure
+of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully, or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons that will be notified to you, if applicable, at the time of your request.
+Object to processing
+of your personal data where we are relying on our legitimate interests (or those of a third party) to justify our processing, and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+Request restriction of processing
+of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+Request the transfer
+of your personal data (“data portability”) to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+Withdraw consent at any time
+where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+You also have the right to lodge a complaint
+with the data protection supervisory authority of your habitual residence, place of work or place of alleged infringement, if you consider that the processing of your personal data infringes applicable law.
+17. HOW TO CONTACT US
+To exercise any of your rights, you can contact us at
+Privacy@nuix.com
+. You may also contact EEA and Swiss representative Nuix Ireland Limited and our UK representative Nuix UK Technology Ltd. at
+Privacy@nuix.com
+.
+18. DATA BREACH NOTIFICATION
+In the event of a data breach that compromises the security, confidentiality, or integrity of your personal data, Nuix is committed to responding promptly and transparently in accordance with applicable data protection laws and regulations worldwide. We maintain appropriate technical and organizational measures to protect data from unauthorized access, disclosure, alteration, or destruction.
+Should a breach occur that poses a risk to your rights and freedoms, we will notify affected individuals and relevant supervisory authorities within the timeframes required by applicable law, including GDPR requirements where applicable. Our notification will include the nature of the breach, the categories and approximate number of individuals and records affected, the likely consequences, and the measures we have taken or propose to take to address the breach and mitigate potential adverse effects. We will also provide contact information for our Legal Department (privacy@nuix.com) where you can obtain further information and assistance.
+We are committed to investigating all security incidents thoroughly, implementing corrective actions to prevent recurrence, and maintaining detailed records of all breaches and our response measures to demonstrate accountability and compliance with our obligations under applicable privacy frameworks, including the EU-U.S. Data Privacy Framework, UK Extension, and Swiss-U.S. Data Privacy Framework.
+For Australian users: in the event of a data breach that is likely to result in serious harm to any individuals whose personal information is involved, we will comply with the Notifiable Data Breaches (NDB) scheme under the Privacy Act 1988 (Cth). We will notify affected individuals and the Office of the Australian Information Commissioner (OAIC) as required by law.
+19. ADDITIONAL CALIFORNIA PRIVACY RIGHTS
+This section applies solely to residents of the State of California and supplements the information contained in this privacy notice. It is provided pursuant to the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (collectively, “CCPA/CPRA”).
+Categories of Personal Information Collected
+In the preceding 12 months, we have collected the following categories of personal information from California residents: identifiers (such as name, email address, and IP address); commercial information; internet or other electronic network activity information; geolocation data; professional or employment-related information; and inferences drawn from the foregoing. For details, see Section 2 above.
+Purposes for Collection
+We collect and use your personal information for the business and commercial purposes described in Section 3 of this privacy notice.
+Disclosure and Sale/Sharing of Personal Information
+We may disclose personal information to service providers, contractors, and other third parties as described in Section 4. We may “share” personal information (as defined under CPRA) with advertising partners for cross-context behavioral advertising purposes. We do not “sell” personal information for monetary consideration. You have the right to opt out of the sharing of your personal information for cross-context behavioral advertising by submitting a request to
+privacy@nuix.com
+or by activating a Global Privacy Control (GPC) signal in your browser (see Section 5).
+Your California Privacy Rights
+Subject to certain exceptions, California residents have the following rights:
+Right to Know.
+You have the right to request that we disclose the categories and specific pieces of personal information we have collected about you, the categories of sources from which we collect personal information, our business or commercial purposes for collecting, selling, or sharing personal information, and the categories of third parties to whom we disclose personal information.
+Right to Delete.
+You have the right to request that we delete personal information we have collected from you, subject to certain exceptions.
+Right to Correct.
+You have the right to request that we correct inaccurate personal information we maintain about you.
+Right to Opt Out of Sale/Sharing.
+You have the right to opt out of the sale or sharing of your personal information. To exercise this right, contact us at
+privacy@nuix.com
+or activate a GPC signal in your browser.
+Right to Limit Use of Sensitive Personal Information.
+To the extent we collect sensitive personal information (as defined under CPRA), you have the right to direct us to limit its use and disclosure to purposes specified by the CPRA.
+Right to Non-Discrimination.
+We will not discriminate against you for exercising any of your CCPA/CPRA rights.
+20. How to Submit a Request
+To exercise your rights, please contact us at
+privacy@nuix.com
+or write to us at Nuix North America Inc., Suite 320, 12100 Sunset Hills Rd., Reston, VA 20171. We will verify your identity before fulfilling your request. You may designate an authorized agent to make a request on your behalf.
+We will respond to verifiable consumer requests within 45 days of receipt. If we require additional time, we will inform you of the reason and extension period in writing. We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive or manifestly unfounded.
+21. Data Retention
+We retain personal information for the periods described in Section 12 of this privacy notice.
+HOW TO CONTACT US
+To exercise any of your rights (other than the right to lodge a complaint), you can contact us at
+Privacy@nuix.com
+. You may also contact EEA representative Nuix Ireland Limited and our UK representative Nuix UK Technology Ltd. at
+Privacy@nuix.com
+.
+Request A Demo

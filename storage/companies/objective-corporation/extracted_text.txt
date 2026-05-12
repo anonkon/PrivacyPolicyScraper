@@ -1,0 +1,497 @@
+Privacy Policy | Objective Corporation
+Objective Privacy Policy
+Last updated: 10 September 2025
+Objective Corporation Limited and its
+Affiliates
+(collectively, “
+Objective
+”, “
+we
+”, “
+us
+” or “
+our
+”) respect your privacy and are committed to protecting your Personal Information.
+This Privacy Policy sets out how Objective collects and uses your Personal Information in making available the website at
+www.objective.com
+(plus any related websites), our various software and cloud service solutions, and associated services that we supply to our customers.
+We may update this Privacy Policy from time to time to address changes in our business operations and to comply with new laws and regulations. The most current version is posted on our Website and will apply from the date stated in the Privacy Policy. You may request a PDF copy of this Privacy Policy by contacting us at our contact details in
+Section 17
+below.
+We encourage you to periodically check our Website for any updates to this Privacy Policy.  Your continued use of our Website and, if applicable, any of our Services, is your consent to this Privacy Policy and to our collection and processing of your Personal Information in accordance with this Privacy Policy.
+In this Privacy Policy, we cover the following topics:
+What is the purpose of this Privacy Policy?
+Glossary of terms used in this Privacy Policy
+What Personal Information does Objective collect and for what purpose?
+How does Objective collect Personal Information?
+How does Objective use your Personal Information?
+Unsubscribing from Marketing Communications
+How does Objective store and protect the Personal Information it collects?
+Who do Objective provide your Personal Information to / who may have access to it?
+Does Objective disclose Personal Information outside of your country of origin?
+How long does Objective keep Personal Information?
+What are your rights relating to your Personal Information?
+Tracking
+What happens if Objective can’t collect your Personal Information?
+Use of your Personal Information by a customer of Objective
+Our policy towards children
+California Privacy Rights (for California Residents, only)
+Complaints, Questions and Contact Details
+1. What is the purpose of this Privacy Policy?
+We take our privacy obligations seriously. When you use our Website or use our Services we may collect, use, share and process Personal Information about you, and we may also collect your Personal Information offline.
+This Privacy Policy is intended to ensure that we are open and transparent about how we collect, use and manage your Personal Information.
+It will give you clarity about who we are, what Personal Information we collect, why we collect it, how we use it, and your rights in connection with Personal Information that we hold about you.
+This Privacy Policy is designed to meet our obligations under the privacy laws of Australia (where our Head Office is located), New Zealand, the United Kingdom, Singapore and the United States of America; which is where our offices are located.
+It is also designed to meet our transparency obligations under the European Union’s General Data Protection Regulation (“
+EU-GDPR
+”), the United Kingdom’s General Data Protection Regulation (“
+UK-GDPR
+”), and our disclosure obligations as a “business” under the California Consumer Privacy Act (“
+CCPA
+”). The EU-GDPR applies when we control or process personal data of EU individuals. The UK-GDPR applies when we control or process personal data of UK individuals. However, this Privacy Policy is not designed to address our status as a data processor for some of our customers under EU-GDPR or UK-GDPR (or equivalent laws) or as a service provider under the CCPA. We set out our obligations for any such data processing in a separate document called a Data Processing Addendum, which is available on the ‘
+Legal
+’ page of our Website and upon request.
+You may contact us (using our contact details in
+Section 17
+below) if you wish to know which Affiliate is responsible
+as the data controller or processor of your Personal Information for EU-GDPR or UK-GDPR purposes
+.
+2. Glossary of terms used in this Privacy Policy
+In this Privacy Policy, the following terms have the meanings given to them below:
+"
+Affiliates
+" means any affiliate of Objective Corporation Limited, wherever located in the world. A list of these
+Affiliates
+can be found at our ‘Legal’ page on our Website
+, which may change from time to time;
+“
+Objective
+”, “
+we
+”, “
+us
+” or “
+our
+”
+means:
+Objective Corporation Limited; and/or
+any or all of its
+Affiliates
+,
+as the context requires;
+“
+Objective Corporation Limited
+” means the Australian company of that name, with ABN 16 050 539 350 and its registered office at Level 30, 177 Pacific Hwy, North Sydney, NSW, 2060, Australia;
+“Personal Information”
+means information or data about identified or reasonably identifiable natural persons, or, if applicable, households. Wholly anonymous information is not covered. However, pseudonymous or indirect information may be covered if it could reasonably identify a natural person, or if applicable, household, when combined with other reasonably accessible information;
+“
+Services
+” means our various software-as-a-service solutions, on-premise software solutions, and associated professional services, that we supply to our customers and offer to prospective customers;
+“
+User
+” means any person who uses our Website and/or our Services;
+“Website”
+means, collectively, our website at
+www.objective.com
+and any of our other ‘Objective’ websites with different country domain names (e.g.
+www.objective.co.uk
+); and
+“
+you
+”
+or “
+your
+”
+means the person whose Personal Information may be collected and processed by us in accordance with this Privacy Policy.
+3. What Personal Information does Objective collect and for what purpose?
+All Personal Information that we collect from you (or from third-parties) falls into one of the following categories:
+Category of Personal Information
+What this means
+Contact Information
+First name, last name, personal phone number, work phone number, personal email, work email, work mail address, post code/zip code.
+Identity Information
+First name, last name, employer, job, gender, marital status, role type (sales contact, tech contact, etc.).
+Marketing and Communications Information
+Your ‘opt in’ or ‘opt out’ preference, and other accessibility preferences, for marketing communications, and your preferred language of communication.
+Technical Information
+IP address, login data, password, browser, operating system, and plug ins used to access our Website and/or used to access our Services.
+Usage Information
+Your activity on our Websites (e.g. did you fill out a form, did you download a digital asset, email responses, did you subscribe/unsubscribe, etc.).
+We have a number of purposes for collecting Personal Information from you, but all relate to the proper operation of our business.
+More specifically, we have set out below our purposes for collecting your Personal Information, to comply with the requirements of GDPR and equivalent laws regarding the need to expressly describe our purposes for the collection of your Personal Information:
+Purpose
+Category(ies) of Personal Information involved
+Reason for us doing this
+‘Legal Basis’ for processing your Personal Information
+(see descriptions underneath this table)
+Account Creation
+Contact Information
+Identity Information
+Technical Information
+We need your details to register you as a new customer, partner or service provider
+Contractual Necessity
+Respond to requests
+Contact Information
+Identity Information
+Technical Information
+To respond to your requests, which may include:
+Technical support requests
+Sales-related requests
+Requests for a demo or trial of our Services
+Contractual Necessity and we have a Legitimate Interest to meet our customers' expectations and grow our business
+Assess your employment application
+Contact Information
+Identity Information
+We need your details so we can assess your employment application to join Objective
+We have a Legitimate Interest in assessing employment applications
+Marketing our Services
+Contact Information
+Identity Information
+Usage Information
+Marketing and Communications Information
+To keep you informed of existing Services, new developments in our Services and new offerings
+We have a Legitimate Interest in marketing to grow our business
+Marketing analysis
+Usage Information
+Technical Information
+Marketing and Communications Information
+To understand your use of our Website and Services
+We have a Legitimate Interest in developing our Services and sales and marketing approach, based on what activity visitors to our Website are engaged in and what information they are seeking as they navigate our Website
+Services related communications
+Identity Information
+Contact Information
+Usage Information
+Technical Information
+To supply maintenance for our on-premise software solutions, Technical Support for our Services, communicate changes to our Services, and similar purposes
+Contractual Necessity and we have a Legitimate Interest in ensuring we perform these items to meet customers' expectations for our Services
+Licensing Compliance
+Contact Information
+Identity Information
+Technical Information
+To ensure the people that access and use our Services are appropriately entitled to do so under contract and are not misusing or infringing any of our Services
+This information will also be used to manage licence entitlements and issue licence keys
+We have a Legitimate Interest in ensuring our rights are protected and customers adhere to their contracts
+Website communications
+Identity Information
+Contact Information
+Usage Information
+Marketing and Communications Information
+To provide information and updates about our Website and Services
+We have a Legitimate Interest in marketing to grow our business
+"
+Contractual Necessity
+” applies where your Personal Information is necessary to collect in connection with our need to perform a contract we are about to enter into, or have entered into, with you or your employer.
+"
+Legitimate Interest
+” applies where your Personal Information is necessary to collect in connection with our legitimate interest and your interest, and fundamental rights do not override those interests.
+In addition to the purposes set out in the table above, we are obliged to comply with applicable law as we conduct our business and operations, so the purpose of the collection of your Personal Information may also include ‘
+compliance with law
+’.
+4. How does Objective collect Personal Information?
+Above you will have seen the different types of Personal Information that we collect, and also the table setting out the reasons for our collection of Personal Information. This section sets out more detail for you.
+We collect information relating to you and your use of our Website and our Services from a variety of sources, but always do so fairly and only to the extent permitted by law. Some of this information is collected directly from you, some from your use of our Services and some from third-parties. We collect Personal Information from you unless it is unreasonable or impractical to do so.
+Personal Information we collect directly from you is the information that you voluntarily supply to us, which may include:
+your name and contact details when you contact us, subscribe to our Services or apply for a job;
+your account details including passwords, billing details such as credit card information, and personal account settings such as preferences or profiles (for example, preferred language or time zone);
+survey data (your answers to questions); and
+information about the device you are using to access the Services and any other data that you directly submit to us, for example, by entering competitions or providing reviews.
+We only collect information that is reasonably necessary for our functions and activities, including supplying you with the Services.
+If you apply for a position with us, we may also collect your employment-related information, employment history, education details, qualifications and other publicly available information. We will generally collect the information from you but may also collect information from employment agencies, your referees, and your former employers and educational institutions.
+Information we collect from other sources includes:
+Data from
+third-parties,
+but only if those third-parties are lawfully permitted to share your information with us.
+Any
+external source
+, if you came to our Website via a link on another website or an email. We record information about the source that referred you to us.
+Personal Information from
+social media sites
+, for example, if you send us a tweet on Twitter.
+Usage data
+about what you do when you use our Website or access our Services. This may include which web pages you visit, what you click on and when. Our web servers also collect data from the device you use to access our Website or our Services, such as your IP address and possibly your location. The servers keep log files that record data each time a device accesses our servers.
+We use various technologies to obtain usage data, including:
+Cookies
+and similar commonly-used information gathering tools which are small files placed on the User’s hard-drive during a visit to a website to allow fast, easy and meaningful navigation around the site. These technologies may be used by us or our service providers to analyse and track how Users use our Websites. Standing alone, cookies do not identify you, they only recognise your browser. When you give us information, we can also send cookies to remember Users’ settings and preferences.  Objective uses both session-only and permanent cookies, often depending on whether the use is casual or a more complex interaction (such as by a subscriber to our Services).
+Local Storage, such as
+HTML5
+, to store user preferences. Third-parties who provide advertising on our Websites can personalise advertising based on your web browsing activity by using Flash cookies and HTML5 to collect and store information. We do not disclose your identity to advertisers, but the Flash cookies remember which browsers have visited the Websites.
+Web beacons
+, which are often used in marketing emails to notify Objective when you click on a link in the email that directs you to one of our Websites.
+Social media features
+, such as the Facebook “Like” button, which may collect your IP address, detect which page you are visiting on our Website, and set a cookie.
+You should be aware that your use of social media via our Websites or via links to other websites is governed by the privacy policies of the third-parties who operate those websites and not this Privacy Policy. We therefore recommend that you read the privacy policy of any website you visit.   Objective does not review, approve or make any representations or warranties in relation to the privacy practices of any third-party website and we are not responsible for the privacy policies or the content of any third-party website.
+Disabling cookies
+. You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings”, “help”, “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings. If you do not accept our cookies, you may experience some inconvenience in your use of our Website. For example, we may not be able to recognise your computer or mobile device and you may need to log in every time you visit our Website or Services.
+We may provide publicly accessible bulletin boards, blogs or community forums on our Websites. Any information that you choose to provide in these forums may be read, collected or used by others who visit these forums, including to send you unsolicited messages. We have no control over the collection, use and disclosure by third-parties of Personal Information which you may choose to submit in these forums.
+If you provide a testimonial to be displayed on our Website, it may include information such as name and title. We will always obtain your consent prior to posting any testimonial.
+If you provide us with unsolicited Personal Information which is not lawful for us to collect, we will, as soon as practicable, destroy that information.
+5. How does Objective use your Personal Information?
+Above we have outlined our purposes for collecting your Personal Information and our use of it. This section provides further detail.
+We use your Personal Information for a variety of purposes, depending on the nature of the information, but always only if reasonably necessary for our business, including providing you with the Services. We will not use or disclose your Personal Information for a secondary purpose unless we are allowed to do so by law, you have consented to that use or disclosure, or we are legally compelled to disclose it.
+We generally use your Personal Information to:
+Allow you to
+create an account
+and log in, in order to obtain access to and use the Services and customer support.
+Contact you
+about your account via email, mail or telephone to tell you about certain things, such as changes to our Services or policies.
+Send you
+news and information
+(including direct marketing)
+about our Services that you either request from us, or we believe may be of interest to you and you consent to us sending you these communications. See Section 6 below for how to stop receiving these communications.
+Internally analyse
+user behaviour
+so we can improve our Services. Some of these activities include monitoring, maintaining and improving our Services and features, personalising your experience, creating new services or features, preventing undesirable or potentially illegal activities, and investigating any complaints about or by you.
+Evaluate
+your employment application if you have applied for a position with us.
+6. Unsubscribing from Marketing Communications.
+You may choose to stop receiving our newsletters, direct marketing or other promotional emails at any time, by either:
+following the
+unsubscribe
+or
+opt out
+instructions included in those newsletters/emails; or
+contacting us at our contact details in
+Section 17
+below.
+Where you opt-out of receiving these messages, this opt-out will not apply to any Service-related communications (and any processing of Personal Information about you involved in sending such communications). Service-related communications are typically connected to us performing and/or managing the applicable customer contract for the Service.
+7. How does Objective store and protect the Personal Information it collects?
+It is important to us to keep your Personal Information private and confidential. We take all reasonable steps to ensure that your Personal Information is handled securely and in accordance with this Privacy Policy and our information security policies and procedures.
+We hold the Personal Information that we collect on systems that are owned or controlled by us in controlled environments with approved user access, which are not available to the public. These systems are located primarily in Australia, but our
+Affiliates
+in New Zealand, the United Kingdom, Singapore and the United States also hold Personal Information.
+We maintain physical, electronic and administrative safeguards that are designed to protect your Personal Information from loss, misuse, unauthorised access, disclosure or alteration. However, due to the inherent risks of the internet and malicious third-parties, and despite our efforts to protect your Personal Information, we cannot guarantee the security of any Personal Information transmitted over the internet or stored in any of our or our service providers’ systems.
+You also play an important role in protecting your Personal Information, and you can assist our security measures, and the security measures of our service providers, by using a complex and unique password for logging into each of our Services, and by keeping that password secret and secure. If you suspect there has been any unauthorised access or misuse of your Personal Information, or your password or login details, please contact us immediately. Our contact details are in
+Section 17
+below.
+We also utilise third-party service providers that may store and/or process some of your Personal Information – please see Sections
+8
+and
+9
+below.
+8. Who do Objective provide your Personal Information to / who may have access to it?
+We will only share your Personal Information with third-parties in the ways that are described in this Privacy Policy or with your consent.
+We may provide your Personal Information to:
+Our
+Affiliates
+, where required due to our
+Affiliates
+helping us with the supply of the Services, customer relationship management, technical support for the Services, and administrative support (e.g. centralised Finance, IT, Operations, HR and Legal functions).
+Service providers
+that provide services to us in connection with our business operations and/or the supply of the Services (including hosting providers, marketing tool providers, and financial, accounting and sales management service providers). Service providers are only authorised to use your Personal Information as necessary to provide their services to us.
+Sponsors and promoters
+when you enter any competition or surveys that we conduct or promote.
+Regulators, law enforcement agencies, information security agencies or other organisations
+that may need to be notified of or protected against fraudulent activities, or if
+you engage in or threaten any unlawful activity, or if we undertake a police screening check. In those circumstances, we may reasonably conclude that it is necessary to disclose your Personal Information to government agencies, your internet service provider, your employer or any other organisation. We may also be compelled to disclose your Personal Information by a court order.
+The Australian Stock Exchange
+due to
+Objective Corporation Limited’s status as a listed company or during divestment activities
+in the event of a sale of all or a portion of Objective’s business or assets.
+Your
+referees,
+former employers, educational institutions
+and
+credit organisations
+if you have applied for a position with us.
+9. Does Objective disclose Personal Information outside of your country of origin?
+Our servers that hold your Personal Information are primarily based in Australia. However, some of our
+Affiliates
+/ offices are located outside of Australia – in particular, in New Zealand, the United Kingdom, Singapore and the United States of America. There may be times when your Personal Information is stored, transferred, disclosed or processed by our
+Affiliates
+in those countries, for the purposes described in the ‘Our
+Affiliates
+’ heading in Section 8 above.
+As noted in Section 8 (under the ‘Service providers’ heading), we use service providers to assist us with our business operations, and such service providers may be based outside of your country of origin. We use service providers that are located in Australia, New Zealand, the United Kingdom, Singapore and the United States of America (
+and they may have operations outside of those countries
+), and we may disclose your Personal Information to those service providers in connection with the services they provide us.
+We endeavour to ensure that all overseas recipients of your Personal Information, whether
+Affiliates
+or service providers, store and process your Personal Information under appropriate safeguards and information security controls. We always use reputable service providers, and we enter into contracts with such service providers that include appropriate privacy protection and information security obligations.
+This Privacy Policy applies regardless of where your Personal Information may be sent, stored or processed.
+Australia is a member of the Asia-Pacific Economic Cooperation (
+APEC
+) Data Privacy Sub-Group, which in 2004 developed the APEC Privacy Framework. Under this Privacy Framework, all member APEC states agreed to adhere to basic principles of data privacy protection when personal data is transferred between member states. New Zealand, the United States of America and Singapore are also APEC members and accordingly are bound by the APEC Privacy Framework. We adhere to the information privacy principles set out in the APEC Privacy Framework.
+Any Personal Information stored or processed by our
+Affiliates
+in the United Kingdom is subject to the UK’s
+Data Protection Act
+2018
+and the UK-specific data protection scheme that operates in the UK following Brexit
+.
+10. How long does Objective keep Personal Information?
+The period for which we keep Personal Information varies according to the nature and use of the Personal Information. In some cases, there are legal requirements to keep Personal Information for a minimum period (for example, if it forms part of a Commonwealth record, or it must be retained due to a court or tribunal order, or where we are under a contractual obligation to retain it). If there is no such legal requirement, we will only keep the Personal Information for so long as it is necessary for the purposes for which it was collected, or as expressly consented. If we no longer need your Personal Information, or we may no longer store and/or process your Personal Information due to your request as described in
+Section 11
+below, we will destroy or de-identify it.
+If you apply for a position with us, and if your employment application is not successful in the first instance, we may retain your Personal Information for a limited period so that we can consider you for other positions that may become available. However, if you do not wish us to do this, please notify us using our contact details in
+Section 17
+below, and we will comply with such notice and delete your Personal Information.
+11. What are your rights relating to your Personal Information?
+Access Rights
+You can ask us to give you access to a copy of the Personal Information we or our service providers hold about you.
+There may be instances where we cannot grant you access to the Personal Information we hold.  For example, we may need to refuse access if it would interfere with the privacy of others or if it would result in a breach of confidentiality. If this happens, we will notify you in writing; otherwise we will comply with your request.
+Correction / Update Rights
+You can ask us to correct or update any incomplete or inaccurate Personal Information we or our service providers hold about you, and we will comply with your request.
+We make all reasonable efforts to ensure that your Personal Information is accurate, up to date and complete. You can update your Personal Information at any time via the account settings page or through your profile.
+Objection to Processing / Suspension of Processing Rights
+You can object to us processing your Personal Information, including for direct marketing, where we are relying on our Legitimate Interest as a legal basis for such processing and you object to that legal basis.
+You can ask us to suspend processing your Personal Information while you determine the reason for the processing or the accuracy of your Personal Information.
+You may choose to change access to, or limit the use or disclosure of, your Personal Information by contacting us (at the contact details in
+Section 17
+below). However, please be aware that by limiting the use of your Personal Information by us, or its disclosure to third-parties, you may also limit our ability to provide you with our Services.
+We will address your request(s) under this section promptly following receipt of your notice.
+Withdrawal of Consent, Erasure, and Transfer of Personal Information Rights
+You can withdraw your consent where we have processed your Personal Information after obtaining your consent.
+After withdrawing your consent you can ask us to transfer or send a copy of your Personal Information to you or to a third-party of your choice.
+You can ask us to erase the Personal Information we hold about you where there is no lawful basis for us to continue to process it or where you have objected to us processing it.
+We will address your request(s) under this section promptly following receipt of your notice.
+How to exercise any of these rights
+If you want to exercise any of your above rights, please contact us at our contact details in
+Section 17
+below.
+Charges for providing your Personal Information to you
+Usually, we will not charge you for providing a copy of your Personal Information to you. However, in some circumstances some laws do allow a fee to be charged to cover our administrative and other reasonable costs in providing your Personal Information to you. We will notify you if this applies.
+We will not charge you for making any request(s), and we will not charge you for making any corrections or updates to your Personal Information.
+12. Tracking
+While we will not be able to provide you with a personalised experience if we cannot recognise you, we want you to be aware that various applications are available and other steps can be taken to limit tracking.
+If it is lawful and practicable, you may choose to not identify yourself when contacting us, or to use a pseudonym. In some cases, however, if you do not provide us with this information, we may not be able to provide you with our Services or respond adequately to you. Our Website can be accessed anonymously. Many companies offer applications that help you to visit websites anonymously.
+Various browsers, including Chrome, Edge, Firefox and Safari, offer a “do not track” (‘
+DNT
+’) option that relies on a technology known as a DNT header which sends a signal to websites you visit about your DNT preferences, but you should be aware that there is no common industry standard for DNT or any consistent standard of interpreting user intent. Accordingly, DNT preferences may not always be effective.
+Your web browser may be set to accept cookies automatically but can be changed to decline them. Please note that if you decline to accept cookies, this may mean that you may not be able to take full advantage of our Services. Your browser may also offer the ability to disable HTML5, and cookies can be managed using various tools available on the internet. We make no representations or warranties in relation to these tools.
+Further information about opting out of third-party tracking can be found on numerous websites, including:
+https://www.youronlinechoices.com.au/opt-out/
+.
+13. What happens if Objective can’t collect your Personal Information?
+If you do not provide us with the Personal Information described above, some or all of the following may happen:
+we may not be able to provide Services to you, either to the same standard or at all;
+we may not be able to provide you with information about our Services that you may want, including information about special promotions;
+we may be unable to tailor the content of our Websites to your preferences and your experience of our Websites may not be as enjoyable or useful; or
+if you are applying for a position with us, we may be unable to consider your employment application.
+14. Use of your Personal Information by a customer of Objective
+Objective holds information (including Personal Information) on behalf of some of its customers (
+Customer Data
+). The scope and nature of Customer Data is determined solely by our customer and we do not ordinarily use that Personal Information for our own purposes. The use of Customer Data is governed by the contract between us and our customer.
+Although Objective requires its customers to comply with applicable local privacy laws (including the Australian
+Privacy Act 1988
+(Cth) if the customer is located in Australia), it does not review, monitor or have any control over Customer Data or the way in which our customer uses the Customer Data. As such, we bear no responsibility in respect of any (Personal Information which may form part of Customer Data, except as provided by law or as set out in the contract between us and our customer. If you have any concerns about the way in which an Objective customer is handling your Personal Information, you should contact that customer directly.
+15. Our policy towards children
+Our Websites and Services are designed for adult Users, and we do not sell our Services to children. We do not knowingly collect Personal Information about children or from children. If you become aware that an individual under the age of 16 has provided us with Personal Information, please contact us using our contact details in
+Section 17
+below. If we become aware that a child under 16 has provided us with Personal Information, we will promptly take steps to delete such information.
+16. California Privacy Rights (for California Residents, only)
+This Section 16 applies to you solely if you are a natural person (
+as opposed to a corporation or other business entity
+) that is a resident of the State of California, USA.
+California’s ‘Shine the Light’ law (embodied in
+California Civil Code Section 1798.83
+) permits a user of our Website(s) and/or Services to request certain information regarding our disclosure of your Personal Information to third-parties for their direct marketing purposes. If you wish to make such a request, please contact us using our contact details in
+Section 17
+below.
+In addition, under the
+California Consumer Privacy Act of 2018
+(“
+CCPA
+”), you have the following rights:
+Requests To Know Personal Information (
+Right to Know
+)
+You have the right to request that we disclose to you what Personal Information we have collected, used, shared, or sold about you, and why we collected, used, shared, or sold that Personal Information. Specifically, you may request that we disclose:
+The categories of Personal Information collected;
+Specific pieces of Personal Information collected;
+The categories of sources from which we collected Personal Information;
+The purposes for which we used the Personal Information;
+The categories of third-parties with whom we shared the Personal Information; and
+The categories of Personal Information that we have sold or disclosed to third-parties.
+We must, and will, provide you this information for the twelve (12) month period preceding your request, and we must, and will, provide this information to you free of charge.
+Please also see Sections
+3
+and
+5
+of this Privacy Policy for a list of categories of Personal Information that we collect and the purposes for processing such Personal Information.
+We confirm that we have not, and will not, ‘sell’ your Personal Information to any third-party.
+Requests To Delete Personal Information (
+Right to Delete
+)
+You may request that we delete Personal Information we collected from you and to tell our service providers to do the same. However, the CCPA provides a number of exceptions (where we and/or our service providers may retain your Personal Information), and we will notify you if any such exceptions apply in your case; otherwise we will delete your Personal Information and tell our service providers to do the same upon your request.
+Requests Not To Sell Personal Information (Right to opt-out of sale)
+You may request that businesses stop selling your personal information (“
+opt-out
+”).
+We confirm that we will not ‘sell’ your Personal Information to any third-party and that we have not done so in the preceding twelve (12) months. Accordingly, we do not provide an opt-out facility on our Website(s).
+Right To Non-Discrimination
+We cannot deny you any Services, charge you a different price, provide a different level or quality of Services, or otherwise engage in discriminatory treatment of you just because you exercised any of your rights under the CCPA; and we confirm we will not do so.
+Exercising your rights under the CCPA
+If you wish to make any CCPA-related requests, including exercising any of the rights described above, please contact us using our contact details in
+Section 17
+below.
+17. Complaints, Questions and Contact Details
+Please contact our
+Privacy Officer
+(
+at their contact details below
+) if:
+you believe your privacy has been breached by us or by any of our service providers;
+you have any complaints about our compliance with this Privacy Policy, Australia’s
+Privacy Act 1988
+(Cth), the UK’s
+Data Protection Act
+2018,
+or any local region privacy laws (as applicable); or
+Section 16 (California Privacy Rights) applies to you, and you wish to exercise any of your rights under the CCPA,
+and we will promptly:
+investigate and attempt to resolve any breaches or complaints; and
+address any exercise of rights by you as set out in this Privacy Policy or applicable law.
+If you are dissatisfied with our handling of any complaint made by you about our compliance with this Privacy Policy and/or applicable privacy laws, and you are located:
+in
+Australia
+, you may complain to the
+Office of the Australian Information Commissioner
+by contacting them at:
+https://www.oaic.gov.au/privacy/privacy-complaints
+;
+in the
+UK
+, you may complain to the UK’s
+Information Commissioner’s Office
+by contacting them at:
+https://ico.org.uk/make-a-complaint/
+;
+in the
+European Union
+(“
+EU
+”)
+,
+the matter should be referred to the
+Data Protection Authority
+of the relevant EU country; or
+anywhere else
+, you may have the right to complain to a local privacy authority.
+Objective’s Privacy Officer’s contact details:
+Email:
+privacy@objective.com
+Mail: Privacy Officer
+Legal Department
+Objective Corporation Limited
+Level 30, 177 Pacific Highway
+North Sydney, NSW 2060, Australia
+We use cookies to ensure that we give you the best experience on our website. View our
+Privacy Policy
+to learn more.
+Got it
+Looks like you are visiting from
+This is the
+site
+Would you like to visit the
+site instead?
+Visit
+site
+Visit
+site
+or see all international sites
+Australia
+Asia Pacific
+New Zealand
+North America
+Singapore
+United Kingdom
