@@ -1,0 +1,220 @@
+Privacy Policy | Digital Transformation Agency
+Skip to main content
+Privacy Policy
+Last updated: 26 May 2025
+Our privacy policy tells you how we collect and use information.
+On
+Our obligations
+The DTA is bound by the
+Privacy Act 1988
+(Cth), including the
+Australian Privacy Principles
+.
+The Privacy Act 1988 (Privacy Act) regulates how federal, and ACT public sector agencies and certain private sector organisations can collect, hold, use and disclose personal information, and how you can access and correct information about you held by those agencies and organisations.
+Under the Privacy Act, ‘personal information’ means information or an opinion about an identified individual, or an individual who is reasonably identifiable, whether the information is true or not and whether the information is recorded in a material form or not.
+The Privacy Act applies only to information about individuals, not to information about corporate entities such as businesses, firms or trusts. Detailed information on the Privacy Act can be found on the
+Office of the Australian Information Commissioner (OAIC) website
+.
+Australian Government Agencies Privacy Code
+DTA must comply with the
+Australian Government Agencies Privacy Code
+(the Code).
+The Code sets out the requirements and key practical steps for DTA to take to ensure a high standard of personal information management consistent with other Australian government agencies.
+For more information about how we meet our requirements under the Code please contact DTA using the contact details set out in section 5 of this Policy.
+The DTA’s Privacy Policy
+DTA ensures that any personal information we collect is dealt with responsibly and respectfully. The Australian Privacy Principles (APPs), set out in Schedule 1 of the Privacy Act, set out 13 binding principles that govern the way DTA collects, holds, uses, and discloses your personal information.
+The Privacy Act gives you rights in relation to your personal information, such as ensuring
+your information is only collected for lawful purposes
+that we have processes in place to protect your information from misuse or interference
+we tell you why (generally) we are collecting your information and what information we are collecting, and
+we provide an avenue for you to access your information, and to correct any incorrect information if necessary.
+Our Privacy Policy tells you what information we will collect about you, in what circumstances, and what we will do with that information.
+We use Google Analytics to track user behaviour. This helps us to identify improvements in the user experience. More information about our use of Analytics is set out below.
+There are some areas of our business that maintain a separate Privacy Policy specific to their function. In the event your personal information is collected by one of these areas, their own separate Privacy Policy shall take precedent.
+If you ask us about an issue that needs to be dealt with by another agency, we will provide you with the necessary details so that you can make contact with that agency yourself.
+What we collect
+The DTA is responsible for strategic and policy leadership on Whole-of-Government and shared information and communications technology (ICT) investments and digital service delivery.
+We collect personal information about you where it is reasonably necessary for, or directly related to, one or more of our functions or activities, including when:
+providing strategic leadership on whole-of-government and shared ICT and digital services, including sourcing arrangements such as digital procurement and capability development
+delivering policies, standards and platforms for whole-of-government and shared ICT and digital service delivery
+providing advice to agencies and the Government on ICT and digital investment proposals
+overseeing the Australian Government’s portfolio of ICT and digital investments and managing the associated assurance policy and framework
+The kinds of personal information we may collect includes all of the following.
+Information about you, such as your:
+name
+phone number
+email
+address
+Information about your interactions with us, such as:
+services we provide you
+feedback and complaints
+the pages you visit
+Information about you for the purposes of the DTA’s sourcing and procurement functions, for example, where you are a supplier to the Australian Government. The purposes for which we collect your personal information for this function include administering the DTA’s BuyICT platform, facilitating procurement opportunities through BuyICT, monitoring compliance with procurement arrangements and providing feedback to you on your procurement opportunities. Information collected includes:
+information about your business, including where you are a sole trader
+information that evidences your suitability (or the suitability of others in your organisation) for a particular procurement opportunity
+information about an individual’s work history, qualifications and skills, security clearances, availability, rates and performance feedback, where relevant to facilitating procurement opportunities
+Information collected via our website including:
+the IP address of your device
+the type of web browser used
+your device’s operating system
+the date and time you accessed our website
+the pages you visited and any documents downloaded
+if you followed a link to our website from another website – the address of that website.
+Sometimes we might need to collect sensitive information about you. This could include information about your health, racial or ethnic origin, political opinions, association memberships, religious beliefs, sexual orientation, criminal history, genetic or biometric information. We will only collect your sensitive information where:
+you consent
+we are authorised or required by law to do so
+collection is otherwise allowed under the Privacy Act.
+In some circumstances, we may collect your biometric information such as audio recording of your voice or visual recordings of your person, usually with your consent. You will be expressly advised before such collections occur.
+Social networking services
+DTA uses social networking services such as Twitter, LinkedIn and YouTube to communicate with the public about our work. When you communicate with us using these services we may collect your information, but we only use it to communicate with you. The social networking service provider will also collect and handle your personal information for its own purposes. These services have their own privacy policies.  You can access the privacy policies of these service providers on their websites.
+DTA’s employees
+DTA collects personal information about its employees for the purposes of staff recruitment, performance management and professional and personal development, as well as general staff administrative functions such as payroll operations.
+This personal information may include (but is not limited to) an employee's name, address, contact details, date of birth, gender, qualifications, occupation, employment history, next of kin, financial information (including tax file number and banking details), performance agreements and appraisals, conduct, salary and allowances, superannuation details, leave details, references and character checks and security clearances.
+Where relevant, DTA collects and hold some types of sensitive information relating to its employees. This may include (but is not limited to) personal information about an employee's racial or ethnic origin, membership of a political association, membership of a professional association, membership of a trade union, criminal record or health information.
+The DTA collects, holds, uses and discloses personal information (including sensitive information) about its employees, in a manner consistent with the APPs.
+How we collect your information
+We may collect personal information:
+directly from you;
+from other persons acting on your behalf.
+If you are receiving communications such as email updates, you may opt out of such contacts from us at any time by emailing
+info@dta.gov.au
+Indirect collection
+We will collect information directly from you, unless there is an exception in the Privacy Act that permits us to collect personal information from a third party.
+For example, we may collect your personal information from a third party or authorised representative where they have consented to the collection of your personal information, or in the course of handling and resolving queries or complaints, or when conducting or responding to an investigation. We may collect personal information (including sensitive information) about you from publicly available sources other government agencies or third-party entities, including law enforcement bodies.
+We also collect personal information from publicly available sources to enable us to contact stakeholders who may be interested in our work or in participating in our consultations.
+Anonymity
+Where possible, we will allow you to interact with us anonymously or using a pseudonym. For example, if you contact our enquiries line with a general question, we will not ask for your name unless we need it to adequately respond to your question.
+For most of our functions and activities we usually request your name and contact information and enough information about the particular matter to enable us to handle your inquiry, request, complaint, or application fairly and efficiently, or to act on your report.
+Why we collect, hold, use and disclose personal information
+In performing our function of providing strategic and policy leadership and investment and advice and oversight to drive government digital transformation to deliver benefits to all Australians we may collect, hold, use and disclose personal information.
+We are required by law to collect, hold, use and disclose your personal information for certain functions, such our sourcing and procurement functions. For example, we have certain legal obligations in relation to the conduct of procurements under the Public Governance, Performance and Accountability Act 2013, the Digital Transformation Agency Act 2017 and the Commonwealth Procurement Rules.
+We may also need to share your personal information with buyers and suppliers to perform our sourcing and procurement functions. This disclosure is necessary to facilitate procurement opportunities and operate our Marketplaces, panels and whole-of-government arrangements.
+We may be unable to allow you to participate in procurement opportunities that we facilitate, if you are not able to provide your personal information to us, or do not consent to the indirect collection of your personal information by us.
+We will generally only use and disclose your personal information for the particular purpose for which it was collected.
+There are limited circumstances in which DTA may use or disclose information for a different purpose (secondary purpose) without your consent, including where:
+we are required or authorised by or under law
+the use or disclose of your personal information is for a purpose related to, or directly related to, the purpose of collection where you would reasonably expect that your information would be used or disclosed for this other purpose. For example, if DTA collects personal information for the purpose of billing
+a permitted general situation exists as defined in the Privacy Act (eg to take action in relation to suspected unlawful activity or serious misconduct)
+a permitted health situation exists as defined in the Privacy Act
+we reasonably believe that the use or disclosure is reasonably necessary for enforcement related activities conducted by, or on behalf of, an enforcement body.
+Where practicable, we will provide details of how your personal information may be collected, used and/or disclosed prior to the point of collection, including disclosing the purpose for its collection in that particular instance.
+How we hold personal information
+Your privacy is important to us, as is the security of your personal information.
+We hold your personal information using secure servers within our ICT systems and physical material in our secure premises.
+We use a range of physical and electronic security measures to protect your personal information from misuse, interference and loss, and from unauthorised access, modification or disclosure. These steps include:
+storing any physical material securely as per Australian government law and security guidelines,
+only allowing access to authorised personnel
+permitting access to personal information by authorised personnel on a need-to-know basis
+monitoring and controlling system level access (which can only be accessed by authenticated credentials)
+ensuring our buildings are secure
+maintaining and monitoring our physical and data security systems.
+When no longer required to be retained as part of a Commonwealth record, personal information is destroyed in accordance with the
+Archives Act 1983
+.
+Overseas disclosure
+DTA discloses personal information in databases and systems to third parties located overseas for business, systems administration, and systems maintenance purposes. This disclosure usually occurs pursuant to commercial arrangements.
+In most cases, the DTA takes reasonable steps in its commercial arrangements to ensure any third-party recipient of personal information manages that personal information in accordance with the Australia Privacy Principles under the Privacy Act.
+It is not practicable to list every country to which DTA may provide personal information as this will vary depending on the circumstances.
+Website analytics for all DTA services
+To improve your experience on our site, we use ‘cookies’. Cookies are an industry standard and most major websites use them.
+A cookie is a small text file that our site may place on your computer as a tool to remember your preferences. You can read more about
+what information is collected
+in the cookies from our site.
+You may refuse the use of cookies by selecting the appropriate settings on your browser. However, if you do this you may not be able to use the full functionality of this website.
+Our website may contain links to other websites. We are not responsible for the privacy practices of any other site and they may have a different privacy policy.
+Our website uses a range of analytics services which send website traffic data to servers offshore. One of these services is Google Analytics 360. These services do not identify individual users or associate your IP address with any other data held by the company for other purposes.
+We use reports provided by analytics providers to help us understand website traffic and web-page usage.
+By using this website, you consent to the processing of data about you for the purposes set out above.
+You can opt out of analytics if you disable or refuse the cookie or disable JavaScript.
+Find out more about what cookies we collect
+.
+MailChimp and privacy consent
+We use Mailchimp to manage our mailing lists and send out notifications. To provide our
+news
+we use MailChimp, which provides online tools to create, send and manage emails.
+MailChimp may collect personal information, such as distribution lists that contain email addresses, and other information relating to those email addresses. For further information about the type of personal information MailChimp collects, refer to the
+MailChimp Privacy Policy
+.
+We will only use your contact information to:
+create, send and manage emails relating to the work of the DTA
+measure email campaign performance
+improve the features for specific segments of customers
+evaluate your use of our website
+compile reports on website activity for website operators, and
+provide other services relating to website activity and internet usage.
+MailChimp may transfer this information to third parties where required to do so by law, or where such third parties process the information on MailChimp’s behalf.
+MailChimp collects information about when you visit the website, when you use the services, your browser type and version, your operating system and other similar information.
+MailChimp is based in the United States of America (USA) and the information collected about your use of the website (including your IP address) will be transmitted to and stored by MailChimp on servers located outside Australia.
+We are required to inform you that by subscribing to our eNewsletter:
+You consent to your personal information being collected, used, disclosed and stored as set out in
+Mail Chimp’s Privacy Policy
+and agree to abide by
+Mail Chimp’s Terms of Use
+.
+You understand and acknowledge that this service utilises a MailChimp platform, which is located in the United States of America (USA) and relevant legislation of the USA will apply.
+Australian Privacy Principle 8.1 contained in Schedule 1 of the
+Privacy Act
+will not apply.
+You understand and acknowledge that MailChimp is not subject to the Privacy Act 1988 (Cth) and you will not be able to seek redress under the Privacy Act 1988 (Cth) but will need to seek redress under the laws of the USA.
+You can opt out of our mailing list if you choose the ‘unsubscribe’ service provided by MailChimp in every email, or
+contact DTA
+.
+You can also disable or refuse cookies or disable Flash player; however, you may not be able to use the services provided by MailChimp if cookies are disabled.
+Contact MailChimp
+.
+MailChimp has the endorsement of TRUSTe’s Privacy Seal, which means this privacy policy has been reviewed by
+TRUSTe
+for compliance with their
+program requirements
+including transparency, accountability, and choice related to the collection and use of your personal information.
+TRUSTe is an independent third party that operates a globally-recognised privacy trustmark.
+Qualtrics
+We use Qualtrics, a third-party software supplier to administer online surveys via our platforms. These help us to review and evaluate our services, and to help with the administration of our functions.
+Qualtrics may collect personal information when you respond to a survey on the DTA’s platforms. This personal information may include your name, contact details, such as your email address and phone number and any personal information that you may have included in your survey responses.
+Qualtrics does not usually have access to data collected through surveys. However, we may share personal information with Qualtrics as part of Qualtrics providing support services to us. For more information about how Qualtrics will handle personal information, please refer to the Qualtrics Privacy Statement.
+Access to your survey response data is tightly controlled and restricted to nominated DTA personnel.
+Qualtrics is an international organisation with offices based around the world, including in Australia. Data collected by Qualtrics is securely collected and managed onshore in Australia.
+How to access and correct your personal information
+You have a right to request access to your personal information and to request its correction.
+Upon request we will provide you with access to your personal information or take reasonable steps to correct your personal information to ensure that it is accurate, up-to-date, complete, relevant and not misleading, subject to any applicable exceptions under the Privacy Act.
+If you wish to obtain access or seek correction of your personal information, please contact our
+Privacy Contact Officer
+Your request should specify the information you are seeking or correcting and provide your contact details including an email address or mailing address.
+If you are unhappy with the response we provide, you may make a formal application for access or correction of personal information under the Privacy Act.
+Before providing access to or correcting your personal information, we may require you to verify your identity. You will not be charged for lodging a request to access or correct your personal information.
+We will respond to your request within 30 days of the request being made. If access or correction is refused, we will provide you with a written notice setting out the reasons for the refusal and information about how you can make a complaint. If your correction application is refused, we will take reasonable steps to associate a statement with your personal information which provides that you believe that your personal information is inaccurate, out-of-date, incomplete, irrelevant or misleading.
+For information about making a request for information under the FOI Act, please contact
+foi@dta.gov.au
+.
+Making a complaint
+If you wish to make a complaint about how DTA’s has handled your personal information, please do so in writing.
+If we receive a complaint from you, we will acknowledge your complaint within 3 business days of receiving the complaint.
+We will respond to your complaint within 30 days (or another timeframe agreed with you) of receiving your complaint and explain the actions we have taken or propose to take to address the issues raised in your complaint.  If you are not satisfied with DTA’s response to your complaint, you may ask for a review by a senior officer within DTA.  You may also lodge a complaint to the Office of the Australian Information Commissioner by email to
+enquiries@oaic.gov.au
+or by post to GPO Box 5218, Sydney NSW 2001.
+Get in touch
+You can send requests for information or complaints to
+Email
+privacy@dta.gov.au
+You can also send your request or complaint by post to
+Post
+Privacy Officer
+Digital Transformation Agency
+PO Box 457
+Canberra City
+ACT 2601
+If you need help lodging a complaint or requesting access or correction, you can contact the Privacy Officer on
+Phone
+02 6120 8595.
+Some material on this site may include or summarise views, standards or recommendations of third parties. The inclusion of such material is not an endorsement by DTA of that material; nor does it indicate a commitment to any particular course of action.
+Before relying on the material contained on the website, users should obtain appropriate professional advice relevant to their particular circumstances to evaluate the material's accuracy, currency, completeness and relevance for their purposes.
+Links provided to other websites are provided for the user's convenience and do not constitute endorsement of the information at those sites. DTA accepts no responsibility for material contained in any website that is linked to this site.
+Contact us at
+info@dta.gov.au
+should you have any questions or issues about the above information.
+You can also send your request or complaint by post to Digital Transformation Agency, GPO Box 457, Canberra, ACT 2601.
+Get in touch
+If you have any questions, you can send an email to
+info@dta.gov.au
+or call 02 6120 8707.
+Return focus to the top of the page

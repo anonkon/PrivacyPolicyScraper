@@ -1,0 +1,598 @@
+About Us | Fisher & Paykel Healthcare
+Global
+Privacy Statement
+English
+|
+Canada (français)
+|
+Deutschland
+|
+España
+|
+France
+|
+Россия
+|
+中国
+|
+Poland
+|
+Korea
+|
+Korea (Processing Activities)
+|
+Brazil
+|
+Turkey
+|
+Taiwan
+|
+Japan
+GLOBAL PRIVACY STATEMENT
+updated 1 July 2025
+As part of a global organisation which manufactures, markets and distributes a range of quality healthcare products throughout the world, Fisher & Paykel Healthcare Corporation Limited and each of its subsidiaries (“
+F&P Healthcare
+”, “
+we
+”, “
+our
+” or “
+us
+”) recognise the importance of the personal information you trust us with.
+Care drives our commitment to privacy. We endeavour to provide transparency and choice in relation to the collection and processing of personal information. We recognise that we have obligations of care for our end-users, customers, employees, shareholders, research participants and job seekers who seek to join our company. We are committed that the approach we take to personal information reflects and upholds our values.
+We may update this statement from time to time so please check our
+online Global Privacy Statement
+for the most recent version. This statement is regularly reviewed to ensure it reflects our current practises.
+Translations may be provided as a courtesy. If discrepancies exist, the English version will prevail.
+Purpose
+This Global Privacy Statement outlines how and why we collect, use, share and protect personal information. It applies to all interactions you may have with us and our products and services.
+Scope
+The Global Privacy Statement applies to all processing of personal information for our global operations, with the exception of China* which is subject to the China Privacy Statement located
+here
+, and which covers the processing of personal information relating to F&P’s China operations.
+This statement reflects our group business activities involving personal information, therefore only parts of the Global Privacy Statement may apply to the personal information we collect from you, or may apply to a lesser extent. This depends on which country you interact with us in and local legal requirements. Please contact us if you have any questions and would like to learn more. More specific information about how we handle your personal information and impacts to your privacy may also be provided in the applicable terms and conditions, disclosures and privacy notices you are provided with when you interact with us.
+* For the purposes of the Global Privacy Statement, “China” refers to People’s Republic of China, excluding Hong Kong Special Administrative Region, Macao Special Administrative Region and Taiwan.
+Table of Contents
+PART I. OVERVIEW OF PERSONAL INFORMATION PROCESSING ACTIVITIES
+Personal information we collect
+Categories of individuals
+Categories of information we collect
+How we collect and use your personal information
+Security of your personal information
+Sharing your personal information
+International transfers of personal information
+Storage and retention of your personal information
+Children’s privacy
+Your privacy rights
+How to contact us
+Supervisory authorities
+PART II. DETAIL ON F&P HEALTHCARE ACTIVITIES WHICH MAY INVOLVE PERSONAL INFORMATION
+Sale and distribution of F&P healthcare products
+F&P Healthcare products
+InfoSmart Web™
+Training and education
+Customer care
+Events and conferences
+Clinical trials and research
+Marketing and updates
+Use of online & web technologies
+Job Seekers & Recruitment
+Shareholders
+Visiting our F&P Healthcare offices and manufacturing, warehouse or distribution sites
+Other Uses of Device and Service Data
+European Union Data Act
+Part I
+OVERVIEW OF PERSONAL INFORMATION PROCESSING ACTIVITIES
+1. PERSONAL INFORMATION WE COLLECT
+As a medical device manufacturer, we may need to collect information, including personal information, about you in order to provide you with the quality products, services and support you request from us.
+For the purposes of this statement, "Personal information" is any information which directly or indirectly relates to an identified or identifiable individual. It includes names, unique identifiers, location information, financial information, IP addresses, or one or more factors specific to the physical, physiological, genetic, mental, economic, social or cultural identity of an individual.
+We recognise some special categories of personal information may put your privacy at greater risk if combined with identifying details about you (e.g. name or date of birth), such as information which reveals or infers physical or mental health, racial or ethnic origin, political opinions, religious or political beliefs, genetic information, biometric information, sex life or sexual orientation, criminal information, or trade union membership.
+2. CATEGORIES OF INDIVIDUALS
+The personal information we manage generally relates to one of the following groups:
+End-users
+– includes end-users and consumers of our medical devices and products that receive treatment from Customers in a hospital or clinical context or use our devices in a homecare setting.
+Research Participants
+– includes voluntary participants in clinical trials, usability studies or research projects that we contribute to or sponsor. Research Participants may include End-users, Customers and Employees, as well as individuals who have no other relationship with us.
+Employees
+– includes current and past F&P Healthcare employees and contractors who are or have been employed by F&P Healthcare.
+Job Seekers
+– includes prospective employees and any persons who inquire about employment opportunities with F&P Healthcare.
+Customers
+– individuals or entities that purchase, use or distribute our medical devices and products. Customers can generally be classified as:
+Healthcare Providers
+– includes all individuals and entities who purchase and use our medical devices and products. This includes healthcare professionals, homecare providers, sleep laboratories and entities (e.g. hospitals, general practices (GPs), intermediaries).
+Distributors
+: includes all individuals who purchase and distribute our medical devices and products.
+Many of our Customers may be represented as a business or customer account entity. We recognise our Customers may be represented by staff they employ or contract with (“
+Customer Staff
+”), who may authorise requests regarding products and services, and who we may process personal information about in the normal course of business.
+Shareholders
+– includes all entities and identifiable individuals who have a shareholding in Fisher & Paykel Healthcare Corporation Limited.
+3. CATEGORIES OF INFORMATION WE COLLECT
+We need to collect and process a range of information in the course of our business. Common categories of information, and examples of specific personal information that we collect, include:
+Name and contact information.
+Name, email address, postcode, address, phone number etc.
+Demographic information.
+Age, sex, ethnicity, nationality, country, preferred language etc.
+Financial information.
+Payment information, such as credit card information, bank account details, salary/income information, insurance, sales and transaction history, sales interactions with our representatives etc.
+Medical and health information.
+Health record identifiers, medical and health records, medical therapy progress, medical/health monitoring, history and conditions, lifestyle information, insurance identifiers etc.
+Information collected by our Medical Devices.
+Medical device identifiers, therapy settings, temperature, locality (e.g. city), usage and efficacy information relating to therapy etc.
+Product investigations information.
+Events and investigations, complaints, and relevant supporting information, images, health information, device information, and communications etc.
+Research and clinical information.
+Information gathered from participation in research and clinical trials, medical device use and therapy, images, video, contact information, related medical and health information, dietary, lifestyle, demographic or other personal information relevant to the research or clinical trial etc.
+Online/technology information.
+Device information, IP address, device identifier, session IDs, cookie information or web beacons, browser history, preferences and interests, log-in information (username and password), website forms, other communications etc.
+Marketing information
+. Information about our conferences and events you may be interested in or have registered for, contact information, email addresses, email marketing subscriptions, preferences, product/therapy interests, cookies and web beacons etc.
+Feedback and survey information.
+Feedback and survey information including personal details you choose to provide such as contact or health information etc.
+Job applicant information
+: Name, email address, CV, cover letter information, job history, contact information, qualifications and certifications, references, criminal and financial checks etc.
+Employee information.
+Recruitment information, current employees and past employees, including name, contract, role, performance, job history, education and qualification information, financial information, workplace information, training, background, criminal and financial checks, shares, trade union affiliations, timesheets etc.
+4. HOW WE COLLECT AND USE YOUR PERSONAL INFORMATION
+We will collect and use your personal information to provide you with high-quality services and products, in a way that reflects our core values. We recognise that the way we handle your personal information is crucial to earning and maintaining your trust. We are committed to upholding the following privacy principles embodied in our
+Global Privacy Procedure
+:
+Purpose
+Collect personal information to support a specific, legitimate purpose
+Process personal information to provide products and services associated with that purpose where necessary
+Respect & Care
+Use personal information for a lawful basis
+Process personal information in ways that respect individual dignity, autonomy and right to privacy
+Data Minimisation
+Only process the personal information we need
+De-identify high risk personal information before processing or sharing
+Keep personal information only as permitted by law
+Transparency
+Be open about what personal information we collect, process and share
+Be open about how and why we collect, process and share personal information
+Choice & Control
+Use a Privacy by Default approach when designing products
+Provide choice about what personal information is collected and how it is used where possible
+Respect, and allow individuals’ to exercise, their privacy rights
+Confidentiality Integrity & Availability
+Use technical and organisational safeguards to protect personal information
+We will collect and use your personal information when it is lawful, necessary and fair.
+We will collect and use your personal information only if:
+it is necessary for the performance of a contract for products or services you requested.
+you have given us consent.
+needed to comply with our legal and regulatory obligations.
+it is for a necessary and legitimate business interests e.g. security.
+We endeavour to provide as much transparency and choice as possible in relation to the collection and use of your personal information.
+Many of our products and services require us to collect some personal information so that we can provide you with the service or product you requested. If you choose not to provide any necessary information, you may not be able to use the product or service as it was intended.
+We aim to provide you with transparent explanations as to how we collect and protect your information and why the collection is necessary. You can learn more in
+Part II. Detail on F&P Healthcare activities which may involve processing of personal information.
+5. SECURITY OF YOUR PERSONAL INFORMATION
+To help protect your personal information, we use technical and organisational safeguards to secure information which we hold about you. We use security measures, including de-identification, encryption, pseudonymisation and password protection, to ensure personal information is kept secure. We also conduct regular testing of the effectiveness of the technical and organisational measures we use.
+While we will endeavour to take reasonable, appropriate steps to keep the information which we hold about you secure and to prevent unauthorised access, we cannot provide absolute assurance regarding the security of your personal information. However, our security measures are continuously improved in line with technological developments and good practice to reduce the risk of unauthorised access.
+6. SHARING YOUR PERSONAL INFORMATION
+We may share your information with our group companies and trusted third parties to provide the products and services you requested. More details about who your personal information will be shared with are contained in Part II.
+In addition to any persons referred to in Part II, we may also need to share your information with the following categories of recipients for the following purposes:
+F&P Healthcare group companies
+– to provide the products, services and support you requested, and provide administrative and business development support. This may include supporting the security and safety of our products, services and business operations.
+Third-party service providers
+– who support us to provide the products, services and support you requested, support our business operations and other necessary and legitimate business purposes. This includes supporting or providing necessary software and systems to support our business operations. It may also include third-party service providers to support the use, maintenance, security and safety of our products and operations. Most third-party service providers are data “processors” who operate in accordance with our instruction.
+Industry regulatory bodies
+– to comply with our obligations as a medical device manufacturer, including our professional clinical and post-market customer care obligations. This may include our responsibilities to protect Research Participants, End-users, Customers and Employees.
+Local law and government bodies
+– to comply with our legal obligations including finance and tax law, employment labour obligations, and workplace health and safety. This may include our responsibilities to protect Research Participants, End-users, Customers and Employees. In rare circumstances, we could be requested to share personal information to support local law enforcement or government requests regarding official investigations or background checks, other necessary activities in the public interest or other obligations to cooperate.
+To respond to legal process
+– reflecting our legal right to defend ourselves or establish our rights, property and interests (e.g. Intellectual Property and trademarks).
+We do not sell any identifiable or de-identified personal information to third parties.
+The sharing of your personal information may vary according to your country of location, the products or services you use and the nature of your interactions with us. Please contact us if you have any questions and would like to learn more. Additional information should be available in the applicable terms and conditions, disclosures, and privacy notices we provide when you interact with us.
+7. INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION
+As a global organisation, with our headquarters based in New Zealand, we take care that your personal information is transferred in accordance with our international legal and regulatory obligations and that cross-border transfers occur in a safe, lawful and secure way. In addition to other measures, we use standard data protection clauses and other contractual arrangements to ensure appropriate safeguards are in place for the safe transfer of information.
+Our obligations for disclosure or international transfers may vary according to your location and the products or services you use, so please
+contact us
+if you have any questions and would like to learn more. Additional information may be available in the applicable terms and conditions, disclosures, and privacy notices we provide you when you interact with us
+.
+8. STORAGE AND RETENTION OF YOUR PERSONAL INFORMATION
+The personal information we collect is usually stored and processed locally in your country, or in your applicable region (e.g. European Economic Area) where appropriate, and as permitted by local law. If personal information may be stored elsewhere, we will advise you in the privacy notices we provide you when we interact with you, and request your consent in accordance with applicable law.
+Personal information may be stored in any country where we operate. Where necessary, and as permitted by local law, personal information may be stored on cloud-based services and/or with our trusted third-party service providers.
+We will retain your personal information for as long as necessary to fulfill the purposes for which it was collected and to comply with our legal obligations. Please refer to the Part II. Detail on F&P Healthcare activities which may involve processing of personal information below for more detail.
+The storage and retention of personal information varies according to your location and the products or services you use, so please contact us if you have any questions and would like to learn more. More information should be provided in the applicable terms and conditions, disclosures and privacy notices we provide when you interact with us.
+9. CHILDREN’S PRIVACY
+We will collect personal information from minors only with the express consent of their parent/guardian or as required by your Healthcare Provider or Distributor if you have provided them authority to share it with us for a specific purpose.
+Parents and guardians can exercise privacy rights on their child’s behalf, however we may need to verify that they are authorised to act on the child’s behalf. If you would like to know more about children’s privacy, please contact us.
+10. YOUR PRIVACY RIGHTS
+We recognise that you have rights over your personal information. You have the right to request more information about what information we collect and process about you, and request a copy of it, to correct your information, and you may have the right to ask us to erase your information in some circumstances. You may also have a right to request that we stop using your personal information in certain ways, or to withdraw your consent. To make a privacy request, please contact us. You may also contact your local Data Protection Officer (refer to How to contact us), for additional support or queries relating to your personal information and privacy rights.
+We have endeavoured to provide as much information as possible here in our Global Privacy Statement or applicable privacy notices and disclosures when you interact with us. Because our business activities and requirements may differ depending on what country you are in, please contact us if you want to confirm specific information about how your personal information may be processed.
+In many cases, you should be able to update or delete information we hold about you yourself, within your online profiles and accounts you register with us, on our Mobile Applications or websites. If you are unable to update it yourself, you can contact us. We may not be able to delete or update everything you request. For example, we may need to keep some product investigation information to meet our regulatory recording obligations.
+Receiving your request
+Once we confirm and verify your authority to exercise a privacy right request, we endeavour to respond as soon as we can and in accordance with local legal requirements, and no later than 20 working days from the date of a request. Please understand some requests may require further verification (this may mean we request additional information from you) or require additional time to process or may not be able to be fully completed as you requested due to our legal obligations, necessary legitimate business interests or technical limitations. If this happens, we will let you know.
+End-users and consumers of F&P Healthcare products and services
+If you purchase or receive a F&P Healthcare medical device or service from a Healthcare Provider or Distributor, you need to submit your privacy request directly to your Healthcare Provider or Distributor. We will then work together to support your Healthcare Provider or Distributor as necessary.
+If you are not satisfied with how we managed your privacy request, you may have a right to lodge a complaint with a supervisory authority.
+11. HOW TO CONTACT US
+Our global Group Privacy Manager and Privacy / Data Protection Officer are located in our headquarters in New Zealand.
+You may also contact your local Data Protection Officer or privacy representative for additional support or queries relating to your personal information and privacy rights.
+Applicable jurisdictions
+Email
+Contact
+New Zealand & Other (not listed below)
+[email protected]
+Fisher & Paykel Healthcare Limited
+15 Maurice Paykel Place
+East Tamaki, Auckland
+New Zealand
+United States & Canada
+[email protected]
+Fisher & Paykel Healthcare
+17400 Laguna Canyon Road, #300
+Irvine
+CA 92618
+USA
+France, Italy, Spain, Belgium, Norway,
+Netherlands, Austria, Finland, Denmark,
+Sweden, Poland
+[email protected]
+Fisher & Paykel Healthcare
+10 Avenue du Québec
+Bâtiment F5
+BP 512
+Villebon-Sur-Yvette, 91946
+Courtaboeuf CEDEX
+Germany, Austria & Switzerland
+[email protected]
+Fisher & Paykel Healthcare
+Wiesenstrasse 49
+73614 Schorndorf
+Germany
+United Kingdom & Ireland
+[email protected]
+Fisher & Paykel Healthcare
+Unit 16, Cordwallis Park
+Clivemont Road
+Maidenhead,
+Berkshire SL6 7BU
+United Kingdom
+Hong Kong, India, Taiwan, Australia,
+China, Sri Lanka, Bangladesh
+[email protected]
+Fisher & Paykel Healthcare
+19-31 King Street, Nunawading, Victoria
+Australia 3131
+PO Box 159, Mitcham, Victoria
+Australia 3132
+12. SUPERVISORY AUTHORITIES
+You have a right to lodge a complaint with an appropriate data protection or privacy supervisory authority if you have concerns about how we manage personal information or are not satisfied with how we respond to your concerns.
+F&P Healthcare is based in New Zealand. The contact details for the privacy and data protection supervisory authority in New Zealand are:
+New Zealand Office of the Privacy Commissioner
+PO Box 10 094,
+Wellington 6140
+0800 803 909  or +64 4 474 7590
+www.privacy.org.nz
+We have additional supervisory authorities in other jurisdictions we operate in. This may include your local privacy and data protection authority. If you would like to request information about our key supervisory authorities, please
+click here
+.
+Part II
+DETAIL ON F&P HEALTHCARE ACTIVITIES WHICH MAY INVOLVE PERSONAL INFORMATION
+This section outlines a summary of our key business activities. We provide an overview of how and why we collect, use, and share personal information at F&P Healthcare. This is in addition to the information provided in
+Part I. Overview of personal information processing activities
+.
+This summary reflects our global business activities involving personal information, therefore only parts of the Global Privacy Statement may apply to the personal information we collect from you, or may apply to a lesser extent, depending on the nature of your relationship with us or local legal requirements. We have provided detail about how we may handle personal information depending on the nature of your engagement with us in the sections below. We endeavour to provide additional, specific information to you when you interact with us in the business information, privacy notices and other relevant disclosures and documentation we provide you.
+If you have any concerns or would like to confirm how we handle your personal information, we recommend you
+contact us
+so we can provide specific detail about your personal information.
+1. SALE AND DISTRIBUTION OF F&P HEALTHCARE PRODUCTS
+This section generally applies to our Customers and Customer Staff.
+1.1 What we collect
+If you are a Customer, we may collect your identification and contact information, such as your name, email address, phone number, customer code, delivery address and invoice address to facilitate the requested sale and distribution of our products and services. To facilitate the payment of products and services, we may collect Customers’ financial information such as bank details, creditworthiness, credit limits, payment terms, tax jurisdiction etc.
+For Customer Staff, the contact information we collect will generally be your business email, phone and address. We may also collect information about your role and notes relevant to past and present inquiries and sales from you.
+We largely operate business to business sales and distribution activities with our Customers, who then provide our products and services to End-users. However, we also distribute some products directly to End-users in some instances/markets and may collect and process End-user information, in each case as a service to our Customers. Therefore, we may collect End-user contact information, such as email, phone, home or postal address, and financial information relating to payment to sell and deliver to End-users directly.
+1.2 Why we need to collect it
+We collect your personal information to provide the products or services you request, maintain our Customer relationships, and respond to Customer inquiries. We also collect this information to comply with our financial reporting and accounting obligations, including the management of invoices and recovery of debt.
+1.3 How we collect and use it
+We generally collect this personal information directly from you as a Customer during your interactions with us, through contact forms on our website, or events and conferences we are involved with. Sometimes, we may also collect your information through our third parties who you liaise with. This is usually with your consent or where the information is required to enable us to provide you the services or products you requested.
+We use your personal information to process requested quotes and sales orders, to supply and deliver to you the products and services you requested, to keep a record of your purchase history, to respond to your queries, to maintain business relationships, and to perform any other legal and contractual obligations we may have.
+We keep relevant business and Customer records for the period of our contractual relationship or as long as required to comply with our legal obligations or support our necessary business interests.
+1.4 What we share
+We may share your personal information within our group companies to provide you with the products and services you requested, for Customer support, sales and distribution support, supply chain activities and reporting. We also may need to share some of your contact information with our third-party Distributors, service providers, delivery services and freight companies. We do not sell your personal information to any third parties.
+2. F&P HEALTHCARE DEVICES
+This section generally applies to End-users and Customers.
+Our products fall into two main categories: hospital devices and homecare devices. Hospital devices are generally multi-user devices that do not collect any identifiable information and we do not know who is using the devices. These devices collect anonymised operational device usage data only. Homecare devices generally relate to single-user owned medical devices that can be used in the home and may collect End-user health information which is stored on the device. Some of our homecare devices may support therapy monitoring. In addition to our devices, we may also provide complementary Mobile Applications to support your therapy and device use. Depending on the set up of your homecare device, we may be able to identify you as a device user.
+Our products are provided to End-users by Healthcare Providers, homecare providers or sleep laboratories (collectively known as “Healthcare Providers”).
+2.1 What we collect
+Hospital and Homecare devices
+.
+Our devices may log operating data such as End-user temperatures, air flows and device alarms. Operating data is not collected by, or shared with, us. Operating data is usually only recorded on the device unless you choose share it (e.g. via Bluetooth or USB or you connect your homecare device to
+InfoSmart WebTM
+). Performance and diagnostic device information may be collected to support effective device monitoring and support, including performance metrics, usage, sensor measurements, firmware update status. This may be collected and used by your Healthcare Provider to support administration of the device. Limited performance and diagnostic information may also be shared with us to support these activities and product improvement (e.g. firmware updates). Information shared with us is anonymised and managed securely. Our devices have varying capabilities and options. You should refer to your device manual, technical manual, user instructions or product guides for more specific information.
+Hospital devices.
+Our hospital devices generally collect anonymised health information regarding device performance and treatment relating to multiple individuals and do not record identifiable personal information.
+Homecare devices.
+Our monitored homecare devices generally collect health information from End-users while they are using their device at home. They record health and medical information relating to the efficacy of an End-user’s therapy which may be shared with an authorised Healthcare Provider. Some homecare devices may have the ability to collect optional additional personal information about End-users, such as lifestyle information, with your explicit consent on the device.
+If you are an End-user, we may collect your personal information to assist you to use your monitored homecare device. Your Healthcare Provider will assist you to register your device on our InfoSmart WebTM web-based software platform (refer below to Part II, section 3). The information we collect during the registration process may include your name, contact details, date of birth, phone number, email address, login details, IP address, your device’s serial number, personalised settings and the date your device was set up. This information will be linked with the health information collected by the monitored homecare device. After your device is registered for use with InfoSmart WebTM, and if you agree with your Healthcare Provider, data relating to the usage of your device and the efficacy of your therapy will be collected and stored. This data may include health information, such as times and dates of use of your monitored homecare device, personalised settings, details of mask leak and other sleep therapy information, including your sleep hours and your Apnoea Hypopnea Index, or information relating to your high-flow nasal oxygen therapy.
+If your Healthcare Provider uses the InfoSmart WebTM platform, you may download and use F&P Mobile Applications to support your End-user access and access to your therapy information, therapy efficacy and device usage, for example F&P SleepstyleTM. For further information about Mobile Applications, refer below to Part II, section 9. If necessary, we may request that you provide us with your identity, contact or F&P product information, serial number of your device and details of your mask when you download some of our Mobile Applications to verify your access to information or use of services.
+2.2 Why we need to collect it
+Hospital devices.
+We may collect anonymised health information relating to our hospital devices for diagnostic purposes to support the provision of medical therapies and to support device and product improvements e.g. firmware updates. The information collected by our hospital devices is only kept on the device itself for a limited period before being automatically deleted on each device. We only collect limited anonymised operational device performance monitoring and maintenance data, and this only occurs if a connectable device is connected using our Device Manager software application. This is controlled by your Healthcare Provider.
+Homecare devices
+We may collect your personal information gathered from your use of a monitored homecare device to ensure the efficacy of your device and support the therapy treatment you requested from your Healthcare Provider. This is controlled by your Healthcare Provider. We may collect and process information for the purpose of providing your Healthcare Provider with the InfoSmart WebTM platform, providing you with our Mobile Applications, and any other relevant information or services.
+Where applicable, your Healthcare Provider will collect your consent or provide you with a privacy notice regarding your use of our devices. If you are an End-user and have concerns regarding your privacy, you should consult your Healthcare Provider in the first instance as to how and why your personal information is being processed.
+Any collection of additional personal information about End-users, such as lifestyle information, is optional and only obtained with your explicit consent on the device.
+2.3 How we collect and use it
+Hospital devices.
+Information may be generated and collected by our hospital devices for performance and diagnostic purposes. The anonymised information collected by hospital devices is automatically deleted within a short period of time, typically within 2-3 days. Depending on the hospital device you use, information from the hospital device may be shared via Bluetooth, a secure USB device (the process is password protected) or internet connectivity. Therapy information may be collected by Healthcare Providers to support your therapy. Diagnostic performance data generated by the hospital device may be used by Healthcare Providers for medical device administration and management. We only collect limited anonymised operational device performance monitoring and maintenance data, and this only occurs if a connectable device is connected using our Device Manager software application.
+Homecare devices.
+End-user information from monitored homecare devices is collected by the homecare device and through your interactions with your Healthcare Provider, which they may record through InfoSmart WebTM. Depending on which homecare device you use, information from your homecare device may be shared via Bluetooth, a secure USB device (the process is password protected) or internet connectivity. Your information is stored and managed by F&P Healthcare and may be securely shared with your Healthcare Provider to access and use. Diagnostic performance data generated by the homecare device may be used by Healthcare Providers for medical device administration and management. Some homecare devices may have the ability to collect optional additional personal information about End-users, such as lifestyle information, with your explicit consent on the device itself. The information will only be used for the purposes specified in the on-device consent.
+Hospital and Homecare devices
+. Some of our devices may be able to record performance and diagnostic data generated during their use. This data may be collected by, or shared with, F&P Healthcare to (1) further support your Healthcare Provider’s administrative purposes or (2) support our product and service improvement and support. Performance and diagnostic data that we collect for these purposes is either anonymised or de-identified according to our policies to support privacy by design.
+2.4 What we share
+Hospital devices.
+The information recorded on our hospital devices is used and shared by Customers to effectively treat End-users. Healthcare Providers may provide details of hospital devices and their diagnostic information to us alongside identifiable personal information for post market monitoring, product support and complaint management. For more information on how we collect post market monitoring information, please see the Customer Care section of this statement.
+Homecare devices.
+If you are an End-user using one of our monitored homecare devices, we will collect, process and manage your personal information as instructed and authorised by your Healthcare Provider. In some cases, we may also share information with your insurers, if required by your insurer to enable payments to be made for the use of your device and/or authorised by you. All insurer authorisation requests are vetted and follow an identification process before an insurer of a Healthcare Provider is approved through InfoSmart Web
+TM
+.
+We do not sell your personal information to any third parties.
+3. INFOSMART WEB™
+This section generally applies to End-users and Customers.
+3.1 What we collect
+Infosmart Web
+TM
+is an online platform that allows authorised Healthcare Providers to access and view their End-users’ therapy information related to their use of our monitored healthcare devices. It is available in selected countries only. The InfoSmart WebTM platform offers two products addressing different patient therapies: InfoSmart WebTM CPAP and InfoSmart WebTM High Flow. Availability of these products may vary by jurisdiction. Healthcare Providers may be set up to use either or both of these products. The personal information we collect about End-users and Customers may vary depending on which of these products are in use.
+If you are a Healthcare Provider registering to use the InfoSmart WebTM platform, we will collect your contact and login information in order to create an account. If you are an End-user, we will collect and process your personal information on behalf of your authorised Healthcare Provider(s) to create an End-user record. Your Healthcare Provider controls what End-user personal information is collected and used. This information may include name and contact information, national health identifiers, device information, medical therapy progress, medical/health monitoring, therapy history and lifestyle information.
+3.2 Why we need to collect it
+We collect Healthcare Provider and End-user personal information to provide InfoSmart WebTM services. This includes administering accounts and supporting therapy use and analysis to support Healthcare Providers to provide End-users with requested healthcare services.
+3.3 How we collect and use it
+Information collected and stored in InfoSmart WebTM services may be collected from our devices, information you provide to your Healthcare Provider, and/or your interactions with one of our Mobile Applications. Different devices will collect and store different types of personal information in InfoSmart WebTM. Please refer to the information provided with your device, such as the device manual, technical manual, user instructions or product guides, for what information may be used to support InfoSmart WebTM services and how information is collected and shared with the platform for your specific device. If you are an End-user, please discuss with your Healthcare Provider how your personal information is collected and used in InfoSmart WebTM.
+Personal information may be kept for as long as necessary for your Healthcare Provider to provide the services you require, and for us to comply with our legal and regulatory obligations. Healthcare Providers control how long End-user records may be stored as part of their Customer account. We will store and retain personal information in accordance with the Terms and Conditions agreed with Healthcare Providers (as Customers) when requesting InfoSmart WebTM services. Customer accounts and associated records may be deleted by us once accounts become inactive. This depends on your country location and agreement with your Healthcare Provider. Records are retained for at least five (5) or seven (7) years after account inactivity, or as otherwise requested by your Healthcare Providers or permitted by local law.
+Depending on your country of residence as an End-user, your personal information will be held in secure regional servers according to applicable laws and requirements including, but not limited to, New Zealand, France, the Netherlands, Japan, and China (for Chinese residents*). We endeavour to only retain your information for as long as necessary to fulfil the purposes for which the information was collected.
+* Please refer to our China Privacy Statement for further information.
+3.4 What we share
+If you are an End-user, we may share your personal information with your authorised Healthcare Provider(s) as part of the healthcare services you have requested from them. In some cases, we may also share information with your insurer, as required by your insurer to enable payments to be made for the use of your device. All insurer authorisation requests are vetted and an identification process is followed before an insurer of a Healthcare Provider is approved through the InfoSmart WebTM. We do not sell your personal information to any third parties.
+We may also share your personal information within our group companies for InfoSmart WebTM service provisioning and support, Customer support, and to enable effective management and efficacy of our monitored homecare devices and therapies in order to provide you with the products and services you requested.
+4. TRAINING AND EDUCATION (INCLUDING F&P EDUCATION HUB)
+This section generally applies to Customers and Customer Staff.
+4.1 What we collect
+If you are an employee or contractor of one of our Customers (“Customer Staff”), we may collect personal information you provide us with when you register an account to access our learning program and materials, including your name, email, role/title and place of work or employer (i.e. the F&P Healthcare Customer account). We may collect information about your learning progress, use of the learning platform, any feedback you provide us and any other interactions with us relating to our training and education services. Usually the information provided is your business contact information, but we understand some information may be your personal contact information.
+4.2 Why we need to collect it
+We provide training and education services and resources for our Customers to help them, and Customer Staff, feel more comfortable using our devices and to help ensure devices are correctly set up for their intended use. To provide you with relevant learning and educational services and resources requested by you or your employer, we need to collect certain personal information about you to register an account. We may need to record your employer, so we can provide you applicable services, material and resources that are relevant to your place of work or your role.
+4.3 How we collect and use it
+Events and learning platforms.
+We collect your personal information through our online learning platforms, training and education events, and feedback you provide directly to us through our website or interactions with our representatives. We use your personal information to provide training and education services, provide effective learning and education experiences and support. Your account, and applicable personal information, will generally be kept as active for two (2) years after you last logged into our training or education products or services. After this period, your account will be considered inactive and may be deleted.
+Device support and professional education.
+For ongoing training and education support provided for our devices, or to support other professional certifications, we usually retain information relating to your training or education as a Customer Staff for two (2) years after your training account becomes inactive. For records necessary to support Customer obligations and records, records may be retained as part of our Customer records, and for as long as the Customer account remains active.
+4.4 What we may share
+We may share your personal information with your employer (i.e. as our Customer) or a third-party education provider on request to confirm your attendance at or completion of training or education. If applicable, they are responsible for managing your personal information and collecting your consent or providing notice if this may occur.
+We may share your personal information within our group companies for training and education service provisioning and support in order to provide you with the products and services you requested. In some circumstances or locations, we may share information with service providers who help provide these services.
+5. CUSTOMER CARE
+This section generally applies to Customers, Customer Staff and End-users.
+5.1 What we collect
+To provide customer care services, we may collect Customer information such as Customer name and account and applicable location. If you contact Customer Care on behalf of your employer as Customer Staff, we may request information about your name, role, contact information and reason(s) for contacting us.
+For support relating to device use and incidents, we may also collect End-user information including age, medical or health conditions before and after incident, pathology, specialist reports and images, video and audio relating to the applicable product, End-user or Customer and the reported incident. We may also collect information you share about your experience with our products publicly online or in other media, including public reviews of our products.
+We do not require or collect identifiable End-user personal information unless we otherwise advise you and request this information, or as outlined above. If identifiable information is shared and received by us (such as images or videos), we expect Customers have obtained relevant End-user authorisation and consent. Where possible, we endeavour to de-identify unnecessary and sensitive information shared with us. However, please note, we may have obligations that require us to keep all information received in its original form.
+5.2 Why we need to collect it
+We may collect personal information to support timely response to Customer or End-user feedback or inquiries you may have. This may be driven by our medical device regulatory and legal obligations. We monitor post-market feedback and possible incidents with our products to identify whether product issues may exist that require a recall, to identify areas of product improvement, and to comply with our legal obligations as a medical device manufacturer.
+5.3 How we collect and use it
+We may collect your personal information directly from our interactions with you or through our representatives, our product and distributor enquiry forms, contact forms on our website, or any other interaction you have with us through email, post or telephone. From time to time, we may also receive personal information from regulatory agencies as part of an incident or product-related report they share with us, however these reports are usually de-identified before we receive them.
+Generally, we collect personal information to identify, investigate and/or report product incidents to relevant authorities and comply with our regulatory and legal obligations. We may also use personal information to contact you regarding complaints or queries you have submitted to us. We will retain your information for as long as necessary to answer your queries and to comply with applicable regulatory or legal obligations. This may vary according to the nature of the query or issue.
+If you participate in any of our surveys or provide us any feedback, we may use information you choose to share for product development, product improvement and Customer support. The specific information about information collected and used from surveys or feedback we may request is provided to you when you engage with us. This may be via a privacy notice on the survey, for example. If you provide personally identifiable information or contact information, we may use your information to contact you for more information and to meet our legal or regulatory obligations.
+5.4 What we share
+We may share your personal information internally to manage feedback, complaints and inquiries you may have. We may share information with other group companies for support, to manage product investigations, for reporting and support to manage our compliance obligations. We do not sell your personal information to any third parties.
+6. EVENTS AND CONFERENCES
+This section generally applies to Customers, Customer Staff, and Shareholders.
+6.1 What we collect
+We host and sponsor educational events throughout the year. These include in-person conferences and education events around the globe. If you register for these events, we may collect your name, email address and contact information to provide access, catering and updates about the event. If catering is provided, we also ask for your relevant dietary requirements or special assistance needs to cater the event which may infer additional sensitive information about you.
+For some educational events which are eligible for continuing professional education (CPE) credit, we may collect your necessary industry or professional membership details to administer this. Please refer to
+section 4. Training and education
+for more information.
+If we attend an event or conference provided by a third-party, we may receive your name, role, organisation and contact information as an attendee if you have authorised the third-party to share it with us. We may also receive your industry or professional membership details. Otherwise, we may request this from you during the event. During or after the event or conference, we may use this information for your feedback about the event you participated in, to provide additional information requested or ask if you are interested in learning more from us.
+6.2 Why we need to collect it
+We need to collect your personal information to register your interest in and attendance at our events or conferences, provide relevant information about the event, and provide applicable catering or special assistance requests. If you choose, we may provide updates on further information on upcoming events you may find relevant.
+We may collect your information to request your feedback about our event, products or services or to provide the opportunity to receive educational and marketing information that may be of interest to you.
+6.3 How we collect and use it
+We may collect your event registration information through our representatives or your Clinical Educators, our corporate website or other online events portals. We may use trusted third-party tools to facilitate this. In some cases, we may receive your information from third-party events providers who you have authorised to share your information with us.
+We endeavour to store registration and event information for a reasonable period of time only to host the event. We may retain your information for a short period after an event to support necessary follow up based on the nature of our interaction with you at the event, or your interactions with the third-party event host which provides them authority to share your information with us to contact you again. If you are not interested in further information after an event, we will not retain your information for further use and will delete it.
+Use of personal information and retention may vary according to the nature of the event and country location. This includes the event host’s terms and conditions, your consent to share information with us, or local legal requirements.
+6.4 What we share
+Your information may be shared within our group companies and with our relevant trusted third parties to support and cater for the event or conference. We do not sell any of your personal information and only share information with third parties as required and necessary for the purposes for which it was collected.
+7. CLINICAL TRIALS AND RESEARCH
+This section generally applies to Research Participants.
+7.1 What we collect
+We may collect your personal and health information if you volunteer to participate in a clinical trial, usability study or research project. Participation in clinical trials and research is completely voluntary. We collect this information with your express consent only.
+During a clinical trial or research process, we will collect information relating to the clinical trial or research, as outlined in the specific privacy notice and consent form for your clinical trial or research. If you provide support as an external investigator, we need to collect your name, contact information and resume. Research Participant information involved in the clinical trial or research varies based on the nature of the research and may include demographic data, your name, age, sex, contact information, patient/participant code and information relating to the purpose of the clinical trial or research which could directly or indirectly infer or reveal medical or health information. Other information may include observations about you and your use of our products, Mobile Applications, audio and video recordings, interview notes, photos, videos and clinical outcomes.
+We recognise personal information relating to clinical trials and research can be sensitive and we endeavour to anonymise, de-identify or pseudonymise trial and research information within our clinical process design.
+With your express consent, we may record your contact information, and other relevant information you may consent to us storing, so that we may invite you and pre-screen you for upcoming opportunities to participate in our clinical investigations.
+7.2 Why we need to collect it
+We conduct clinical trials to improve and develop our products with the aim of better health outcomes, to test the quality and safety of our products, to comply with our regulatory obligations and, most importantly, to ensure your health and welfare during our clinical trials and research at all times. Participation is voluntary and you can withdraw at any time.
+7.3 How we collect and use it
+Depending on how clinical investigations and research are performed, we may collect and use your personal information directly from you with your consent. Otherwise, we may partner with or support other third-party clinics, laboratories or other healthcare facilities or sites (“Clinical Sites”) to perform clinical investigations or research which involve our devices or supporting services. We may or may not be a sponsor of these investigations, but depending on the specific arrangement we have with Clinical Sites for the clinical investigation, we may receive some information or outcomes relating to the investigation or research. In these cases, the Clinical Site usually controls and is responsible for personal information and should have informed you of this. Please refer to the specific privacy notice, consent forms and other research participation information you are provided whenever you agree to participate in clinical investigations or research to understand how your personal information may be collected, used (including the involvement of any other third parties), or otherwise shared. Personal information collected for other purposes (e.g. F&P product information, Infosmart Web™ information, Sales or Customer care) is not re-used for clinical investigations or research and development purposes. Information is collected separately. We collect and use personal information only for the purposes notified to you at the time of collection and for which you have provided consent.
+We are required to retain the results of clinical trials to comply with our regulatory requirements. This will be for at least fifteen (15) years after the trial has been completed and/or the is product supported in the market. We endeavour to store and retain only de-identified information, and only publish anonymous results and outcomes. When clinical information is no longer required to be identifiable for legal or regulatory purposes, we may delete identifiable information and retain anonymous information and outcomes only.
+If you consent to us contacting you to invite you to participate in future clinical investigations and research, we collect this information directly from you. Additional information you choose to share will be used for the purpose of evaluating your eligibility to participate in clinical investigations, otherwise we may request that you participate in a pre-assessment of your suitability if necessary.
+7.4 What we share
+We may be obligated to share information with relevant Ethics Boards, District Health Boards, or other auditors, regulatory or governmental bodies as necessary to perform and facilitate a clinical trial or research project and assure the welfare of Research Participants. We endeavour to anonymise personal information, de-identify or pseudonymise it. We do not sell your personal information to any third parties. We may publish papers or articles detailing the outcome of the clinical trial or research project.We may also share results of any research or clinical trial at conferences or other F&P Healthcare events. We will not identify you in any publication unless you have given us your explicit consent. If you have any concerns and would like to object to the use of your information in this way, please contact the clinical investigation listed in your participation consent form in the first instance.
+8. MARKETING AND UPDATES
+This section generally applies to Customers, Customer Staff, End-users and Shareholders.
+8.1 What we collect
+When you request or consent to receive marketing information and other product or company updates or publications from us, we may collect personal information such as your name, email address, city, country, company and role information, and communication preferences to provide you with relevant information about our products and services, or their clinical application, which we believe will be relevant and interesting to you. We may also be obligated to request certain professional identifying numbers in some countries to comply with certain laws.
+We generally provide updates and communications with your explicit consent, however in some countries*, we may do this when we believe you are interested in learning more about our products, events or relevant information about the clinical application of our products based on previous interactions we have had with you in accordance with local law.
+When you use our website or subscribe to email marketing and updates, we may collect certain online or technology information e.g. IP address, device identifiers and information, browser information and cookie information about online usage and preferences. More information about online technologies and information we collect on our website is in section 9. Use of online & web technologies.
+*Countries may include: United States, New Zealand, India, Indonesia, South Korea, Taiwan, Columbia, Mexico
+8.2 Why we need to collect it
+We collect and use your personal information to provide you with relevant information and updates about therapies we support, our products and services, or clinical applications of our products which we believe will be relevant and interesting to you. We do this to process your requests for marketing or promotional communications, or when we legitimately believe you have expressed an interested in this type of communication based on prior interactions.
+8.3 How we collect and use it
+We collect your personal information when you request and subscribe for marketing and updates, information about our products and services, download resources from our website, or interact with us (or one of our representatives) at education events or conferences.
+We collect and use information about your marketing preferences only if you choose to provide this when you subscribe to our marketing channels or update your communication preferences. You can update these, or opt out, at any time. Information about your type of role or country is used to help identify content that may be relevant to you.
+If you receive marketing communications, we will keep your information for two (2) years before we ask you to confirm whether you want to continue hearing from us. If you do not confirm your subscription or preferences, we will delete your information for marketing communications purposes. You can re-subscribe at any time.
+8.4 What we share
+We do not sell or share your personal information with any third parties for any purpose. In the event we need to use third-party services to support our marketing or promotional activities, we endeavour to implement privacy by design principles and have technical, organisational and legal safeguards to protect your personal information and use it respectfully.
+9. ONLINE & WEB TECHNOLOGIES AND MOBILE APPLICATIONS
+This section generally applies to anyone who may use our websites, other online or Mobile Applications, or receives marketing updates.
+9.1 What we collect
+When you use and interact with our website, online services (including the F&P Services platform), Mobile Applications, surveys, and online customer experience tools we may collect certain personal information relating to you or your interaction. This may include your IP address, device identifier and information, session ID, pages or content visited, time spent on pages or content visited, online preferences, and information relating to cookies. For the F&P Services platform, we may also collect relevant information about you and your device, such as the date of device purchase, for the purposes of maintaining warranty records.
+Many of our Mobile Applications are for informational purposes only and do not collect any personally identifiable information. For the F&P SleepStyleTM and F&P myMaskTM Mobile Applications, please refer to the Privacy Policy of your Mobile Application for further information about what we collect.
+We recognise cookies and other similar online technologies typically fall within certain categories based on their purpose and the information they collect and use. We describe categories of cookies we may use below.
+We endeavour to de-identify all personal information on collection or prior to processing or use, and only in accordance with our Global Privacy Procedure and as described here, in this Global Privacy Statement. We will implement other reasonable privacy protection measures where appropriate to support your online privacy interests.
+Type / Purpose of cookie
+Commonly used for
+F&P websites and applications
+Marketing communication and activities
+To support F&P business activities
+Strictly necessary cookies
+– for the essential and proper functioning of a website. Without the website or application will not be able to function securely or as intended.
+✓
+✓
+Not applicable
+Performance cookies
+– de-identified information to support performance. Usually involves operating, statistical and diagnostic information to support either:
+performance and use of websites and applications.
+user experience by applying your expressed preferences for a reasonable timeframe (e.g. to avoid repetitive actions and content; language settings across the website).
+support maintenance, developments and improvements of websites and applications.
+✓
+✓
+✓
+Targeted content / marketing cookies –
+to support personalised content and advertising directly provided by F&P on F&P websites, Mobile Applications, products or services, marketing and updates, events, education or other activities.
+✗
+✗
+✗
+9.2 Why we need to collect it
+To enable access and a good experience with our website, online applications or Mobile Applications, we need to process certain information about how you connect and interact with us. This includes conveniently offering the appropriate local language based on the region you are connecting from, to provide mobile or internet browser accessibility, or to remember your online preferences if you visit us again soon.
+To the extent cookies or similar online technologies are used, they are typically based on the purposes in the table above. We will notify you and collect your explicit consent as required by applicable law regarding online and web technologies that we may operate.
+Many of our Mobile Applications are for informational purposes only and do not collect any personally identifiable information. For the F&P SleepStyleTM and F&P myMaskTM Mobile Applications, please refer to the Privacy Policy of your Mobile Application for further information about why we collect your personal information.
+Please note. It is possible third party cookies collect information about you while you interact on our website that we cannot control. You may be able to stop the use of targeted or third party cookies by disabling these in your browser.
+9.3 How we collect and use it
+Information associated with cookies or similar technologies from cookies on our websites and application may be collected and used (if applicable) automatically. Information is anonymised where reasonably possible. Specific information may be detected and used in real-time for the purpose of determining access or service requirements, but is not otherwise stored or used by us (e.g. whether you are connecting from a mobile browser or what country you connecting from). Cookies and similar technologies which we control and manage expire according to local law and no longer than 25 months.
+Cookies, as described above, may be used to support the following activities. These include:
+F&P Healthcare websites and online applications.
+The information collected and used from these services is intended to be anonymous by design, particularly the use of cookies and similar technologies. However, if you submit an inquiry form or request marketing or educational material from us and choose to submit your personal information on our website then we may collect your personal information.
+Marketing communication subscriptions and activities.
+When you subscribe to receive email marketing from us, we may collect information relating to your interaction with our marketing communications using cookies to understand whether our email campaigns have been effectively delivered and to support e-marketing obligations and necessary supporting activities. This information may be necessary to manage or support our marketing activities and record-keeping obligations (refer to section 8. Marketing).
+Information to support other business activities.
+We may use anonymised information relating to statistical, performance or diagnostic information to inform our business activities. This includes administration and service support and improvements.
+Please note, clearing or deleting your cookies from your browser will not delete the information we may have about you. If you have concerns about identifiable online and web-based information we may have about you, please contact us.
+Many of our Mobile Applications are for informational purposes only and do not collect any personally identifiable information. For the F&P SleepStyleTM and F&P myMaskTM Mobile Applications, please refer to the Privacy Policy of your Mobile Application for further information about how we collect and use your personal information.
+9.4 What we share
+We do not sell or share your personal information used for marketing or communications with any third parties for any purpose. In the event we need to use third-party services to support marketing activities which involve targeted content / marketing cookies, we endeavour to implement privacy by design principles and have technical, organisational and legal safeguards in place to respect your privacy for the possible sharing of personal information. In limited circumstances, and only with your consent, our Mobile Applications may share data with your Healthcare Provider to support the provision of products and services related to your care. Please refer to the Privacy Policy of your Mobile Application for further information about this.
+10. JOB SEEKERS & RECRUITMENT
+This section generally applies to Job Seekers.
+10.1 What we collect
+During our recruitment process we may collect your personal information that you provide us as a prospective employee, including your name(s), address, email address, phone number, education degree(s) and transcript(s). We may also collect information in connection with your professional life that you provide us, such as your CV, current and previous job position(s), contact details of former employers for references, and any other information you choose to provide as part of your application for employment, as permitted by applicable law. We may collect or review information about you that is publicly available, e.g. LinkedIn. Depending on the role you have applied for, we may also collect information relating to your background, such as a criminal background check and/or a personal financial/credit check. We will only collect information relating to your references and contact them with your consent. We will also only perform third party background checks with your express consent. Our recruitment processes vary according to the location of our office operations in accordance with applicable local law.
+10.2 Why we need to collect it
+We need to process your personal information to review and process your application as a prospective employee in line with our recruitment process and assess whether you would be a good fit for the role you have applied for and our culture and values.
+10.3 How we collect and use it
+We collect and use recruitment information in accordance with applicable law. We will collect your information as a job applicant directly from you wherever possible. However, we may also collect it from a trusted third-party whom you have authorised to share your personal information, such as:
+Recruitment agencies.
+Relevant sources of public information, e.g. LinkedIn.
+Previous and current employers, colleagues and customers to confirm your employment or as a reference.
+Agencies which perform background checks e.g. financial/credit, criminal.
+Your personal information is kept for as long necessary to complete the recruitment process for the role you have applied for. Applicant information for successful individuals will be retained as part of the applicant’s new Employee record and kept in accordance with applicable internal Employee Privacy Statements and HR policies and procedures. Unsuccessful application information may be stored for up to two (2) years, depending on local law, to support our compliance obligations and to support necessary recruitment activities (e.g. ensuring our processes are fair and effective, or to support an application for another job opportunity in the near future). It is possible we may retain unsuccessful applicant information for longer than two (2) years if we have a legal requirement to do so or have a necessary and legitimate business need.
+With your consent, you may choose for us to store your application information within our talent pool for up to two (2) years to evaluate your fit for other job opportunities, and to contact you about these.
+10.4 What we share
+We may share personal information within our group entities to support our recruitment process and to assess whether you would be a good fit for the role you have applied for. Information may be shared with other group entities for unsuccessful applicants who have consented to us retaining their information in case there are vacancies within our other entities which they may be suitable for and are interested in. We do not sell your personal information to any third parties.
+11. SHAREHOLDERS
+This section generally applies to Shareholders.
+11.1 What we collect
+We may collect the identity and contact information of Shareholders and prospective shareholders. We may have access to information regarding the number of shares a shareholder account may hold and the previous history of shares purchased and sold. We do not collect or hold any other financial information of Shareholders.
+11.2 Why we need to collect it
+To provision and manage shares, we may need to collect the identity and contact information of Shareholders and prospective shareholders.
+We may use contact information relating to our Shareholders to provide regular, relevant company updates and information about the company’s performance.
+11.3 How we collect and use it
+We may use your personal information to respond to your queries and to communicate with you as necessary. We keep Shareholder information for as long as necessary to fulfil the purposes for which the information was collected and in accordance with our legal requirements.
+We use trusted third-parties to manage Shareholder dividends and to perform investor and market analysis. We use information gathered by these third parties to provide company updates, annual reports and to hold Shareholder meetings. If you are a current Employee who owns shares, please see our internal Employee Privacy Statement or relevant Employee share information resources to understand how we collect and use your personal information as a Shareholder.
+11.4 What we share
+We may share personal information relating to our Shareholders with our trusted third-parties to facilitate the management of their shareholding. We do not sell your personal information to any third parties.
+12. VISITING OUR F&P HEALTHCARE OFFICES AND MANUFACTURING, WAREHOUSE OR DISTRIBUTION SITES
+This section applies anyone who may visit our physical premises.
+12.1 What we collect
+When you visit our business premises, we may collect personal information relating to your name, contact information, role and employer (if visiting for a business purpose), image (photo) for identification purposes, car registration and the day and time you are onsite if you visit any of our offices, manufacturing, warehouse or distribution sites. Some of our sites may capture CCTV footage of the premises.
+12.2 Why we need to collect it
+As a medical device manufacturer and distributor, we have global regulatory and legal obligations to record information relating to any visitors or non-authorised individuals on our premises. We have health and safety obligations regarding our medical devices and for individuals on our premises which require information relating to who you are in the event of an emergency.
+We also need to protect our facilities, our Employees and our business. This means we need to provide appropriate security measures. This may include the use of CCTV on our premises.
+12.3 How we collect and use it
+We may collect your name, contact information, information about your role and employer (if visiting for a business purpose), car registration and image directly from you when you arrive at one our offices, manufacturing, warehouse or distribution sites and sign in at reception. This is only used if necessary to support our obligations as a global medical device manufacturer, visitor health and safety, and security. We may collect CCTV recordings or images of you at any time while you are on our business premises. Where CCTV may be used, appropriate signage will generally be available either on entry to our premises or in more specific locations within our premises. In line with our policies and procedures, there may be some cases where CCTV signage may not be visible to support our other obligations or necessary and legitimate business interests.
+Visitor and onsite information is stored securely and kept for a maximum of twelve (12) months or as permitted by local law.
+12.4 What we share
+We do not share or sell your personal information to any third parties. To the extent that third-party service providers may be engaged to support these activities, we endeavour to ensure they exercise and implement appropriate security and confidentiality safeguards, in accordance with our business practises. We may share your personal information within our group companies where necessary to support us meeting the obligations outlined above.
+13. OTHER USES OF DEVICE AND SERVICE DATA
+This section generally applies to End-users and Customers.
+13.1 What we collect
+Some F&P devices or accompanying services (such as Device Manager, InfoSmart WebTM or Mobile Applications) may use or share device and service data (Other Data) that is not strictly related to its performance. If applicable, the nature of what personal information is included will vary on a case by case basis and you should refer to the relevant device, service or Mobile Application documentation and notices for further information.
+13.2 Why we need to collect it
+If Other Data is collected, this will be in accordance with applicable laws, medical device regulations, and internal privacy procedures (this includes the use of de-identification and anonymisation controls, and privacy risk management). To the extent Other Data may involve personal information, information will be de-identified where reasonably possible.
+Your information, in addition to device or service data, may be collected where required to:
+Fulfil your request (with your consent for use of your identifiable information where applicable) for:
+Communications relating to research opportunities.
+Communications for news and updates.
+Personalised services, based on F&P device data, End-user therapy notes or interests, or other F&P services.
+To share identifiable data relating to F&P devices, accompanying service(s) or other information sharing to support research and improvement opportunities.
+Perform regulatory post-market surveillance activities to monitor trends or reports relating to performance to support ongoing device effectiveness.
+Perform proactive device performance and maintenance support so that devices continue to perform efficiently (e.g. providing firmware updates and keeping record of firmware versions for use in the event of a product recall).
+Support research and product improvement opportunities using aggregate, de-identified or anonymised data.
+13.3 How we collect and use it
+How Other Data is collected and used will depend on the F&P devices and accompanying services that you use, and what you consent and agree to use and share with us. You should review the relevant device, service or Mobile Application documentation and notices to confirm how we collect and use Other Data.
+13.4 What we share
+We may share Other Data within our group companies to administer and fulfil the purposes defined above. In some circumstances or locations, we may share information with trusted third party service providers who help us provide these services.
+For device management and support, some data may be shared with the Distributor or Dealer for the purpose of technical support and management (e.g. firmware updates, servicing). As an End-user, if you consented to share Other Data or receive certain personalised service options, then Other Data may be shared with your Healthcare Provider to support this. If applicable, they are responsible for managing your personal information and collecting your consent or providing notice if this may occur.
+14.	EUROPEAN UNION DATA ACT
+This section applies to anyone who may be considered a “user” of a “connected product”, as those terms are defined in the European Union Data Act (Regulation 2023/2854). This may include End-users and Customers.
+14.1 What you need to know
+We manufacture a variety of medical devices each with different functionality. Some of the devices we manufacture may be considered a “connected product” under the European Union Data Act (Data Act).  We comply with the Data Act by making certain data available to users of the device and third parties of their choice.  For more information about how users can access and retrieve data, please visit
+fphcare.com/datahub
+.
+Note: The European Union General Data Protection Regulation (GDPR) remains fully applicable to all personal data processing activities under the Data Act. In the event of a conflict between the GDPR and the Data Act, the Data Act states that GDPR rules on the protection of personal data shall prevail.
+Close
+Search
+Search
+Common search terms
+Sleep Apnea Masks
+Optiflow™
+Contact Us
+Sleep Apnea Masks
+Optiflow™
+Contact Us
+Common search terms
+Sleep Apnea Masks
+Optiflow™
+Contact Us
+Sleep Apnea Masks
+Optiflow™
+Contact Us
+Common product searches
+AIRVO™ 2
+myAIRVO™ 2
+F&P Eson™ 2 Nasal Mask
+F&P Simplus™ Full Face Nask
+CPAP Devices
+AIRVO™ 2
+myAIRVO™ 2
+F&P Eson™ 2 Nasal Mask
+F&P Simplus™ Full Face Nask
+CPAP Devices
+Common product searches
+AIRVO™ 2
+myAIRVO™ 2
+F&P Eson™ 2 Nasal Mask
+F&P Simplus™ Full Face Nask
+CPAP Devices
+AIRVO™ 2
+myAIRVO™ 2
+F&P Eson™ 2 Nasal Mask
+F&P Simplus™ Full Face Nask
+CPAP Devices
+Select your region
+Australia
+Brazil
+Canada
+Canada (français)
+Deutschland
+España
+France
+India
+Italiano
+日本
+한국
+New Zealand
+Россия
+United Kingdom
+United States
+You are on our US website
+Go to fph. website
+Stay on the US website

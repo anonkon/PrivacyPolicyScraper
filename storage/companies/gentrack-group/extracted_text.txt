@@ -1,0 +1,235 @@
+Privacy Notice
+Last update: 31 December 2025
+1. Introduction................................................................................................ 2
+2. How we collect personal data .................................................................... 2
+2.1. Personal data we collect directly from you: ................................................... 2
+2.2. Personal data we collect from other sources ................................................. 3
+3. How we use personal data ......................................................................... 3
+4. How we share your personal data .............................................................. 4
+5. Where is your data transferred ................................................................... 5
+5.1. Transfers within Gentrack Group ..................................................................... 5
+5.2. Transfer from the European Economic Area (EEA)
+and the UK to other countries .................................................................................... 5
+5.3. Transfers from outside European Economic Area (EEA)
+and the UK to other countries .................................................................................... 5
+6. How we secure your personal data ............................................................ 5
+7. What are your privacy rights and choices ................................................... 6
+8. How long do we keep your personal data .................................................. 6
+9. Data Protection Officer ............................................................................... 6
+10. Other important privacy information ......................................................... 7
+10.1. Disclaimer .......................................................................................................... 7
+10.2. Children's privacy ............................................................................................. 7
+10.3. Changes to Privacy Notice ............................................................................... 7
+11 11111111
+
+1. Introduction
+Gentrack Group Ltd. and its affiliates (“Gentrack”, “we” or “us” or “our”) respects your privacy and
+recognises the importance of protecting any personal data that we may hold. This notice (“Privacy
+Notice”) sets out our policies and principles regarding the use of personal data that you may
+provide. It also outlines how we use personal data that we may receive from third parties.
+This Privacy Notice does not apply when we process personal data of individuals on behalf of our
+customers as a “data processor”. When we collect personal data from a Gentrack customer, we
+do so on their behalf, solely to assist them in providing you with products and services. We do not
+use this personal data for our own purposes. Such data is processed in accordance with the terms
+of our contract with our customers.
+This Privacy Notice also does not apply to the personal data of our employees, which is governed
+by separate internal policies.
+2. How we collect personal data
+2.1. Personal data we collect directly from you:
+Category Personal Data Collected
+When you Contact information* when you submit web forms or interact with our
+interact with our websites, for example requesting a demo or subscribing to news
+website updates.
+When you interact with us, we may also collect usage data. Usage data
+includes metrics and information regarding your use and interaction
+with our website.
+When you use Contact information* or any other personal data related to you or your
+our software employer’s business relationship with Gentrack or any other personal
+applications as data that your employer may provide as part of utilising Gentrack’s
+an employee or products, services and offerings.
+a representative
+of our We may also collect usage data. Usage data includes metrics and
+customers information regarding your use and interaction with our applications
+and services.
+When you Contact information* and any other information provided by you as a
+apply for a job prospective candidate on your curriculum vitae (CV), résumé, cover
+with us letter, and application forms.
+When you use Contact information*, usernames, passwords, profile pictures, and
+our services tokens.
+When you are a Contact information*, bank account details, payment information, and
+supplier or a billing records necessary for processing payments.
+vendor
+providing
+services to us
+11 11111112
+
+When you visit CCTV footage at entry and exit for security purposes, as well as basic
+our offices information like name and photo for the entry pass or as updated on
+the visitor management software.
+When a Name, relationship to the employee, phone number, and email address
+Gentrack of the emergency contact.
+employee
+provides or
+updates you as
+an emergency
+contact
+*Contact information may include name, job title, company name, address, phone number, email address, other
+information you have voluntarily chosen to share
+2.2. Personal data we collect from other sources
+We collect certain information about you automatically when you use our website with cookies.
+Cookies allow us to record certain information about you when you use our website, including
+details of your domain name, IP address, operating system, and browser. This helps us to
+understand your use of this website and enable the monitoring and improvement of the site to
+optimise your experience. If you would prefer to block cookies, please refer to the instructions or
+help service on your internet browser. Please also refer to our Cookie Policy.
+When using our website, you may be directed to other sites that are beyond our control and there
+are links to other sites outside our service. We are not responsible for these sites, and you should
+read the privacy statements of any new site you visit.
+3. How we use personal data
+We process your personal data when you have given consent, or for fulfilment of a lawful contract
+or when Gentrack is of the opinion that processing of personal data is necessary for the purposes
+of legitimate interests of the organisation such as:
+▪ To provide services and support our IT solutions, manage customer relationships, and
+ensure compliance with contractual obligations including customer support.
+▪ To facilitate security, fraud prevention, performance monitoring, business continuity and
+disaster recovery.
+▪ To evaluate suitability for employment, communicate during the recruitment process, and
+keep records of applications.
+▪ To ensure the safety and well-being of Gentrack employees in case of emergencies.
+▪ General management and reporting purposes, such as invoicing, processing payments
+and account management.
+▪ To manage investor relations, fulfil regulatory requirements, and communicate regarding
+financial performance along with processing dividend payments, managing proxy voting,
+and providing access to shareholder resources.
+▪ To ensure the security and safety of our premises, employees, and visitors, and to manage
+visitor registration and access to our facilities;
+11 11111113
+
+▪ To enhance website functionality, personalise user experience, and analyse website
+usage.
+▪ To send newsletters, promotional emails, market research, telecom marketing.
+▪ For research and development of new products and services.
+Direct Marketing
+Excluding personal data, we collect from visitors (who visit our offices) and prospective
+candidates, we may use your personal data for direct marketing purposes.
+We will provide you with a choice to opt-out of any of our marketing communications. We will
+respect your request to decline to receive these marketing communications however we may
+continue to use your contact details to provide you with important information, such as changes
+to this Privacy Notice or if we need to tell you something to comply with any regulatory
+obligations.
+4. How we share your personal data
+We may share your personal data with the following parties:
+• Group companies: Other companies within the Gentrack Group for the purpose stated
+earlier.
+• Service providers: Service providers acting as processors who provide IT and system
+administration services, subcontractors or agents for providing services to you and for the
+purposes that we specify. Where a service provider is used for these specified reasons,
+your personal data is transferred only where there is a need to do so, and such service
+providers have agreed to maintain the confidentiality and security of information,
+including any personal data, that we share with them and will adhere to relevant data
+protection laws.
+• Statutory or regulatory obligations: to the extent necessary to fulfil legal, statutory or
+regulatory requirements
+• In the event of a sale, merger, or acquisition of our company, or during a dissolution,
+liquidation, administration, receivership or other form of insolvency, you agree that your
+personal data collected by us may be disclosed to and transferred to the prospective
+buyer, transferee, insolvency practitioner or other relevant third parties involved in the
+transaction. These actions are taken to ensure continuity of service and to comply with
+legal and regulatory obligations.
+• We may disclose your personal data in response to lawful requests by public
+authorities, including to meet national security or law enforcement requirements. Such
+disclosures will only be made when necessary and in accordance with applicable laws and
+regulations, ensuring that your personal data is fully protected possible while complying
+with governmental or regulatory obligations.
+• We will not sell, distribute, lease or share your personal data to third parties unless we
+are required to do so by law, a regulator, rules of applicable stock exchange or during the
+course of legal proceedings.
+11 11111114
+
+5. Where is your data transferred
+5.1. Transfers within Gentrack Group
+Your personal data may be transferred to, stored, and processed by entities within the Gentrack
+Group that are in the countries outside of your country of residence, including but not limited to
+the United Kingdom (UK), Australia, New Zealand, Singapore, the European Economic Area
+(EEA), the Kingdom of Saudi Arabia, Israel, and India. These internal transfers amongst the group
+of companies are governed by data processing agreements (DPAs), standard contractual clauses
+(SCCs) or similar intra-group agreements which ensure that your personal data receives an
+adequate level of protection, regardless of where it is processed. We ensure that your personal
+data is protected by requiring all our group companies to follow the same rules when processing
+your personal data.
+5.2. Transfer from the European Economic Area (EEA) and the
+UK to other countries
+Some of our service providers that provide services to us under a contract are in countries that
+may not have privacy and data protection laws equivalent to those in your country of residence.
+For personal data transferred outside the EEA and UK to countries without an adequacy
+decision, we undertake necessary transfer impact assessments. We protect your personal data
+by using model contracts approved by the European Commission and the UK ICO where
+necessary, ensuring it receives the same level of protection as in Europe and the UK.
+5.3. Transfers from outside European Economic Area (EEA) and
+the UK to other countries
+We may transfer your personal data to service providers operating in other jurisdictions for the
+purposes specified by Gentrack and only for the reasons stated above. Before any such transfer,
+we ensure that these service providers have appropriate safeguards in place to protect your
+personal data in compliance with applicable data protection laws. Additionally, we ensure that
+the received party has both contractual obligations and necessary technical and organisational
+measures in place.
+6. How we secure your personal data
+Gentrack is an ISO/IEC 27001:2022 certified organisation.
+At Gentrack, we are committed to safeguarding your personal data against all internal and
+external threats, whether deliberate or accidental, as well as unauthorised disclosure, access and
+other forms of unlawful processing. We implement reasonable, technical and organisational
+controls to secure your personal data.
+In addition, we limit access to your personal data to those employees, agents, contractors, and
+other third parties who are bound by confidentiality and only on a need-to-know basis.
+11 11111115
+
+7. What are your privacy rights and choices
+Depending upon your location and in accordance with applicable laws, you may have certain
+rights regarding the personal data we collect or maintain about you. Please note these rights are
+not absolute and are governed by applicable law in the jurisdiction you are located. You may have
+the right to:
+• Request access to your personal data.
+• Request correction of your personal data.
+• Request erasure of your personal data.
+• Object to the processing of your personal data.
+• Request restriction of processing your personal data.
+• Request to transfer/port your personal data.
+• Withdraw processing of personal data from automated individual decision-making,
+including profiling.
+• Withdraw consent at any time where we are relying on consent as a lawful basis to process
+your personal data.
+If you wish to exercise any of the rights set out above, please contact us at
+dataprivacy@gentrack.com
+If you are from the European Union (EU) or the European Economic Area (EEA) then you have the
+right to complain to a data protection authority about any violation under General Data Protection
+Regulation (GDPR). Contact details for data protection authorities in the EEA are available here.
+You can exercise these rights by contacting the data protection authority in the country where you
+reside, where you work, or where the alleged infringement occurred.
+8. How long do we keep your personal data
+When information is no longer required for business purposes, it shall be retained in line with
+legal, regulatory, or contractual requirements. Where the retention threshold has been met, it
+shall be destroyed in a manner commensurate with the classification and sensitivity of the data to
+ensure there is no possibility of compromise.
+9. Data Protection Officer
+If you have any questions about this Privacy Notice or our privacy practices including any requests
+to exercise your privacy rights, including any access to this notice in a different format, please
+contact the Data Protection Officer (DPO) by emailing us at dataprivacy@gentrack.com
+You may also contact us by postal mail at:
+Gentrack Data Protection Officer,
+203 Eversholt Street, London, NW1 1BU
+When you contact us, please indicate in which country and/or state you reside.
+11 11111116
+
+10. Other important privacy information
+10.1. Disclaimer
+By providing your personal data to us, you consent to us processing your personal data in the
+manner set out in this Privacy Notice and you accept that Gentrack will take reasonable steps
+to ensure those recipients comply with the necessary data protection legislations.
+10.2. Children's privacy
+Gentrack does not knowingly or intentionally collect personal data about children below the
+age of 18. If you believe that we have collected personal data about a child under 18 then
+kindly let us know and we will take steps to delete such information.
+10.3. Changes to Privacy Notice
+Gentrack may make amendments to this Privacy Notice at any time for any reason. We will
+publish any updated Privacy Notice on our website – www.gentrack.com.
+11 11111117

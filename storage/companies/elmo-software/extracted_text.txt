@@ -1,0 +1,170 @@
+Data Privacy and Protection Policy | ELMO Software
+Home
+>
+Data Privacy & Protection Policy
+Data Privacy & Protection
+Policy
+Last updated: 2 October 2024 | Version: 1.4
+POLICY
+This Data Privacy & Protection Policy applies to ELMO Software’s applications, mobile app (ELMOHR) and platform (collectively, the “Services”), elmosoftware.com.au and other ELMO websites (collectively, the “Websites”) and other interactions (e.g., customer service inquiries, user conferences, etc.) you may have with ELMO Software and its subsidiaries.
+This Data Privacy & Protection Policy does not apply to any third party applications or software that integrate with the Services through the ELMO Software platform (“Third Party Services”), or any other third party products, services or businesses. In addition, a separate agreement governs delivery, access and use of the Services (the “Software as a Service Agreement”), including the processing of any messages, files or other content submitted through Services accounts (collectively, “Customer Data”).
+The organisation (e.g., your employer or another entity or person) that entered into the Software as a Service Agreement (“Customer”) controls their instance of the Services and any associated Customer Data. If you have any questions about specific settings and privacy practices, please contact the Customer who has provided you with access to the ELMO Services.
+Unless you notify us otherwise, we will assume that you have consented to the collection of all information which is provided to us for use in accordance with this Privacy Policy.
+INFORMATION WE COLLECT AND RECEIVE
+Personal information is information or an opinion about an individual, or an individual who is reasonably identifiable, whether true or not and whether recorded in material form or not. We may collect and receive your personal information in a variety of ways including where it forms part of the Customer Data that is collected and received through a Customer’s use of the Services, and where it forms part of the information and data we receive in other ways (“Other Information”):
+Customer Data
+The ELMO Services may be used by Customers to collect personal information relating to the following categories of persons:
+Authorised Users;
+Employees of Customer;
+Consultants of Customer;
+Contractors of Customer;
+Job Candidates of Customer;
+Agents of Customer; and
+Third parties with which Customer conducts business.
+Customers or individuals granted access to ELMO  Software services (application, mobile or platform) (“Services”) by a Customer (“Authorised User”) routinely submit Customer Data to ELMO Software when using the Services. The types of Customer Data that the Customer may upload or submit (typically determined and controlled by the Customer in its sole discretion) may include the following personal information:
+Data required for the management of relationships with current, potential or past employees and performance and management of employment agreements;
+Contact information (name, aliases, address, email address, telephone numbers, fax numbers, time zone, location, etc.);
+Passport and driving licence data (number, nationality, date of birth, gender, marital status, etc.);
+Personal characteristics data (age, gender, nationality, marital status, etc.);
+Tax identification details, including Tax File Number (Australia), IRD Number (New Zealand) or National Insurance Number (United Kingdom);
+Superannuation (Australia), Kiwisaver (New Zealand) or Pension Fund data (United Kingdom)
+Employment data (employee number, job title/position, business unit, department, cost center, seniority, supervisor name, notice period, resignation date, date of death, headcount information, tax information, rehire reason and recommendation etc.);
+Biographical data (work experience, previous employments, assignments, references, educational degree, honours, etc.);
+Information contained in CV;
+Emergency contact details;
+Contact details of family members, address and date and place of birth of family member if required;
+Performance and appraisals data;
+Salary, benefits as well as expense data;
+Payroll data, including bank details and tax details; and
+Work time management and absence data
+Other Information
+ELMO Software also collects, generates and/or receives Other Information which may contain personal information. The types of Other Information we collect, generate and/or receive (and the personal information contained therein) includes:
+Usage Information.
+Services Metadata.
+When an Authorised User interacts with the Services, metadata is generated that provides additional context about the way Authorised Users work. For example, ELMO Software logs the features, content and links you interact with, and activity logs for all actions (e.g. assignment, modification, edit, copy, delete) taken by Authorised users when interacting with the Services.
+Log data.
+As with most websites and technology services delivered over the Internet, our servers automatically collect information when you access or use our Websites or Services and record it in log files. This log data may include the Internet Protocol (IP) address, the address of the web page visited before using the Website or Services, browser type and settings, the date and time the Services were used, information about browser configuration and plugins, language preferences and cookie data.
+Device information.
+ELMO Software collects information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers and crash data. Whether we collect some or all of this Other Information often depends on the type of device used and its settings.
+Location information
+. We receive information from you, your Customer and other third-parties that helps us approximate your location. We may, for example, use a business address submitted by your employer, or an IP address received from your browser or device to determine approximate location.
+Cookie Information.
+ELMO Software uses cookies and similar technologies in our Websites and Services that help us collect Other Information. The Websites and Services may also include cookies and similar tracking technologies of third parties, which may collect Other Information about you via the Websites and Services and across other websites and online services.
+Third Party Data.
+ELMO Software may receive data about organisations, industries, Website visitors, marketing campaigns and other matters related to our business from parent corporation(s), affiliates and subsidiaries, our partners or others that we use to make our own information better or more useful. This data may be combined with Other Information we collect and might include aggregate level data, such as which IP addresses correspond to zip codes or countries. Or it might be more specific, for example, how well an online marketing or email campaign performed.
+Additional Information Provided to ELMO Software.
+We receive Other Information when submitted to our Websites or if you participate in a focus group, contest, activity or event, apply for a job, request support, interact with our social media accounts or otherwise communicate with ELMO Software.
+Generally, no one is under a statutory or contractual obligation to provide any Customer Data or Other Information (collectively, “Information”). However, certain Information is collected automatically and, if some Information, such as basic user profile level information (e.g., name, email address), is not provided, we may be unable to provide the Services.
+HOW WE USE INFORMATION
+Customer Data will be used by ELMO Software in accordance with Customer’s instructions, including our Terms and Conditions and any applicable terms in the Software as a Service Agreement and Customer’s use of Services functionality, and as required by applicable law. Key services may be provided by ELMO resources located in Australia, New Zealand, the United Kingdom, and the Philippines.
+ELMO Software is a processor of Customer Data and Customer is the controller. Customer may, for example, use the Services to grant and remove access to the application, assign roles and configure settings, access, modify, export, share and remove Customer Data and otherwise apply its policies to the Services.
+ELMO Software uses Other Information in furtherance of our legitimate interests in operating our Services, Websites and business. More specifically, ELMO Software uses Other Information:
+To provide, update, maintain and protect our Services, Websites and business.
+This includes use of Other Information to support delivery of the Services under a Software as a Service Agreement, prevent or address service errors, security or technical issues, analyse and monitor usage, trends and other activities or at an Authorised User’s request.
+As required by applicable law, legal process or regulation.
+To communicate with you by responding to your requests, comments and questions.
+If you contact us, we may use your Other Information to respond.
+To develop and provide additional features and improvements to functionality.
+ELMO Software tries to make the Services as useful as possible for our Customers and their Authorised Users. For example, we may improve search functionality by using Other Information to help determine and rank the relevance of content, channels or expertise to an Authorised User, make Services suggestions based on historical use and predictive models, identify organisational trends and insights, to customise a Services experience or create new features or improvements or develop new products.
+To send emails and other communications.
+We may send you service, technical and other administrative emails, messages and other types of communications. We may also contact you to inform you about changes in our Services, our Services offerings, and important Services-related notices, such as security and fraud notices. These communications are considered part of the Services and you may not opt out of them. In addition, we sometimes send emails about new product features, promotional communications or other news about ELMO Software. These are marketing messages so you can control whether you receive them.
+For billing, account management and other administrative matters.
+ELMO Software may need to contact you for invoicing, account management and similar reasons and we use account data to administer accounts and keep track of billing and payments.
+To investigate and help prevent security issues and abuse
+.
+If Information is aggregated or de-identified so it is no longer reasonably associated with an identified or identifiable natural person, ELMO Software may use it for any business purpose. To the extent Information is associated with an identified or identifiable natural person and is protected as personal data under applicable data protection law, it is referred to in this Data Privacy & Protection Policy as “Personal Data.”
+DATA RETENTION
+ELMO Software will retain Customer Data in accordance with a Customer’s instructions, including any applicable terms in the Software as a Service Agreement and Customer’s use of Services functionality, and as required by applicable law.
+ELMO Software may retain Other Information pertaining to you for as long as necessary for the purposes described in this Data & Protection Privacy Policy. This may include keeping your Other Information after you have deactivated your account for the period of time needed for ELMO Software to pursue legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes and enforce our agreements.
+HOW WE SHARE AND DISCLOSE INFORMATION
+This section describes how ELMO Software may share and disclose Information. Customers determine their own policies and practices for the sharing and disclosure of Information, and ELMO Software does not control how they or any other third parties choose to share or disclose Information.
+Customer’s Instructions.
+ELMO Software will solely share and disclose Customer Data in accordance with a Customer’s instructions, including any applicable terms in the Software as a Service Agreement and Customer’s use of Services functionality, and in compliance with applicable law and legal process.
+Customer Access.
+Owners, administrators, Authorised Users and other Customer representatives and personnel may be able to access, modify or restrict access to Other Information. This may include, for example, an Authorised User’s email address which could be made visible to other Authorised Users within the Customer, or restricted to specific roles (e.g. manager or company admin) or security profiles.
+Third Party Service Providers and Partners.
+We may engage third party companies or individuals as service providers or business partners to process Other Information and support our business. These third parties may, for example, provide virtual computing and storage services. Additional information about the subprocessors we use to support delivery of our Services is set out in the section “Subprocessors”, and a list of subprocessors used by ELMO Software is published on our website:
+https://elmosoftware.com.au/subprocessors
+. In respect of the personal information that ELMO Software collects in Australia, ELMO Software may disclose this personal information overseas to subprocessors located in the countries specified in the list of subprocessors linked above.
+During a Change to ELMO Software’s Business.
+If ELMO Software engages in a merger, acquisition, bankruptcy, dissolution, reorganisation, sale of some
+or
+all of ELMO Software’s assets or stock, financing, public offering of securities, acquisition of all or a portion of our business, a similar transaction or proceeding, or steps in contemplation of such activities (e.g. due diligence), some or all Other Information may be shared or transferred, subject to standard confidentiality arrangements.
+Aggregated or De-identified Data.
+We may disclose or use aggregated or de- identified Other Information for any purpose. For example, we may share aggregated or de-identified Other Information with prospects or partners for business or research purposes, or as part of new product offerings or features provided to Customers which provide anonymised benchmark metrics for comparative performance between Customers.
+To Comply with Laws.
+If we receive a request for information, we may disclose Other Information if we reasonably believe disclosure is in accordance with or required by any applicable law, regulation or legal process. This may include the Notifiable Data Breaches (NDB) scheme contained within the Australian Privacy Act, notifiable privacy breach provisions within the New Zealand Privacy Act, and data breach notification provisions contained within the United Kingdom and/or European Economic Area General Data Protection Regulation (GDPR). For example, where Personal or Sensitive Information is lost or subject to unauthorised access or disclosure and will likely result in serious harm to an individual / risk to the rights and freedoms of natural persons, ELMO Software will take appropriate response action in accordance with applicable law.
+To enforce our rights, prevent fraud, and for safety.
+To protect and defend the rights, property or safety of ELMO Software or third parties, including enforcing contracts or policies, or in connection with investigating and preventing fraud or security issues.
+With Consent.
+ELMO Software may share Other Information with third parties when we have consent to do so.
+SECURITY
+ELMO Software takes security of data very seriously. We take all reasonable steps to ensure that all Customer Data and Other Information is secure and protected from misuse, loss and unauthorised access, modification and disclosure in accordance with our Information Security Statement. This includes the use of technologies and processes such as access control procedures, network firewalls, and encryption to protect the privacy of your personal information. To learn more about current practices and policies regarding security and confidentiality of the Services, please refer to your Software as a Service Agreement, review our Information Security Statement (available here), contact your ELMO Software Account Manager or contact us at
+[email protected]
+.
+CHANGES TO THIS POLICY
+ELMO Software may change this Policy from time to time. Laws, regulations and industry standards evolve, which may make those changes necessary, or we may make changes to our business. We will post the changes to this policy on the ELMO Software website and encourage you to review our Data Privacy & Protection Policy to stay informed. If we make changes that materially alter your privacy rights, ELMO Software will provide additional notice, such as via email or through the Services. If you disagree with the changes to this Data Privacy & Protection Policy, Customers may speak with their ELMO Software Account Manager or contact us at
+[email protected]
+.
+DATA PROTECTION OFFICER
+If you have any queries or complaints with regards to our collection, use or management of your personal information, please contact our Data Protection Officer.
+A: Data Protection Officer
+E:
+[email protected]
+If you make a complaint, we will endeavour to respond to it as soon as possible. If you are dissatisfied with our response, you also have the right to make a complaint to the relevant regulator in your jurisdiction.
+Australia – The Office of the Australian Information Commissioner
+Address:
+Office of the Australian Information Commissioner, GPO Box 5218, Sydney NSW 2001, Australia
+Phone:
+1300 363 992
+Email:
+[email protected]
+Website:
+https://www.oaic.gov.au
+New Zealand – The Office of the Privacy Commissioner
+Address
+: Office of the Privacy Commissioner, PO Box 10094, The Terrace, Wellington 6143, New Zealand
+Phone
+: +64 4 474 7590
+Free Phone (NZ only)
+: 0800 803 909
+Email
+:
+[email protected]
+Website
+:
+https://privacy.org.nz
+United Kingdom – The Information Commissioner’s Office
+Address
+: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom
+Phone:
+0303 123 1113 (local rate) or +44 1625 545 745 (for calls outside the UK)
+Email:
+[email protected]
+Website:
+https://ico.org.uk
+ACCESSING AND CORRECTING YOUR INFORMATION
+Individuals located in certain countries, including the European Economic Area and Australia, have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to Information, as well as to seek to update, delete or correct this Information. You can usually do this using the settings and tools provided in your Authorised User account. If you cannot do so, please contact our Data Protection Officer. You may be required to put your request in writing for security reasons.
+Customers determine their own polices to control the level of access Authorised Users have to directly update or correct information contained within ELMO Cloud HR & Payroll application. In circumstances where Authorised Users do not have permissions to make updates or corrections directly, they may contact the Customer to request the update, correction or removal of Personal Data under their control. ELMO Software personnel have limited ability to access Customer Data. If you wish to make your request directly to ELMO, please contact the Data Protection Officer and provide the name of the ELMO Software Customer who submitted your data on our solution. We will refer your request to that Customer, and will support them as needed in responding to your request within a reasonable timeframe.
+If we refuse to provide you with access to the information, we will provide you with reasons for the refusal and inform you of any exceptions relied upon (unless it would be unreasonable to do so).
+We take reasonable steps to ensure that your personal information is accurate, complete, and up-to-date whenever we collect or use it.  If the personal information we hold about you is inaccurate, incomplete, irrelevant or out-of-date, please contact us and we will take reasonable steps to either correct this information, or if necessary, discuss alternative action with you.
+To the extent that ELMO Software’s processing of your Personal Data is subject to the General Data Protection Regulation, ELMO Software relies on its legitimate interests, described above, to process your data. ELMO Software may also process Other Information that constitutes your Personal Data for direct marketing purposes and you have a right to object to ELMO Software’s use of your Personal Data for this purpose at any time.
+SUBPROCESSORS
+ELMO Software uses certain subprocessors to assist in providing its Services. It works with service providers that have or may have access to or process ELMO Software’s customer data.
+Before engaging any sub-processors, ELMO Software performs strict due diligence to ensure our customer data remain secure and protected, including ensuring our subprocessors satisfy equivalent contractual obligations as those required from ELMO Software as a Processor.
+The list of subprocessors used by ELMO Software is published on our public website:
+https://elmosoftware.com.au/subprocessors
+Ready to unleash your HR potential?
+Get started
+×
+Talk to our team
+Please complete the form below and one of our consultants or authorised partners will be in touch with you shortly.
+×
+Download ELMOHR
+×
+Trying to sign in to your HR platform?
+To access your ELMO HR platform, please contact your HR department to find your company’s unique login page.
+Need help with something else?
+Help Desk Portal for Admins
+Customer Support Options
+Contact Us Form

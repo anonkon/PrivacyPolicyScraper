@@ -1,0 +1,456 @@
+Privacy - Department of Education, Australian Government
+Skip to main content
+Show pages under Using this site
+Using this site
+Copyright
+Disclaimer
+How to use the site
+Privacy
+SMS and Call Costs
+Social media usage and policies
+Terms of use
+Translation services
+Resources
+Listen
+Privacy
+The department's privacy policy embodies our commitment to protecting the personal information we hold.
+On this page:
+Privacy documents
+Complete Privacy Policy
+Guide to Accessing and Correcting Personal Information
+Collection of personal information for our employment purposes
+Privacy Complaint Handling Procedures
+The Department of Education, its employees, contractors and agents (collectively, ‘the department’) is subject to the
+Privacy Act 1988
+(Cth) (the Privacy Act) and to the requirements of the
+Australian Privacy Principles
+(APPs) contained in Schedule 1 of the Privacy Act.
+We also adhere to applicable
+Privacy guidance for organisations and government agencies
+provided by the Office of the Australian Information Commissioner.
+Our privacy policy has been developed in accordance with APP 1 and embodies our commitment to protecting the personal information we hold as set out in our
+Privacy Values
+.
+This webpage contains an abridged version of the complete privacy policy (condensed privacy policy). It also contains information about our privacy impact assessments including our Privacy Impact Assessment Register, and information about how to make a privacy-related complaint and how to contact us about privacy.
+Condensed Privacy Policy
+The complete privacy policy provides more detailed information about:
+the types of personal information that we collect, hold, use and disclose
+our personal information handling practices
+our authority to collect your personal information, why it may be held by us, how it is used and how it is protected
+our use of artificial intelligence
+whether we are likely to disclose personal information to overseas recipients and if possible, to whom and
+how you can access your personal information, correct it if necessary and complain if you believe it has been wrongly collected or inappropriately handled.
+You should read our complete or condensed privacy policy if you are:
+a student
+a parent or guardian
+a child care service provider
+a registered higher education provider
+a tertiary admission centre
+a principal or teacher
+an academic or researcher
+a participant in a program or service delivered by us
+a contractor, grant recipient, consultant, or supplier of goods or services to us
+an applicant for a grant or a tenderer for a contract provided by us
+a policy stakeholder who works with us
+a person whose information may be given to us by a third party, including other Australian Government agencies
+an entrant in a competition conducted by us
+a person seeking employment with us
+a current or past employee of the department or
+any other individual whose personal information we may collect, hold, use and disclose.
+Information we collect and why we hold, use and disclose it
+We are responsible for national policies and programs, which ensure that Australians can experience the wellbeing and economic benefits that quality education provides. The department’s strategic priorities include:
+ensuring quality, affordable and accessible early education and care for families
+improving schooling outcomes for children
+preparing our future workforce through globally competitive tertiary education and research sectors and
+developing a strong evidence base for effective policy that reflects and understands the varied needs of the Australian population, business and industry.
+We collect, hold, use and disclose personal information for a variety of purposes, including:
+performing management, employment and personnel functions in relation to our employees, labour hire workers and contractors (more detailed information can be found in the
+Collection of personal information for employment purposes
+document that supplements the complete privacy policy)
+performing our legislative and administrative functions
+policy development, research and evaluation
+to deliver services to other Commonwealth agencies and so other Commonwealth agencies can provide services, such as ICT services, to the department
+data sharing or data integration with other Australian Government agencies, including but not limited to, data sharing or data integration with the Australian Bureau of Statistics for the Person Level Integrated Data Asset (PLIDA) (formally known as the Multi-Agency Data Integration Project) and the Data Integration Partnership for Australia
+assessing eligibility for Commonwealth financial assistance in relation to higher education students
+complaints handling
+administering requests received by us under the
+Freedom of Information Act 1982
+(Cth) (FOI Act) and the Privacy Act
+preventing, detecting, investigating or dealing with corruption, misconduct and fraud, cyber-attacks against the Commonwealth, or other unlawful activity relating to the Commonwealth. This includes participation in the Fraud Fusion Taskforce, which is a multi-agency partnership working to disrupt fraud and criminal activity, including serious and organised crime
+program management
+maintaining effective working relationships with state and territory governments, non-government education authorities and providers, universities and other relevant stakeholders
+policy advice and other support to our Ministers
+contract management, and
+management of correspondence with the public.
+We only collect, hold, use and disclose personal information for a lawful purpose that is reasonably necessary or directly related to one or more of our functions or activities or where otherwise required or authorised by law.
+We use and disclose personal information for the primary purposes for which it is collected. We will only use your personal information for secondary purposes where we are able to do so in accordance with the Privacy Act.
+Tax file numbers
+The following information is provided to comply with the department's obligation under subrule 14(1) of the
+Privacy (Tax File Number) Rule 2015
+(TFN Rule).
+Purpose of collection
+A tax file number (TFN) is a unique identifier issued by the Commissioner of Taxation. The department may collect TFNs for the following purposes:
+to administer the programs we manage, including but not limited to the Higher Education Loan Programs
+to make payments of salaries and wages to eligible employees and contractors
+to administer child care financial assistance payments.
+The department’s collection of TFNs is authorised under the
+Income Tax Assessment Act 1936
+and the
+Taxation Administration Act 1953
+. You are not legally obliged to quote your TFN, but there may be financial consequences where you choose not to do so.
+Prohibitions and penalties
+Certain Commonwealth legislation prohibits the collection, recording, use and disclosure of TFN information. Further information about prohibitions and penalties is available at part 2.3.2 of the department’s Complete Privacy Policy.
+Privacy notices
+In addition to our complete privacy policy, we may need to explain specific privacy practices in more detail at other times. In such circumstances we develop and provide separate privacy notices to describe how we will handle the personal information that we collect. This separate privacy notice where issued, will detail our personal information handling practices in relation to that particular program.
+Electronic communication
+There are inherent risks associated with the transmission of information over the internet, including via email. You should be aware of this when sending personal information to us via email or via our website or social media platforms. If this is of concern to you then you may use other methods of communication with us, such as post, fax or telephone (although these also have risks associated with them).
+Passive collection
+Your information, including personal information, is collected by a variety of software applications, services and platforms used by your device and by the department to support it to deliver services.
+This type of information collection is ‘passive’ as the department is not collecting this information directly and it does not directly relate to the department’s provision of services. Your consent for your information to be collected and shared in this way is typically obtained at the time you first use an application or service on your device.
+You can opt out of some of these passive data collections, including by:
+disabling / refusing cookies
+disabling JavaScript
+opting-out of Google Analytics
+disabling location services on your device.
+Additional advice regarding how to protect yourself online can be found at
+Stay Smart Online
+.
+Active collection
+The department directly collects some of your information, including personal information, via its website. Generally, this information is collected to enable the department to properly and efficiently carry out its functions and deliver services to you.
+No attempt is made to identify you through your browsing other than in exceptional circumstances, such as an investigation into the improper use of the website.
+Information may be collected by:
+Type of information:
+Information collected to:
+Internet browser
+Cookies
+Google Analytics
+Social media platforms
+Qualtrics
+Your browser type
+Your browser language
+Your server address
+Your location (where location services are enabled on your device)
+Your top level domain name (e.g. ‘.com’, ‘.gov’, ‘.au’, ‘.uk’)
+Date and time you accessed a page on our site
+Pages accessed and documents viewed on our site
+How our website was accessed (e.g. from a search engine, link or advertisement)
+Measure the effectiveness of our content
+Better tailor our content to our audience
+The department
+Name
+Email address
+Phone number
+Education history
+Employment history
+Deliver services to you
+Contact you
+Identify you
+Subscribe you to a service or update you have requested
+Evaluate our programs
+Inform policy development
+Links to external websites and social networking services
+Our website includes links to other websites. We are not responsible for the content and privacy practices of other websites. We recommend that you examine each website's privacy policy separately.
+We also use social networking services such as Facebook, Twitter, Google+, YouTube, Instagram and Yammer to talk with the public and our staff. When you talk with us using these services we may collect your personal information to communicate with you and the public.
+The social networking service will also handle your personal information for its own purposes. These services have their own privacy policies. You can access the privacy policies for these services on their websites.
+Use of Artificial Intelligence
+We use Artificial Intelligence (AI) to improve operational efficiency and assist the department in meeting its mission to ensure access to quality education for all Australians. For example, we use Microsoft Copilot, a tool available in Microsoft digital products. When using AI as part of our general strategy to promote innovation in ways of working, we act consistently with relevant legislation, including the Privacy Act. More information about our use of AI, including its use of Copilot, can be found in our
+AI Transparency Statement
+.
+Disclosure of personal information overseas
+We will on occasion disclose personal information to overseas recipients. The situations in which we may disclose personal information overseas include:
+the publication on the internet of material which may contain personal information, such as departmental reports and other documents; photographs, video recordings and audio recordings and posts and comments on our social media platforms (where consent has been given for this or we are otherwise authorised by law to provide this information)
+the provision of personal information to overseas researchers or consultants (where consent has been given for this or we are otherwise authorised by law to provide this information)
+the provision of personal information to recipients using a web-based service where data is stored on an overseas server, for example, the department may use Mailchimp for email subscriptions (further details on this service can be found in the department’s Complete Privacy Policy)
+the provision of personal information to foreign governments and law enforcement agencies (in limited circumstances and where authorised by law)
+where recipients of departmental communications use an email account that stores data on an overseas server and
+where people post and comment on our social media platforms.
+Further information about the disclosure of personal information overseas is available at part 2.18 of the department’s Complete
+Privacy Policy
+.
+Information collected by our contractors
+Under the Privacy Act we are required to take contractual measures to ensure that contracted service providers (including subcontractors) comply with the same privacy requirements applicable to us.
+Storage and data security
+Storage of personal information (and the disposal of information when no longer required) is managed in accordance with the Australian Government's records management regime.
+We take all reasonable steps to protect the personal information held in our possession against loss, unauthorised access, use, modification, disclosure or misuse.
+Data quality
+We take all reasonable steps to make sure that the personal information we collect and store is accurate, up-to-date, complete, relevant and not misleading.
+Access to and alteration of records containing personal information
+You have a right under the Privacy Act to access personal information we hold about you.
+You also have a right under the Privacy Act to request corrections of any personal information that we hold about you if you think the information is inaccurate, out-of-date, incomplete, irrelevant or misleading.
+It is also possible to access and correct documents held by us under the FOI Act. Further information about how to make an FOI application is available on the
+Freedom of Information
+page. You can also contact our FOI team at
+foi@education.gov.au
+For further detail, including a comparison of both access mechanisms and how you can make a request, please see our
+Guide to Accessing and Correcting Personal Information
+.
+Changes to this condensed privacy policy
+Please note that the condensed privacy policy may change from time to time.
+Last updated: February 2026.
+Privacy Impact Assessments
+A privacy impact assessment (PIA) is a systematic assessment of a project that identifies the impact that the project might have on the privacy of individuals, and sets out recommendations for managing, minimising or eliminating that impact.
+The
+Privacy (Australian Government Agencies – Governance) APP Code 2017
+(Privacy Code) requires us to undertake a PIA in certain instances and to maintain a register of those PIAs from 1 July 2018. In accordance with the Privacy Code, we publish our PIA Register (see below).
+Privacy Impact Assessment Register
+The department’s PIA register has been prepared in accordance with section 15(1) of the Privacy Code.
+Last updated: February 2026
+PIAs completed for the Department of Education's projects since 1 July 2022
+Title
+Date
+Trends in International Mathematics and Science Study (TIMSS) 2027 National Research Coordinator
+February 2026
+Early Education Service Delivery Prices Project
+December 2025
+Commonwealth Teaching Scholarships Program – Round 3
+November 2025
+Tertiary Collection of Student Information (TCSI) Renewal Project – Higher Education Data Analytics Platform
+October 2025
+Education Funding System
+September 2025
+PRISMSMIS Reporting System Redevelopment
+September 2025
+Integrating Higher Education Student data into PLIDA
+August 2025
+Data sharing with IPART and NSW Department of Education for the Independent Market Monitor Review
+July 2025
+Progress in International Reading Literacy Study (PIRLS) 2026
+May 2025
+ICT build for the National Higher Education Code to Prevent and Respond to Gender-based Violence
+May 2025
+SEADpod for sharing of ECEC data
+May 2025
+High Achieving Teachers Program: Phase 2 Expansion Pilots
+March 2025
+Transfer of Australian Early Development Census data to the Centre for Victorian Data Linkage
+February 2025
+International Education Innovation Fund (IEIF) ASEAN Research Collaboration Services
+February 2025
+Early Childhood Education and Care Data Analytics Platform
+January 2025
+Early Childhood Education and Care (ECEC) Worker Retention Payment
+December 2024
+Australian Transaction Reports and Analysis Centre (AUSTRAC) Child Care Sector Integrity measure
+December 2024
+Commonwealth Teaching Scholarships Program – Round 2
+November 2024
+Voluntary Mental Health Check Tool – My Mind Check
+August 2024
+Programme for International Student Assessment (PISA) 2025
+August 2024
+Suburban University Study Hubs Program
+July 2024
+National Industry Phd Program – addendum No.1
+July 2024
+Data sharing agreement between the Department of Education and the Australian Bureau of Statistics
+May 2024
+Fraud Fusion Taskforce
+May 2024
+2024 Early Childhood Education and Care National Workforce Census
+May 2024
+Schools USI
+May 2024
+Integration of PRISMS Data into PLIDA
+May 2024
+Australian Early Development Census (AEDC) data link to the Tas-Connect Research Ready Dataset
+April 2024
+Remediation of Child Care Subsidy debts in relation to absences after care
+March 2024
+Youth Advisory Groups Program
+March 2024
+Commonwealth Regional Scholarship Program
+February 2024
+Commonwealth Teaching Scholarships Program
+October 2023
+Australian Early Development Census link to PeopleWA
+October 2023
+Electronic Payment of Child Care Gap Fees – Exception Provisions and Audit Program
+August 2023
+Productivity Commission Inquiry into Early Childhood Education and Care – Data Sharing
+August 2023
+Early Learning STEM Australia (ELSA) Foundation to Year 2 Program
+July 2023
+National Industry PhD Program
+July 2023
+PRISMS Modernisation Project
+July 2023
+Australian Early Development Census – 2024 Collection
+June 2023
+Australia's Economic Accelerator Program
+April 2023
+Early Childhood and Youth Case Administration and Request Support (ECARS)
+April 2023
+Australian Competition and Consumer Commission Child Care Price Inquiry – Data Sharing
+March 2023
+Piloting Joint Monitoring and Data Sharing Project
+February 2023
+Review of the Impact of COVID-19 on School Students with Disability
+January 2023
+PIAs completed by the then Department of Education, Skills and Employment from 1 February 2020 – 20 June 2022
+Title
+Date
+eSAM
+June 2022
+Migrant Skills Incentive 3 – Employability Assessments
+June 2022
+Automation of Police Checks
+June 2022
+Youth Allowance Data Link Project
+May 2022
+School Leavers Information Service
+March 2022
+Credit Card Risk Indicator Detection Program
+March 2022
+Apprenticeship Data Management System – Release 1.4
+March 2022
+Contact Centre Telephony Genesys
+March 2022
+English Language Learning for Indigenous Children (ELLIC) – go-live phase
+February 2022
+Fraud Prevention Measure
+December 2021
+National Schools Constitutional Convention Expansion Pilot
+December 2021
+UserZoom
+November 2021
+Digital Services Contact Centre Customer Relationship Management System
+November 2021
+Schools USI Project – Options A and B
+October 2021
+Literacy and Numeracy Test for Initial Teacher Education Students (LANTITE)
+October 2021
+Boosting Apprenticeships Commencement – Interim data exchange with the ATO
+October 2021
+Dynatrace
+October 2021
+Apprenticeship Data Management System – Release 1
+October 2021
+Employer Reporting Line
+October 2021
+Provider access to information on the ESSWeb
+September 2021
+Data and Analytics Platform
+September 2021
+PaTH Business Placement Partnerships 2020−2022
+July 2021
+English Language Learning for Indigenous Children (ELLIC) – beta phase
+July 2021
+Phase 1 of the Gateway Project
+June 2021
+Community Child Care Fund (CCCF) Restricted Services Notification of Serious Incident Form
+June 2021
+Elasticity review of Australian Apprenticeship Incentives
+June 2021
+Amendments to the National Vocational Education and Training Regulator Act 2011 to include information sharing provisions
+May 2021
+Data sharing with the ATO for wage subsidy administration
+March 2021
+Literacy and Numeracy Test for Initial Teacher Education Students
+March 2021
+Supporting Apprentices and Trainees Wage Subsidy Measure
+February 2021
+Non-government school census 2020
+January 2021
+English Language Learning for Indigenous Children (ELLIC) – alpha phase
+December 2020
+Solv Safety and Solv Injury Case Management System
+December 2020
+Tuition Protection Service – Up-front payments guidelines
+December 2020
+Commonwealth Scholarships Program for Young Australians
+December 2020
+Time to Work Employment Service
+December 2020
+Data Sharing Project
+December 2020
+Tuition Protection Service Extension
+November 2020
+Unique Student Identifiers Extension Project
+November 2020
+Whispli
+November 2020
+Youth Jobs PaTH Industry Pilots
+November 2020
+Seasonal Worker Programme Regional Pilot
+October 2020
+Capacity to Contribute Score Review Process
+September 2020
+National Vocational Education and Training Regulator Amendment Regulations 2020: National Register details
+August 2020
+PaTH Internship Vacancy and Caseload Qlik App
+August 2020
+PIAs completed by the then Department of Education between 1 July 2018 and 31 January 2020
+Title of PIA
+Completed
+Proposed HESA and VSLA Amendments: impact on the TCSI solution
+December 2019
+SEMS Project (myHELPbalance application and StEME
+December 2019
+Trades Recognition Australia
+Note: This PIA relates to a function that was transferred to the Department of Employment, Skills, Small and Family Business on 29 May 2019.
+June 2019
+NCCD Data Assurance Project
+May 2019
+Schools Census Post-Enumeration Process
+December 2018
+2018 Student Residential Address Collection
+September 2018
+Schools Special Circumstances Application
+August 2018
+PIAs completed by the then Department of Employment, Skills, Small and Family Business between 1 July 2018 and 31 January 2020
+Date Added
+Reference
+Program/Initiative
+Description
+24/01/2019
+D19/59748
+Case study library
+Case studies for media events and media articles
+01/11/2019
+D19/1839278
+Salesforce Marketing Cloud procurement
+Online platform for use in New Employment Services Model
+01/11/2019
+D19/1839233
+Trades Recognition Australia (TRA)
+Trades Recognition Australia assessment services
+01/11/2019
+D19/1839417
+Use of Online Survey Tool
+Departmental online survey tool ‘Qualtrics’
+01/11/2019
+D19/1850510
+Seasonal Workers Program Online
+Electronic administration of the Seasonal Worker Programme
+19/12/2019
+D19/2038120
+NEIS Payroll and Administration Project
+Online collection of NEIS participant information
+16/01/2020
+D20/26185
+New Template Deed of Agreement for the Seasonal Worker Programme
+Implementation of new template deed for SWP Approved Employers
+Complaints
+If you think we may have breached your privacy you may contact us to make a complaint using the contact details below. In order to ensure that we fully understand the nature of your complaint and the outcome you are seeking, we prefer that you make your complaint in writing.
+For further information about our complaint handling processes please see our
+Privacy Complaint Handling Procedures
+.
+Contact us
+If you have any enquiries or complaints about privacy, or if you wish to access or correct your personal information, please email us at
+privacy@education.gov.au
+or write to:
+Privacy Officer
+Legal Services
+Department of Education
+LOC: C50MA1
+GPO Box 9880
+Canberra ACT 2601
+Was this page helpful?
+Yes
+No
+Share this page on
+Facebook
+LinkedIn
+X/Twitter
+Email
+Last modified on Tuesday 24 February 2026 [56|111537]

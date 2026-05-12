@@ -1,0 +1,126 @@
+Privacy Policy, Terms and Conditions | Envirosuite
+Our website uses cookies
+These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information to improve and customize your browsing experience and for analytics and metrics about our visitors. To find out more, see our
+Privacy Policy
+.
+Necessary
+Accept
+Privacy Statement
+1. Your rights in relation to privacy
+Envirosuite Ltd (
+EVS
+) understands the importance of protecting the privacy of an individual's personal information. This policy sets out how EVS aims to protect the privacy of your personal information, your rights in relation to your personal information managed by EVS and the way EVS collects, holds, uses and discloses your personal information.
+In handling your personal information, EVS will comply with the
+Privacy Act 1988
+(Cth) (
+Privacy Act
+) and with the 13 Australian Privacy Principles in the Privacy Act. Where applicable as a matter of local law, EVS may be bound by the
+General Data Protection Regulation (EU) 2016/679
+(
+GDPR
+), the
+California Consumer Privacy Act of 2018
+(CCPA) and the Brazilian General Data Protection Law:
+Lei Geral de Proteção de Dados Pessoais
+) (Law No. 13,709/2018)
+(
+LGPD
+)
+This policy may be updated from time to time.
+EVS (referred to as 'we', 'us', 'our' in this privacy policy) provides environmental monitoring services which are utilised by Airports, Construction Companies and Mines (
+our Customers
+). Our Customers then make available to you via our products, an application or web form, where you are able to provide feedback regarding the noise levels of our Customers. In performing these services, we may collect and process your personal information.
+Where EVS is bound under the GDPR, EVS typically collects and processes your personal information as a consumer (as opposed to employees of EVS), in our capacity as a 'Data Processor' for our Customers, who are the 'Data Controller'. Our Customers, as Data Controller are responsible for deciding how and why your personal information is processed.
+2. What kinds of personal information does EVS collect?
+Personal information is information or an opinion about an identified, or reasonably identifiable, individual. As part of conducting business and in the provision of its goods and/or services, EVS may collect your personal information.
+Generally, the kinds of personal information EVS collects is contact and identification information such as your name, address, telephone number and email address. In some circumstances, EVS may also hold other personal information provided by you such as browser version, IP address, location at a suburb/city level, URL, company name and ‘clickstream’ of interactions on the product.
+If you are under the age of
+sixteen
+we are unable to process your information through our products; please ask an adult to use the feedback service on your behalf and ask them to enter their contact details instead.
+3. How does EVS collect personal information?
+Generally, EVS collects your personal information directly from you, through completion of an online form or entry of your information into one of our consumer feedback apps, an interaction or exchange in person or by way of telephone, email or post, or through the EVS website.
+Our website allows you to share personal information with a view to that information being read, copied, downloaded or used by other people. Examples include:
+submitting an enquiry using our website’s contact forms
+downloading a document or video file from our website that requires your contact information
+viewing content on our website that requires your contact information
+There may be other occasions when EVS collects your personal information from other sources such as from one of our customers or a government body. Generally, EVS will only collect your personal information from sources other than you if it is unreasonable or impracticable to collect your personal information from you. We process your personal information in accordance with our written contract with our Customer and any other instructions or direction they provide.
+4. Use of information collected through automated systems when you visit our website
+4.1 Cookies
+Cookies are small text files that are placed on your computer's hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience and the website owner with statistics about how you use the website.
+Some cookies may last for a defined period of time, such as one day or until you close your browser. Others last indefinitely. Your web browser should allow you to delete any cookies you choose. It also should allow you to prevent or limit their use.
+Our website uses cookies. They are placed by software that operates on our servers, and by software operated by third parties whose services we use. We use this information for analytical/performance purposes to better understand and improve users’ experience on our website.
+When you first visit our website, we ask you whether you wish us to accept the use of cookies. If you choose not to accept them, we shall not use them for your visit except to record that you have not consented to their use for any other purpose.
+If you choose not to accept cookies or you prevent their use through your browser settings, you may not be able to use all the functionality of our website. For example, if you wish to view video content on our website, you will not be able to do so unless you consent to us collecting anonymous information about your use of our website, such as IP address, type of browser and device. We will do so by asking you to accept our Privacy Policy before you can view the video content.
+4.2 Personal identifiers from your browsing activity
+Requests by your web browser to our servers for web pages and other content on our website are recorded. We, or third parties whose services we use, may record information such as which pages or content you viewed, your geographical location, your internet service provider, your IP address, as well as information about the software you are using to browse our website, such as the type of computer or device and screen resolution.
+If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed in to our website.
+We use this data for analytical purposes to better understand and improve users’ experience on our website.
+4.3 Personal information you submit prior to viewing or downloading content on our website
+Some content on our website will ask you to submit your personal information before being able to view or download the content. You will be asked whether you consent to EVS using your personal information for marketing purposes.
+If you consent, we may use your personal information to send you further information regarding our products and services, news, events or offers, based on your previous viewing interests on our website. If you wish to revoke your consent, you can submit a request to us at any time by using the unsubscribe link in each marketing communication we send you, or by using one of the contact methods in Paragraph 12 below.
+If you do not consent, you may still be able to view or download the content on our website and we or our partners may only collect anonymous information about your use of our website such as IP address, type of browser and device.
+5. The Types of personal information EVS processes
+EVS collects, holds, uses and discloses your personal information where it is reasonably necessary for the purposes of:
+the provision of our products and services to our Customers in connection with our environmental monitoring operations and related services;
+marketing of our products and services to our Customers or prospective customers, if consent has been given to use their personal information for this purpose;
+internal administrative purposes;
+business management purposes, including the provision of professional services; and
+any legal requirements.
+Certain information is also automatically collected when you use our systems, this includes:
+mobile phone number (in order for our Customers to contact you regarding your feedback);
+geolocation, if enabled on your device (used if the “locate me” functionality of the EVS Viewpoint App has been enabled and to confirm accuracy of flight data);
+the make and model of the device (to ensure the App functionality is compatible with a user’s device); and
+device operating system (for statistic and development purposes).
+Where personal information is used or disclosed, EVS takes steps reasonable in the circumstances to ensure it is relevant to the purpose for which it is to be used or disclosed. You are under no obligation to provide your personal information to EVS. However, without certain information from you, EVS may not be able to provide its products and services.
+6. Processing your personal information
+Our Customer, as Data Controller, determines the purposes and means through which your personal information will be processed. Our Customer relies on the pursuit of its legitimate interests as its legal basis for the processing of your personal information. These legitimate interests involve giving you the opportunity to provide feedback on the noise levels near your home or workplace. Our Customer has determined that the pursuit of these legitimate interests by them will not outweigh your rights and freedoms.
+7. Whom does EVS disclose your personal information to?
+EVS discloses your personal information for the purpose for which EVS collects it. That is, EVS will only disclose your personal information for a purpose set out at paragraph 4. EVS may also disclose your personal information with your consent or if disclosure is required or authorised by law. This may include disclosing your personal information where reasonably necessary for law enforcement or as directed by a Court or Regulator.
+8. Overseas Disclosure
+For consumers located outside the European Economic Area, EVS may disclose personal information to overseas recipients in order to provide its services and/or products and for administrative or other business management purposes. It is impracticable to list the countries in which recipients of personal information may be located, however, before disclosing any personal information to an overseas recipient, EVS takes steps reasonable in the circumstances to ensure the overseas recipient complies with the Australian Privacy Principles, the CCPA or is bound by a substantially similar privacy scheme unless you consent to the overseas disclosure or it is otherwise required or permitted by law.
+For the purposes of GDPR compliance, any data required to be held within the European Economic Area will be stored there and will only be transferred if in accordance with the principles outlined in GDPR, Chapter 5: Transfer of personal data to third countries or international organisations. EVS maintains separate offsite data processing and backup arrangements in each jurisdiction in which we operate. We backup data periodically to secure backup systems and daily to offsite secure backup systems. The offsite processing and backup systems are located in secure facilities with restricted access. With the exception of the information used to provide our technical support, our operating databases, servers and backups are held within the relevant regions:
+a) Australia and Asia: personal information held in Australia
+b) United States: personal information held in United States
+c) EMEA and Canada: personal information held within the European Economic Area
+9. Security of your personal information
+EVS processes personal information in a manner that ensures it is protected from misuse, interference and loss and from unauthorised access, modification or disclosure. In particular, only those employees with a lawful and legitimate business reason for accessing personal information held by EVS will be granted access. EVS has controls and procedures in place to ensure that personal information is kept confidentially. EVS also has procedures to deal with any suspected data security breach and will notify you of a suspected breach where we are legally required to do so.
+EVS will destroy or de-identify personal information in circumstances where it is no longer required, unless EVS is otherwise required or authorised by law to retain the information.
+10.
+What are your rights in relation to
+the personal information that EVS holds about you?
+By law you have the right to:
+Request access
+to your personal information (commonly known as a "data subject access request"). This enables you to receive a copy of the personal information that is being held about you and to check that it is being lawfully processed.
+Request correction
+of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+Object to processing
+of your personal information if there is something about your particular situation which makes you want to object to EVS processing your personal information on the grounds of legitimate interests.
+Request the restriction of processing
+of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+Request the transfer
+of your personal information to another party.
+Lodge a complaint
+with a supervisory authority.
+Request erasure
+of your personal information. This enables you to ask us to delete your personal information we collected, if certain circumstances under applicable privacy law apply.You may exercise these rights by contacting EVS as outlined in Paragraph 12 below.
+EVS will respond to your request to access or correct your personal information within 30 days from your request.
+11. Privacy complaints
+Please direct all privacy complaints to EVS's Privacy Officer. At all times, privacy complaints:
+will be treated seriously;
+will be dealt with promptly;
+will be dealt with in a confidential manner; and
+will not affect your existing obligations or affect the commercial arrangements between you and EVS.
+EVS's Privacy Officer will commence an investigation into your complaint. You will be informed of the outcome of your complaint following completion of the investigation. In the event that you are dissatisfied with the outcome of your complaint, you may refer the complaint to the Office of the Australian Information Commissioner or to your local supervisory authority for those consumers located in Europe. For consumers based in California, you may lodge a complaint with the Californian office of the Attorney General.
+12. How to contact us about privacy
+For further information or enquiries regarding your personal information or to exercise one of your rights in relation to your personal information, please contact EVS on +61 1300 987 009 and ask for your enquiry to be directed to EVS’s Privacy Officer. Alternatively, you can submit your enquiry or request by email to
+privacy@envirosuite.com
+.
+Terms & Conditions Documents
+Terms and Conditions of Sale and Supply
+Terms and Conditions for Purchase of Goods and/or Services
+End User License Agreement for Envirosuite Software
+ISO9001 Certification
+Certificate of Registration
+ISO27001 Certification
+Certificate of Registration
+Last updated 25 October 2024
