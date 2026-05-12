@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}AU Privacy Policy Dataset{% endblock %}</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: "Consolas", "Fira Code", "JetBrains Mono", "Lucida Console", monospace;
+      font-size: 13px;
+      line-height: 1.6;
+      background: #f5f5f1;
+      color: #1c1c1c;
+    }
+
+    a { color: #1a4e8c; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    header {
+      background: #18181b;
+      color: #e4e4e0;
+      padding: 0 24px;
+      display: flex;
+      align-items: stretch;
+      gap: 0;
+      border-bottom: 2px solid #2d6a4f;
+    }
+    .header-brand {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 10px 20px 10px 0;
+      border-right: 1px solid #333;
+      margin-right: 20px;
+    }
+    header h1 {
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      color: #e4e4e0;
+      text-transform: uppercase;
+    }
+    header .sub {
+      font-size: 11px;
+      color: #666;
+      margin-top: 1px;
+    }
+    .header-nav {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .header-nav a {
+      color: #aaa;
+      font-size: 12px;
+      padding: 4px 10px;
+      border: 1px solid transparent;
+    }
+    .header-nav a:hover {
+      color: #e4e4e0;
+      text-decoration: none;
+      border-color: #444;
+    }
+    .header-right {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      font-size: 11px;
+      color: #555;
+    }
+
+    .container {
+      padding: 18px 24px;
+      max-width: 1440px;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 1px 6px;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .badge-success   { background: #d1ead9; color: #1a5c2a; }
+    .badge-failed    { background: #fad7da; color: #7a1c24; }
+    .badge-pending   { background: #fef3cd; color: #7a5c04; }
+    .badge-not_found { background: #e2e3e5; color: #3a3f44; }
+
+    .summary {
+      display: flex;
+      gap: 20px;
+      padding: 8px 0 10px;
+      border-bottom: 1px solid #d8d8d4;
+      margin-bottom: 14px;
+      font-size: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .summary-item { color: #555; }
+    .summary-item strong { color: #1c1c1c; }
+    .summary-divider { color: #ccc; }
+
+    .toolbar {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .filter-bar {
+      display: flex;
+      gap: 3px;
+    }
+    .filter-bar a {
+      padding: 3px 10px;
+      border: 1px solid #ccc;
+      background: #fff;
+      color: #444;
+      font-size: 11px;
+      letter-spacing: 0.03em;
+    }
+    .filter-bar a:hover { background: #eceae6; text-decoration: none; }
+    .filter-bar a.active {
+      background: #18181b;
+      color: #e4e4e0;
+      border-color: #18181b;
+    }
+
+    .search-box {
+      flex: 1;
+      max-width: 300px;
+    }
+    .search-box input {
+      width: 100%;
+      padding: 3px 8px;
+      border: 1px solid #ccc;
+      background: #fff;
+      font-family: inherit;
+      font-size: 12px;
+      color: #1c1c1c;
+      outline: none;
+    }
+    .search-box input:focus { border-color: #1a4e8c; }
+
+    table { width: 100%; border-collapse: collapse; background: #fff; }
+    thead th {
+      background: #eceae6;
+      padding: 6px 10px;
+      font-weight: 700;
+      text-align: left;
+      border-bottom: 2px solid #d0d0cc;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      white-space: nowrap;
+    }
+    tbody td {
+      padding: 5px 10px;
+      border-bottom: 1px solid #eceae6;
+      vertical-align: middle;
+    }
+    tbody tr:hover { background: #f0eeea; }
+    tbody tr:last-child td { border-bottom: none; }
+    tr.hidden { display: none; }
+
+    .actions { display: flex; gap: 6px; }
+    .actions a {
+      font-size: 11px;
+      color: #1a4e8c;
+      border: 1px solid #c0d0e8;
+      padding: 1px 6px;
+      background: #f0f4fa;
+      white-space: nowrap;
+    }
+    .actions a:hover { background: #d8e8f8; text-decoration: none; }
+
+    .detail-header {
+      padding: 10px 0 10px;
+      border-bottom: 1px solid #d8d8d4;
+      margin-bottom: 16px;
+    }
+    .detail-header h2 { font-size: 16px; font-weight: 700; }
+    .detail-header .meta {
+      font-size: 11px;
+      color: #666;
+      margin-top: 5px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .detail-header .meta span { color: #999; }
+
+    .detail-grid {
+      display: grid;
+      grid-template-columns: 140px 1fr;
+      gap: 5px 12px;
+      margin-bottom: 18px;
+      font-size: 12px;
+    }
+    .detail-grid .label {
+      color: #777;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-size: 11px;
+      padding-top: 1px;
+    }
+
+    .section-title {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: #777;
+      margin: 18px 0 8px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 4px;
+    }
+
+    pre.extracted-text {
+      background: #18181b;
+      color: #d0d0cc;
+      padding: 14px 16px;
+      overflow: auto;
+      max-height: 600px;
+      font-size: 12px;
+      white-space: pre-wrap;
+      word-break: break-word;
+      line-height: 1.55;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-bottom: 14px;
+      font-size: 12px;
+      color: #666;
+    }
+    .back-link:hover { color: #1c1c1c; }
+
+    .no-data {
+      color: #999;
+      font-style: italic;
+      padding: 20px 0;
+    }
+
+    footer {
+      margin-top: 32px;
+      padding: 12px 24px;
+      border-top: 1px solid #d8d8d4;
+      font-size: 11px;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-brand">
+      <h1>AU Privacy Policy Dataset</h1>
+      <span class="sub">ASX 200 &middot; MNCs &middot; Government &middot; 263 organisations</span>
+    </div>
+    <nav class="header-nav">
+      <a href="/">Companies</a>
+      <a href="/api/status">API</a>
+    </nav>
+    <div class="header-right">scraped {{ "%Y" | strftime if False else "2025" }}</div>
+  </header>
+  <div class="container">
+    {% block content %}{% endblock %}
+  </div>
+  <footer>Australian Privacy Policy Dataset &mdash; ASX 200 / MNC / Government &mdash; data collected via automated scraping</footer>
+</body>
+</html>

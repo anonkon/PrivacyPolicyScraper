@@ -1,0 +1,14 @@
+# install with: pip install --prefer-binary -r requirements.txt
+# after install: playwright install chromium
+
+requests
+beautifulsoup4
+lxml
+urllib3
+pdfplumber
+playwright
+sqlalchemy
+pandas
+flask
+tenacity
+python-slugify

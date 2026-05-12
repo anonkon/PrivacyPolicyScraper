@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+{% block title %}Companies — AU Privacy Policy Dataset{% endblock %}
+
+{% block content %}
+<div class="summary">
+  <span class="summary-item">Total <strong>{{ counts.total }}</strong></span>
+  <span class="summary-divider">/</span>
+  <span class="summary-item"><span class="badge badge-success">{{ counts.success }}</span> scraped</span>
+  <span class="summary-item"><span class="badge badge-not_found">{{ counts.not_found }}</span> not found</span>
+  <span class="summary-item"><span class="badge badge-failed">{{ counts.failed }}</span> failed</span>
+  {% if counts.pending > 0 %}
+  <span class="summary-item"><span class="badge badge-pending">{{ counts.pending }}</span> pending</span>
+  {% endif %}
+</div>
+
+<div class="toolbar">
+  <div class="filter-bar">
+    {% for t in company_types %}
+      <a href="/?type={{ t }}" class="{{ 'active' if type_filter == t else '' }}">{{ t }}</a>
+    {% endfor %}
+  </div>
+  <div class="search-box">
+    <input type="text" id="search" placeholder="filter by name, sector, ASX code..." autocomplete="off">
+  </div>
+</div>
+
+<table id="company-table">
+  <thead>
+    <tr>
+      <th style="width:36px">#</th>
+      <th>Company</th>
+      <th>Type</th>
+      <th>Sector</th>
+      <th>ASX</th>
+      <th>Status</th>
+      <th>Policy URL</th>
+      <th>Scraped</th>
+      <th>Files</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for company, policy in rows %}
+    <tr data-search="{{ company.name|lower }} {{ company.sector|lower if company.sector else '' }} {{ company.asx_code|lower if company.asx_code else '' }} {{ company.company_type.value|lower }}">
+      <td style="color:#bbb">{{ loop.index }}</td>
+      <td><a href="/company/{{ company.id }}">{{ company.name }}</a></td>
+      <td style="color:#777; font-size:11px">{{ company.company_type.value }}</td>
+      <td style="color:#777">{{ company.sector or '—' }}</td>
+      <td style="color:#999; font-size:11px">{{ company.asx_code or '—' }}</td>
+      <td>
+        {% if policy %}
+          <span class="badge badge-{{ policy.status.value }}">{{ policy.status.value }}</span>
+        {% else %}
+          <span class="badge badge-pending">pending</span>
+        {% endif %}
+      </td>
+      <td style="max-width:240px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:11px; color:#555">
+        {% if policy and policy.url %}
+          <a href="{{ policy.url }}" target="_blank" title="{{ policy.url }}">{{ policy.url[:55] }}{% if policy.url|length > 55 %}…{% endif %}</a>
+        {% else %}
+          <span style="color:#ccc">—</span>
+        {% endif %}
+      </td>
+      <td style="white-space:nowrap; color:#999; font-size:11px">
+        {{ policy.scraped_at.strftime('%Y-%m-%d') if policy and policy.scraped_at else '—' }}
+      </td>
+      <td>
+        <div class="actions">
+          <a href="/company/{{ company.id }}">detail</a>
+          {% if policy and policy.html_path %}
+            <a href="/company/{{ company.id }}/screenshot" target="_blank">png</a>
+            <a href="/company/{{ company.id }}/raw" target="_blank">html</a>
+          {% endif %}
+          {% if policy and policy.pdf_path %}
+            <a href="/company/{{ company.id }}/pdf" target="_blank">pdf</a>
+          {% endif %}
+          {% if policy and policy.text_path %}
+            <a href="/company/{{ company.id }}/text" target="_blank">txt</a>
+          {% endif %}
+        </div>
+      </td>
+    </tr>
+    {% else %}
+    <tr><td colspan="9" class="no-data">No companies found.</td></tr>
+    {% endfor %}
+  </tbody>
+</table>
+<div id="no-results" style="display:none; padding:20px 0; color:#999; font-style:italic">No matches.</div>
+
+<script>
+  const input = document.getElementById('search');
+  const rows  = document.querySelectorAll('#company-table tbody tr[data-search]');
+  const noRes = document.getElementById('no-results');
+
+  input.addEventListener('input', function () {
+    const q = this.value.trim().toLowerCase();
+    let visible = 0;
+    rows.forEach(function (row) {
+      const match = !q || row.dataset.search.includes(q);
+      row.classList.toggle('hidden', !match);
+      if (match) visible++;
+    });
+    noRes.style.display = (q && visible === 0) ? 'block' : 'none';
+  });
+</script>
+{% endblock %}

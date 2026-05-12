@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% block title %}{{ company.name }} — AU Privacy Policy Dataset{% endblock %}
+
+{% block content %}
+<a class="back-link" href="/">← all companies</a>
+
+<div class="detail-header">
+  <h2>{{ company.name }}</h2>
+  <div class="meta">
+    <span>{{ company.company_type.value }}</span>
+    {% if company.asx_code %}<span>ASX: <strong style="color:#1c1c1c">{{ company.asx_code }}</strong></span>{% endif %}
+    {% if company.sector %}<span>{{ company.sector }}</span>{% endif %}
+    <span><a href="{{ company.website }}" target="_blank">{{ company.website }}</a></span>
+  </div>
+</div>
+
+{% if policy %}
+<div class="detail-grid">
+  <span class="label">Status</span>
+  <span><span class="badge badge-{{ policy.status.value }}">{{ policy.status.value }}</span></span>
+
+  <span class="label">Policy URL</span>
+  <span>
+    {% if policy.url %}
+      <a href="{{ policy.url }}" target="_blank">{{ policy.url }}</a>
+    {% else %}<span style="color:#bbb">—</span>{% endif %}
+  </span>
+
+  <span class="label">Content type</span>
+  <span>{{ policy.content_type or '—' }}</span>
+
+  <span class="label">Scraped at</span>
+  <span>{{ policy.scraped_at.strftime('%Y-%m-%d %H:%M UTC') if policy.scraped_at else '—' }}</span>
+
+  {% if policy.error_message %}
+  <span class="label">Error</span>
+  <span style="color:#7a1c24">{{ policy.error_message }}</span>
+  {% endif %}
+</div>
+
+{% if policy.html_path or policy.pdf_path or policy.text_path %}
+<div class="section-title">Files</div>
+<div class="actions" style="margin-bottom: 18px">
+  {% if policy.html_path %}
+    <a href="/company/{{ company.id }}/screenshot" target="_blank">screenshot (png)</a>
+    <a href="/company/{{ company.id }}/raw" target="_blank">raw html</a>
+  {% endif %}
+  {% if policy.pdf_path %}
+    <a href="/company/{{ company.id }}/pdf" target="_blank">download pdf</a>
+  {% endif %}
+  {% if policy.text_path %}
+    <a href="/company/{{ company.id }}/text" target="_blank">plain text</a>
+  {% endif %}
+</div>
+{% endif %}
+
+{% if policy.extracted_text %}
+<div class="section-title">Extracted text
+  <span style="font-weight:400; text-transform:none; letter-spacing:0; color:#bbb; margin-left:8px">
+    {{ "{:,}".format(policy.extracted_text|length) }} chars
+  </span>
+</div>
+<pre class="extracted-text">{{ policy.extracted_text }}</pre>
+{% elif policy.status.value == 'success' %}
+<p class="no-data">Text extraction produced no output.</p>
+{% else %}
+<p class="no-data">
+  Policy not yet scraped.
+  Run: <code>python main.py scrape --company "{{ company.name }}"</code>
+</p>
+{% endif %}
+
+{% else %}
+<p class="no-data">
+  This company has not been scraped yet.
+  Run: <code>python main.py scrape --company "{{ company.name }}"</code>
+</p>
+{% endif %}
+{% endblock %}
