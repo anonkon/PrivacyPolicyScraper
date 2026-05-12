@@ -1,0 +1,429 @@
+Privacy Policy - PolyNovo
+Privacy Policy
+This Privacy Policy sets out how PolyNovo Limited manages your personal information in Australia, the EEA and the UK.
+In the case of Australian residents, for a brief summary refer to this
+Privacy Notice
+, which is at the end of this Policy.
+Contents
+Introduction
+This Privacy Policy is not intended for children and we do not knowingly collect personal data relating to children through our website.
+How does PNV manage your personal information?
+2.1 Examples of personal and sensitive information
+2.2 Privacy protections
+2.3 What types of individuals does PNV collect personal information from and why?
+2.4 How does PNV collect and hold your personal information?
+2.4.1 Collection
+2.4.2 Holding
+2.5 What are the purposes for which PNV collects, holds, uses and discloses your personal information?
+2.6 Third party recipients, including overseas recipients
+2.6.1 Who do we share your personal information with?
+2.6.2 To who is your personal information disclosed to, including overseas recipients?
+2.6.3 In which countries are these overseas recipients located?
+2.6.4 Compliance with Privacy Laws
+2.7 Access, correction, complaints and other rights
+2.7.1 How can your personal information be accessed and/or corrected?
+2.7.2 Complaints
+2.7.3 Other rights
+2.8 Other information
+2.8.1 Security
+2.8.2 Links to third-party websites
+Help
+Review of this Policy
+PNV will
+PRIVACY NOTICE
+Appendix 1: Specific disclosures for the European Economic Area (EEA) and the United Kingdom (UK)
+Appendix 2: PNV group companies being data controllers
+1 Introduction
+PolyNovo Limited (“PNV”), PolyNovo UK Ltd. and PolyNovo Ireland Ltd. are committed to protecting the privacy of the individuals it deals with.
+This Privacy Policy (“Policy”) helps:
+ensure PNV manages your personal information in an open and transparent way and in compliance with the UK General Data Protection Regulation, the UK Data Protection Act 2018, the European Union General Data Protection Regulation, and Australian Privacy Principles or other data protection laws which are applicable to you (“Privacy Laws”), and
+protect the personal information of individuals who have dealings with PNV (these individuals are described in Sect. 2.3).
+This Privacy Policy is not intended for children and we do not knowingly collect personal data relating to children through our website.
+PNV:
+develops and manufactures specialist medical devices in Victoria, Australia, utilising the patented bioabsorbable polymer technology Novosorb®, and
+markets and sells these medical devices globally via PNV’s subsidiaries and third-party distributors around the world, including to customers and potential customers in the European Union (EU), European Economic Area (EEA) and the UK.
+In this Policy:
+references to "you" or "your" refer to the individuals whose personal information PNV collects, holds, uses or discloses, and
+“handles” refers generally to PNV collecting, processing, holding, using or disclosing your personal information.
+If you reside in the EEA or the UK, please see Appendix 1: Specific Disclosures for the EEA and the UK which supplements this Privacy Policy.
+2 How does PNV manage your personal information?
+2.1 Examples of personal and sensitive information
+The personal information PNV may collect includes your:
+name
+address
+phone number
+email address
+if you are a health care professional, it may also include your:
+title
+medical specialty
+photograph etc
+if you are a vendor, contractor or job applicant, it may also include your:
+work history
+qualifications etc.
+In Australia, Personal information includes sensitive information, and the latter receives greater protection under applicable Privacy Laws. Examples of sensitive information include:
+if you are a patient of a PNV customer (e.g. a hospital):
+details of your medical history, healthcare professional, device implantation/history, and
+photographs relating to device use
+if you are a health care professional, your membership of professional associations, and
+if you are a contractor or job applicant, your health information.
+In the EEA and the UK, personal information includes special categories of personal data, and the latter receives greater protection under applicable Privacy Laws. Examples of special categories of personal data include personal information revealing health.
+2.2 Privacy protections
+PNV seeks to protect your personal information in a variety of ways, including the following:
+The security of your personal information is important to PNV. Refer to Sect. 2.8.1 for details regarding PNV's security arrangements.
+PNV must only collect your personal information, including sensitive information, where it is reasonably necessary for PNV’s functions or activities e.g. manufacturing, sales, marketing, quality assurance, regulatory affairs, human resources, IT, company secretarial etc.
+Your sensitive information – e.g. medical details, or professional affiliations – must not be collected without your consent, unless approval is obtained from PNV’s Privacy Officer (as certain exceptions may be applicable under Privacy Laws). In the EU/EEA and the UK, patient information is de-identified, so PNV cannot identify you as an individual.
+If PNV:
+collects your personal information for a particular purpose (refer to Sect. 2.5 for the purposes for which PNV collects personal information), and
+PNV wishes to use or disclose the information for another purpose,
+you must consent to the information being used for the other purpose (unless certain exceptions apply under Privacy Laws).
+Access to your personal information is limited to PNV staff or suppliers who are subject to confidentiality obligations and need to use your personal information in the course of their PNV responsibilities.
+PNV will never sell your personal information to anyone else.
+PNV does not conduct any profiling or automated decision making.
+Although PNV may use your personal information to promote PNV or its products and services, you have the option to unsubscribe at any time.
+PNV is obliged to take reasonable steps to ensure the personal information it handles is accurate, up-to-date and complete. For example, PNV may ask you to confirm the accuracy of your personal information when contacting PNV.
+PNV will only disclose your personal information to organisations overseas in very limited circumstances - refer to Sect. 2.6.
+PNV has internal processes and procedures to help ensure compliance with this Policy and the Privacy Laws.
+If PNV holds your personal information and PNV:
+no longer needs the information for any purpose for which it may be used or disclosed (e.g. for the purposes disclosed in Sect. 2.5), or for any further legitimate interests, e.g. litigation after the end of a contract), and
+is not required by applicable law to retain it (e.g. not by tax or commercial law requirements),
+PNV must take reasonable steps, and proactively plan, to securely delete and/or destroy such information or to ensure such personal information is de-identified.
+2.3 What types of individuals does PNV collect personal information from and why?
+PNV collects and holds personal information regarding its current and prospective:
+customers - e.g. health care professionals (including doctors, nurses) - and distributors
+patients of its customers, in limited circumstances (anonymized and de-identified on EU/EEA and UK patients)
+contractors e.g. independent individual contractors engaged by PNV
+vendors e.g. suppliers of goods (e.g. raw materials) or services (e.g. IT services, professional services etc), and
+investors e.g. shareholders
+for the purposes mentioned in Sect 2.5.
+PNV collects personal information in relation to individuals applying to become employees, for the purposes mentioned in Sect. 2.5. PNV may also collect personal information in relation to PNV’s employees where the information does not directly relate to a current or former employment relationship.
+If PNV didn't collect your personal information:
+PNV would not, in most cases, be able to enter into a contractual relationship with you e.g. regarding the supply of products to you, your employment or engagement, PNV purchasing your goods or services or you becoming an investor, and
+PNV may not be able carry out the purposes mentioned in Sect. 2.5.
+In some instances, PNV may collect your personal information unknowingly - for example, within non-business (i.e. private) emails between you and PNV’s staff. Please be aware that such personal information may, also unknowingly, be stored on PNV’s IT systems and backed up by PNV, and third parties, with other business-related information.
+2.4 How does PNV collect and hold your personal information?
+2.4.1 Collection
+The main way PNV collects personal information is from you directly - typically via emails, phone calls, meetings or PNV's websites.
+Where it is unreasonable or impracticable to collect personal information from you, PNV may, in limited circumstances, collect your personal information from someone other than you. For example, your personal information could be collected from:
+a co-worker e.g. when PNV deals with a hospital, a nurse may disclose a doctor's personal information to PNV if the doctor is unavailable
+if you are a patient from a health care professional who is caring for you (your consent is needed if sensitive information - e.g. medical information - is collected)
+public sources - e.g. from your LinkedIn page or social media - but only for purposes that relate to PNV's functions and activities
+others involved in your dealings with PNV e.g. from organisations that you, or your employer, have a business arrangement with
+from conference organisers, who may send a list of delegates to PNV
+in the case of customers, from third-party organisations to conduct credit checks
+if you are an investor, from PNV's Share Registry for the purposes of communicating with you in relation to your shareholdings.
+if you are a customer in the EU/EEA or UK, from sales representatives or third-party distributors.
+PNV does not obtain your personal information from third parties who sell lists of personal information.
+2.4.2 Holding
+PNV holds most of your personal information in an electronic format, which is stored:
+on computers located at PNV's premises
+on mobile electronic devices e.g. phones, tablets, laptops
+offsite by third-party computer storage facilities e.g. cloud services.
+PNV may also store your personal information in a physical format - e.g. within files. Personal information stored in a physical format is stored on PNV’s premises or archived with third parties.
+2.5 What are the purposes for which PNV collects, holds, uses and discloses your personal information?
+PNV handles the personal information of individuals for the following purposes:
+Individuals with current dealings with PNV
+In the case of all individuals PNV currently has ongoing dealings with e.g. if you are a current customer, contractor, vendor or investor:
+to fulfil PNV's contractual and legislative obligations to you and help satisfy the reason why personal information has been given to PNV e.g.:
+to sell and deliver PNV's products and services to customers
+to engage, manage and assess vendors and contractors
+to make payment and enable any tax withholding
+for communication
+to respond to queries and requests
+to manage your dealings with PNV
+for record keeping
+for internal reporting, etc
+to maintain and improve PNV's relationship with you e.g. to securely record your details
+to provide a medical assessment of any feedback provided to PNV relating to your use or involvement with PNV products
+in relation to your attendance at PNV conferences or other events, and
+to comply with regulatory requirements, such as:
+maintaining a record of medical queries, complaints, adverse events and recalls relating to PNV's products
+ASX listing rules e.g. regarding the reporting of PNV's top 20 shareholders.
+Individuals who wish to have dealings with PNV in the future
+For example, if you are a prospective customer, contractor, vendor or investor or a job applicant:
+to communicate with you, respond to your queries and requests, manage your dealings with PNV and help satisfy the reason why you have given personal information to PNV, and
+to help decide whether to enter into a contract with you e.g. by performing credit checks on prospective customers, background checks regarding job applicants, contractors or vendors.
+Generally regarding all the above individuals
+Where PNV is required or permitted to:
+by law e.g. to record your vaccination status, or
+by a court or tribunal, include any proceedings before a court or tribunal.
+To allow your movement into, out of and around PNV's buildings.
+For:
+security reasons
+IT purposes e.g. backups
+disclosure to PNV's professional advisers, including PNV's accountants, auditors and lawyers.
+Where it is reasonably necessary for PNV's functions or activities e.g.:
+in relation to PNV's dealings with advisers, agents, contractors and subcontractors - yours and PNV's - in relation to you, including individuals whose personal information may also be collected
+to communicate with you via social media websites and applications e.g. LinkedIn, Twitter, Facebook or by telephone
+photographs and other personal information may be collected by PNV of current and prospective customers and other individuals at PNV's seminars or events for inclusion in PNV's social media or other reporting.
+If you are a user of PNV's websites and accept cookies, or similar technologies, on those websites, information may be collected and used by PNV to improve your website experience. Please find more information on how we use cookies in our
+Cookies Policy.
+If you have dealings with PNV which have ended, PNV may continue to hold your personal information to enable PNV to use that information if:
+a dispute or query arises
+PNV's relationship with you recommences in the future, or
+PNV wishes to send promotional material to you regarding PNV or PNV's products and services (note you always have the option to unsubscribe).
+Customers and vendors
+If you are a current customer or vendor:
+to conduct surveys, product evaluation and research
+to contact you, work with you and disclose your details to others regarding medical device trials, investigations, training or educational programs you may present for PNV, and
+in connection with possible adverse events involving PNV's medical devices, customer complaints or feedback:
+to convey details to relevant staff within PNV
+to contact you should PNV require information on adverse events, complaints or other feedback, and
+where necessary, to send adverse events reports to regulators.
+If you are a current or prospective customer, personal information may be used for PNV’s business purposes, including:
+promoting PNV and its products and services (note you always have the option to unsubscribe)
+assessing your suitability for PNV's products and services, and
+disclosing the information to a PNV subsidiary to help achieve your purpose in providing personal information to PNV - e.g. if you have a query regarding the sale of a PNV product overseas.
+Contractors
+If you are a current contractor:
+to record your attendance, train you and monitor your work (including your emails), and
+PNV may be obliged to report your personal information to regulatory agencies, e.g. the Australian Taxation Office.
+Patients
+If you are a patient of a PNV customer (e.g. a hospital) and you are using, contemplating using or have used PNV's products or services, in limited situations PNV may handle your personal information, including sensitive information with your consent (e.g. health information) - for example:
+to assist and support hospitals and their health care professionals in relation to you or another patient
+to respond to your queries or requests e.g. requests for information
+in relation to promotional materials regarding PNV and its products and services, and
+to disclose to relevant PNV staff for their assessment of the information and for training purposes.
+Note that in the EEA and the UK, we do not collect identifiable patient information.
+2.6 Third party recipients, including overseas recipients
+2.6.1 Who do we share your personal information with? We may share personal information with various third parties including service providers (including companies that handle logistics, deliveries and invoicing), business partners and legal/regulatory authorities , as set out in this Privacy Policy.
+2.6.2 To who is your personal information disclosed to, including overseas recipients?
+PNV may disclose your personal information to local and overseas recipients - i.e. a recipient of personal information who is not in Australia or your country of residence. For example:
+where PNV:
+collects your personal information in Melbourne e.g. relating to a request to supply goods or services overseas, and
+discloses that information to a subsidiary overseas, in connection with PNV’s functions or activities e.g. manufacturing, marketing and/or selling PNV’s products and services
+your personal information could be shared with PNV’s local and overseas vendors e.g. IT service providers, companies handling orders, deliveries, invoicing, logistics
+personal information collected from you during clinical trials may be shared locally and overseas with a PNV subsidiary or with a Clinical Research Organisation
+if you are a patient, personal information collected from you may be shared with PNV subsidiaries locally and overseas and used for training or marketing purposes locally and overseas, where the patient has consented to this in the case of sensitive information
+if PNV receives a complaint or feedback from you, PNV could potentially share your personal information locally and overseas e.g. with PNV’s subsidiaries, PNV’s distributors and regulators
+much of PNV’s electronic data, which would include your personal information, is stored with computer storage facilities (both internal and external to PNV)
+if you are a user of PNV’s websites, information may be collected from you using Google Analytics and disclosed to Google Inc. in the USA, which may be used by Google Inc. to create reports for PNV about its website activities, and
+to satisfy local and overseas regulatory requirements, personal information that PNV collects about you regarding adverse events may be reported to regulators locally and overseas.
+if PNV are involved in a merger, acquisition, transfer, bankruptcy, restructuring or asset sale (or negotiations of the foregoing), your personal information may be disclosed to the purchaser, prospective purchaser or advisors locally and overseas.
+2.6.3 In which countries are these overseas recipients located?
+In relation to the overseas recipients mentioned in Sect. 2.6.2:
+the PNV subsidiaries are currently located in the UK, EU, Switzerland, USA, India, Ireland, New Zealand and Singapore
+overseas vendors - e.g. IT service providers - might be located in the UK, EU, Switzerland, USA, India, Canada and Singapore
+Clinical Research Organisations are usually located in the country where the investigation is being conducted
+the external computer storage facilities are located in the USA
+regulators are located in approximately 20 countries and regions around the world, but the main countries and regions include: Australia, New Zealand, USA, Singapore, UK and Europe.
+2.6.4 Compliance with Privacy Laws
+PNV takes such steps as are reasonable and required to ensure the overseas recipients mentioned in Sect. 2.6.2 do not breach Privacy Laws.
+2.7 Access, correction, complaints and other rights
+2.7.1 How can your personal information be accessed and/or corrected?
+2.7.1.1 You generally have the right to:
+request access to, or
+request the correction of personal information about you that is held by PNV by contacting the Privacy Officer. The Privacy Officer's contact details are set out in Sect. 3.2. Please note that your exercise of these rights may be subject to certain exemptions.
+2.7.1.2 Regarding requests for access, the Privacy Officer will:
+respond to your request within a reasonable time
+give access in the manner requested by you if it is reasonable and practicable to do so, and
+act in accordance with Privacy Laws, which also set out situations where access can be refused and what PNV needs to do if it refuses access.
+2.7.1.3 Regarding requests for correction, the Privacy Officer will:
+respond to the request within a reasonable time
+take such steps (if any) as are reasonable in the circumstances to correct the information to ensure that, having regard to the purpose for which it is held, the information is accurate, up-to-date, complete, relevant and not misleading, and
+act in accordance with Privacy Laws, which also set out what PNV needs to do if it refuses a correction or if PNV refuses to include with the information a note relating to your concerns.
+2.7.2 Complaints
+If you have a complaint about how PNV has handled your personal information or consider that PNV may have breached its obligations under Privacy Laws, please contact the Privacy Officer (whose contact details are set out in Sect. 3.2). The Privacy Officer will respond to your complaint within a reasonable time. You also have a right to lodge a complaint with a data protection authority.
+2.7.3 Other rights
+Anonymity and pseudonymity
+In all your dealings with PNV, you have the option of not identifying yourself or of using a pseudonym unless:
+it is impracticable for PNV e.g. if PNV needs to contract with you, or
+PNV is required or authorised by applicable law, or a court or tribunal, to deal with identified individuals.
+2.8 Other information
+2.8.1 Security
+PNV takes reasonable steps to protect your personal information:
+from misuse, interference and loss, and
+from unauthorised access, modification or disclosure, including personal information that PNV does not physically hold, but controls. For example, PNV has:
+IT security procedures e.g. passwords, authentication protocols, firewalls and limiting/monitoring staff access to data
+security procedures regarding accessing PNV's premises and moving around its premises
+procedures to keep physical files secure
+confidentiality rules which bind PNV's employees, officers and contractors. In addition, PNV strives to ensure that:
+the above security measures are continually improved in accordance with technological developments
+where third parties hold your personal information, their security measures are appropriate, and
+PNV's employees and officers do not store your personal information on portable storage devices e.g. USBs or external data banks.
+Although PNV has appropriate security measures in relation to the transfer of your personal information to PNV via the “Contact Us” and “Subscribe” sections of PNV's websites, or via email or other means, the risk of unauthorised access to that information by a third party cannot be excluded.
+2.8.2 Links to third-party websites
+PNV's websites include links to social media applications - e.g. LinkedIn, Twitter, Facebook - which may collect your personal information.
+Even though you may access or interact with these third-party applications via PNV's websites, PNV has no control over these third-party applications and is not responsible for how they manage your personal information, including how they keep your personal information secure.
+You should visit the third party's website to obtain information regarding the third party's privacy practices and your individual rights.
+3 Help
+If you have any questions regarding the content or application of this Policy, please contact PNV's Privacy Officer.
+The contact details of PNV's Privacy Officer are as follows:
+Email:
+[email protected]
+Address: 2/320 Lorimer Street, Port Melbourne, Victoria 3207, Australia
+Phone: +61 (0) 3 8681 4050
+4 Review of this Policy
+4.1. PNV will:
+4.1 PNV will:
+periodically review the contents of this Policy, rectify any issues in a timely way and publish any revised policy on PNV’s website along with the date it was last changed, and
+monitor the effectiveness of this Policy and implement improvements where appropriate.
+Appendix 1: Specific disclosures for the European Economic Area (EEA) and the United Kingdom (UK)
+I APPLICATION AND IDENTITY OF THE DATA CONTROLLER
+This Appendix applies to the PNV group companies’ processing of personal information relating to individuals residing or located in the EEA and the UK as well as the processing of personal information by PNV group companies’ located in the EEA and the UK (i.e. PolyNovo UK and PolyNovo Ireland).
+This Appendix should be read alongside, and with reference to the terms used in, the main body of the Privacy Policy, but in the event there is a conflict between this Appendix and other parts of the Privacy Policy, this Appendix shall take precedence in respect of the personal information that is subject to it.
+For the purposes of EEA and UK law, the data controller of the personal information subject to this Appendix will depend on where you are located and the products and services you receive. In some cases, PolyNovo Limited will act as a data controller in relation to your personal information as well as the PNV group companies listed at Appendix 2 of this policy. You can find the contact details of the relevant data controller(s) in the “Contact Us” section below and in Appendix 2.
+II LEGAL BASIS FOR PROCESSING
+You can read about the personal information that we collect and the purposes for which we use and share it in Sect. 2 of the Privacy Policy.
+When we process your personal information for the purposes outlined in the Privacy Policy, we ensure that we have a lawful basis to do so to ensure that our processing of it is compliant as follows:
+In the cases outlined in Sect. 2.5 above, the processing is necessary for:
+Performance of, or entry into, a contract with you;
+Our legitimate interests to manage, run and improve our businesses; and
+Compliance with our legal obligations.
+For any sensitive personal information processed (such as health data or data concerning racial or ethnic origins), we will usually rely on substantial public interest (prevention or detection of crime) or legal claims. In some cases, where the above is not applicable, we will obtain your explicit consent or, in case of dealings with PNV which have ended in dispute, we usually rely on legal claims. If you are a contractor, we may also rely on our employment obligations.
+For marketing activities, we generally rely on consent unless applicable data protection law allows us to rely on our legitimate interests to market to you.
+Please note that where we need to collect personal information by law, or under our contract with you, and you fail to provide that data when requested, we may not be able to provide our products and/or services to you.
+Please find more information on how we use cookies in our
+Cookies Policy
+.
+III CONSENT FOR PROCESSING
+As set out above, in some cases we will need your consent to process your personal information. In instances where you give your consent for us to process your personal information, you are able to withdraw your consent at any anytime with effect to the future by contacting us at
+[email protected]
+, provided that we are not required by applicable law or professional standards to retain such information.
+IV DATA TRANSFERS
+Where personal information is transferred from the EEA, the UK or Switzerland to a country that has not been found to have an adequate level of data protection pursuant to EU or UK law (a ‘third country’), PNV (or its relevant subsidiary) generally rely on the EU Standard Contractual Clauses (together with the UK International Data Transfer Addendum, where applicable) which include safeguards to provide for an adequate level of data protection.
+Please contact us at
+[email protected]
+if you would like to see a copy of the specific safeguards applied to the export of your personal information.
+V DATA SUBJECT RIGHTS
+In addition to the rights of access and correction described in Sect. 2.7 of the Privacy Policy, you have a number of rights in relation to your personal information, which are summarised below:
+Right to erasure (right to be forgotten)
+- you have the right to request the erasure of your personal information in certain circumstances;
+Right to restriction
+- you have the right to request the restriction (i.e. keep but not use) of your personal information in certain circumstances;
+Right to objection- you have the right to object to the processing of your personal information in certain circumstances;
+Right to data portability
+- you have the right to request and receive the personal information that you have provided to us in a structured, commonly used and machine readable format and to have this information transmitted to another organisation; and
+Rights in relation to automated decision making and profiling
+- you have the right to not be subject to automated decision-making, including profiling.
+To exercise your rights with respect to your personal information, please contact us at
+[email protected]
+. Please note that certain conditions and exemptions apply to the exercise of many of these rights and so you will not be able to exercise them in all situations. However, we will consider and evaluate each request that we receive and respond in accordance with our legal obligations.
+Right to stop marketing:
+You also have the right to ask us not to process your personal information for direct marketing purposes at any time, including any profiling related to the direct marketing.
+To exercise this right, you can click the “unsubscribe” option on any direct marketing email you receive from us, or contact us at
+[email protected]
+"
+[email protected]
+.
+VI RIGHT TO LODGE A COMPLAINT WITH A SUPERVISORY AUTHORITY
+You have a right to lodge a complaint with your local data protection authority. In the UK, this is the Information Commissioner's Office.
+Information Commissioner’s Office:
+Wycliffe House
+Water Lane
+Wilmslow
+Cheshire
+SK9 5AF
+Telephone number: 0303 123 1113
+Website:
+www.ico.org.uk
+You can find details of the data protection authority in other European countries here:
+https://edpb.europa.eu/about-edpb/about-edpb/members_en
+.
+In Ireland, the local data protection authority is the Data Protection Commission.
+Data Protection Commission
+21 Fitzwilliam Square South
+Dublin 2
+D02 RD28
+Ireland
+Telephone number: 01 7650100 / 1800437 737
+Website:
+https://www.dataprotection.ie/
+Appendix 2: PNV group companies being data controllers
+PolyNovo Limited
+Australia
+PolyNovo North America LLC
+United States
+PolyNovo Biomaterials Pty Ltd
+Australia
+NovoSkin Pty Ltd
+Australia
+NovoWound Pty Ltd
+Australia
+PolyNovo NZ Limited
+New Zealand
+PolyNovo Singapore Private Ltd
+Singapore
+PolyNovo UK Limited
+United Kingdom
+PolyNovo Ireland Ltd
+Ireland
+PolyNovo Biomaterials India Private Limited
+India (Incorporated on 8th Dec 2022)
+AUSTRALIAN PRIVACY NOTICE:
+PolyNovo Limited (“PNV”) may collect personal information about you. PNV’s contact details are set out at the end of this Privacy Notice.
+Collection of personal information
+The main way PNV collects your personal information is from you directly – typically via emails, phone calls, meetings or PNV’s websites.
+PNV may, in limited circumstances, collect your personal information from someone other than you - for example, from a co-worker, a health care professional who is caring for you, public sources, others involved in your dealings with PNV, conference organisers, other organisations to conduct credit checks and from PNV’s Share Registry. For additional details regarding these circumstances, please read PNV’s
+Privacy Policy
+.
+What are the purposes for which PNV collects your personal information?
+PNV collects, holds, uses and discloses your personal information for the following purposes - for additional details regarding these purposes, please read the Privacy Policy:
+Where you have ongoing dealings with PNV e.g. if you are a current customer, contractor, vendor or investor:
+to fulfil PNV’s contractual and legal obligations to you
+to help satisfy the reason why personal information has been given to PNV, and
+to comply with regulatory requirements, such as maintaining a record of medical queries, complaints, adverse events and recalls relating to PNV’s products.
+If you are an individual who wishes to have future dealings with PNV e.g. if you are a prospective customer, contractor, vendor or investor or a job applicant to: help satisfy the reason why you have given personal information to PNV; and help decide whether to enter into a contract with you.
+Generally regarding all the above individuals where: PNV is required or permitted to by law; it is reasonably necessary for PNV’s functions or activities; or to improve your website experience if you are a user of PNV’s websites.
+If you are a current customer or vendor, in connection with: surveys, product evaluation and research; medical device trials, investigations and training; adverse events involving PNV’s medical devices; and customer complaints or feedback.
+If you are a current or prospective customer to: promote PNV and its products and services; assess product/service suitability; and help you achieve your purpose vis-à-vis PNV.
+If you are a current contractor to: record your attendance, train you and monitor your work; and, to report your personal information to regulatory authorities e.g. the ATO.
+If you are a patient to: assist and support your health care professionals; respond to queries/requests; and provide promotional materials regarding PNV and its products and services.
+PNV may be required or authorised to collect your personal information under an international, national, Commonwealth, State or Territory law or regulation – for example:
+Therapeutic Goods Act 1989 and its Regulations
+Therapeutic Goods (Medical Devices) Regulations
+The Income Tax Assessment Act 1936
+What are the consequences if personal information is not collected from you?
+If PNV doesn’t collect your personal information:
+PNV will not be able to enter into a contractual relationship with you, and
+PNV may not be able to carry out the purposes mentioned above and in the Privacy Policy.
+You have the option of not identifying yourself when dealing with PNV, but it would not be possible to enter into a contract with PNV and remain anonymous.
+Disclosure of personal information to other organisations
+PNV may disclose your personal information to organisations outside PNV – for example:
+for the purposes of PNV supplying goods and services to you
+if you are a patient, to assist in your health care (with your consent in the case of sensitive information)
+to comply with regulatory reporting requirements e.g. tax reporting, adverse events reporting
+to perform credit checks on prospective customers and background checks regarding job applicants, contractors or vendors
+to enable any tax withholding, and
+generally to satisfy the purposes mentioned in the
+Privacy Policy
+.
+PNV may disclose personal information to overseas recipients in limited circumstances. These circumstances, and the countries where these overseas recipients might be located, are disclosed in the
+Privacy Policy
+.
+Access to and correction of personal information and complaints
+PNV’s Privacy Policy contains information about:
+how you may access the personal information PNV holds about you and seek the correction of that information, and
+how you may complain about a breach of Privacy Laws and how PNV will deal with such a complaint.
+For further details regarding PNV’s collection, holding, use, disclosure and management of personal information, please read the Privacy Policy.
+PNV’s contact details
+Privacy Officer
+Address: PolyNovo Limited, 2/320 Lorimer Street, Port Melbourne, Victoria 3207, Australia
+Phone: +61 (0) 3 8681 4050
+Email:
+[email protected]
+March 2023
+App login
+Forgot password
+Not a member?
+Register
+sign in
+Go
+The following content is intended for the information of health care professionals only.
+Yes, I am a health care professional
+No, I am not
+×
+Select Position
+Surgeon
+Physician Associate
+Private Practice/Office Based
+Nurse Practitioner
+Resident/Fellow
+Physical Therapist
+Occupational Therapist
+Pharmacist
+Wound Care Specialist/Clinic
+Research
+University/School
+Other
+Download
+Close

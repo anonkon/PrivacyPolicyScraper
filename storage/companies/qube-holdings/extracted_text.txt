@@ -1,0 +1,224 @@
+Privacy Policy - Qube
+
+Privacy Policy
+Privacy Policy.
+This privacy policy sets out how Qube Holdings Limited and its related companies and trusts collect, use, store, disclose and manage your personal information and how Qube complies with the
+Privacy Act 1988
+(Cth) (
+Privacy Act
+).
+Apart from complying with regulation, proper management and protection of personal information is important for the security of the individual to whom the information belongs and to Qube’s commercial interests. Qube is therefore committed to protecting personal information and to meeting its compliance obligations.
+By providing personal information to us, you consent to our collection, use, storage, disclosure and management of your personal information in accordance with this privacy policy and any other arrangements that apply between us.
+1.What is personal information?
+When used in this privacy policy, the term ‘personal information’ has the meaning given to it in the Privacy Act. In general terms, personal information is information or an opinion about an identified individual, or an individual who is reasonably identifiable whether the information or opinion is true or not and whether recorded in a material form or not.
+Personal information may include, but is not limited to, an individual’s name, address, telephone number, email address and occupation (e.g. health or medical records). If the information or opinion Qube collects personally identifies you, or you are reasonably identifiable from it, the information or opinion will be considered to be personal information.
+The management of personal information means all the ways that the personal information may be handled including collecting, storing, using, disclosing, accessing and transferring that information.
+In Australia, the management of personal information by organisations is regulated primarily by the Privacy Act and the 13 Australian Privacy Principles (
+APPs
+) which are contained in Schedule 1 of the Privacy Act. The APPs set out guiding privacy principles with which organisations must take reasonably practicable steps to comply. A Notifiable Data Breaches Scheme (
+NDB Scheme
+) has also been in effect under the Privacy Act since 22 February 2018.
+More information on the APPs is available on the website of the Office of the Australian Information Commissioner (OAIC) at
+www.oaic.gov.au
+.
+2.Coverage of this policy
+This privacy policy explains how we manage personal information, including our obligations and the rights of individuals. It applies to personal information that we manage as a result of:
+your interaction with us as a prospective, current or former employee;
+any commercial dealings or interactions you may have with Qube as a business or a Qube security holder; and
+your use of, and any interaction you may have with, this website.
+This privacy policy interacts with and is supported by Qube’s risk management and compliance framework and associated policies (in particular Qube’s Risk Management Policy) which are available in the Corporate Governance section of our website:
+https://www.qube.com.au/about/corporate-governance
+.
+Employee records
+The Privacy Act and the APPs do not apply to the management of personal information that is directly related to a current or former employment relationship and is an ‘employee record’.
+This means that Qube is not required to comply with the APPs when it handles current and past employee records related to the employment relationship or to grant a current or former employee access to their employee records.
+3.What personal information do we collect?
+Employment
+Qube may obtain personal information about prospective and current employees and may also request information from former employees. This information may be collected:
+as part of the procedures dealing with a prospective employee’s job application;
+during site attendances; and
+as part of ongoing workforce management and record keeping.
+We may collect the following types of personal information:
+your name, date of birth, gender and contact details including your physical address, mailing address, email address and telephone number;
+salary and bank account details;
+information to verify your identity such as your driver licence number;
+your employment history and other information you provide as part of the recruitment process (including information contained in any uploaded CV);
+if you are involved in an incident, details about the involvement of you and other people in the incident, witness and incident statements, CCTV footage of the incident, medical information and information from medical consultants and other consultants and third parties;
+information including your image collected via our CCTV systems;
+if you use mobile applications developed by us or log in to wireless facilities provided in a Qube-managed site, details relating to your use of the mobile application or wireless facility;
+information collected through your use of Qube-supplied computers and other devices;
+your device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the website, ad data, IP address and standard web log information;
+health information including your COVID-19 status (including vaccination status) in order to comply with contract tracing requirements and where it may be relevant for managing the health and safety of our offices and work sites and the carrying out of Qube’s operations; and
+any other personal information that may be required in order to facilitate your employment with us.
+The APPs contain restrictions on collecting sensitive personal information such as ethnicity, political affiliations, immigration status, religious views and personal health information. Qube generally collects sensitive personal information about an individual (particularly health and medical information) with the express consent of the individual where it is part of the inherent requirements of the individual’s employment with Qube or otherwise reasonably necessary in its dealings with a particular individual. Qube may also collect sensitive information where required or permitted by law to do so without consent.
+Health and medical information (including your COVID vaccination status) is sensitive personal information and as such, Qube takes all reasonable steps to ensure that this information is protected from misuse, interference, loss, unauthorised access, modification or disclosure and to ensure that this information is stored securely.  Health information may be subject to laws and regulations apart from the APPs (including, for example, the
+Health Records Act 2001
+(VIC)).
+Business, security-holder and site attendee interactions
+The information Qube collects about you depends on the products, services or information that you or your employer provide to or receive from us, and our requirements for information in order to provide or receive them.
+We may collect the following types of personal information:
+your name, date of birth, gender and contact details including your physical address, mailing address, email address and telephone number;
+bank account and credit card details;
+information to verify your identity such as your driver licence number;
+information relating to your income and credit-worthiness;
+provided in prospective suppliers’ tenders and proposals (which may, for example, include personal biographies/CVs) and customers’ applications for credit;
+your preferences for particular products, services or facilities when you tell us what they are;
+information relating to your Qube client log-in account, including your password and username and other information you provide to us through our representatives or customer surveys from time to time;
+if you hold Qube securities, information relating to you and your security holding;
+if you are involved in an incident, details about the involvement of you and other people in the incident, witness and incident statements, CCTV footage of the incident, medical information and information from medical consultants and other consultants and third parties;
+information including your image collected via our CCTV systems;
+any additional information relating to you that you provide to us directly through our website or indirectly through the use of our website, online presence or otherwise. This information may include information regarding what web pages you access;
+if you use mobile applications developed by us or log in to wireless facilities provided in a Qube managed site, details relating to your use of the mobile application or wireless facility;
+your device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the website, ad data, IP address and standard web log information;
+the name, email, phone number and COVID vaccination status of an attendee at Qube sites or third party sites operated by Qube;  and
+any other personal information that may be required in order to facilitate dealings with us by you or your employer.
+Acknowledgment in relation to supply of personal information
+By supplying us with personal information you acknowledge that:
+to be best of your knowledge, such information is true, correct and complete and not misleading;
+you consent to the collection and management of that personal information by Qube in accordance with this privacy policy; and
+a false, incomplete or misleading statement may:
+in the case of employment, disqualify you from obtaining employment or, after your employment has commenced, result in disciplinary action up to and including termination of your employment; or
+in the case of business and commercial dealings, disqualify you or your company from contracting or dealing with Qube and the taking of action by Qube where permitted contractually or under law.
+4. How is personal information collected?
+Qube’s approach is to collect personal information, where reasonably practicable, from the individual directly. Where this is not practical, information may be collected by lawful means from secondary sources such as government agencies, service providers, publicly available sources and list purchases.
+Some of the ways personal information can be collected are by:
+your access and use of our websites, Wi-Fi services or mobile applications and your interactions with our products, services, content or advertising;
+your communications with us, including emails, letters, conversations or other correspondence between you and our representatives;
+contractual documents, tenders and proposals and customers’ credit applications and purchase orders.
+undertakings given by attendees visiting our sites and CCTV systems at our sites;
+third party sources, including marketing agencies, data collection agencies, credit reporting agencies, law enforcement agencies and other government entities personal contacts, referrals and publicly available sources;
+for work sites, health information in relation to COVID status may be obtained by way of a COVID-19 visitor notice and self-declaration regarding your health, recent travel, and interaction with a person or persons diagnosed with COVID or otherwise sighting and/or retaining a record of your vaccination status; and
+witnesses, CCTV footage, medical and other consultants and third parties in the case of incidents in which you are involved.
+Prospective Employment
+In addition, when you apply for a job or position with us we may collect information from you (including your name, contact details, working history and relevant records checks), from any recruitment consultant, your previous employers, your referees and others who may be able
+to provide information to us to assist in our decision on whether or not to make you an offer of employment or engage you under a contract.
+Personal information may also be disclosed during interviews, site attendances, pre-employment medicals, drug and alcohol testing. As previously noted, the requirements for handling personal information under the APPs do not apply if you become an employee.
+Security of Information
+Your personal information may be transferred to and stored within documents and materials we create based on the personal information you provided to us. This may be in electronic form in company databases, email applications or in written form in hard copy files.
+Qube places importance on ensuring the security of the personal information of our job-applicants, employees, customers, suppliers and everyone with whom we deal. We take reasonable steps to protect your personal information from misuse, interference and loss, as well as unauthorised access, modification or disclosure. We use a number of physical, administrative, personnel and technical measures to protect and prevent external unauthorised access to your personal information. In relation to electronic storage, these measures include encryption, firewalls and data access controls.
+The NDB Scheme requires relevant entities, including Qube, to notify the OAIC and affected individuals where there has been an eligible data breach in relation to the individuals’ personal information.  Qube has developed a Personal Information Data Breach Response Plan to facilitate Qube’s compliance with the NDB Scheme.
+Subject to confidentiality, legal obligations and the terms of this privacy policy, we will de-identify or destroy securely personal information when it is no longer required. However, we may retain adequate records for legal, accounting or prudential purposes.
+Refusal to provide personal information
+You may decide not to provide some personal information. If so, Qube will attempt reasonably to accommodate this but may be unable to:
+provide or receive some or all of the requested products or services to or from you;
+provide you with information about the products and services that you may want to provide or receive;
+tailor the content of our websites or mobile applications to your preferences and your experience of the websites or mobile applications may not be as enjoyable or useful;
+accept or process your application for employment (in particular where your COVID vaccination status is not disclosed); or
+in relation to your COVID status (including vaccination status), permit your entry on to Qube or Qube-operated sites.
+5. Purposes for collection, and uses of, personal information
+Personal information will only be used or disclosed for purposes directly related to one or more of Qube’s legitimate functions or activities in the provision of its services or as otherwise permitted by lawful authority.
+Prospective Employment
+The personal information you provide will be managed and used for the primary purpose of considering employment or internship positions with Qube and undertaking administrative functions for the ongoing management of our workforce.
+Personal information may be used in a variety of ways, including but not limited to:
+considering prospective employees’ employment applications;
+matching your details with job vacancies and managing information held about you for that purpose;
+providing you with information and content that you may request or which we think may be of interest to you, including information relating to employment opportunities (provided you consent to the sending of such information);
+in relation to your COVID status (including vaccination status):
+determining whether you can attend Qube offices or work sites; and
+COVID contact tracing as required by the relevant legislation; and
+the performance of Qube’s administrative functions in relation to the management, review and remuneration of its workforce .
+Qube may disclose the personal information you provide to Qube’s human resources personnel, hiring managers and to recruitment consultants for the purpose of considering you for job opportunities, managing your application and, if successful, your employment and performance records.
+Business, security-holder interactions and site attendance
+Broadly, Qube collects, stores, uses and discloses your personal information:
+to provide or receive products and services to or from you;
+to provide information and inform you of updates on Qube and our products and services;
+to provide you with access to protected areas of our website;
+to assess the performance of our website and to improve, optimise and protect its operation;
+to conduct business processing functions, including administrative, marketing, planning, product or service development, auditing, technology, data-processing, security and safety, legal, accounting, business consulting, delivery, banking, payments, quality control, research and archiving.
+to facilitate and manage your Qube securities holding with Qube (see section on our share registries below);
+for security and risk management purposes including incident investigation, loss prevention, claims management and litigation;
+in relation to your COVID status (including vaccination status):
+determining whether you can attend Qube offices or work sites; and
+COVID contact tracing as required by the relevant legislation; and
+to comply with any law, rule, regulation, determination, decision or direction of a regulator, or in co-operation with any governmental authority of any country.
+We may also use personal information for a related purpose where it would reasonably be expected that we would use the information in that manner.  Personal information will only be disclosed to parties outside the Qube group in the circumstances set out in this privacy policy as required by law or as otherwise notified to you at the time of collection of the information.
+We may, from time to time, process your personal information so as to put it in a form from which your identity is not reasonably ascertainable (“de-identified information”). We use such de-identified information for analytic purposes and may disclose that information to others for our business purposes. De-identified information falls outside of the scope of the Privacy Act.
+CCTV at Qube sites
+Qube uses CCTV surveillance systems to monitor and record activity at selected Qube sites. The main purpose is to ensure a safe and secure working environment. We only use CCTV footage to personally identify you for security, risk management, loss prevention, regulatory and incident investigation purposes as required by law or outlined in this privacy policy.
+6. When and to whom Qube discloses personal information
+We may disclose personal information for the purposes described in this privacy policy to:
+parties to whom Qube has outsourced various functions, including but not limited to providers of share registry services, contractors or service providers for the purposes of operation of our website or our business, custodians, IT systems administrators, mailing houses, couriers, payment processors, data entry service providers, electronic network administrators, debt collectors, insurers, insurance and securities brokers, real estate agents, marketing agents, travel agents, claims management services, injury management service providers, property management, surveying and valuation service providers and professional advisors such as accountants, lawyers and business advisors;
+regulatory authorities or government agencies or bodies where required by law; and
+other parties where we have your consent.
+We may disclose personal information:
+with the consent of the individual or where a person would reasonably expect the disclosure;
+when we reasonably believe that it is necessary to reduce or prevent a threat to the health or safety of individuals or the public;
+concerning your COVID vaccination status;
+to State, Territory or Commonwealth health agencies or officers for public health and safety management relating to the risk of disease outbreaks (for example to enable contact tracing for COVID-19); and
+Qube managers, third party site management and customers for the proper conduct of the operations of Qube and our customers.
+where we have previously notified a person about the use or disclosure at the time the disclosure was made;
+in a permitted disclosure situation under the APPs such as:
+when we suspect unlawful activity and it is a part of our investigation or in reporting the matter to the relevant authorities. This may include disclosure about visits to our sites for security and safety purposes;
+when it is legally required or authorised – for example, obligations under anti-money laundering legislation such as verifying the identity of beneficial owners of customers or to comply with a subpoena, a warrant or other order of a court;
+when we believe that it is necessary for prevention, investigation and prosecution of wrongdoings or the conduct of, and enforcement of orders made in, legal proceedings; or
+when it is contemplated that any Qube business, company or trust is to be sold, we may transfer any personal information we hold about you to prospective purchasers (and their advisers) on a confidential basis as part of their due diligence investigation of the business, company or trust.
+Where we have disclosed personal information to a third party acting on our behalf, we take contractual steps to protect the confidentiality, privacy and security of your personal information, including dealing with your personal information in accordance with our instructions and applicable privacy regulation.
+Qube security-holders
+Qube has outsourced its share registry function for its securities to Computershare Investor Services (Computershare) and Link Market Services.
+The share registries have their own privacy policies covering the collection, use, storage, disclosure and management of personal information they collect on our behalf.
+You may obtain a copy of:
+Computershare’s privacy policy at
+https://www.computershare.com/au/privacy-policies
+or by contacting Computershare by:
+Email:
+[email protected]
+; or
+Post: Privacy Officer, Computershare Investor Services Pty Limited, Level 4, 60 Carrington Street, Sydney NSW 2000; or
+Phone: +61 1300 850 505 (free call within Australia).
+Link’s privacy policy at
+https://www.linkgroup.com/docs/Link_Group_Privacy_Policy.pdf
+or by contacting Link by:
+Email:
+[email protected]
+;
+Post: Privacy Officer, Link Group, Locked Bag A14, Sydney South NSW 1235; or
+Phone: +61 1800 502 355 (free call within Australia).
+You may contact the respective share registries’ privacy officers if you have a query or complaint about privacy in relation to your Qube securities holding or would like details of your personal information in your capacity as a security- holder. For your protection, the share registries may only disclose personal information to you if their internal identity verification procedures are satisfied. If your security holding is sponsored by a broker, you may not be able to update your personal information directly with them and you may need to contact your broker to do this. If you are not satisfied by the response from the share registry to your privacy concerns, you should contact Qube’s Privacy Officer (see section 7 below).
+Direct marketing communications
+Qube and/or third party service providers we engage may send you direct marketing communications and information about:
+products, services and special promotions that we consider may be of interest to you;
+offers or promotions based on how you use our products and services; or
+third party products and services (including offers and discounts we may have negotiated for our customers) we think may interest you, if you’ve chosen to receive this information.
+These communications may be sent in various forms, including by telephone, post, fax, email, SMS or any other form of electronic communication, in accordance with the Privacy Act and the
+Spam Act 2003
+(Cth).
+Under this policy, you consent to Qube and the third party service providers we engage sending you those direct marketing communications by any of those methods. If you indicate a preference for a method of communication, we will try to use that method whenever practicable to do so.
+You may opt-out of receiving marketing communications from Qube and/or our third-party service providers at any time by contacting the sender using the details set out in the communication, or by using the opt-out facilities provided in the marketing communication (e.g. an unsubscribe link).
+If you opt-out using the opt-out details provided in a marketing communication, we will ensure that you are removed from the distribution list for that particular communication. If you wish to opt-out of other (or all) marketing communications or mailing lists, please see below.
+Disclosure of personal information outside Australia
+While principally based in Australia, Qube has a number of related companies registered, or with officers located, in various overseas jurisdictions, principally south-east Asia. We may also use service providers with offices located overseas.  Other countries may afford different levels of privacy protection to that available under Australian law and where your personal information may be accessible by law enforcement, government, regulatory or national security authorities of those countries.
+To the extent required or permitted under the APPs, we may share personal information:
+between companies within the broader Qube group (including its overseas entities which are subject to this privacy policy) as necessary or appropriate for the efficient management of our workforce, record-keeping and conduct of our business activities; and
+service providers, agents, contractors and suppliers located outside Australia servicing Qube’s overseas entities (including external recruitment consultants) only as necessary for Qube to perform its business functions.
+Qube takes reasonable steps (including through contractual measures) to ensure that any third party overseas recipient deals with such personal information in a manner that is consistent with the APPs and this privacy policy.
+By your use of this website and/or the provision of your personal information, you consent to the possible transfer of your personal information, to the limited extent described above, to such restricted recipients who may be located outside Australia.
+7. Access and correction of personal information
+You may seek access to the personal information Qube holds about you as permitted under the APPs. Release of this information must be authorised by, and given through, our Privacy Officer.
+Qube will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, up-to-date, complete and relevant. Where it has become redundant or misleading, we will take reasonable steps to correct the information. This may be achieved by re-collecting information directly from the individual and/or independently verifying personal information as required and/or permitted by lawful authority.
+To access or correct your personal information (including to update your COVID vaccination status), or to make a comment, query or complaint, please contact our Privacy Officer in writing using the details below:
+Email:
+[email protected]
+; or
+Post: Privacy Officer, Qube, Level 27, 45 Clarence Street, Sydney NSW 2000.
+Where we hold information that you are entitled to access, we will provide you with a suitable means of accessing it (for example, by mailing or emailing it to you).
+There may be instances where we determine not to grant you access to the personal information we hold. For example, Qube may refuse to release such information where an exception in the APPs applies (such as where the employee records exemption applies). If this happens we will give you written reasons for the refusal.
+If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request that we amend it. In some unusual cases, we may not agree that there are grounds for amending your personal information. If that happens, we will add a note to the personal information stating that you disagree with it.
+Generally, we will not charge you to act on your request for access and will not charge for making any corrections to your personal information. However, Qube reserves the right to charge an appropriate fee or seek reimbursement for reasonable costs associated with retrieving, copying or providing access to your personal information.
+The information we provide will be personal to you only. We reserve the right to redact or withhold information to the extent it relates to, identifies, or is the personal information of, another person. We will provide you with the reason if we refuse to provide you with full access to, or permit correction of, the personal information we hold about you.
+Depending on the nature of the request, we may ask you to complete an enquiry form and/or provide us with further information in order to verify your identity.
+8. Making a privacy-related complaint
+Please contact our Privacy Officer in writing if you wish to make a complaint about a claimed breach by Qube of the APPs or the Privacy Act, a complaint about the way we have handled your personal information or a request in relation to it. Please provide your name, email address and/or contact number and details of your complaint.
+After Qube has completed its investigation, we will contact you, usually in writing, to advise you
+of the outcome and invite a response to our conclusions about your complaint. If we receive a response from you, we will assess it and advise if Qube has changed its view. If you are unsatisfied with the outcome, we will provide you with information about the further steps you can take.
+If you are not satisfied with our attempt to resolve your concern you may refer the matter to the Australian Information Commissioner. More information can be obtained through the Office of the Australian Information Commissioner at:
+https://www.oaic.gov.au
+.
+9. Miscellaneous
+Currency
+This privacy policy was last revised in November 2021 and reflects compliance with the regulation of privacy in Australia as at this date.
+From time to time the privacy policy may be amended to reflect changes in privacy regulation and Qube policies. We will update the privacy policy on Qube’s website if it has been changed.
+Cookies
+A cookie is a small text file that a website may write to your hard drive when you visit the website. A cookie le can contain information (such as a user ID) that the website uses to track the pages you have visited. The only personal information a cookie can contain is information you personally supply. A cookie cannot read data on your hard disk or read cookie files created by other websites.
+Qube’s website uses cookies to track user traffic patterns and to better serve you when you revisit the website. You can set your browser to notify you when you receive a cookie, providing you with the opportunity to either accept or reject it. You can also refuse all cookies by turning them off in your browser. We handle personal information collected by cookies in the same way that we handle all other personal information as described in this privacy policy.
+Third party links
+Our websites and mobile applications may contain links to websites operated by third parties. Those links are provided for your convenience and may not remain current or be maintained. We are not responsible for the privacy practices of, or any content on, any linked websites and have no control over or rights in such websites. The privacy policies that apply to such websites may differ from this privacy policy.
