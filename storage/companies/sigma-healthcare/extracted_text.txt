@@ -1,0 +1,333 @@
+Sigma Privacy Policy - Sigma Co
+Sigma Privacy Policy
+Introduction
+Sigma Healthcare Limited (
+Sigma
+) and its related bodies corporate (as defined in the
+Corporations Act 2001
+(Cth)) (
+Sigma Group
+) are committed to maintaining your privacy in accordance with the Australian Privacy Principles (
+APPs
+),the
+Privacy Act 1988
+(Cth), the applicable States’ privacy laws, the New Zealand Information Privacy Principles (
+NZIPPs
+), and the
+Privacy Act 2020
+(NZ) (as applicable) (together referred to as “
+Privacy Law
+”).
+This Privacy Policy sets out how the Sigma Group (excluding NostraData Pty Ltd) (
+we
+,
+our
+,
+us
+) manages the personal information that we collect, access, store, use, and disclose in the course of operating our business. NostraData Pty Ltd’s Privacy Policy is available at
+http://nostradata.com.au
+. In accordance with Privacy Law and for the purposes of this policy, “
+Personal Information
+” is information or an opinion about you, whether the information or opinion is:
+true or not; and
+recorded in a material form or not.
+Personal Information may include sensitive information.
+Our Credit Reporting Policy is at the end of this Privacy Policy and sets out how we manage credit information and credit eligibility information (where relevant) and is our credit reporting policy for the purposes of Part IIIA of the Privacy Act.
+If you provide us with Personal Information about someone else you must have their consent or otherwise be lawfully permitted to disclose that information to us.
+You agree to read and ensure you understand this policy, in particular the consent at the end of this document, when using or participating in our services, in particular the part titled “
+Understandings and consents
+”.
+Part 1 – Suppliers, customers, loyalty program members and others
+Part 1 of this Privacy Policy describes how we handle (but is not limited to) Personal Information from people that are not Patients (as defined in Part 2). This includes:
+actual and prospective suppliers of goods and services to the Sigma Group;
+customers of the Sigma Group (such as pharmacies, nursing homes and hospitals, people who enquire or make purchases via our websites (
+Sigma Websites
+) and users of our apps (
+Sigma Apps
+);
+members of loyalty programs for our community pharmacy brands (e.g. Amcal Rewards, Guardian Club, Discount Drug Stores Club) (together,
+Loyalty Programs
+); and
+job applicants.
+In Part 1, ‘you’ refers to these people and, where relevant, the staff members of actual and prospective suppliers and customers.
+What types of Personal Information do we collect about you?
+The kinds of Personal Information we collect about you will depend on the circumstances and purposes of collection, but will typically include:
+your name, contact information, date of birth;
+financial information (including credit card details or bank account numbers);
+where relevant, information about your employer or an organisation you represent and/or your professional details (e.g. AHPRA number);
+information about the business or activities of you or your employer or an organisation you represent;
+for actual or prospective suppliers, the products and services you may or do provide the Sigma Group;
+for actual or prospective customers, the products and services you may or do obtain from the Sigma Group and transactional information about your use of our products and services;
+for Loyalty Program members, your preferred community pharmacy participating in the Loyalty Program, transactional information about the products and services that you may or do obtain via community pharmacies participating in the Loyalty Program (if you swipe your Loyalty Program card or otherwise provide your Loyalty Program details);
+for Sigma Apps, location data passed on from third party services or GPS-enabled devices you have set up and other information obtained from the networks and devices that you use to access the Sigma App;
+your opinion/preferences about specific products and services; and/or
+to the extent required or permitted by law, a government related identifier (e.g. Medicare number).
+In some cases the information we collect will be sensitive information, such as your membership of a professional or trade association. For Loyalty Program members, some of the information we collect may be health information (e.g. information about the products and services you have obtained via a community pharmacy in the Loyalty Program).
+The lists above are not exhaustive. We may sometimes need to collect additional information.
+How and when do we collect Personal Information?
+We may collect your information in a number of ways, including:
+directly from you or those authorised to provide information on your behalf (such as where you provide information to us when you complete an application form or agreement for one of our services, contact us with a query or request, fill in a survey, or enter a competition, and including by monitoring and recording your interactions with us, such as via email and telephone);
+from third parties such as our related entities, business or commercial partners, credit reporting bodies (for more details see our Credit Reporting Policy below);
+via use of video and audio surveillance devices at our premises;
+from publicly available sources of information;
+automatically through Sigma Apps you have downloaded;
+when you scan your Loyalty Program card or provide your Loyalty Program number at a participating community pharmacy or on a Sigma Website; or
+from our records of how you use the products or services provided by us including in respect of any website controlled by us.
+We will only collect your sensitive information if you have consented to the collection and the information is reasonably necessary for, or directly related to, one of our functions or activities or we are otherwise legally permitted to collect the information.
+Where we have collected your Personal Information on behalf of a third party, the collection and use of that information may be governed by their privacy policy. We may combine information we collect about you from multiple sources.
+When we obtain personal and other information from third parties whom we are referred to by you we will assume and you will ensure that you have made that third party aware of the referral of the persons and purposes involved in the collection, use and disclosure of the relevant personal or other information.
+We will assume you consent to the management of your Personal Information in the manner specified in this Privacy Policy (which may change from time to time) until you tell us otherwise by contacting the Privacy Officer.
+Why do we collect, hold, use and disclose your Personal Information?
+We collect, hold, use and disclose your Personal Information for our functions and activities which primarily include, amongst other things:
+providing, offering or communicating with you about products and services (including products and services offered by third parties, such as community pharmacies participating in our Loyalty Programs);
+allowing Loyalty Program members to accrue and redeem loyalty points and receive special offers;
+inviting you to enter competitions or complete surveys and conducting product and market research;
+to enable third parties to communicate with you about products and services they provide;
+being aware of any special product and service requirements you may have;
+to fulfil administrative functions associated with our business, such as order processing, billing, debt recovery, entering into contracts, managing relationships, planning, managing and monitoring our activities, products and services, training staff, contractors and other workers, risk management and management of legal liabilities and claims, obtaining advice from consultants and other professional advisers;
+providing you with information about charities or charitable initiatives that we support;
+to comply with any legal or regulatory obligations imposed on us;
+addressing any questions, feedback or complaints you may have;
+developing, improving and marketing our products and services; and
+any purposes for which it was requested and any secondary purposes to which you have consented or for which we are lawfully allowed to use your information.
+We may also use and disclose your Personal Information for secondary purposes, including information about Loyalty Program members, for the purpose of direct marketing, targeted advertising and special promotions, or to facilitate third parties (such as community pharmacies participating in our Loyalty Programs) direct marketing to you. We will only use your Sensitive Information (such as health information that may be captured via the Loyalty Program) for these purposes with your consent. You may opt out of our direct marketing to you. Our direct marketing materials will tell you how to do this. Please also refer to “
+Understandings and consents
+”.
+Personal Information we collect from you may be disclosed for the above purposes or as otherwise lawfully permitted, including to:
+any entity to which we are required or authorised by or under law to disclose such information (for instance, Federal or State law enforcement agencies and investigative agencies, courts, various other Federal or State government bodies);
+contractors and service providers we engage in order to provide our products and services and/or conduct the functions described above (for example IT consultants and mailing houses);
+our professional advisers and consultants;
+our business associates;
+third parties in a de-identified format for research purposes (including the development of third party products and services); or
+others that you have been informed of at the time any Personal Information is collected from you or to which you have consented (express or implied).
+Your consent to us disclosing your Personal Information to a third party may be implied from your use of the third party’s products or services which involve obtaining or accessing Personal Information from us or organisations like us or you enabling a third party to access your information held by us.
+Where we disclose your information, we will (if possible) take such steps that are reasonable in the circumstances to de-identify the information.
+Part 2 – Patients
+Part 2 applies to people (other than Loyalty Program members) that we collect health information about, who are primarily patients of the pharmacies, nursing homes, and other health professionals and carers, that use certain products and services we provide (
+Patients
+).
+In Part 2, ‘
+you
+’ refers to Patients. Loyalty Program members should refer to Part 1 of this Privacy Policy.
+What types of Personal Information do we collect about you?
+The types of information we collect will depend on which of our products and services you or your health professionals and/or carers use in relation to your care, and how those products and services are used. The types of information we typically collect includes:
+your name, contact information, date of birth;
+where legally permitted, a government related identifier (e.g. your Medicare or Department of Veteran Affairs number);
+your photograph, where this is required to identify you (e.g. on your dose administration aid);
+details of your health and care service providers and others involved in your care (e.g. next of kin/medical power of attorney/informal carers);
+your medical history and medical conditions;
+your pharmaceutical prescriptions;
+details of your interactions and transactions with us or your health professionals and/or carers that use our products and services in relation to your care, such as medication and/or care you have received, requested or have been recommended and other clinical notes recorded in our software or provided to us by your health professionals and/or carers;
+if you use our appointment booking portal, whether you attended your appointment;
+your opinions on the services provided by your health and care service providers.
+The information we collect about Patients is sensitive information and will be handled as such.
+How and when do we collect your Personal Information?
+We generally collect Personal Information (including health information) if you or your community pharmacy, nursing home, home care provider, and/or other health professionals and carers, use certain products and services we provide in relation to your care, such as:
+dose administration aid packing services;
+medication management, prescribing, dispensing and packing software (e.g. Healthstream, Quantum);
+home care assistance services (e.g. automated medication follow-up reminders);
+our appointment booking portal (e.g. for influenza vaccinations).
+Where reasonable and practicable, we collect this information from you, such as by asking you to fill in a form or complete a survey.
+However, in many circumstances, it will be unreasonable or impractical to obtain the information from you (e.g. you may not have the information, information from another source would contain fewer errors or be more complete, it would be unduly time consuming). In these cases, we will collect the health information from another source, such as:
+your current or former health professional(s) or carer(s), including via their use of our software or website;
+a third party who provides or provided goods or services to your current or former health professional(s) or carer(s) (e.g. a third party software provider previously used by your health professional who holds your historical medical records);
+your next of kin or other informal carer.
+We may combine the information collected from different sources to create a single record about you.
+Why do we collect, hold, use and disclose your Personal Information?
+We collect, hold use and disclose your Personal Information for purposes related to health and care services you receive, including:
+to provide your health professionals and carers with products and services that they use to care for you and manage your care, such as packing your dose administration aids for dispensing by your pharmacist;
+to share information we hold about you with your health professionals and other carers (including allowing them to access that information via third party software);
+to allow you and others nominated by you or your carers (such as your next of kin) to keep track of the care you receive;
+to develop and improve the products and services that we and our business partners provide;
+to fulfil administrative functions associated with our business, such as order processing, billing, debt recovery, entering into contracts, managing relationships, planning, managing and monitoring our activities, products and services, training staff, contractors and other workers, risk management and management of legal liabilities and claims, obtaining advice from consultants and other professional advisers;
+any other purposes we disclose to you at the time of collection, to which you otherwise consent, which is directly related to the purposes of collection or which is otherwise lawfully permitted.
+For these purposes, your Personal Information may be disclosed to your health professionals and carers, others involved in your care as nominated by you or your health professionals or carers (such as your next of kin), third parties who provide related products and services to you or your health professionals and care service providers (such as third party software providers). This list is not is not exhaustive. We may also disclose your information to:
+any entity to which we are required or authorised by or under law to disclose such information (for instance, Federal or State law enforcement agencies and investigative agencies, courts, various other Federal or State government bodies);
+contractors and service providers we engage in order to provide our products and services and/or conduct the administrative functions described above (for example IT consultants and mailing houses);
+our professional advisers and consultants;
+our business associates;
+others that you have been informed of at the time any Personal Information is collected from you or to which you have consented (express or implied).
+Part 3 – Employees
+Part 3 of this policy applies to Sigma Group employees and sets out how we handle Personal Information collected during business operations (including recruitment). In this Part 3, ‘you’ means any employee of Sigma Group.
+Please note that the Australian Privacy Principles may not apply to personal information that is collected and that is ultimately an employee record. However, no such exemption applies to our New Zealand employees (see
+Part 3 – Employees
+for more detail).
+We may collect employee Personal Information which for the purposes of this policy are collectively referred to as “
+Employee Records
+”, including your:
+identification information including your name, address, date of birth and other relevant identification information;
+contact details including you email address and contact number;
+tax file number (“
+TFN
+”);
+terms and conditions of employment and your employment objectives;
+training and disciplinary information;
+performance or conduct information (including from CCTV);
+membership records, leave records, taxation, banking and superannuation affairs that is directly related to the employment relationship between Sigma and the employee;
+information about your working styles, competency, ability and suitability for a position; and
+certain types of sensitive personal information as described below.
+Sensitive information
+In limited circumstances we may collect sensitive information about you, with your consent, such as information or opinions about your:
+gender;
+health;
+criminal record;
+disability (you may be asked to provide us with information regarding any disability that you have for the purposes of ensuring that the Services are accessible to you and for assessing the suitability of any role, including any accommodations that can be made); and/or
+racial or ethnic origin (this may only be asked for in some regions, in accordance with applicable law and for the purpose of monitoring equal opportunity/diversity),
+(collectively, “
+Sensitive Information
+”).
+We ask that you do not send us, and you do not disclose, any Sensitive Information related to sexual orientation, religious or other beliefs, political opinions, trade union membership, criminal background or racial or ethnic origin throughout the business operations. You should only provide Sensitive Information if we expressly ask for it.
+If, contrary to the request not to provide Sensitive Information, you do provide Sensitive Information, that information will be dealt with in accordance with this policy and the Privacy Law as unsolicited Personal Information.
+Sensitive Information may be de-identified and aggregated for the purposes of internal and external reporting. Any such reporting will not identify the responses provided by individuals.
+Employee Records
+If you are in an employment relationship with us, the information that has been collected during the Services and any recruitment activities will likely be added to an employment record. An employment record is a record of Personal Information relating to the employment of the employee and may include health information as described above.
+Relevantly, acts or practices of a private sector employer are exempt from the Australian Privacy Law where it is directly related to:
+a current or former employment relationship between the employer and the individual; and
+an Employee Record held by the organisation and relating to the individual.
+Employee Records we hold will not be given, sold, rented or leased to any other party for commercial purposes. When permitted or required by law, we may disclose Employee Records to a third party such as a government agency or third parties. It is the responsibility of all Sigma Group employees to act in a manner that respects and ensures employee confidentiality and privacy.
+Information regarding vaccination status
+This section applies to Sigma employees and prospective employees for the purposes of the collection of COVID-19 and Influenza vaccination information.
+Government Agency
+– means an ‘agency’ as defined in the Privacy Act and includes bodies which fall within comparative definitions in other Privacy Laws, as well as State and Territory governments, their agencies and law enforcement bodies.
+Medical Exemption Information
+means information or opinion from a medical practitioner advising that, in their view, there are contraindications for the person in respect of currently available COVID-19 vaccinations, as defined by the ATAGI (Clinical Guidance on use of COVID-19 vaccination in Australia in 2021 (V7.4).
+Personal Information
+means information or an opinion about an identified individual, or an individual who is reasonably identifiable whether the information or opinion is true or not and whether the information or opinion is recorded in a material form or not. Personal information includes Sensitive Information.
+Privacy Law
+means the
+Privacy Act 1988
+(Cth) (
+Privacy Act
+), counterpart legislation operating in your State or Territory, and various State and Territory legislation related to health records, as applicable.
+Sensitive Information
+is information or an opinion about certain matters involving an individual, which relevantly includes health information about an individual.
+Test Status Information
+means information regarding the time, date, location of the test, the type of test, the organisation or agency that administered it (for instance, the pathology provider, or public hospital) and the results of that test.
+Vaccination Status Information
+means information regarding the date and type of COVID-19 vaccine that was received and the name of the health provider that administered it.
+Sigma Healthcare may collect and hold Personal Information, including Sensitive Information, from individuals as part of the operation of its Workplace COVID-19 Vaccination Policy, or where Government authorities or facility owners impose vaccination requirements for Sigma employees to be able to access these facilities. information may include Vaccination Status Information, Test Status Information, and Medical Exemption Information, where this information is reasonably necessary for Sigma’s management to support its operational requirements and/or where required or authorised by law.
+Information will be collected for the primary purpose of preventing or managing the risk of COVID-19 in Sigma’s workplaces, and meeting customer vaccination requirements. Information may be collected for the secondary purpose of preparing for any necessary disclosures to a Government Agency or other body to respond to COVID 19, where required.
+Sensitive Information will be sought by consent and used and disclosed in line with the primary purpose it was collected and may be used and disclosed for appropriate secondary purposes, unless an exception or exemption applies.
+Sigma will take steps that are reasonable in the circumstances to protect Personal Information which is collected via the operation of this Policy from misuse, interference and loss and from unauthorised access, modification or disclosure.
+Part 4 – General provisions
+Part 4 applies to all individuals that we collect Personal Information about, including Patients. In Part 4, ‘you’ means any person we collect information about.
+Interacting with Sigma Websites
+You may visit Sigma Websites without identifying yourself. If you identify yourself (e.g. by providing your contact details in an enquiry), we will handle that information in accordance with this Privacy Policy.
+Sigma Websites may contain link to third party sites. We are not responsible for the content or privacy practices of the third parties who operate those websites.
+Sigma Websites use “cookies”. A cookie is a small string of information that a website transfers to your browser for identification purposes. The cookies we and/or our contractors use may identify individual users. Through cookies, we and/or our contractors may also collect information such as the software used, location data (unless disabled by the user), the date and time of your visit, your IP address, information you download and pages you have accessed on Sigma Websites and third party websites, browser types and type of device you use.
+Cookies can either be “persistent” or “session” based. Persistent cookies are stored on your computer, contain an expiration date, and are mainly for the user’s convenience. Session cookies are short-lived and are held on your browser’s memory only for the duration of your session, they are used only during a browsing session, and expire when you quit your browser. We and/or our contractors may use both session and persistent cookies. This information may be used to personalise your current visit to our and our contractors’ websites. Upon closing your browser, the session cookie is destroyed.
+Most internet browsers can be set to accept or reject cookies. If you do not want to accept cookies, you can adjust your Internet browser to reject cookies or to notify you when they are being used. However, rejecting cookies may limit the functionality of our website.
+Protecting your information
+We may store your information electronically or in hard copies. Sigma will take reasonable steps to protect the Personal Information it holds from misuse, interference and loss and from unauthorised access, modification or disclosure. Information that is stored electronically may be stored on software which is hosted by third party service providers under contract to us. Personal Information that is Sensitive Information will be password protected, have limited access protocols and/or be encrypted where reasonably necessary.
+Sigma will take reasonable steps to destroy or permanently de-identify Personal Information if it is no longer needed and we are not legally required to retain it. Some Personal Information, such as Patient health records, must be retained in accordance with law.
+We adhere to the Tax File Number Rule for the collection, storage, use, disclosure, security and disposal of TFN information. We will not require, request or collect TFN information for unauthorised purposes, or use or disclose TFN information unless permitted under taxation, personal assistance or superannuation law.
+If you provide us with your TFN information, we will only use or disclose it where you consent, or where the use is authorised or required by law.
+We will only hold information as long as required to perform the activities for which it was collected and dispose of it appropriately (for instance, by way of secure document destruction) when no longer required.
+If you are a Sigma Group employee, your Personal Information and Employee Records will be retained for a period of up to seven years, or longer if your employment exceeds seven years and retention is required by law.
+It is recommended that you retain your own copy of any information you submit to us.
+Understandings and consents
+By providing Personal Information to us after reviewing this privacy policy, you will be communicating to us that you:
+understand that we collect Personal Information about you that is reasonably necessary for, or directly related to, our functions and activities;
+understand we collect Personal Information, including Sensitive Information, for the primary and secondary purposes explained in this policy;
+understand that Personal Information that is Sensitive Information may be collected, used and disclosed without further consent being sought from you if an exemption or exception to the obligation to obtain consent under privacy law applies;
+understand that Personal Information that is not Sensitive Information may be used and disclosed without further consent being sought if an exemption or exception under privacy law to consent applies;
+understand that Personal Information may be disclosed to the third parties outlined in this privacy policy for the reasons set out in this policy;
+understand that Employee Records are exempt from the scope of the Australian Privacy Principles;
+have given us your express and/or implied consent to the following:
+Sigma Group collecting from you, and a third party referred to in this Privacy Policy, Personal Information about you, including Sensitive Information, for the Primary Purpose and Secondary Purposes during our business operations;
+Sigma Group using Personal Information about you, including Sensitive Information, that is collected in accordance with this privacy policy for the primary and secondary purposes; o Sigma Group disclosing Personal Information about you, including Sensitive Information, that is collected in accordance with this privacy policy to third parties for the primary and secondary purposes;
+Sigma Group disclosing Personal Information about you, including Sensitive Information, collected by it in accordance with this privacy policy, to related bodies corporate and entities within the Sigma Group of entities for the primary and secondary purposes;
+Sigma Group holding or using Personal Information by storing it with third parties as set out in this privacy policy.
+We may not seek your consent to collect, use or disclose Personal Information where:
+it is unreasonable or impracticable to obtain your consent to the collection, use or disclosure and we reasonably believe that the collection, use or disclosure is necessary to lessen or prevent a serious threat to the life, health or safety of any individual, or to public health or safety;
+we have reason to suspect that unlawful activity, or misconduct of a serious nature, that relates to our functions or activities has been, is being or may be engaged in and we reasonably believe that the collection, use or disclosure is necessary in order for the entity to take appropriate action in relation to the matter;
+collection, use or disclosure is required or authorised under law;
+collection, use or disclosure is necessary to assist an enforcement body with law enforcement activities; or
+collection, use or disclosure is required is related to an emergency or disaster and the Commonwealth’s response to that disaster.
+Remaining anonymous
+Where lawful and practicable, we will give individuals the option of remaining anonymous or using a pseudonym when dealing with us.
+Generally, however, we will not be able to carry out our functions or activities described in this Privacy Policy if you choose to remain anonymous. If we do not collect Personal Information about you, we may not be able to provide you, or your health or care service providers, with products or services.
+Quality, access and correction of our personal information
+We will take such steps as are reasonable in the circumstance to ensure that the Personal Information that we collect or disclose is accurate, up-to-date and complete (in the case of disclosure, having regard to the purpose of the disclosure).
+You have the right to request access to the Personal Information that we and/or our contractors hold about you and/or to request a correction of that information. Under some circumstances permitted by law, we may decline your request. Also, we may not be able to require our contractors to provide access to you or correct your information. All requests should be made to our Privacy Officer (preferably in writing) using the contact details below.
+In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access or correct. We may need to share this information with other third party service providers (such as software hosting companies) who can assist in responding to your request and therefore your consent to disclose may be required. We will respond to your request within a reasonable period after the request is made.
+Requests for access to and correction of the Personal Information we hold about you will generally be granted. However, we may refuse your request on the exemption grounds provided by the Australian Privacy Principles or New Zealand Information Privacy Principles (as applicable). We will provide you with written reasons for any refusal of the request, including an explanation of the relevant exemption ground. You may request that we review any decision to deny your request.
+We may ask you to put your request in writing and pay a reasonable fee levied by us for this (for extensive or onerous requests).
+You may also withdraw any consents provided to us in respect of your Personal Information.
+For instance, you may ask us to stop, or limit, our collection, use or disclosure of your Personal Information at any time.
+As mentioned above, our direct marketing materials will include instructions on how to opt out/unsubscribe from receipt of such marketing materials.
+Transfer of your Personal Information overseas
+Generally, we will not disclose your Personal Information to overseas recipients, but we may do so in some circumstances including for the purposes permitted in this policy or expressly agreed to by you. We will only do so to the extent it is lawful including where:
+we have taken such steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the APPs;
+we reasonably believe that the recipient of the information is subject to a law or binding scheme which effectively protects information in a manner that is substantially similar to the APPs; or
+you have consented to the transfer or the disclosure is allowed or required by law.
+What are your responsibilities?
+You are responsible for the information that you provide or make available to us, and you must ensure it is relevant, truthful, accurate and not misleading in any way. You must ensure that the information provided does not contain material that is obscene, defamatory, or infringing on any rights of any third party; does not contain malicious code; and is not otherwise legally actionable. Further, if you provide any Personal Information concerning any other person, such as individuals you provide as references, your provision of that information is governed by Privacy Laws and you are responsible for providing any notices and obtaining any consents necessary for us to process that information as described in this policy.
+Complaints
+You can contact our Privacy Officer using the details below to make a complaint about privacy or if you have any questions or concerns about our management or handling of your personal information or this Privacy Policy.
+To enable us to understand and act upon your complaint, we recommend that complaints be made in writing and specify the Personal Information and the contact or process within the Sigma Group that are the subject of the complaint.
+We will acknowledge receipt of your complaint within 3 business days of receipt and provide you with contact details of the person dealing with the complaint, where this is not the Privacy Officer.
+We endeavour to respond fully to complaints within 15 business days. If this is not possible, for example because a more detailed investigation or consideration is required due to the nature or complexity of the complaint, we will let you know and advise you when we expect to be able to respond.
+If you are not satisfied with our response to your complaint, we will, in good faith, attempt to reach an agreement with you regarding an alternative process and time frame for dealing with the complaint. You may also refer your complaint to the Office of the Australian Information Commissioner via the contact details at
+www.oaic.gov.au.
+Further notifications
+We may issue further notifications to you about your Personal Information in accordance with Australian Privacy Principle 5 and New Zealand Information Privacy Principle 3.
+How can you contact us?
+The contact details for our Privacy Officer are:
+General Counsel and Company Secretary
+Level 6, 2125 Dandenong Road
+Clayton VIC 3168
+Telephone: 03 9215 9215
+Email: Privacy@sigmahealthcare.com.au
+Updates to this Privacy Policy
+We may amend this Privacy Policy from time to time by publishing an updated version at sigmahealthcare.com.au.
+Credit Reporting Policy
+1. Introduction
+This Credit Reporting Policy relates to members of the Sigma Group that are deemed to be credit providers or affected information recipients for the purposes of the
+Privacy Act 1988 (Cth)
+.
+We may provide credit as contemplated in the Privacy Act to our customers in connection with our products and services (for example, trade credit accounts) and, as a result, we may collect credit information and credit eligibility information about you as referred to in the Privacy Act. This Credit Reporting Policy sets out how we collect, manage and disclose that information.
+2. How we collect and hold credit information and credit eligibility information about you
+Credit information relates primarily to your credit related dealings with us and other credit providers and includes various types of information that can be collected by Credit Reporting Bodies (
+CRBs
+) that report on consumer credit worthiness. We may collect credit information directly from you or from third party sources like CRBs.
+Credit information includes:
+identification information (including for example your date of birth, your address and driver’s licence numbers);
+information about your credit account (for example when it was opened) and information about your liabilities including for example the type, character and limits of any credit provided to you;
+details of repayment history and credit applications;
+any assessment of your financial condition;
+details about information requests we make about you to CRBs;
+information about certain overdue payments, default listings and about serious credit infringements and information about payments or subsequent arrangements in relation to either of these; and
+various publicly available information like bankruptcy and credit-related court judgements.
+We may collect credit information about you in any of the circumstances relating to other personal information described in our Privacy Policy.
+We store and safeguard your credit information and credit eligibility information in the ways described in our Privacy Policy.
+3. How we use and when we disclose your credit information and credit eligibility information
+We may disclose your credit information to CRBs. Those CRBs may then include that information in credit reporting information that they provide to other credit providers to assist them to assess your credit worthiness.
+We may also use and disclose your credit information for other purposes and in other circumstances as described in our Privacy Policy, when permitted to do so by the Privacy Act.
+Our use and disclosure of credit eligibility information is regulated by Part IIIA of the Privacy Act and the Credit Reporting Privacy Code. We will only use or disclose such information for purposes permitted by these laws, such as:
+processing credit-related applications and managing credit that we provide;
+assisting you to avoid defaults;
+collecting amounts you may owe us in relation to such credit and dealing with serious credit infringements;
+assigning our debts;
+participating in the credit reporting system;
+dealing with complaints or regulatory matters relating to credit or credit reporting; or when required or authorised by another law.
+In some cases, the people to whom we may disclose your credit information or credit eligibility information may be based outside Australia – for more information please see the details in our Privacy Policy.
+4. How to access or correct your credit information
+If you wish to access or correct errors in any of your credit information or credit eligibility information that we hold, please contact us using the contact details in the “How can you contact us” section in our Privacy Policy.
+We may apply an administrative charge for providing access to your credit eligibility information, depending on the request.
+5. How to make a complaint regarding our compliance with Part IIIA of the Privacy Act and these Credit Reporting Privacy Terms
+If you think that we have not complied with Part IIIA of the Privacy Act or with the Credit Reporting Privacy Code (which regulates credit reporting), you can make a complaint by using the contact details in the Privacy Policy.
+We will acknowledge your complaint in writing as soon as practicable within 3 business days. We will aim to investigate and resolve your complaint within 30 days of receiving it. If we need more time, we will notify you about the reasons for the delay and ask for your agreement to extend this 30-day period (if you do not agree, we may not be able to resolve your complaint).
+We may need to consult with a CRB or another credit provider to investigate your complaint. While we hope that we will be able to resolve any complaint without needing to involve third parties, if you are not satisfied with the outcome of your complaint you can make a complaint to the Office of the Australian Information Commissioner via the contact details at
+www.oaic.gov.au
+.
+We're ready to help you
+Contact us for all your queries
+Contact Us
+Why Join Sigma?
+Let's grow your business
+Find out more
+Privacy Policy
+Terms and Conditions
+Distribution Centre Network
+Sigma Connect

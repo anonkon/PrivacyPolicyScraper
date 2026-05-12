@@ -1,0 +1,739 @@
+Privacy Policy | SEEK
+Privacy Policy
+Last Updated 2 March 2026
+Our commitment to maintaining your privacy
+Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We believe it’s important that you understand how your information is collected, used, protected and how you can manage it when you engage with us. Our Privacy Policy explains all of this in detail below.
+By registering and creating an account with us, using our products and services, visiting our Platforms or simply engaging with us over the phone, via email, in person or by any other means, the terms contained in this Privacy Policy will apply to you.
+Capitalised terms in this Privacy Policy are defined in section 17, unless otherwise stated.
+1. Who are we?
+We operate an online employment marketplace and related services spanning the Asia-Pacific region with operations in Australia, New Zealand, Malaysia, Singapore, Philippines, Indonesia, Thailand and Hong Kong.
+This Privacy Policy covers our businesses which operate under the following brands:
+a.
+SEEK in Australia and New Zealand;
+⁠b.
+Jobstreet by SEEK (excluding Jobstreet Express) in Malaysia, Singapore, Indonesia and the Philippines;
+c.
+Jobsdb by SEEK in Thailand and Hong Kong; and
+d.
+SmartHire in Malaysia, Hong Kong and Singapore.
+As we operate in different markets across the Asia-Pacific region, aspects of this Privacy Policy address certain region-specific requirements under applicable Privacy Laws (please see section 18 for more information). It is important that you read this Privacy Policy in full to ensure you understand all aspects that apply to you.
+2. Who is responsible for your Personal Information
+This section sets out which legal entity in the SEEK Group is responsible for the Personal Information we Process.
+If you are a Candidate, when you apply to a role advertised on our Platforms, we are Processing your job application (and any Personal Information included within that application) jointly with the Advertiser to whom you are applying. For such Processing of Personal Information, we and the Advertiser are data controllers (or equivalent concept in your region) of your Personal Information.
+In all other cases in which we collect your Personal Information, we do so solely as a data controller of such information. The relevant data controller (or the equivalent concept in your region) of your Personal Information is as follows:
+a.
+For SEEK Users, SEEK Limited.
+b.
+For Jobstreet Users and/or Jobsdb Users, the Designated Entity and SEEK Limited either as joint data controllers or as independent data controllers (depending on applicable Privacy Laws).
+c.
+For SmartHire Users, the Designated Entity and SEEK Limited either as joint data controllers or as independent data controllers (depending on applicable Privacy Laws).
+3. What Personal Information do we collect?
+We collect different types of information about you depending on how you interact with us and use our products and services. For example:
+To sign up as a Registered User on our Platforms and/or access SmartHire services (whether you are a Candidate or an Advertiser), you will need to provide basic information such as your name and email address.
+If you are a Candidate, if you choose to create a Profile and/or if you are applying for a job, depending on the Advertiser, we may collect additional Personal Information about you on behalf of the Advertiser.
+The main types of information (including Personal Information) we may collect includes but is not limited to:
+a) If you are a Registered User:
+Categories of Personal Information
+Description
+General Data
+For all Registered Users: name, email address and password.
+For Candidates setting up a Profile, you may elect to disclose to us the following information: country of residence (including Home Location, preferred work locations), resumes, licences and certifications (e.g., driver’s licence expiry date), profile photo and any other Personal Information which you may provide in your resume(s) uploaded to our Platforms or otherwise included in your Profile on our Platforms. Some of this information may be identified as verified data by SEEK Pass (our third-party verification provider) with your consent.
+For Candidates applying for a job, depending on the Advertiser, we may collect additional Personal Information from you on behalf of the Advertiser, such as any Personal Information that you may include within a resume, cover letters or in response to role requirement questions or selection criteria. We may also collect information from our Partners (specifically recruitment software providers) about the status of your job application with an Advertiser (including statuses such as shortlisted, interview, hired, rejected or equivalent terms).
+Contact Data
+Email address, mobile phone number, other contact number, home address, contact address, company details (if applicable).
+Google or Facebook logins or Apple ID
+(Linked Accounts)
+.
+If you are an Advertiser: company name, business address and billing address; name, email address and phone number of a primary contact (administrator of the Advertiser account) and name, email address, phone number of any additional users of the Advertiser account (added by the Advertiser).
+Other contact data that a Candidate may include in their resume(s) uploaded to our Platforms.
+Other contact data that a User may share with us.
+Background Data
+For Candidates setting up a Profile, you may elect to disclose to us the following information: personal summary; career history; profile photo; educational background; licences and certifications; language skills; other skills; salary information; preferred job classifications and locations; right to work; preferred work types; your availability for your next role; and any other background information which you may provide in your resume(s) uploaded to our Platforms. Some of this information may be identified as verified data by SEEK Pass (our third-party verification provider) with your consent.
+Usage and Device Data
+Information on access and visits to a Platform, usage patterns, device IDs,  Cookies, pages which you have visited, search and click history on a Platform, personalisation of content on a Platform, IP Address, browser types and forms, referrer page, operating system, date and time stamps and clickstream data retained in log files.This data is automatically collected through use of Cookies that is part of or placed on your browser or on your devices. (see section 11 for more information on how we manage Usage and Device Data)
+Third Party Data (including Personal Information of Related Person)
+Name, email address, mobile phone number, other contact number, contact address, workplace, position, relationship with the Registered User (please ensure you have the consent of the relevant third party when disclosing their Personal Information to us).
+Location Data
+Home address, contact address and/or device location when using a Platform on your device. Your device location is only stored on your device and only if you have given your permission for the application to identify your location.
+b) If you are an Unregistered User:
+We may collect your Usage and Device Data, Contact Data and/or Location Data if you engage with us as an Unregistered User. For example, if you contact us via phone, email or online.
+c) If you are a Young User:
+For Young Users who are under the minimum age provided for under applicable Privacy Laws, you represent and warrant that your parent or legal guardian has been informed of and agreed to this Privacy Policy. Where legally required, you are responsible for obtaining valid consent from your parent or legal guardian before providing us with your Personal Information (
+Parental Consent
+). We may ask you to provide us with evidence of the Parental Consent and we reserve the right to delete any Personal Information collected from you if we cannot verify that you have the necessary consent to provide us with your Personal Information and/or use our Platforms. We will not be held liable or responsible where you have failed to obtain Parental Consent.
+d) Other categories of Personal Information:
+We may also collect other Personal Information that you provide through your engagement with us, for example, in connection with surveys or promotions.
+4. Do we collect Sensitive Information?
+In most cases, we do not need to collect your Sensitive Information when you engage with us. You should not disclose any Sensitive Information to us which is not necessary or relevant to disclose. Candidates should be especially mindful of this during a job application process and when creating or updating your Profile, particularly if selecting the 'Public' visibility setting (see section 13 below for more information on the ‘Public' visibility setting).
+However, there may be some situations where we do collect and handle your Sensitive Information. For example, a Candidate may decide to provide an Advertiser with specific health information (e.g., vaccination status information) when completing a job application. This information will be collected by us on behalf of the Advertiser.
+We will only collect Sensitive Information where:
+a.
+you consent to us collecting and processing your Sensitive Information by voluntarily including such information within documents and other information provided by you to an Advertiser as part of a job application process;
+b.
+you voluntarily include such information within your Profile;
+c.
+you have provided your explicit consent to SEEK Pass (our third party verification provider) to share your Sensitive Information with us; or
+d.
+there is another legal basis permitting us to collect such information.
+If you select the 'Public' visibility setting for your Profile, any Personal Information (including any Sensitive Information) you include in your Profile may become broadly accessible to the public via Third Party Platforms and Websites. This could include General Data and Background Data that you may have added to your Profile. We recommend that you carefully review all information in your Profile and remove any Sensitive Information that you do not wish to be publicly accessible before selecting the 'Public' visibility setting, as this information may remain visible through these platforms even after you change your visibility settings or delete your Profile. Third Party Platforms and Websites operate independently of SEEK and may retain cached or republished content on their own schedules. You are solely responsible for ensuring that your Profile does not contain Sensitive Information you do not wish to be publicly accessible.
+5. How do we collect Personal Information?
+We collect your Personal Information in a few different ways.
+a. Directly from you
+We collect your Personal Information directly from you (including but not limited to) when you register and create an account with us, use any of our products and services (including when you communicate with us) or simply visit our Platforms.
+b. SEEK Group
+We may also receive or collect your Personal Information from another entity within the SEEK Group from time to time in accordance with the privacy policy of those related entities and/or relevant Privacy Laws or other relevant law (as applicable).
+c. Indirectly
+We may also collect your Personal Information via third parties, for example:
+When you register and sign in to your account with us via Google, Facebook or Apple.
+⁠
+⁠When you register or sign in using your Google or Facebook login details or Apple ID, you give Google, Facebook or Apple (as applicable) permission to share your data with us, such as your name and email address. If you already have an account registered with the same email address, your existing account will be linked with the login details of your Linked Accounts. When using your Apple ID, you can choose to hide your email address from us and Apple will instead provide us with a random email address which will be linked to your account.
+⁠
+⁠Please be aware that by updating your email address by accessing the ‘Settings’ section in your account, this will not unlink your account from the login details of your linked account. You can unlink your Google login details in your “Linked Accounts” page of your Google Account. You can unlink your Facebook login details in the “Apps and Websites” settings in your Facebook Account. You can unlink your Apple login details using the “Sign in with Apple” or “Apps Using Apple ID” settings of your Apple ID account settings. If you unlink your Linked Account, we will still hold the Personal Information you shared via the Linked Account when you first registered your account.
+When we work with third parties, for example, our Service Providers and Partners (which includes recruitment software providers).
+If you are a Candidate, we may collect additional Personal Information about you via Advertisers if this information is captured in our Platforms during a job application process.
+We may also collect your Personal Information from government, law enforcement and regulatory authorities where necessary and as required. This may include, but is not limited to, police, immigration, customs, and border security agencies.
+d. From your online activities
+We use Cookies to collect your Usage and Device Data when you use the platforms of any entity within the SEEK Group
+(Related Platforms)
+and when you interact with our advertisements on third party websites. For more information on Cookies and Usage and Device Data, see section 11 below.
+6. How do we use your Personal Information?
+We collect Personal Information from you which we have a legal basis to collect and is necessary for the purposes set out below:
+a) To provide Users with products and services
+Purposes
+Categories of Personal Information and Legal Bases
+To provide you with products and services
+⁠
+We use your information (including through the use of tools which incorporate artificial intelligence and machine learning) to provide our products and services, including but not limited to: assisting and enabling Candidates in searching and applying for jobs; assisting Advertisers in recruiting for roles; making your Profile searchable and viewable to Users who use the People Search functionality; processing transactions with you; and verifying you as a Registered User across the SEEK Group through a unified login system. This includes linking your account(s) across different SEEK Group platforms, storing your login credentials, and managing your access to those platforms.
+Categories of Personal Information
+General Data
+Contact Data
+Background Data
+Usage and Device Data
+Third Party Data
+Location Data
+Legal Bases
+Legitimate Interest
+Legitimate Interest
+Notification and/or Consent (where required by applicable Privacy Laws)
+To customise and improve products and services
+⁠
+⁠
+We use your information to customise and improve our products and services.
+⁠
+⁠We may use your information including through the use of tools which incorporate artificial intelligence and machine learning to tailor features and personalise your experience, including but not limited to:
+providing an approachability signal which indicates to Advertisers the likelihood of a Candidate being approachable regarding a particular job opportunity
+(Approachability Signal)
+.
+recommending questions that an Advertiser may require Candidates to answer as part of a job application process.
+where a Candidate stores a resume on our Platforms, using that resume, along with other factors, to assess how suitable the Candidate may be in comparison to other Candidates in relation to a potential job opportunity. This assessment may be shown to Candidates when viewing a job advertisement and may also be shown to Advertisers. In connection with this, a Candidate’s resume may be subjected to automated processing by artificial intelligence and machine learning systems, which require the use of Personal Information, in order to categorise the potential suitability of a Candidate as part of an Advertiser assessing applicants to a particular job advertisement.
+Categories of Personal Information
+General Data
+Contact Data
+Background Data
+Usage and Device Data
+Location Data
+Legal Bases
+Legitimate Interest
+Notification and/or Consent (where required by applicable Privacy Laws)
+To communicate with you about your use of our products and services and to provide you with technical and other support
+We may contact you and provide information relevant to your use of the Platforms, products or services and to provide you with technical and other support.
+When we speak to you over the phone, we may record the calls for training, verification and quality assurance purposes. We may also send Registered Users SMS communications to verify their identity and to keep accounts secure.
+Categories of Personal Information
+General Data
+Contact Data
+Usage and Device Data
+Location Data
+Legal Bases
+Legal Obligation
+Legitimate Interest
+Notification and/or Consent (where required by applicable Privacy Laws)
+b) Marketing and communication purposes
+Purposes
+Categories of Personal Information and Legal Bases
+To market and promote our products and services
+We use your information to send you marketing and promotional materials for direct marketing purposes including information about our products and features, job placement and related career information, newsletters, survey requests and events we think may be of interest to you.
+We may communicate with you via a number of different channels (including but not limited to email/SMS/push notification/online/telephone/instant message/social media).
+See section 13 below on how you can change your communication preferences.
+Categories of Personal Information
+General Data
+Contact Data
+Background Data
+Usage and Device Data
+Location Data
+Legal Bases
+Legitimate Interest
+Notification and/or Consent (where required by applicable Privacy Laws)
+Usage and Device Data
+We track and monitor your Usage and Device Data to personalise, manage and target display advertisements that may be visible to you.
+See section 11 below for more information on how we use Cookies.
+Categories of Personal Information
+General Data
+Contact Data
+Usage and Device DataLocation Data
+Legal Bases
+Legitimate Interest
+Notification and/or Consent (where required by applicable Privacy Laws)
+To conduct market surveys, trials and customer research
+Categories of Personal Information
+General Data
+Contact DataUsage and Device Data
+Legal Bases
+Legitimate Interest
+Notification and/or Consent (where required by applicable Privacy Laws)
+To send you information regarding the products and services offered by businesses within the SEEK Group, Advertisers and Partners
+Categories of Personal Information
+General Data
+Contact Data
+Background Data
+Legal Bases
+Legitimate Interest
+Notification and/or Consent (where required by applicable Privacy Laws)
+c) As part of SEEK Group’s business operations
+Purposes
+Categories of Personal Information and Legal Bases
+For research and development of products and services within the SEEK Group
+We use your information to obtain insights about our Users and to help businesses within the SEEK Group to improve, tailor and develop their products and services (for example, by conducting trials, analytics and customer research, and by using your information within machine learning and artificial intelligence systems).
+Categories of Personal Information
+General Data
+Contact Data
+Background Data
+Usage and Device Data
+Location Data
+Legal Bases
+Legitimate Interest
+Notification and/or Consent (where required by applicable Privacy Laws)
+To manage and administer our products and services, verify your identity and to ensure the safety and security of our operations
+We use your information to verify your identity (and any other information you may provide to us), your accounts and activities, to detect, prevent and respond to potential or actual security incidents and to monitor and protect against other malicious, deceptive, fraudulent or illegal activities. This includes managing authentication through a centralised login system and storing certain login and verification data centrally, so you can securely access multiple SEEK Group platforms with a single set of credentials.
+Categories of Personal Information
+General Data
+Contact Data
+Background Data
+Usage and Device Data
+Legal Bases
+Legitimate Interest
+Legal ObligationNotification and/or Consent (where required by applicable Privacy Laws)
+To protect rights of all entities within the SEEK Group, its assets, other rights and interests and personnel
+Categories of Personal Information
+General Data
+Contact Data
+Background Data
+Usage and Device Data
+Third Party Data
+Legal Bases
+Legitimate Interest
+Legal Obligation
+Notification and/or Consent (where required by applicable Privacy Laws)
+To send you investor information relevant to SEEK Limited
+Categories of Personal Information
+General Data
+Contact Data
+Legal Bases
+Legitimate Interest
+Contractual ObligationLegal Obligation
+Notification and/or Consent (where required by applicable Privacy Laws)
+d) To meet our regulatory, compliance and legal obligations
+Purposes
+Categories of Personal Information and Legal Bases
+To comply with our regulatory, compliance and legal obligations
+This includes, without limitation, to proceed with a request relevant to your rights regarding our use and handling of your Personal Information and to respond to potential requests for information from different regulatory or law enforcement authorities
+Categories of Personal Information
+General Data
+Contact Data
+Background Data
+Third Party Data
+Usage and Device Data
+Legal Bases
+Legal Obligation
+Notification and/or Consent (where required by applicable Privacy Laws)
+7. What happens if we are unable to collect your Personal Information?
+It is important for us to Process your Personal Information in order to provide our products and services to you. If you do not want your information to be Processed for the purposes set out in this Privacy Policy, you may need to cease using our Platforms, products or services or engaging with us.
+You can choose not to share your Personal Information with us. However, if you choose not to provide us with the necessary Personal Information, we may not be able to provide you with some or all of our products or services.
+We also require your Personal Information to meet our legal obligations. Where the legal basis for the Processing of your Personal Information is to comply with our legal obligations, a failure by you to provide us with certain Personal Information may cause us and/or you to be in breach of these legal obligations.
+8. Who do we share your Personal Information with?
+We may share your Personal Information in several different ways.
+a) SEEK Group
+We may share your Personal Information with any entity or business in the SEEK Group for the purposes set out in this Privacy Policy.
+For example, if you are a Candidate, where you apply for a job advertisement on our Platforms and the Advertiser selects you to complete an on-site reference check, we may share your Contact Data with SEEK Pass to communicate with you for the purpose of facilitating the reference check.
+b) Advertisers
+If you are a Candidate, you agree that we may share your Personal Information with Advertisers when you apply for a job advertisement on our Platforms.
+By applying for a job advertisement, you agree that we may share the information in your Profile and in your application with the relevant Advertiser and that your information may be stored in:
+our Advertiser Centre on behalf of the Advertiser;
+the Advertiser’s careers platform; or
+the Advertiser’s chosen recruitment software.
+We do not take responsibility for, and cannot ensure the security of, your Personal Information stored by the Advertiser outside of our Platforms.
+Any questions you have relating to a job advertised with us, your job applications and/or the status of your job applications should be directed directly to the Advertiser.
+Depending on your Profile visibility settings, we may also share your Profile with Advertisers via our Talent Search database product, which enables Advertisers to view a Candidate’s Profile (and any Personal Information included within that Profile) when searching for Candidates. Please see section 13 for more information on your Profile visibility settings and when and where your information may be accessible by an Advertiser.
+To apply for some job advertisements, parts of your Profile will be shared with the Advertiser. When this is required, notwithstanding the Profile visibility settings chosen by you when creating your Profile (whether it be Public, Standard, Limited or Hidden as described in section 13), both your job application and parts of your Profile (which can include your General Data, Contact Data, Background Data, Third Party Data and Location Data) will be shared with the Advertiser.
+Some Advertisers may also require you to answer a list of questions selected by that Advertiser as part of your job application. By answering the Advertiser’s questions, you acknowledge that we will provide your answers to that Advertiser and may use your answers to populate your Profile and enable Advertisers to surface that information in your Profile when using Talent Search.
+We will notify you when your Profile will form part of your job application. We will also specify which parts of your Profile will be sent to the Advertiser with your application.
+Please note that if you choose to share your Profile, your resume or any other application information with Advertisers, these Advertisers may intentionally or unintentionally share this information with other parties (including where you apply to a job advertisement listed by a recruiter who then shares your information with the underlying employer for the advertised job). The use or sharing of your information (personal or otherwise) by these Advertisers, and storage of your information in Advertisers’ systems external to our Platforms, is not within our control and we cannot accept responsibility for their conduct or the security of their systems. Advertisers are required by us to comply with all applicable laws, including relevant obligations relating to the use and disclosure of Personal Information that are outlined in the applicable Privacy Laws and any other relevant laws, including those governing health information.
+Candidates should contact Advertisers directly to request access to, or the deletion of, any Personal Information that they have provided as part of a job application or that has been provided to Advertisers through Talent Search.
+c) Third parties
+Service Providers and Partners
+We may share your Personal Information with third parties, such as our Service Providers, contractors and Partners from time to time but only for the purposes of:
+assisting us to deliver the products and services we offer to you;
+enabling you to access the products or services they offer;
+conducting surveys, trials and customer research; or
+for any other purpose outlined in Section 6 of this Privacy Policy.
+Government authorities
+We may share your Personal Information with relevant governmental authorities, law enforcement agencies, regulatory bodies or competent officers which/who have legal authority to request the disclosure of Personal Information. This includes any obligation to comply with court orders or other legal obligations that we may have.
+Mergers, acquisitions or restructures
+In the event of any merger, acquisition or restructure, we may share your Personal Information with the transferee or successor of any entity within the SEEK Group, or any prospective purchaser of any business or asset within the SEEK Group (together with its relevant advisors).
+d) Public access
+If you are a Candidate and select the 'Public' visibility setting for your Profile, you agree that your Profile and Personal Information may be shared with and accessible by:
+All Platform Users (both Registered and Unregistered Users); and
+Individuals using Third Party Platforms and Websites for indexing, public searchability and any other general purpose.
+The specific information accessible to each audience type varies and is detailed in section 13 below.
+e) Third Party Platforms and Websites
+When enabling you access to some of our products and services, we may make available links to other Third Party Platforms and Websites which are not owned or controlled by us. This may result in the sharing of your Personal Information with those Third Party Platforms and Websites. We are not responsible for the privacy practices of those Third Party Platforms and Websites.
+Where you have selected the ‘Public’ visibility setting for your Profile, disclosure to Third Party Platforms and Websites may occur in ways that include indexing, scraping, caching, processing, aggregation and republication of your Profile content by search engines, AI-powered services, automated crawlers, and similar tools. We have no control over how such platforms handle your information and cannot guarantee removal or deletion of your Personal Information if such information appears on these Third Party Platforms and Websites, including any cached copies or republications. These platforms may host or process information in jurisdictions that have different or less protective privacy laws than those applicable to SEEK.
+Users are strongly recommended to refer to the privacy policies of Third Party Platforms and Websites before using them.
+9. When do we share your Personal Information overseas?
+We may share your Personal Information outside of your Home Location under the following circumstances:
+a.
+with SEEK Limited (the ultimate holding company of the SEEK Group, registered in Australia), the entity responsible for hosting and operating the Platforms and the storing of your Personal Information, on secure servers located in Australia and the United States of America;
+b.
+with a Service Provider, Partner or other third party who provides services to us from an overseas location including Australia, New Zealand, United States of America, Netherlands, Germany, France, Ireland, Singapore and India;
+c.
+where your Personal Information is shared with any entity or business within the SEEK Group for the purposes set out in this Privacy Policy;
+d.
+where your Personal Information is shared with Advertisers located outside of your Home Location. Advertisers located overseas may have access to your Personal Information via a job application and/or via access to your Profile through Talent Search. Advertisers will be able to view your Personal Information when searching for Candidates within your Home Location or preferred locations. Please see section 13 for more information on your Profile visibility settings and when your information will be accessible by an Advertiser;
+e.
+where you select the 'Public' visibility setting for your Profile and some of your Personal Information becomes accessible by individuals worldwide through our Platforms and potentially through Third Party Platforms and Websites, including countries that may not have privacy laws equivalent to those in your Home Location; and
+f.
+where we consider it necessary to comply with any legal or regulatory obligations.
+10. How do we keep your information secure?
+We take reasonable steps to ensure the security of our systems and to protect your Personal Information from misuse, interference and loss as well as unauthorised access, modification or disclosure. Any Personal Information which we hold is stored on secure servers and protected in controlled facilities.
+We follow accepted industry standards to protect your Personal Information. However, no method of transmission over the internet, or method of electronic storage, is guaranteed to always be secure. Third parties with whom we share your Personal Information (including Advertisers) are asked by us to comply with all relevant obligations relating to the use and disclosure of Personal Information that are outlined in applicable Privacy Laws and any other relevant laws. Where you are asked by a third party to provide your information directly to them (for example, where you apply for a job via an Advertiser’s career’s platform), the use of your information by these third parties will be governed by their own privacy policies and is not our responsibility or within our control.
+You can also play an important role in keeping your Personal Information secure, by maintaining the confidentiality of any password and accounts used on the Platforms. Please notify us immediately if you become aware of any unauthorised use of, or breach of security relating to, your account.
+11. How do we use Cookies and Usage and Device Data?
+a. IP Addresses
+Our web servers gather your Internet Protocol (IP) address to assist with the diagnosis of problems or support issues with our services, and to monitor the use of our Platforms, including the monitoring of the location of our Users.
+b. Cookies and similar technologies
+We use Cookies to provide Users with a better browsing experience. These Cookies collect details such as preferences and click activity for measurement and for features such as remembering your details for ‘Auto Login’ (provided you have chosen this option) and remembering your search criteria for the ‘My Last Search’ function. We use this information for a variety of purposes, including to customise and improve your experience of our services (e.g. by remembering your details if
+you have selected the ‘Auto Login’ option on one of our apps), to improve website performance, to analyse, develop and test our services and new functionalities, to make business decisions, aiding in error reporting, to assist with online payments, and to report to our advertisers and business Partners on results achieved through our services.
+This information may be received from or shared with any entity within the SEEK Group and our Service Providers and Partners. This is done for the purpose of providing you with improved products and services.
+We also use Cookies and similar technologies (e.g. device IDs) to tailor display advertisements from any entity within the SEEK Group, our Partners and Advertisers that appear on our Platforms, Related Platforms or other third party websites and apps (
+Advertising Locations
+) to your interests, actions and behaviour on those Advertising Locations (which may be collected through the use of Cookies on those Advertising Locations), your Profile and/or information provided as a user on the Advertising Locations. Display advertisements may be targeted to Candidates, Advertisers, or other types of visitors to those Advertising Locations.
+We also collect and use device IDs to recognize you and your device(s) on, off and across different services and devices where you have engaged with our products and services. To do this, we share your device ID with our Partners and Service Providers.
+Our Partners and Service Providers may place Cookies on some of the pages Users visit on the Platforms. These Cookies are designed to collect non-personal information to analyse Users’ interests and searches on our Platforms to help deliver more relevant display advertisements when Users visit our Platforms and other websites. The non-personal information collected by these Cookies may be shared with other third parties for purpose of managing and targeting display
+advertisements and for market research analysis.
+You can limit the use of your information for purposes of targeted display advertising by updating your browser settings to block Cookies or by updating the display advertising settings in the system settings of your mobile device.
+If you do not wish to have Cookies active while you browse our Platforms, you may “opt out” by modifying the privacy options in your browser. However, doing so will prevent access to some areas of the Platforms and limit your use of some of our products and services.
+c. Our Apps
+In addition to the above, where Users access our mobile applications (
+Our Apps
+) we use third party software development kits (SDK’s) and services which collect information relating to your use of Our Apps, including tracking of app installs and re-engagement. This information is used to tailor and measure display advertisements to install and/or use Our Apps which appear on third party sites/apps and are targeted towards Users’ usage preferences.
+If you want to opt-out from the collection and usage of information for display advertisement targeting you can do so by disabling tracking permission for the app (Settings > Privacy > Tracking) on your iOS version 14.5+ device, by enabling “Limit Ad Tracking” (Settings > Privacy > Tracking) on your iOS device older than version 14.5 or by enabling the “Opting out of interest-based ads” option (Settings > Privacy > Tracking) on your Android device.
+d. Third Party Measurement
+To better understand our Users, we utilise third party Service Providers to measure and assess our Platforms’ traffic. A Cookie is used to collect the following information on the usage of our Platforms:
+The number of page views (or page impressions) that occur on the Platforms;
+The number of unique visitors to the Platforms;
+How long these unique visitors (on average) spend on the Platforms when they do visit; and
+Common entry and exit points into the Platforms
+For Unregistered Users of our Platforms, this aggregated information is collated and provided to us to assist in analysing the usage of our Platforms. For Registered Users, this information is connected across different sessions on various devices to our Platforms to provide a more accurate total of the number of users prior to aggregation. This data is also accessible by media organisations and research companies, for the purpose of conducting industry comparisons with other organisations.
+12. Retention of your Personal Information
+We retain your Personal Information for as long as is necessary to fulfill the purposes for which it was collected and retained as set out in this Privacy Policy or until such time as you request us to delete your Personal Information, after which we will take reasonable steps to delete your Personal Information (if required under applicable Privacy Laws).
+If you have applied to a job advertisement on our Platforms and therefore provided your Personal Information to Advertisers, you will need to contact those Advertisers directly to request that your information be deleted from the Advertiser’s systems.
+We may retain your Personal Information even after you have requested that it be deleted if retention is reasonably necessary for us to comply with our legitimate interests, legal and regulatory obligations, resolve disputes between Users, prevent and remediate any fraud and/or abuse, store in testing or backup systems (for a period of time) or to enforce this Privacy Policy and/or any of our other Terms and Conditions. Where information is held in testing environments, this information is held in closed and secure environments and the information is only used for the purpose of internal software testing. Information held in backup systems is only held for the purposes of restoring systems in the event of a data loss.
+13. Personal Information Requests
+a. General
+You can make certain requests in relation to Personal Information that we hold about you. Some of these requests only apply in certain circumstances, as set out in more detail below.
+Access:
+You have the right to ascertain whether we hold Personal Information about you and request access to such Personal Information. For Candidates, you may access your information at any time by logging in to your account and accessing the ‘Settings’ section and your Profile page. For Advertisers, you may access your information at any time by logging in to your account and accessing the ‘Account Details’ section. Alternatively, any User can obtain access to their Personal Information by contacting us.
+Correction/Rectification:
+You have the right to correct any Personal Information held about you that is inaccurate or incomplete. If you are a Candidate (excluding those who only subscribe to Job Alerts and do not have a Profile), you can change or update your Profile at any time by logging in to your account and accessing the ‘Profile’ section or adjusting your settings within the ‘Settings’ section. For Advertisers, you may access your information at any time by logging in to your account and accessing the ‘Account Details’ section. Alternatively, any User can correct or update their Personal Information by contacting us.
+Deletion:
+a.
+For Candidates, you can request that we delete your Personal Information held by us within your account by logging in to your account and accessing the ‘Settings’ section or by electing to delete Personal Information accessible on your Profile page. Alternatively, any User can contact us to request that we limit the Processing of or delete their Personal Information, or to withdraw their consent to our Processing of their Personal Information.
+b.
+Please note, if you have selected the ‘Public’ visibility setting and you make a deletion request in accordance with item (a) above, we will promptly remove your Profile information (which includes your Personal Information) from our Platforms. However, if your Profile information has been accessed or indexed by Third Party Platforms and Websites (as part of accessing the Public visibility setting), cached or republished versions of your Profile Information may continue to be displayed by these platforms for a period of time after your deletion request is processed by us. We cannot guarantee the complete removal or deletion of your Personal Information from these Third Party Platforms and Websites as these platforms operate independently of SEEK and manage their own update and deletion processes. You may wish to contact such platforms directly to resolve the deletion of your Personal Information.
+When contacting us directly and making a request under this section, we may ask you to provide information to verify your identity before proceeding with the request. Depending on the circumstances and requirements under applicable Privacy Laws, we may not be able to fulfill a particular request from you. We will engage with you where we are unable to fulfill a particular request.
+You can also contact us to request access to any additional Personal Information rights that may be available to you under applicable Privacy Laws. We will respond to your request as soon as reasonably practicable, and in accordance with applicable Privacy Laws.
+You are responsible for providing accurate, complete, and up-to-date information to us about yourself and any other person whose Personal Information you provide to us and for updating this Personal Information as and when it becomes inaccurate or out-of-date. For Candidates, we reserve the right to disable and/or delete your Profile or certain information included within your Profile (including a stored resume or cover letter) at our sole discretion. We may take such steps if for example, information is found or believed to be untrue or being stored for improper purposes.
+b. Opt Out/Unsubscribe
+You may opt-out of communications from us, as set out in more detail below.
+for job application updates and notifications on new job opportunities, you can update your preferences within the ‘Settings’ area of the Platforms (not available to Advertisers);
+for receiving marketing and promotional messages from us, you can click ‘unsubscribe’ in the footer of any marketing or promotional email which will link you to a ‘Preference Centre’ where you can update your notification preferences, or by replying ‘stop’ to an SMS that you receive from us; or
+⁠
+⁠Please note that clicking ‘unsubscribe’ in the footer of an email will only unsubscribe you from the particular type of marketing or promotional message you have received (e.g. messages about Career Advice) and in order to opt out of receiving all marketing or promotional messages from us you will need to update your notification preferences within our ‘Preference Centre’. Opting out of emails will not opt you out of receiving SMS and vice versa. Opting out of marketing or promotional messages sent from SEEK will not opt you out of receiving marketing messages from other businesses within the SEEK Group.
+you can contact us via the contact details outlined in section 15.
+For more information on how to unsubscribe from our emails and notifications including Job Alerts subscriptions, please refer to this
+Help centre article.
+We will comply with any unsubscribe request as soon as reasonably practicable, and in accordance with applicable Privacy Laws.
+c. Candidate Profile
+Visibility Settings
+Upon registration, all Candidates are asked to create a personal Profile by providing certain personal information and selecting one of the visibility settings – ‘public’, ‘standard’, ‘limited’ or ‘hidden’ - as described below. Candidates without Profiles will also be required to create a Profile when they first apply for a job on our Platforms.
+A Profile may include  uploaded resume(s), employment and educational history, contact details, profile photo, salary expectations, preferred job classifications, licences, certificates, skills, languages, a personal summary, locations, your Approachability Signal, right to work, preferred work types, your availability for your next role, and any other information which you may provide in your resume(s) uploaded to our Platforms. Some of this information may be identified as verified data by SEEK Pass (our third-party verification provider) with your consent.
+In the “About your next role” section of your Profile page:
+A.
+You can turn your Approachability Signal on or off;  and
+B.
+You can select the preferred locations for your next job. If you apply for a job advertisement where the job location is not listed in your preferred locations, the new location will automatically be added to your list of preferred locations.
+Talent Search Visibility
+Advertisers can use Talent Search to search for Candidate Profiles and contact relevant Candidates. These Advertisers may be located outside of your Home Location. However, a Candidate will only be visible to Advertisers when they are searching for Candidates in locations listed by that Candidate as a preferred location (including Home Location) and any location which the Candidate has inserted in a resume and stored on their Profile page.
+Advertisers may use Talent Search to search for and contact potential Candidates, and Candidates can decide how much of their Profile they wish to share with Advertisers by selecting one of visibility settings set out in the table below. Notwithstanding the visibility settings chosen by you when creating your Profile, by applying to a job advertisement, both your job application and parts of your Profile will be shared with the relevant Advertiser. Candidates can amend their Profile prior to applying (see section 8(b) of this Privacy Policy).
+Public* or Standard
+Limited
+Hidden
+If you select a “Public” or “Standard” visibility setting for your Profile, then:
+your Profile can be seen by Advertisers utilising Talent Search;
+we may parse information from your resume to populate your Profile, and a preview of your resume can be seen by Advertisers utilising Talent Search;
+if an Advertiser wishes to download your Profile, your full Profile including contact details and your uploaded resume will be provided to the relevant Advertiser;
+an Advertiser may either contact you via the details contained within your resume or via a Talent Search Connection Method; and
+information that you have verified through SEEK Pass (e.g., verified identity, career history, education, licences and certifications) may be visible to Advertisers.
+If you select a “Limited” visibility setting for your Profile, then:
+your Profile can be seen by Advertisers utilising Talent Search (but Advertisers cannot view or purchase your resume and contact details);
+an Advertiser cannot view your contact details contained within your resume but may contact you via our Talent Search Connection Method; and
+information that you have verified through SEEK Pass (e.g., verified identity, career history, education, licences and certifications) may be visible to Advertisers.
+If you select a “Hidden” visibility setting for your Profile, then:
+your Profile is completely hidden which prevents Advertisers from viewing your Profile via Talent Search; and
+an Advertiser cannot contact you.
+*Note:
+Profiles set to "Public" visibility will appear to Advertisers using Talent Search with the same access level as "Standard" profiles.
+Profiles with “Public” visibility
+If you select a "Public" visibility setting for your Profile, in addition to being searchable and viewable to Advertisers via Talent Search (as described above), your Profile will be searchable and viewable to all Users of our Platform through our People Search feature and also publicly available off our Platforms via multiple online channels including Third Party Platforms and Websites.
+People Search
+We may make your Profile and Personal Information searchable and viewable to different audiences with varying levels of access:
+Unregistered Users can only view your basic Profile information. Other than being able to see that your identity has been verified (by seeing a super tick displayed next to your Profile name), Unregistered Users cannot view other information verified through SEEK Pass (such as your verified legal name, verified licences and other certifications).
+Registered Users can view your expanded Profile information including limited verified information (verified by SEEK Pass), subject to their account type.
+By selecting the 'Public' visibility setting, you acknowledge and agree that:
+Your Personal Information will be publicly accessible worldwide through multiple channels including (but not limited to) Third Party Platforms and Websites;
+While we implement controls to limit access to certain information based on audience type, your Profile information may be accessible to anyone;
+We cannot control who accesses your publicly available information or how they use it;
+Third Party Platforms and Websites operate independently of SEEK and may index, scrape, cache, process, aggregate and redistribute your publicly accessible information according to their own policies even after you change your visibility settings or delete your Profile, including in cached or republished versions; and
+You bear sole responsibility for determining what information to include in your Profile.
+Managing Your Visibility Settings
+Candidates can modify their Profile visibility settings at any time, by signing in to their account and accessing the ‘Profile visibility’ section under the Profile page.
+To delete your Profile, you will need to delete your entire account with us as per section 13 of this Privacy Policy.
+14. Updates to this Privacy Policy
+We may modify this Privacy Policy at any time. You should review this Privacy Policy periodically so that you are updated on any changes. In some circumstances, depending on the nature of the changes, you will be notified of the changes to this Privacy Policy prior to them taking effect if required to do so under applicable Privacy Laws.
+By continuing to use our Platforms, products or services, you agree to any modifications that are made to this Privacy Policy.
+15. Contact Us
+If you have any questions or complaints regarding this Privacy Policy or if you wish to contact us regarding our use or handling of your Personal Information, you can do so by contacting us via the below channels. You can also contact us and request a copy of this Privacy Policy in hard copy or in another format that suits your particular needs.
+Any privacy complaint received by us will be referred for prompt investigation and a response will be provided to you as soon as possible. If you are still unsatisfied with the resolution of any complaints made, you can seek further redress through your local data protection regulator.
+⁠
+SEEK Limited
+Email:
+[email protected]
+⁠Phone: 1300 658 700
+⁠Post: User Help Desk 
+⁠SEEK Limited 
+⁠60 Cremorne Street, Cremorne VIC 3121 Australia
+SEEK NZ
+Email:
+[email protected]
+⁠Phone: 0508 733 569
+⁠Post: Customer Service 
+⁠SEEK (NZ) Limited 
+⁠PO Box 9184
+⁠Newmarket, Auckland, New Zealand
+JobStreet Malaysia
+JobStreet Malaysia Data Protection Officer:
+⁠Email:
+[email protected]
+⁠Phone: +60-3-2778-9511
+⁠Post: Agensi Pekerjaan JobStreet.com Sdn Bhd 
+⁠Level 16, Menara AIA Cap Square, 
+No. 10, Jalan Munshi Abdullah, 
+50100 Kuala Lumpur, Malaysia.
+JobStreet Indonesia
+Email:
+[email protected]
+⁠Phone: 021-8082 5888
+⁠Post: RDTX Place, Level 45
+Jl. Prof. Dr. Satrio, Kav 3, Kuningan, Jakarta Selatan
+Jakarta 12930, Indonesia
+JobStreet Singapore
+JobStreet Singapore Data Protection Officer:
+Email:
+[email protected]
+⁠Phone: +65-6538 0060
+⁠Post: JobStreet.com Pte Ltd
+⁠1 Wallich Street
+⁠#24-03, Guoco Tower
+⁠Singapore 078881
+JobStreet Philippines
+JobStreet Philippines Data Protection Officer:
+⁠Email:
+[email protected]
+⁠Phone: +632 8286-6222
+⁠Post: JobStreet.com Philippines, Inc. 
+23rd Floor, Alliance Global Tower, 
+36th Street Corner 11th Avenue, 
+Uptown Bonifacio, Taguig City 1634
+JobsDB Thailand
+JobsDB Thailand Data Protection Officer:
+Email:
+[email protected]
+and
+[email protected]
+⁠Phone: +66 2 667 0700
+⁠Post: JobsDB Recruitment (Thailand) Ltd. 
+127 Gaysorn Tower, Unit A, E, 14th Floor,
+⁠Ratchadamri Road, Lumpini, Pathumwan,
+⁠Bangkok 10330
+JobsDB Hong Kong
+Email:
+[email protected]
+⁠Phone: +852 2332 8832 
+⁠Post: JobsDB Hong Kong Limited 
+⁠Customer Support Executive, Customer Service Department
+⁠37th Floor, PCCW Tower
+⁠Taikoo Place, 979 King’s Road
+⁠Quarry Bay, Hong Kong
+Smarthire and JobsDB Singapore
+JobsDB Singapore Data Protection Officer
+Email:
+[email protected]
+Post: JOBS DB SINGAPORE Pte Ltd
+1 Wallich Street
+#24-03, Guoco Tower
+Singapore 078881
+EEA or UK
+European Representative
+⁠MCF Legal Technology Solutions Limited
+⁠Riverside One 
+⁠Sir John Rogerson’s Quay 
+⁠Dublin 2, Ireland 
+⁠Email:
+[email protected]
+UK Representative
+⁠
+MCF Legal Technology Solutions (UK) Limited 
+⁠Tower 42 Level 38C, 25 Old Broad St, 
+⁠Cornhill, London EC2N 1HQ, 
+⁠United Kingdom 
+⁠Email:
+[email protected]
+16. Languages
+This Privacy Policy may be translated into the local language in the relevant territory. In the event of a conflict between this Privacy Policy in the English language version and the localised version, the English language version shall prevail. The localised version shall be deemed to be automatically amended to conform with and made consistent with the English language version.
+17. Definitions
+Term
+Definition
+Advertiser
+An individual or entity (including employers and recruiters) that creates an account on SEEK Employer to post job advertisements on our Platforms or to use other advertiser-specific products or services via SEEK Employer to source potential Candidates for job vacancies. Advertiser accounts are separate from candidate accounts and are subject to the terms that apply to advertiser-side use of our Platforms.
+Advertiser Centre
+A central facility operated by us on our Platform that Advertisers use to place their job advertisements, track and manage Candidates, and review job applications.
+Advertising Locations
+Has the meaning given to it in section 11 of this Privacy Policy.
+Approachability Signal
+Has the meaning given to it in section 6(a) of this Privacy Policy.
+Candidate
+An individual (excluding Advertisers) who uses our Platforms and/or accesses our services (whether by registered account or not), including creating and maintaining a Profile, whether for job seeking, future opportunities, networking, or other career-related purposes.
+Cookies
+Cookies, tags, applets, scripts and other similar technologies.
+Designated Entity
+a) For JobStreet Users in the Philippines, JobStreet.com Philippines. Inc.
+b) For JobStreet Users in Indonesia, PT JobStreet Indonesia.
+c) For JobStreet Users and SmartHire Users in Malaysia, Agensi Pekerjaan JobStreet.com Sdn. Bhd.
+d) For JobStreet Users in Singapore, JobStreet.com Pte. Ltd.
+e) For JobsDB Users and SmartHire Users in Hong Kong, JobsDB Hong Kong Limited.
+f) For JobsDB Users in Thailand, Jobs DB Recruitment (Thailand) Limited.
+g) For SmartHire Users in Singapore, Jobs DB Singapore Pte. Ltd
+EEA
+The European Economic Area
+GDPR
+The European General Data Protection Regulation, Regulation (EU) 2016/679.
+Home Location
+Your primary place of residence (if you are a Candidate, your primary place of residence as selected in your Profile).
+Job Alerts
+SEEK Job Alerts, JobStreet Job Alerts, or JobsDB Job Alerts (where applicable) where Job Alerts are email notifications of job advertisements that a Candidate will receive based on a Candidate’s saved searches.
+JobsDB Users
+a) All Users (excluding Advertisers) who use a Platform branded JobsDB by SEEK or otherwise engage with us under the JobsDB brand via any channel external to the JobsDB by SEEK Platform; and
+⁠b) Advertisers who procure products and/or services from:
+  ⁠i. JobsDB Hong Kong Limited; or
+⁠  ii. Jobs DB Recruitment (Thailand) Limited.
+JobStreet Users
+a) All Users (excluding Advertisers) who use a Platform branded JobStreet by SEEK or otherwise engage with us under the JobStreet brand via any channel external to the JobStreet by SEEK Platform; and
+⁠b) Advertisers who procure products and/or services from:
+⁠  i. JobStreet.com Philippines. Inc;
+⁠  ii. PT JobStreet Indonesia;
+⁠  iii. Agensi Pekerjaan JobStreet.com Sdn. Bhd; or
+⁠  iv. JobStreet.com Pte. Ltd.
+Linked Accounts
+Google, Facebook or Apple ID logins.
+Our Apps
+Has the meaning given to it in section 11(c) of this Privacy Policy.
+Parental Consent
+Has the meaning given to it in section 3(c) of this Privacy Policy.
+Partners
+Third parties who work with us to provide us or our Users with services, for example, marketing partners that we work with to advertise and market our products and services, recruitment software providers that integrate with us to provide our services to Advertisers or strategic business partners that we work with to provide ancillary services.
+PDP Law
+Indonesia Law No. 27 of 2022 on Personal Data Protection.
+People Search
+A search feature accessible via our Platform that enables Profiles with a ‘Public’ visibility setting to be searchable and viewable by any User (including individuals accessing our Platforms via external channels).
+Personal Information
+Information (including Sensitive Information) that identifies an individual or could reasonably identify an individual, including facts and opinions, whether they are true or not.In certain jurisdictions, the term “Personal Data” is used under applicable Privacy Laws, which means any information relating to an identified person, or a directly or indirectly identifiable individual. References to Personal Information in this Privacy Policy include a reference to Personal Data, where applicable.
+Personal Data
+See definition of Personal Information.
+Platform(s)
+Includes our online websites, mobile websites, applications, products, services, features and software.
+Privacy Laws
+The applicable privacy and data protection laws (including any applicable spam laws) as may be in force from time to time in a particular jurisdiction which regulates the collection, use, disclosure, storage of and granting of access rights to Personal Information.
+Process, Processing, or Processed
+The collection, use, disclosure, transfer, retention or other processing of Personal Information.
+Profile
+A personal profile created on our Platforms by a Candidate, which contains Personal Information of that Candidate. For more information on Profiles, please see this
+Help centre article.
+Registered User
+A User who has registered an account with us via our Platforms (or other means to obtain or receive access to our products and/or services) and are signed in to that account when using our Platform. In certain contexts described in this Privacy Policy (such as profile visibility), Registered Users who are signed out of their account when using our Platforms, products or services will be treated as Unregistered Users.
+Related Person
+A person or persons who are related to the Registered Users such as referees and emergency contacts.
+Related Platforms
+Has the meaning given to it in section 5(d) of this Privacy Policy.
+SEEK, we, us, our
+Any reference to “
+SEEK
+”, “
+we
+”, “
+us
+” and “our” includes a reference to any of our businesses which operate under the following brands:
+a) SEEK in Australia and New Zealand;
+b) JobStreet by SEEK (excluding JobStreet Express) in Malaysia, Singapore, Indonesia and the Philippines;
+c) JobsDB by SEEK in Thailand and Hong Kong; and
+d) SmartHire in Malaysia, Hong Kong and Singapore.
+SEEK Employer
+Advertiser-specific functionality of our Platforms which is only available to Advertisers.
+SEEK Group
+SEEK Limited and each of SEEK Limited’s related bodies corporate (as that term is defined in the Australian Corporations Act 2001 (Cth)).
+SEEK Pass
+SEEK Pass Pty Ltd, a wholly owned subsidiary of SEEK Limited.
+SEEK Users
+a) All Users (excluding Advertisers) who use a Platform branded SEEK or otherwise engage with us under the SEEK brand via any channel external to the SEEK Platform; and
+⁠b) Advertisers who procure products and/or services from:
+⁠  i. SEEK Limited; or
+⁠  ii. SEEK (NZ) Limited.
+Sensitive Information
+Certain categories of Personal Information as defined under applicable Privacy Laws (for example, by virtue of Indonesia PDP Law, is acknowledged as Specific Personal Data) that may include information or opinion about an individual’s racial or ethnic origin, political opinion or associations, religious beliefs, trade union memberships or associations, sexual orientation, criminal record including any proceedings for any offence committed or alleged to have been committed by such individual (including the disposal or result of such proceedings), health and genetic information, or government-issued identification, provided the information or opinion otherwise meets the definition of Personal Information.
+Service Providers
+Third parties that help us to provide our product and services to you. For example, analytics service providers; cloud system service providers; storage service providers; information technology service providers; marketing and advertising service providers; market research providers; accounting, audit, legal and compliance service providers, and other professional advisers; service providers who provide services in event management, electronic payment service providers, and all other vendors.
+SmartHire Users
+a) All Users (excluding Advertisers) who engage with us in relation to products and/or services provided under the SmartHire brand; and
+b) Advertisers who procure products and/or services under the SmartHire brand from:
+i. Agensi Pekerjaan JobStreet.com Sdn. Bhd;
+ii. JobsDB Hong Kong Limited; or
+iii. Jobs DB Singapore Pte Ltd.
+Talent Search
+Our talent database available on SEEK Employer which allows Advertisers to search, refine and connect with Candidates who maintain a Profile and have set their Profile visibility settings to enable their Profile to be searchable by Advertisers.
+Talent Search Connection Method
+A method by which an Advertiser using Talent Search can contact a Candidate by sending a Candidate a copy of a job opportunity for which the Advertiser is recruiting (by using the “send job” function) or by sending a Candidate a customised email about a job opportunity, (by using the “message” function).
+Terms and Conditions
+Any terms of use, terms and conditions and/or other agreed terms (as may be amended from time to time) that you agree to when procuring our products and services. These may include (but are not limited to) our Advertising Terms of Use (including any Advertising Agreement you may enter into with us); Product Terms; Talent Search Terms and Conditions; Company Profiles Terms and Conditions, SEEK API Terms of Use and Website Terms and Conditions.
+Third Party Platforms and Websites
+Websites, platforms, mobile applications, tools or services not operated by SEEK, including but not limited to public search engines, AI-powered services, automated crawlers, content indexing and aggregation tools, and other online services that may access, index, scrape, cache, process, aggregate or republish content from our Platforms, whether these services are operated via websites, mobile applications, APIs, or other digital interfaces.
+UK
+The United Kingdom
+Unregistered User
+A user who:
+⁠⁠
+a.
+uses and visits our Platforms but does not have a Registered User account;
+⁠
+⁠b. holds a Registered User account but is not signed in to that account at the time in which they access our products and services; or
+⁠
+⁠c. engages with us via other channels external to our Platforms, for example, by phone or in person, by direct job application process, as an investor, by participating in any events, programs or promotions, or by Third Party Platforms and Websites.
+⁠
+Usage and Device Data
+Has the meaning given to it in section 3(a) of this Privacy Policy.
+Users, you, your
+Candidates, Advertisers, Registered Users, Unregistered Users and all other users (as applicable) who otherwise engage with us and/or utilise our products, services or information, whether on or off our Platforms, unless the context provides that only Candidates, Registered Users, Unregistered Users and/or Advertisers are being referred to.
+Young User
+Means any User who is under the minimum age provided for under applicable Privacy Laws, including:
+a) for Users in Thailand, a Young User means a person under the age of 20 years old who has not been legally married.
+b) For Users in Indonesia, a Young User means a person under the age of 21 years old who has not been legally married.
+c) For users in the Philippines, a Young User means a person under the age of 18 years old.
+d) For Users in Malaysia, a Young User means a person under the age of 18 years old.
+e) For Users in Singapore, a Young User means a person under the age of 13 years old.
+18. Region Specific Information
+If you are a citizen or habitual resident of the applicable jurisdiction described below, the following jurisdiction-specific terms will supplement, and should be read together with, this Privacy Policy. In the event of a conflict between the jurisdiction-specific terms that are relevant to your jurisdiction and the rest of the Privacy Policy, the relevant jurisdiction-specific terms will prevail.
+a. European Economic Area (EEA) and the United Kingdom (UK)
+If you are based in the EEA or the UK, then in addition to what is set out in this Privacy Policy, the following applies to you in accordance with the GDPR or the UK GDPR (as applicable).
+You may contact us using any of the methods set out in section 15 above to request that we:
+provide you with a copy of the Personal Information we hold about you in a portable and machine readable form; or
+share your Personal Information with a nominated third party.
+b. Hong Kong
+We intend to use the name and contact details of Registered Users for the purpose of direct marketing in relation to the following products and services, and your consent (which includes an indication of no objection) is required for us to do so:
+our products and services including information about our features, job placement and related career information, newsletters, surveys and other event information;
+products and services offered by businesses within the SEEK Group; and
+products and services offered by Advertisers and Partners.
+Please refer to section 13 in respect of your options to unsubscribe from direct marketing.
+c. Thailand
+If you are based in Thailand, then in addition to what is set out in this Privacy Policy, the following applies to you in accordance with the Personal Data Protection Act B.E. 2562 (2019) and any regulations, rules, guidelines, notifications and orders issued by virtue of said legislation, as may be amended from time to time (collectively, referred to as “PDPA”).
+Retention Period
+We will retain your personal data for as long as is required in order to fulfil the purposes specified in this Privacy Policy or as otherwise required by any applicable law.
+Data Subject Rights
+Subject to the limitations and conditions of the PDPA, you are entitled to the following rights in respect of your Personal Information.
+Right to access
+To request to have access to your Personal Information, or to request to have a copy of such Personal Information, as well as to request disclosure of how your Personal Information has been acquired without your consent.
+Right to data portability
+To obtain your Personal Information in the format which is generally readable or usable with automatic tools or devices from us, and you are also entitled to request that we transmit your Personal Information in such format to another data controller.
+Right to object
+To object to the Processing of your Personal Information, particularly where your Personal Information is Processed for direct marketing purposes.
+Right of erasure
+To request that your Personal Information be deleted, destroyed or de-identified.
+Right to suspension
+To request that the Processing of your Personal Information be suspended.
+Right to rectification
+To request that your Personal Information be updated, completed or rectified. For Registered Users, you may alternatively edit or amend your Personal Information at any time by logging into the ‘Profile’ area of our Platforms or adjusting your settings within the ‘Settings’ section on the Platforms.
+Right to withdraw consent
+Where the legal basis for the Processing of your Personal Information is consent, you will be entitled to withdraw consent at any time, subject to the conditions and limitations stipulated by the PDPA. Withdrawal of your consent shall not affect the Processing of your Personal Information for which you have lawfully granted consent prior to such withdrawal.
+Right to lodge complaint
+You are entitled to lodge a complaint to the personal data protection supervisory authorities in the event of our non-compliance or violation of the PDPA. Notwithstanding that, we encourage you to first contact us to resolve any issues or concerns.
+d. Philippines
+For Users based in the Philippines, you can click the following links to view the National Privacy Commissioner’s Seal of Registration.
+a)
+SEEK Limited Seal of Registration
+⁠b)
+JobStreet.com Philippines. Inc Seal of Registration
+If you are based in the Philippines, subject to the limitations and conditions of the Data Privacy Act of 2012 (DPA) and any regulations, rules, guidelines, notifications and orders issued by virtue of the DPA, as may be amended from time to time, you are entitled to the following rights in respect of your Personal Information.
+Right to be informed
+To be informed that your personal information is being, or have been processed, including the existence of automated decision-making and profiling. We have done so through this Privacy Policy.
+Right to object
+To object to the processing of your personal data, including processing for direct marketing, automated processing or profiling.
+Right to access
+To reasonable access to, upon demand, or copies of your Personal Information including the sources from which your Personal Information were obtained, names and addresses of the recipients of your Personal Information, the manner by which such were processed, the reasons for the disclosure of your Personal Information to recipients (if any), information on automated processes where your Personal Information will or is likely to be made as the sole basis for any decision that significantly affects or will affect you, the date when your Personal Information were last accessed and modified and the designation, name of the Personal Information Controller.
+Right to rectification
+To dispute the inaccuracy or error in the personal data and have us correct it immediately and accordingly, unless the request is vexatious or otherwise unreasonable.
+Right to erasure / blocking
+To suspend, withdraw or order the blocking, removal, or destruction of your personal information from our filing system.
+Right to damages
+To be indemnified for any damages sustained due to such inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of personal data, taking into account any violation of your rights and freedoms as data subject.
+Right to data portability
+To obtain from us a copy of your personal information in an electronic or structured format that is commonly used and allows for further use by you.
+Right to lodge complaint
+You are entitled to lodge a complaint to the National Privacy Commission in the event of our non-compliance or violation of the DPA. Notwithstanding that, we encourage you to first contact us to resolve any issues or concerns.
+e) New Zealand
+Some of the third parties to whom we may disclose your Personal Information (as listed above in Section 8) may be 'foreign persons or entities' for the purposes of New Zealand's Privacy Act 2020 (for example, they may be companies incorporated outside New Zealand).
+You authorise us to make those disclosures and acknowledge that those recipients may not be subject to Privacy Laws that provide comparable safeguards to those under the Privacy Act 2020.
+f) Malaysia
+Parental Consent
+In the event you are agreeing to this Privacy Policy in order for a minor to access and use our Platforms, products or services, you hereby consent to the provision of Personal Information of the minor to be processed in accordance with this Privacy Policy and you personally accept and agree to be bound by the terms in this Privacy Policy. Further, you hereby agree to take responsibility for the actions of such minor, and that minor's compliance with this Privacy Policy.
+Right to limit processing of your Personal Information
+You may request to limit the processing of your Personal Information by using the contact details provided under the Contact Us section above. However, this may affect our provision of our products and services to
+you.
+g) Singapore
+If you are based in Singapore, then all references to Privacy Laws in this Privacy Policy should be construed as including a reference to Singapore’s Personal Data Protection Act 2012 (PDPA 2012) and any of its related subsidiary legislation, regulations, rules, advisory guidelines, notifications and/or orders as may be amended from time to time.
+Reliance on Deemed Consent and/or Various Exceptions under PDPA 2012
+All references to consent in this Privacy Policy shall also include a reference to deemed consent by you to the collection, use and/or disclosure of your Personal Information by us when you register and create an account with us, use our products and services, visit our Platforms or simply engage with us over the phone, via email, in person or by any other means. Subject to PDPA 2012, we shall be entitled to rely on such deemed consent by you for the collection, use and/or disclosure of your Personal Information for the purposes stated in the sections above.
+Apart from deemed consent, we may also rely on other exceptions to the requirement of consent under PDPA 2012 where appropriate, including but not limited to situations where:
+a) The use of the Personal Information (which includes sharing of such Personal
+Information between entities within the SEEK Group) is in relation to (i) improving, enhancing or developing our new goods or services; (ii) improving, enhancing or developing our new methods or processes for business operations in relation to our goods and services; (iii) learning or understanding behaviour and preferences of our customers (including groups of customers segmented by profile); and/or (iv) identifying goods or services that may be suitable for customers (including groups of customers segmented by profile) or personalising or customising any such goods or services for customers (the Business Improvement Exception);
+b) Where the collection, use and/or disclosure of Personal Information is in relation to data obtained from or disclosed by a public agency and is consistent with the purpose of the disclosure by the public agency (Public Agency Exception); and/or
+c) Where the use and/or disclosure of Personal Information is for the purposes of
+research, including but not limited to market research, provided that (i) the research purpose cannot be reasonably accomplished unless the Personal Information is provided in an individually identifiable form; (ii) there is a clear public benefit to using the Personal Information for the research purpose; (iii) the results of the research will not be used to make any decision that affects you; and (iv) in the event the results of the research are published, we will publish the results in a form that does not identify
+you. An additional condition applies to the disclosure of Personal Information, where it must be impractical for us to seek your consent for disclosure (the Research Exception).
+For the avoidance of doubt therefore, we may also rely on the Business Improvement Exception; the Public Agency Exception and/or the Research Exception (where appropriate, and subject to the PDPA 2012) in addition to all the legal bases set out in section 6 above, in respect of the processing of your Personal Information for the specified purposes stated in that section.
+Collection, Use and/or Disclosure of NRIC numbers (or copies of NRIC)
+As set out in section 4 above, we will only collect, use and/or disclose Sensitive Information with your explicit consent or if there is another legal basis permitting us to do so.
+Where such Sensitive Information pertains to your National Registration Identification Card (“NRIC”) number (or its equivalent, e.g. passport numbers, Foreign Identification Numbers, Work Permit numbers, Birth Certificate numbers etc.), we will only collect, use and/or disclose such NRIC numbers if (a) this is required under law (or an exception under PDPA 2012 applies); or (b) if such collection, use and/or disclosure is necessary to accurately establish or verify your identify to a high degree of fidelity.
+We will generally not retain your physical NRIC unless this is required by law, and will also assess the suitability of using alternatives to NRIC numbers where suitable (e.g. using only partial NRIC numbers), taking into account our business needs and provision of goods and services to you.
+Right to Withdraw Consent
+Subject to PDPA 2012, and in addition to all the rights as set out in section 13 above, you are also entitled to the following right in respect of your Personal Information.
+Right to withdraw consent
+Where the legal basis for the Processing of your Personal Information is consent, you will be entitled to withdraw any consent given or deemed to have been given under PDPA 2012 at any time, subject to the conditions and limitations stipulated by PDPA 2012. With regard to your Personal Information that is already in our possession, withdrawal of consent would only apply to our continued use or future disclosure of the Personal Information concerned.
+Transfer of Personal Information outside of Singapore
+Further to section 9, where your Personal Information is transferred out of Singapore, we will take reasonable steps to ensure that your Personal Information continues to receive a standard of protection that is at least comparable to that provided under PDPA 2012.
+By registering and creating an account with us, using our products and services, visiting our Platforms or simply engaging with us over the phone, via email, in person or by any other means, you accept and agree that your Personal Information may be transferred (in or outside Singapore) to third parties including those set out in sections 8 and 9 above, to be used for the purposes stated in those sections. We will implement reasonable security arrangements which may include administrative, physical, and technical measures, such as ensuring that only the appropriate amount of personal data is held, restricting access to confidential documents on a need-to-know basis, implementing access limitation and encryption protocols to prevent unauthorised access, compartmentalisation of data, transferring Personal Information only on secure computer networks, and/or other relevant measures to protect your Personal Information.
