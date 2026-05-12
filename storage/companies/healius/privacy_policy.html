@@ -1,0 +1,357 @@
+<!DOCTYPE html><!-- This site was created in Webflow. https://webflow.com --><!-- Last Published: Wed May 06 2026 15:23:06 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.healius.com.au" data-wf-page="65ee49048d0f6e270acde2fe" data-wf-site="65d3ca771d58856db2f0cdff" lang="en"><head><meta charset="utf-8"/><link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/><title>Privacy Policy | Healius Limited</title><meta content="Your privacy is important to us so Healius Limited takes all reasonable steps to protect the personal information we hold from misuse, loss, unauthorised access, modification and disclosure." name="description"/><meta content="Privacy Policy | Healius Limited" property="og:title"/><meta content="Your privacy is important to us so Healius Limited takes all reasonable steps to protect the personal information we hold from misuse, loss, unauthorised access, modification and disclosure." property="og:description"/><meta content="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/65dbb4f39bf0177a8c9ece93_healius-meta.png" property="og:image"/><meta content="Privacy Policy | Healius Limited" property="twitter:title"/><meta content="Your privacy is important to us so Healius Limited takes all reasonable steps to protect the personal information we hold from misuse, loss, unauthorised access, modification and disclosure." property="twitter:description"/><meta content="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/65dbb4f39bf0177a8c9ece93_healius-meta.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Webflow" name="generator"/><link href="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/css/healius.webflow.shared.6a4721d39.css" rel="stylesheet" type="text/css" integrity="sha384-akch05gqq7fa98V3HZfpgawuu6kpXUyslgyt4+fIcrN7sgBlZdKGbEmPPRNkXVq+" crossorigin="anonymous"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Roboto:300,400,500,600,700"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/67352e005f60c401454c2bef_Favicon.png" rel="icon" type="image/png" sizes="32x32" media="(prefers-color-scheme: light)"/><link href="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/69fb5ccad98ee1c28839b336_ABBOTTTOTE%20(33).png" rel="icon" type="image/png" sizes="32x32" media="(prefers-color-scheme: dark)"/><link href="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/65d3ca771d58856db2f0ce50_webclip.png" rel="apple-touch-icon"/><!-- ahref tracking -->
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="eKULOqesVKDesJoSdyRozw" async></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WRWTQ68');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+<!-- Big slider carousel -->
+document.addEventListener("DOMContentLoaded", () => {
+    const slider = document.getElementById("alt-new-slider");
+		const slides = document.querySelectorAll(".alt-new-slide");
+    const prevBtn = document.getElementById("alt-new-prev-btn");
+    const nextBtn = document.getElementById("alt-new-next-btn");
+
+    const slideWidth = slides[0].offsetWidth + 20; // Slide width + margin
+    const totalSlides = slides.length;
+
+    // Calculate the total width of the slider
+    const sliderWidth = totalSlides * slideWidth;
+    const containerWidth = slider.parentElement.offsetWidth;
+
+    let accumulatedScroll = 0; // Track the accumulated scroll
+    let currentTranslate = 0; // Current position of the slider
+    let prevTranslate = 0; // Previous position of the slider
+    let isDragging = false; // Track if the user is dragging
+    let startX = 0; // Starting X position of the drag
+    let dragThreshold = slideWidth / 4; // Minimum drag distance to trigger a slide change
+
+    // Function to update the slider position
+    const updateSliderPosition = () => {
+        slider.style.transform = `translateX(${currentTranslate}px)`;
+    };
+
+    // Function to move the slider
+    const moveSlider = (direction) => {
+        const remainingScroll = sliderWidth - containerWidth - accumulatedScroll;
+
+        if (direction === "next") {
+            accumulatedScroll += Math.min(slideWidth, remainingScroll);
+        } else if (direction === "prev") {
+            accumulatedScroll = Math.max(0, accumulatedScroll - slideWidth);
+        }
+
+        currentTranslate = -accumulatedScroll;
+        prevTranslate = currentTranslate;
+
+        updateSliderPosition();
+    };
+
+    // Add event listeners to the navigation buttons
+    prevBtn.addEventListener("click", () => moveSlider("prev"));
+    nextBtn.addEventListener("click", () => moveSlider("next"));
+
+    // Dragging functionality
+    const onDragStart = (e) => {
+        isDragging = true;
+        startX = e.type === "touchstart" ? e.touches[0].clientX : e.clientX;
+        slider.style.transition = "none"; // Disable transition during dragging
+    };
+
+    const onDragMove = (e) => {
+        if (!isDragging) return;
+
+        const currentX = e.type === "touchmove" ? e.touches[0].clientX : e.clientX;
+        const diff = currentX - startX;
+
+        // Update currentTranslate based on drag movement
+        currentTranslate = Math.min(
+            Math.max(prevTranslate + diff, -(sliderWidth - containerWidth)),
+            0
+        );
+
+        updateSliderPosition();
+    };
+
+    const onDragEnd = (e) => {
+        if (!isDragging) return;
+        isDragging = false;
+
+        const endX = e.type === "touchend" ? e.changedTouches[0].clientX : e.clientX;
+        const dragDistance = endX - startX; // Calculate the total drag distance
+
+        slider.style.transition = "transform 0.3s ease"; // Add smooth transition after dragging
+
+        // Decide the direction of the slide based on the drag distance
+        if (dragDistance > dragThreshold) {
+            moveSlider("prev"); // Dragged enough to the right
+        } else if (dragDistance < -dragThreshold) {
+            moveSlider("next"); // Dragged enough to the left
+        } else {
+            // Not enough drag, snap back to the current slide
+            currentTranslate = prevTranslate;
+            updateSliderPosition();
+        }
+    };
+
+    // Add drag event listeners
+    slider.addEventListener("mousedown", onDragStart);
+    slider.addEventListener("mousemove", onDragMove);
+    slider.addEventListener("mouseup", onDragEnd);
+    slider.addEventListener("mouseleave", onDragEnd);
+    slider.addEventListener("touchstart", onDragStart);
+    slider.addEventListener("touchmove", onDragMove);
+    slider.addEventListener("touchend", onDragEnd);
+
+    // Prevent text selection during drag
+    slider.addEventListener("dragstart", (e) => e.preventDefault());
+});
+<!-- Big slider carousel -->
+
+</script>
+
+<style>
+
+  .alt-navbar-dropdown-toggle:hover .alt-menu-icon-svg {
+      fill: var(--business-units---colors--blue-background-alt);
+      transition: all .3s;
+  }
+
+  body{
+      overflow-x: hidden;
+  }
+  .alt-navbar-dropdown-toggle:hover .alt-navbar-link-dropdown {
+      color: var(--business-units---colors--blue-background-alt);
+      transition: all .3s;
+  }
+  /* Add a cursor change when dragging */
+  .alt-new-slider.grabbing {
+      cursor: grabbing;
+      cursor: -webkit-grabbing;
+  }
+</style>
+
+<!-- Elfsight -->
+<!-- Popup -->
+<!-- Elfsight Popup | Healius Popup -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-6caa5fb9-5b91-4ead-a970-55c75854671e" data-elfsight-app-lazy></div>
+
+<!-- End Elfsight -->
+
+<!-- Swiper-->
+<style>
+/* Container must hide overflow */
+.swiper {
+  overflow: visible;
+  position: relative;
+  width: 100%;
+}
+
+/* Wrapper must be flex row for Swiper to translateX */
+.swiper-wrapper {
+  display: flex;
+  transition-property: transform;
+  box-sizing: content-box; /* prevents flex from squashing */
+}
+
+/* Each slide must not shrink and take auto width */
+.swiper-slide {
+  flex-shrink: 0;
+  width: auto; /* Swiper will set exact widths via JS */
+  box-sizing: border-box;
+}
+
+</style>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    new Swiper('.slider-swiper', {
+      slidesPerView: 1,
+      spaceBetween: 15,
+      loop: true,
+
+      // Global config
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+
+      // Breakpoint overrides
+      breakpoints: {
+        768: {
+          slidesPerView: 3,
+          spaceBetween: 15,
+          // disable pagination at >=768
+          pagination: false,
+          // keep nav if needed
+          navigation: false
+        }
+      }
+    });
+  });
+</script>
+
+<!-- End Swiper-->
+</head><body class="alt-body"><div data-w-id="e7178516-1923-4b1a-9ee7-d42c3b85949f" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="alt-navbar w-nav"><div class="alt-navbar-container"><a href="/" class="alt-navbar-logo-link w-nav-brand"><div class="alt-navbar-logo-desktop"><img loading="lazy" src="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/65d3cc375a1839d714702738_healius.svg" alt="Untitled UI logotext" class="alt-navbar-logo"/></div><div class="alt-navbar-logo-mobile"><img loading="lazy" src="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/67aac599e70f35721fd933a9_healius-mobile.svg" alt="Untitled UI logotext" class="alt-navbar-logo-mob"/></div></a><nav role="navigation" class="alt-navbar-body w-nav-menu"><div class="alt-navbar-menu-left"><div class="container-navbar-links"><div data-delay="300" data-hover="true" data-w-id="74511895-ba60-3a51-b547-bda5bd9ce8db" class="alt-navbar-btn-dropdown w-dropdown"><div class="alt-navbar-dropdown-toggle w-dropdown-toggle"><div class="alt-dropdown-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 7.5L10 12.5L15 7.5" stroke="CurrentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div class="alt-navbar-link-dropdown">About</div></div><nav class="alt-navbar-dropdown-list w-dropdown-list"><div class="alt-navbar-dropdown-content"><div class="alt-navbar-dropdown-link-list"><h4 class="alt-menu-title">About</h4><a href="/our-businesses" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 21V4.75L7 1L12 4.75V7H22V21H2ZM4 19H6V17H4V19ZM4 15H6V13H4V15ZM4 11H6V9H4V11ZM4 7H6V5H4V7ZM8 7H10V5H8V7ZM8 19H20V9H8V19ZM14 13V11H18V13H14ZM14 17V15H18V17H14ZM10 13V11H12V13H10ZM10 17V15H12V17H10Z" fill="#033572"/>
+</svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Our businesses</div><div class="alt-text-size-small hide-mobile-landscape">Discover our comprehensive healthcare offering.</div></div></a><a href="/corporate-governance" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M160-120v-80h480v80H160Zm226-194L160-540l84-86 228 226-86 86Zm254-254L414-796l86-84 226 226-86 86Zm184 408L302-682l56-56 522 522-56 56Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Corporate governance</div><div class="alt-text-size-small hide-mobile-landscape">Read how we maintain high standards of excellence.</div></div></a><a href="/performance" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#033572"><path d="M120-160v-520l160 120 200-280 200 160h160v520H120Zm200-120 160-220 280 218v-318H652L496-725 298-447l-98-73v144l120 96Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Performance evaluation</div><div class="alt-text-size-small hide-mobile-landscape">Learn how we uphold strong governance at Healius.</div></div></a><a href="/diversity" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#033572"><path d="M160-160v-280 280Zm640 0v-280 280Zm-40-480q17 0 28.5-11.5T800-680q0-17-11.5-28.5T760-720q-17 0-28.5 11.5T720-680q0 17 11.5 28.5T760-640Zm0 80q-51 0-85.5-34.5T640-680q0-50 34.5-85t85.5-35q50 0 85 35t35 85q0 51-35 85.5T760-560ZM480-680q25 0 42.5-17t17.5-43q0-25-17.5-42.5T480-800q-26 0-43 17.5T420-740q0 26 17 43t43 17Zm0 80q-59 0-99.5-40.5T340-740q0-58 40.5-99t99.5-41q58 0 99 41t41 99q0 59-41 99.5T480-600ZM320-425q0 30 32 70t128 127q94-85 127-125t33-72q0-23-15-39t-37-16q-14 0-26.5 6T541-457l-48 57h-27l-48-57q-8-11-20.5-17t-25.5-6q-23 0-37.5 16T320-425Zm-80 0q0-53 36-94t96-41q31 0 59.5 14t48.5 38q20-24 48-38t60-14q60 0 96 41.5t36 93.5q0 53-38.5 104.5T524-160l-44 40-44-40Q315-270 277.5-321T240-425Zm-40-215q17 0 28.5-11.5T240-680q0-17-11.5-28.5T200-720q-17 0-28.5 11.5T160-680q0 17 11.5 28.5T200-640ZM483-80v-80h317v-280H682v-80h118q33 0 56.5 23.5T880-440v360H483Zm-323-80h323v80H80v-360q0-33 23-56.5t57-23.5h118v80H160v280Zm40-400q-51 0-85.5-34.5T80-680q0-50 34.5-85t85.5-35q50 0 85 35t35 85q0 51-35 85.5T200-560Zm280-180Zm-280 60Zm560 0Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading"><strong>Diversity, Equity, and Inclusion</strong></div><div class="alt-text-size-small hide-mobile-landscape">Discover how we foster an inclusive workplace.</div></div></a></div><div class="alt-navbar-dropdown-link-list"><h4 class="alt-menu-title">Personnel</h4><a href="/board-members" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M0-240v-63q0-43 44-70t116-27q13 0 25 .5t23 2.5q-14 21-21 44t-7 48v65H0Zm240 0v-65q0-32 17.5-58.5T307-410q32-20 76.5-30t96.5-10q53 0 97.5 10t76.5 30q32 20 49 46.5t17 58.5v65H240Zm540 0v-65q0-26-6.5-49T754-397q11-2 22.5-2.5t23.5-.5q72 0 116 26.5t44 70.5v63H780Zm-455-80h311q-10-20-55.5-35T480-370q-55 0-100.5 15T325-320ZM160-440q-33 0-56.5-23.5T80-520q0-34 23.5-57t56.5-23q34 0 57 23t23 57q0 33-23 56.5T160-440Zm640 0q-33 0-56.5-23.5T720-520q0-34 23.5-57t56.5-23q34 0 57 23t23 57q0 33-23 56.5T800-440Zm-320-40q-50 0-85-35t-35-85q0-51 35-85.5t85-34.5q51 0 85.5 34.5T600-600q0 50-34.5 85T480-480Zm0-80q17 0 28.5-11.5T520-600q0-17-11.5-28.5T480-640q-17 0-28.5 11.5T440-600q0 17 11.5 28.5T480-560Zm1 240Zm-1-280Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Board members</div><div class="alt-text-size-small hide-mobile-landscape">Meet the leaders guiding our vision.</div></div></a><a href="/executive-leadership-team" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M22.667 21V19C22.667 17.1362 21.3922 15.5701 19.667 15.126M16.167 3.29076C17.6329 3.88415 18.667 5.32131 18.667 7C18.667 8.67869 17.6329 10.1159 16.167 10.7092M17.667 21C17.667 19.1362 17.667 18.2044 17.3625 17.4693C16.9565 16.4892 16.1778 15.7105 15.1977 15.3045C14.4626 15 13.5308 15 11.667 15H8.66699C6.80323 15 5.87134 15 5.13626 15.3045C4.15615 15.7105 3.37745 16.4892 2.97147 17.4693C2.66699 18.2044 2.66699 19.1362 2.66699 21M14.167 7C14.167 9.20914 12.3761 11 10.167 11C7.95785 11 6.16699 9.20914 6.16699 7C6.16699 4.79086 7.95785 3 10.167 3C12.3761 3 14.167 4.79086 14.167 7Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Executive leadership team</div><div class="alt-text-size-small hide-mobile-landscape">The team driving our strategic direction.</div></div></a><a href="/clinical-advisory-council" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M540-80q-108 0-184-76t-76-184v-23q-86-14-143-80.5T80-600v-240h120v-40h80v160h-80v-40h-40v160q0 66 47 113t113 47q66 0 113-47t47-113v-160h-40v40h-80v-160h80v40h120v240q0 90-57 156.5T360-363v23q0 75 52.5 127.5T540-160q75 0 127.5-52.5T720-340v-67q-35-12-57.5-43T640-520q0-50 35-85t85-35q50 0 85 35t35 85q0 39-22.5 70T800-407v67q0 108-76 184T540-80Zm220-400q17 0 28.5-11.5T800-520q0-17-11.5-28.5T760-560q-17 0-28.5 11.5T720-520q0 17 11.5 28.5T760-480Zm0-40Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Clinical advisory council</div><div class="alt-text-size-small hide-mobile-landscape">Insights from our clinical experts.</div></div></a></div></div></nav></div><div data-delay="300" data-hover="true" data-w-id="e7178516-1923-4b1a-9ee7-d42c3b859521" class="alt-navbar-btn-dropdown w-dropdown"><div class="alt-navbar-dropdown-toggle w-dropdown-toggle"><div class="alt-dropdown-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 7.5L10 12.5L15 7.5" stroke="CurrentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div class="alt-navbar-link-dropdown">Invest </div></div><nav class="alt-navbar-dropdown-list w-dropdown-list"><div class="alt-navbar-dropdown-content"><div class="alt-navbar-dropdown-link-list"><h4 class="alt-menu-title">Invest</h4><a href="/invest-in-us" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M640-520q17 0 28.5-11.5T680-560q0-17-11.5-28.5T640-600q-17 0-28.5 11.5T600-560q0 17 11.5 28.5T640-520Zm-320-80h200v-80H320v80ZM180-120q-34-114-67-227.5T80-580q0-92 64-156t156-64h200q29-38 70.5-59t89.5-21q25 0 42.5 17.5T720-820q0 6-1.5 12t-3.5 11q-4 11-7.5 22.5T702-751l91 91h87v279l-113 37-67 224H480v-80h-80v80H180Zm60-80h80v-80h240v80h80l62-206 98-33v-141h-40L620-720q0-20 2.5-38.5T630-796q-29 8-51 27.5T547-720H300q-58 0-99 41t-41 99q0 98 27 191.5T240-200Zm240-298Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Invest in us</div><div class="alt-text-size-small hide-mobile-landscape">Partner with a leading pathology provider.</div></div></a><a href="/investor-services" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M444-200h70v-50q50-9 86-39t36-89q0-42-24-77t-96-61q-60-20-83-35t-23-41q0-26 18.5-41t53.5-15q32 0 50 15.5t26 38.5l64-26q-11-35-40.5-61T516-710v-50h-70v50q-50 11-78 44t-28 74q0 47 27.5 76t86.5 50q63 23 87.5 41t24.5 47q0 33-23.5 48.5T486-314q-33 0-58.5-20.5T390-396l-66 26q14 48 43.5 77.5T444-252v52Zm36 120q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Investor services</div><div class="alt-text-size-small hide-mobile-landscape">Manage your share holdings records</div></div></a><a href="/key-dates" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M580-240q-42 0-71-29t-29-71q0-42 29-71t71-29q42 0 71 29t29 71q0 42-29 71t-71 29ZM200-80q-33 0-56.5-23.5T120-160v-560q0-33 23.5-56.5T200-800h40v-80h80v80h320v-80h80v80h40q33 0 56.5 23.5T840-720v560q0 33-23.5 56.5T760-80H200Zm0-80h560v-400H200v400Zm0-480h560v-80H200v80Zm0 0v-80 80Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Key dates</div><div class="alt-text-size-small hide-mobile-landscape">Stay informed about key healthcare events.</div></div></a></div><div class="alt-navbar-dropdown-link-list"><h4 class="alt-menu-title">Announcements</h4><a href="/agm" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M500-780q0 33-23.5 56.5T420-700q-13 0-24-3.5T374-715q-24 8-38.5 29T321-640h519l-40 280H604v-80h127q5-30 8.5-60t8.5-60H212q5 30 8.5 60t8.5 60h127v80H160l-40-280h120q0-49 27-89t73-59q3-31 26-51.5t54-20.5q33 0 56.5 23.5T500-780ZM391-200h178l23-240H368l23 240Zm-71 80-30-312q-4-35 20-61.5t59-26.5h222q35 0 59 26.5t20 61.5l-30 312H320Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">AGM</div><div class="alt-text-size-small hide-mobile-landscape">Get details on our annual meetings.</div></div></a><a href="/asx-announcements" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M720-440v-80h160v80H720Zm48 280-128-96 48-64 128 96-48 64Zm-80-480-48-64 128-96 48 64-128 96ZM200-200v-160h-40q-33 0-56.5-23.5T80-440v-80q0-33 23.5-56.5T160-600h160l200-120v480L320-360h-40v160h-80Zm240-182v-196l-98 58H160v80h182l98 58Zm120 36v-268q27 24 43.5 58.5T620-480q0 41-16.5 75.5T560-346ZM300-480Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">ASX announcements</div><div class="alt-text-size-small hide-mobile-landscape">Stay updated on market disclosures.</div></div></a><a href="/media-releases" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M160-120q-33 0-56.5-23.5T80-200v-640l67 67 66-67 67 67 67-67 66 67 67-67 67 67 66-67 67 67 67-67 66 67 67-67v640q0 33-23.5 56.5T800-120H160Zm0-80h280v-240H160v240Zm360 0h280v-80H520v80Zm0-160h280v-80H520v80ZM160-520h640v-120H160v120Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Media releases</div><div class="alt-text-size-small hide-mobile-landscape">Read our latest company news.</div></div></a></div></div></nav></div><div data-delay="300" data-hover="true" data-w-id="6cd7c5cc-6367-ddfd-2bf9-ea12f558e569" class="alt-navbar-btn-dropdown w-dropdown"><div class="alt-navbar-dropdown-toggle w-dropdown-toggle"><div class="alt-dropdown-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 7.5L10 12.5L15 7.5" stroke="CurrentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div class="alt-navbar-link-dropdown">Reports</div></div><nav class="alt-navbar-dropdown-list w-dropdown-list"><div class="alt-navbar-dropdown-content"><div class="alt-navbar-dropdown-link-list"><h4 class="alt-menu-title">Reports</h4><a href="/annual-reports" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M120-120v-80l80-80v160h-80Zm160 0v-240l80-80v320h-80Zm160 0v-320l80 81v239h-80Zm160 0v-239l80-80v319h-80Zm160 0v-400l80-80v480h-80ZM120-327v-113l280-280 160 160 280-280v113L560-447 400-607 120-327Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Annual reports</div><div class="alt-text-size-small hide-mobile-landscape">Review our latest company reports.</div></div></a><a href="/tax-transparency-reports" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M320-240h60v-80h80v-60h-80v-80h-60v80h-80v60h80v80Zm200-30h200v-60H520v60Zm0-100h200v-60H520v60Zm44-152 56-56 56 56 42-42-56-58 56-56-42-42-56 56-56-56-42 42 56 56-56 58 42 42Zm-314-70h200v-60H250v60Zm-50 472q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm0-560v560-560Z"/></svg></div></div><div class="alt-menu-item-right"><div class="alt-menu-item-heading">Tax transparency reports</div><div class="alt-text-size-small hide-mobile-landscape">Understand our tax contributions.</div></div></a><a href="/sustainability-reports" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="m368-592 89-147-59-98q-12-20-34.5-20T329-837l-98 163 137 82Zm387 272-89-148 139-80 64 107q11 17 12 38t-9 39q-10 20-29.5 32T800-320h-45ZM640-40 480-200l160-160v80h190l-58 116q-11 20-30 32t-42 12h-60v80Zm-387-80q-20 0-36.5-10.5T192-158q-8-16-7.5-33.5T194-224l34-56h172v160H253Zm-99-114L89-364q-9-18-8.5-38.5T92-441l16-27-68-41 219-55 55 220-69-42-91 152Zm540-342-219-55 69-41-125-208h141q21 0 39.5 10.5T629-841l52 87 68-42-55 220Z"/></svg></div></div><div class="alt-menu-item-right"><div class="uui-navbar08_text-wrapper"><div class="alt-menu-item-heading margin-bottom-0">Sustainability reports</div></div><div class="alt-text-size-small hide-mobile-landscape">Explore our environmental efforts.</div></div></a></div><div class="alt-navbar-dropdown-link-list"><h4 class="alt-menu-title none">Reports</h4><a href="/modern-slavery-statements" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M80-40v-80h800v80H80Zm80-120v-240q-33-54-51-114.5T91-638q0-61 15.5-120T143-874q8-21 26-33.5t40-12.5q31 0 53 21t18 50l-11 91q-6 48 8.5 91t43.5 75.5q29 32.5 70 52t89 19.5q60 0 120.5 12.5T706-472q45 23 69.5 58.5T800-326v166H160Zm80-80h480v-86q0-24-12-42.5T674-398q-41-20-95-31t-99-11q-66 0-122.5-27t-96-72.5Q222-585 202-644.5T190-768q-10 30-14.5 64t-4.5 66q0 58 20.5 111.5T240-422v182Zm240-320q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 66-47 113t-113 47Zm0-80q33 0 56.5-23.5T560-720q0-33-23.5-56.5T480-800q-33 0-56.5 23.5T400-720q0 33 23.5 56.5T480-640ZM320-160v-37q0-67 46.5-115T480-360h160v80H480q-34 0-57 24.5T400-197v37h-80Zm160-80Zm0-480Z"/></svg></div></div><div class="alt-menu-item-right"><div class="uui-navbar08_text-wrapper"><div class="alt-menu-item-heading margin-bottom-0">Modern slavery statements</div></div><div class="alt-text-size-small hide-mobile-landscape">Learn about our ethical commitments.</div></div></a><a href="/financial-results" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M320-414v-306h120v306l-60-56-60 56Zm200 60v-526h120v406L520-354ZM120-216v-344h120v224L120-216Zm0 98 258-258 142 122 224-224h-64v-80h200v200h-80v-64L524-146 382-268 232-118H120Z"/></svg></div></div><div class="alt-menu-item-right"><div class="uui-navbar08_text-wrapper"><div class="alt-menu-item-heading margin-bottom-0">Financial results</div></div><div class="alt-text-size-small hide-mobile-landscape">View our latest financial performance.</div></div></a><a href="/webcasts" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M371-200h218l-20-80H391l-20 80Zm-11-160h240q83 0 141.5-58.5T800-560q0-83-58.5-141.5T600-760H360q-83 0-141.5 58.5T160-560q0 83 58.5 141.5T360-360Zm120-120q-33 0-56.5-23.5T400-560q0-33 23.5-56.5T480-640q33 0 56.5 23.5T560-560q0 33-23.5 56.5T480-480ZM260-600q17 0 28.5-11.5T300-640q0-17-11.5-28.5T260-680q-17 0-28.5 11.5T220-640q0 17 11.5 28.5T260-600ZM160-120v-80h129l21-84q-99-17-164.5-94.5T80-560q0-117 81.5-198.5T360-840h240q117 0 198.5 81.5T880-560q0 104-65.5 181.5T650-284l21 84h129v80H160Zm320-280q66 0 113-47t47-113q0-66-47-113t-113-47q-66 0-113 47t-47 113q0 66 47 113t113 47Zm0-160ZM371-200h218-218Z"/></svg></div></div><div class="alt-menu-item-right"><div class="uui-navbar08_text-wrapper"><div class="alt-menu-item-heading margin-bottom-0">Webcasts</div></div><div class="alt-text-size-small hide-mobile-landscape">Watch our investor presentations.</div></div></a></div></div></nav></div><div data-delay="300" data-hover="true" data-w-id="e7178516-1923-4b1a-9ee7-d42c3b8594a8" class="alt-navbar-btn-dropdown w-dropdown"><div class="alt-navbar-dropdown-toggle w-dropdown-toggle"><div class="alt-dropdown-icon w-embed"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 7.5L10 12.5L15 7.5" stroke="CurrentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div class="alt-navbar-link-dropdown">Careers</div></div><nav class="alt-navbar-dropdown-list w-dropdown-list"><div class="alt-navbar-dropdown-content alt-1-column"><div class="alt-navbar-dropdown-link-list"><h4 id="w-node-_1d7b28de-ac99-e825-a6a9-bc37010769ed-3b85949f" class="alt-menu-title">Careers</h4><a href="/careers" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="M160-80q-33 0-56.5-23.5T80-160v-440q0-33 23.5-56.5T160-680h200v-120q0-33 23.5-56.5T440-880h80q33 0 56.5 23.5T600-800v120h200q33 0 56.5 23.5T880-600v440q0 33-23.5 56.5T800-80H160Zm0-80h640v-440H600q0 33-23.5 56.5T520-520h-80q-33 0-56.5-23.5T360-600H160v440Zm80-80h240v-18q0-17-9.5-31.5T444-312q-20-9-40.5-13.5T360-330q-23 0-43.5 4.5T276-312q-17 8-26.5 22.5T240-258v18Zm320-60h160v-60H560v60Zm-200-60q25 0 42.5-17.5T420-420q0-25-17.5-42.5T360-480q-25 0-42.5 17.5T300-420q0 25 17.5 42.5T360-360Zm200-60h160v-60H560v60ZM440-600h80v-200h-80v200Zm40 220Z"/></svg></div></div><div id="w-node-_1d7b28de-ac99-e825-a6a9-bc37010769f2-3b85949f" class="alt-menu-item-right"><div class="uui-navbar08_text-wrapper"><div class="alt-menu-item-heading margin-bottom-0">Careers</div></div><div class="alt-text-size-small hide-mobile-landscape">We’re always looking for talented people. Join us!</div></div></a><a href="/benefits" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#023571"><path d="m387-412 35-114-92-74h114l36-112 36 112h114l-93 74 35 114-92-71-93 71ZM240-40v-309q-38-42-59-96t-21-115q0-134 93-227t227-93q134 0 227 93t93 227q0 61-21 115t-59 96v309l-240-80-240 80Zm240-280q100 0 170-70t70-170q0-100-70-170t-170-70q-100 0-170 70t-70 170q0 100 70 170t170 70ZM320-159l160-41 160 41v-124q-35 20-75.5 31.5T480-240q-44 0-84.5-11.5T320-283v124Zm160-62Z"/></svg></div></div><div id="w-node-_1d7b28de-ac99-e825-a6a9-bc37010769fb-3b85949f" class="alt-menu-item-right"><div class="uui-navbar08_text-wrapper"><div class="alt-menu-item-heading margin-bottom-0">Employee benefits</div></div><div class="alt-text-size-small hide-mobile-landscape">Discover employee benefits at Healius.</div></div></a><a href="https://healiuscareers.com.au/Pathology/" class="alt-menu-dropdown-link w-inline-block"><div class="alt-navbar-icon-wrapper"><div class="alt-icon-1x1-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#033572"><path d="M160-120q-33 0-56.5-23.5T80-200v-440q0-33 23.5-56.5T160-720h160v-80q0-33 23.5-56.5T400-880h160q33 0 56.5 23.5T640-800v80h160q33 0 56.5 23.5T880-640v440q0 33-23.5 56.5T800-120H160Zm0-80h640v-440H160v440Zm240-520h160v-80H400v80ZM160-200v-440 440Z"/></svg></div></div><div id="w-node-_1d7b28de-ac99-e825-a6a9-bc3701076a04-3b85949f" class="alt-menu-item-right"><div class="uui-navbar08_text-wrapper"><div class="alt-menu-item-heading margin-bottom-0">Search for jobs</div><div class="alt-badge-small-success"><div>We&#x27;re hiring!</div></div></div><div class="alt-text-size-small hide-mobile-landscape">Explore opportunities at Healius.</div></div></a></div></div></nav></div></div><div class="alt-menu-icon-search w-embed w-script"><!-- Elfsight Search | IQ Pathology search -->
+<!--<script src="https://elfsightcdn.com/platform.js" async></script>
+<div class="elfsight-app-861e15bb-2a6b-4bd8-b883-9cb88bce76c1" data-elfsight-app-lazy></div>-->
+
+
+    <!-- Google Programmable Search Engine -->
+    <script async src="https://cse.google.com/cse.js?cx=47d6ba16d02034f44"></script>
+    <style>
+        .gsc-wrapper {
+            max-width: 800px !important;
+    		margin: auto !important;
+        }
+
+        .gsc-above-wrapper-area {
+            max-width: 800px !important;
+   			 margin: auto !important;
+        }
+        .gsc-results-wrapper-overlay {
+            width: 100% !important;
+            left: 0 !important;
+            top: 0 !important;
+            height: 100% !important;
+        }
+        form.gsc-search-box {
+            max-width: 100% !important;
+            margin: 0 !important;
+        }
+
+        .gsc-control-cse.gsc-control-cse-en {
+            padding: 0 !important;
+        }
+
+        .gsib_b {
+            height: 30px !important;
+        }
+      .gsc-result .gs-title{
+			text-align: left !important;
+        }
+      }
+    </style>
+
+  <div class="gcse-search"></div></div><a href="#" class="alt-navbar-link w-nav-link">About</a></div><div class="alt-navbar-menu-right"><div class="alt-navbar-btn-wrapper"><a data-wf--business-units--alt-btn-secondary--variant="mobile-full-width" href="/contact" class="business-units--alt-btn-secondary w-variant-c22019b0-81bf-a001-f7b7-5ab6c03b96f7 w-inline-block"><div class="business-units--alt-secondary-btn-label w-variant-c22019b0-81bf-a001-f7b7-5ab6c03b96f7">Contact us</div></a><a data-wf--business-units--alt-btn--variant="primary" href="/locations" class="business-units--alt-btn w-inline-block"><div class="business-units--alt-btn-label">Find a location</div></a></div></div></nav><div class="alt-menu-mobile"><a data-wf--business-units--alt-btn--variant="primary" href="/locations" class="business-units--alt-btn w-inline-block"><div class="business-units--alt-btn-label">Find a location</div></a><div class="alt-menu-btn w-nav-button"><div class="alt-menu-icon-component"><div class="menu-line menu-line-top"></div><div class="menu-line menu-line-bottom"></div></div></div></div></div></div><section data-wf--business-units--alt-hero-2--variant="no-image" class="business-units--alt-container w-variant-bbb183cf-ea25-58e6-1f5a-921d09a7bdb7"><div class="business-units--alt-container-hero-split w-variant-bbb183cf-ea25-58e6-1f5a-921d09a7bdb7"><div class="business-units--alt-hero-content-v w-variant-bbb183cf-ea25-58e6-1f5a-921d09a7bdb7"><div class="business-units--alt-container-body w-variant-bbb183cf-ea25-58e6-1f5a-921d09a7bdb7"><h1 class="business-units--alt-h1 w-variant-bbb183cf-ea25-58e6-1f5a-921d09a7bdb7">Privacy</h1><div class="business-units--alt-subtitle w-variant-bbb183cf-ea25-58e6-1f5a-921d09a7bdb7">Healius Limited takes all reasonable steps to protect the personal information we hold from misuse, loss, unauthorised access, modification and disclosure.</div></div></div><div class="business-units--alt-img-square business-units--hero w-variant-bbb183cf-ea25-58e6-1f5a-921d09a7bdb7"><img src="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/67aacf764b06c5b93e317cd1_9b6b808caf0ebb9d365148ce3112ae0e_nipt-square.jpg" loading="lazy" alt="" height="Auto" sizes="(max-width: 5669px) 100vw, 5669px" srcset="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/67aacf764b06c5b93e317cd1_9b6b808caf0ebb9d365148ce3112ae0e_nipt-square-p-500.jpg 500w, https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/67aacf764b06c5b93e317cd1_9b6b808caf0ebb9d365148ce3112ae0e_nipt-square-p-800.jpg 800w, https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/67aacf764b06c5b93e317cd1_9b6b808caf0ebb9d365148ce3112ae0e_nipt-square.jpg 834w" class="business-units--alt-img"/></div></div></section><section class="business-units--alt-container"><div class="business-units--alt-main"><div class="business-units--alt-rich w-richtext"><h2>Who we are</h2><p>Healius Ltd (ACN 064 530 516) and its related bodies corporate including:</p><ul role="list"><li>Healius Pathology Pty Ltd (ACN 007 190 043) (<strong><em>Healius Pathology</em></strong>);</li><li>Specialist Veterinary Services Pty Ltd (ACN 006 909 173) (<strong><em>SVS</em></strong>);</li></ul><p>are committed to protecting the confidentiality and privacy of your personal information.  This policy explains how we handle personal information. </p><p>Healius Pathology provides pathology services to patients and commercial clients and has a number of trading names around Australia as follows:</p><ul role="list"><li>Laverty Pathology in New South Wales and the Australian Capital Territory;</li><li>Dorevitch Pathology in Victoria;</li><li>QML Pathology in Queensland;</li><li>Abbott Pathology in South Australia;</li><li>Western Diagnostic Pathology in Western Australia and the Northern Territory;</li><li>TML Pathology in Tasmania;</li><li>Kossard Dermatopathologists;</li><li>Genomic Diagnostics;</li><li>Gastrolab; and</li><li>IQ Pathology.</li></ul><p>SVS trades as Vetnostics and Vetnostics Pathology, and provides veterinary pathology laboratory services to veterinarians, the veterinary service industry and commercial clients.</p><p>In conducting our business, we collect, use and disclose personal information.  We understand the importance to our patients and other persons we test of maintaining privacy in relation to the personal information we hold.</p><p>This Privacy Policy sets out how we comply with our obligations under the <em>Privacy Act 1988</em> (Cth) and other relevant State and Territory legislation in managing your personal information.</p><h2>What personal information do we collect and hold?</h2><p>Personal information is information or an opinion about an identified person, or someone who is reasonably identifiable, whether or not the information or opinion is true and whether the information or opinion is recorded in a material form or not.</p><p>The types of personal information we may collect and hold about you include:</p><ul role="list"><li><strong><em>Identity:</em></strong> Used to confirm your identity including your name, address, date of birth, gender, and identification documents.</li><li><strong><em>Contact Information:</em></strong> Used to contact you if required and for identification purposes such as your address, phone number, email address and next of kin/emergency contact details.</li><li><strong><em>Health and insurance identifiers:</em></strong> For administrative purposes such as billing and includes your Medicare number and insurance details.</li><li><strong><em>Clinical:</em></strong> Information provided with the request for our services (by your GP for example) and other information we need to provide our services to you such as the tests requested, test results, clinical and clinically-related notes contained in the request form and associated documents, disease status, and correspondence provided by health practitioners involved in your care.</li><li><strong><em>Genetic testing:</em></strong> We will collect genetic information for genetic testing, and may need to collect information about your ethnicity for certain genetic tests.</li><li><strong><em>Requesting practitioner information:</em></strong> The name, practice address and contact details, of the practitioner requesting the service, and Medicare provider number (where relevant).</li><li><strong><em>Billing and financial information:</em></strong> This includes credit and debit card numbers and bank account details.</li><li><strong><em>CCTV and other site information:</em></strong> Our sites including laboratories may collect images via CCTV and may use facial recognition software.</li><li><strong><em>Online interactions:</em></strong> This includes your Internet Protocol (IP) address and also, usually via cookies, or sometimes tags or pixels, information used to maintain user sessions, saving of certain settings and data, and to generate statistics about the number of people that visit our websites. Generally, this information will not identify you and we do not link it back to your identity or other information that you have provided to us. </li><li><strong><em>Employment information:</em></strong>  If you apply for employment with us, or become an employee, we will collect from you information relevant to your application and employment which may include, but is not limited to, the details listed above and also your work history, references, educational history, qualification and training details, health information, criminal record &amp; working with children checks, biometric information and any other information provided by you as part of the application process or employment.</li></ul><h2>How do we collect and hold personal information?</h2><p>We collect personal information about you in several ways, including from:</p><ul role="list"><li>information that is recorded on the pathology request form your health practitioner gives you when recommending that you obtain pathology services;</li><li>other persons or entities who ask us to perform pathology services on your behalf (for example, the hospital/nursing home where you are a patient, a government department or your employer);</li><li>someone who has responsibility for you (your parent, carer or guardian); </li><li>you directly (for example where you tell our staff verbally, complete a form, email or message us, or where obtained from a recorded or transcribed telephone interaction);</li><li>law enforcement, Government agencies, solicitors, courts and insurer requests;</li><li>an employer or education body with which you have had dealings;</li><li>in the case of requester health practitioners, from Government data bases and publicly available internet searches. </li></ul><p>When we receive a request to provide you with pathology services, we create a unique digital medical record for you.  Every time we perform a pathology service for you, new information is added to your medical record. </p><p>We take reasonable steps to protect patient medical records from misuse, interference and loss and also from unauthorised access, modification and disclosure.  These steps include ensuring that our information technology systems and processes comply with the requirements of the <em>National Pathology Accreditation Advisory Council</em> for information communication. </p><p>Healius Pathology is subject to a range of rules relating to the periods for which health information and records must be retained. We must generally retain health information about an individual for the following minimum periods:</p><ul role="list"><li>for 7 years from the last occasion on which we provided a health service to the individual – if we collected the information when the individual was 18 years old or older; or</li><li>until the individual turns 25 – if we collected the information when the individual was less than 18 years old. </li></ul><p>If you contact us by telephone, your call with us will be recorded for training and quality purposes, may be transcribed by software and may be stored with a third party provider.  Please let the operator know if you do not want your call to be recorded.</p><h2>Why do we need your personal information and what do we do with it?</h2><h3>Patient care</h3><p>We collect, maintain, use and disclose personal information about you in order to provide you with appropriate care, treatment and services. </p><p>We use the information in your medical record:</p><ul role="list"><li>to ensure that we provide the correct pathology services;</li><li>to interpret your pathology results and to make an appropriate diagnosis;</li><li>to provide you and/or your health practitioner with information that may assist you in managing and improving your health; and</li><li>as a medical history for you as results of pathology services we provide to you are added to your medical record over time.  This medical history allows our health professionals to provide you with better care as it assists with identifying changes to your health over time.</li></ul><p>We disclose your pathology results:</p><ul role="list"><li>to the person who requested the pathology service on your behalf (normally your health practitioner);</li><li>to anyone else specified in the request for the pathology service (your health practitioner may request that we disclose your pathology results directly to you or to other health practitioners who are involved in your treatment);</li><li>to other persons not specifically listed in the request for the pathology service but who claim to be providing health care services to you and we are satisfied that their claim is genuine (we will only do this if we are reasonably satisfied that they are a registered health practitioner, or you have consented to this occurring, or there appear to be other reasons why this is appropriate for your health care);</li><li>where the pathology service was requested on your behalf by your employer or a government department, to that employer or government department; </li><li>to you personally or to anyone else you may request or consent to in writing, provided you supply us with any information we may request from you in order to be reasonably satisfied that the request is genuinely from you (e.g.: certified identification documents); and </li><li>where the pathology service provides a positive result to a notifiable disease (e.g. COVID-19 test), to the relevant government authority. </li></ul><p>We may also disclose your complete pathology medical history, including all pathology results for all pathology services we have ever performed for you (regardless of who requested the relevant pathology services), to a registered health practitioner who requests this.  We will only do this if we are satisfied as to the identity of the registered health practitioner, and they confirm to us that this is required solely for them to deliver health care personally to you.</p><p>For some specific pathology tests (such as full blood counts, electrolytes, liver function tests and other serology and immunology pathology tests), it is accepted clinical practice that we must give your health practitioner not only the test result for the test your health practitioner has requested but also the results of all tests of the same nature that we have performed for you previously (regardless of who requested those tests).  Past results assist your health practitioner to determine whether or not your current test result is abnormal.</p><p>In some circumstances, it may be necessary for us to obtain confirmatory testing from a third-party laboratory, or for highly specialised or proprietary pathology services we may need to arrange for another laboratory to perform the required pathology services on our behalf.  We may also seek a second opinion from expert pathologists outside our organisation. These experts and laboratories may be located in countries other than Australia. In these circumstances, we will disclose personal information about you to these third parties for the limited purpose of obtaining the necessary pathology services.</p><h3>Operating our business</h3><p>We use, and where necessary disclose, your personal information to manage our accounts and obtain payment for the services we provide.  Specifically, we will use and, where necessary, disclose your personal information to obtain payment from, as appropriate, Medicare Australia, you, your private health insurance fund or from any organisation responsible for payment of any part of your account, such as the Department of Veterans Affairs. This may also extend to disclosure of your personal information to a debt collector or a credit-checking agency. We also use, and where necessary disclose, your personal information for data entry and data analytics purposes.</p><p>If the circumstances require, we may disclose your personal information to our insurers.</p><p>We may use your personal information to:</p><ul role="list"><li>give you important information about our products and services, including notification of a change of address of sites you have visited;</li><li>advertise to you particular products and services that may be of interest to you; and</li><li>give you reminders in relation to obtaining services from us (for example where your health care needs require regular, periodic pathology services).</li></ul><h3>Teaching and research</h3><p>We may use your personal information for internal teaching purposes or to monitor, evaluate, plan and improve the services we provide.  This may include sending you surveys to provide feedback to us on our services. We will only use de-identified information (information that does not contain any personal details that may reasonably identify you) for these purposes, unless the service we provide is to you.</p><p>Entities undertaking research (such as Cancer Councils, universities and pharmaceutical companies) periodically request data from our medical records. We will only provide identified data in response to these requests when authorised to do so by the <em>Privacy Act 1988</em> (Cth). </p><p>University students undertaking clinical placements with us may have access to and use your personal information, but only in accordance with this Privacy Policy.</p><h3>Other disclosures</h3><p>We may be required by law to disclose your personal information without your consent. This includes, but is not limited to, statue-mandated notification of certain diseases, subpoenas or other court or tribunal orders, police warrants and health regulator requirements. Such disclosures will be limited to the extent required to meet the legal obligation.</p><p>We may also disclose your personal information to third party service providers who assist us with running our business operations, including IT service providers. We will only do so where appropriate contractual protections are in place.</p><p>We may also disclose your personal information as a part of considering an employment application. This will include suitability and reference checks.</p><h2>What happens if we do not collect your personal information?</h2><p>If you don’t provide us with all the personal information we request, we may not be able to provide pathology services to you.  We aim to only collect as much personal information from you as we need to provide you with services and to allow us to obtain payment for those services. </p><h2>Do we transfer personal information overseas?</h2><p>We may disclose your personal information to wholly owned subsidiaries of our parent company, Healius Ltd, or to third parties, which are based overseas including, but not limited to, the United Kingdom, the European Union including Ireland, the United States, Mexico, Georgia, Israel, India, Malaysia and the Philippines. These companies provide billing, payment and other administrative services, data-entry and data analytics, talent acquisition and IT support services to us.  We may disclose personal information as part of a limited range of specialised tests sent to reference laboratories based in the UK, Hong Kong and the USA. We take reasonable steps to ensure that these companies do not breach the requirements of the <em>Privacy Act 1988 </em>(Cth) and other State and Territory legislation that may be applicable.</p><h2>Artificial intelligence (AI) </h2><p>We may use AI (including for supporting decisions and data analytics) to process, interpret or match personal information. By way of example: our pathologists may use an AI program to assist in interpreting your results to inform the pathologist’s reporting and diagnosis.  However, AI is not used to make fully-automated decisions regarding our patients where that deals with their personal information and as there is always appropriate human oversight.</p><p>We only use personal information from our patients in AI where it is reasonably necessary to do so, and only on internally approved, non-public, secure AI systems operating within the Healius IT environment, and which complies with privacy laws.  AI may assist in initial screening of job applicants and preliminary matching to a role, but again does not make fully-automated decisions.</p><p>If your personal information is collected via an AI chatbot or an AI automated tool, you will be informed beforehand and have the option to opt out and provided with alternative options. </p><h2>Can you access your personal information we hold?</h2><p>You may request access to the personal information we hold about you.  You can also request that corrections be made to it.  We will respond to your request within a reasonable time.</p><p>There are some circumstances where we are not required to give you access to or correct your personal information.  We will normally give you a written notice setting out our reasons for not complying with your request and informing you of how you can complain about our refusal.</p><p>There is no fee for requesting access to your personal information or for us to make corrections.  However, we may charge a fee for our costs involved in collating and providing you with access to any personal information.  If charged, that fee is payable before access is given.</p><h3>What to do if you would like to make a complaint about a breach of the Australian Privacy Principles </h3><p>If you have any concerns about how we handle your personal information or you wish to make a complaint on the basis that we have breached the Australian Privacy Principles prescribed by the <em>Privacy Act 1988</em> (Cth), or other privacy laws, please contact us.  If you would like to make a complaint, you will generally need to send us a written complaint (see details below).</p><p>We will endeavour to respond to your complaint within a reasonable time after it is made.</p><h2>How to contact us</h2><p>You can contact our Privacy Officer in the following ways:</p><p>Email: <a href="mailto:privacyofficer@healius.com.au">privacyofficer@healius.com.au</a></p><p>Post: </p><p>Level 22, 161 Castlereagh Street</p><p>SYDNEY NSW 2000</p><p>Attention: Privacy Officer</p><p>Phone: 02 7258 4091 or 02 7259 9106</p><p>‍</p><p><em>Privacy Policy Last Updated: 20 April 2026</em></p></div></div></section><div class="alt-container footer"><div class="footer alt-container-inner"><div class="alt-footer-container"><a href="/" class="w-inline-block"><img width="147.7100067138672" height="65.02136993408203" alt="" src="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/65d3cc375a1839d714702738_healius.svg" loading="lazy" class="alt-logo"/></a><div class="alt-container-col"><div class="alt-footer-col"><div class="alt-footer-col-title">About</div><div class="alt-footer-col-body"><a href="/our-businesses" class="alt-footer-col-link">Our businesses</a><a href="/our-brands" class="alt-footer-col-link">Our brands</a><a href="/corporate-governance" class="alt-footer-col-link">Corporate governance</a><a href="/contact" class="alt-footer-col-link">Contact us</a><a href="/benefits" class="alt-footer-col-link">Employee benefits</a><a href="/careers" class="alt-footer-col-link">Careers</a></div></div><div class="alt-footer-col"><div class="alt-footer-col-title">Invest in us</div><div class="alt-footer-col-body"><a href="/invest-in-us" class="alt-footer-col-link">Invest in us</a><a href="/investor-services" class="alt-footer-col-link">Investor services</a><a href="/key-dates" class="alt-footer-col-link">Key dates</a><a href="/agm" class="alt-footer-col-link">AGM</a><a href="/asx-announcements" class="alt-footer-col-link">ASX announcements</a><a href="/media-releases" class="alt-footer-col-link">Media releases</a></div></div><div class="alt-footer-col"><div class="alt-footer-col-title">Reports</div><a href="/annual-reports" class="alt-footer-col-link">Annual reports</a><a href="/tax-transparency-reports" class="alt-footer-col-link">Tax transparency reports</a><a href="/sustainability-reports" class="alt-footer-col-link">Sustainability reports</a><a href="/modern-slavery-statements" class="alt-footer-col-link">Modern slavery statements</a><a href="/financial-results" class="alt-footer-col-link">Financial results</a><a href="/webcasts" class="alt-footer-col-link">Webcasts</a><div class="alt-footer-col-body"></div></div><div class="alt-footer-col"><div class="alt-footer-col-title">Personnel</div><div class="alt-footer-col-body"><a href="/board-members" class="alt-footer-col-link">Board members</a><a href="/executive-leadership-team" class="alt-footer-col-link">Executive leadership team</a><a href="/clinical-advisory-council" class="alt-footer-col-link">Clinical advisory council</a><a href="https://www.userlogin.com.au/primaryhealthcare/login.php" target="_blank" class="alt-footer-col-link">Contractor induction</a></div><div class="alt-social"><a href="https://www.facebook.com/QMLPathologyAU/" class="social-link w-inline-block"><div class="alt-social-icon"><div class="alt-social-icon-ind w-embed"><svg width="32" height="32" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_8415_7341)">
+<path class="social-media-icon" d="M88 48C88 25.92 70.08 8 48 8C25.92 8 8 25.92 8 48C8 67.36 21.76 83.48 40 87.2V60H32V48H40V38C40 30.28 46.28 24 54 24H64V36H56C53.8 36 52 37.8 52 40V48H64V60H52V87.8C72.2 85.8 88 68.76 88 48Z" fill="#5F6972"/>
+</g>
+<defs>
+<clipPath id="clip0_8415_7341">
+<rect width="96" height="96" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+<style>
+.social-link:hover .social-media-icon{
+	fill: black;
+}
+</style></div></div></a><a href="https://www.linkedin.com/company/healius-limited/" class="social-link w-inline-block"><div class="alt-social-icon"><div class="alt-social-icon-ind w-embed"><svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">    <path d="M41,4H9C6.24,4,4,6.24,4,9v32c0,2.76,2.24,5,5,5h32c2.76,0,5-2.24,5-5V9C46,6.24,43.76,4,41,4z M17,20v19h-6V20H17z M11,14.47c0-1.4,1.2-2.47,3-2.47s2.93,1.07,3,2.47c0,1.4-1.12,2.53-3,2.53C12.2,17,11,15.87,11,14.47z M39,39h-6c0,0,0-9.26,0-10 c0-2-1-4-3.5-4.04h-0.08C27,24.96,26,27.02,26,29c0,0.91,0,10,0,10h-6V20h6v2.56c0,0,1.93-2.56,5.81-2.56 c3.97,0,7.19,2.73,7.19,8.26V39z" fill="#5F6972" class="social-media-icon"></path></svg></div></div></a></div></div></div></div><div class="alt-footer-legal-container"><div class="alt-footer-copyright">© Healius Limited</div><div class="alt-footer-copyright-legal">Healius and the Healius Pathology logo are registered trade marks of Healius Pathology Pty Ltd.</div><div class="alt-footer-container-legal"><a href="/copyright-notice" class="alt-footer-legal-link">Copyright notice</a><a href="https://uptime.healius.com.au/" target="_blank" class="alt-footer-legal-link">Uptime</a><a href="/privacy" target="_blank" aria-current="page" class="alt-footer-legal-link w--current">Privacy Policy</a><a href="/disclaimer" class="alt-footer-legal-link">Disclaimer &amp; Terms</a></div></div></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=65d3ca771d58856db2f0cdff" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/js/webflow.schunk.36b8fb49256177c8.js" type="text/javascript" integrity="sha384-4abIlA5/v7XaW1HMXKBgnUuhnjBYJ/Z9C1OSg4OhmVw9O3QeHJ/qJqFBERCDPv7G" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/js/webflow.schunk.ab3573c4fcaa726b.js" type="text/javascript" integrity="sha384-oFtsvZxUDCITZTkGaQH5BLgHYCT5hvpRx8Vfwmcm5qxQkLU5ThGUzcjdSF4anLwv" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/js/webflow.88b9e61d.19b23658b2d02210.js" type="text/javascript" integrity="sha384-ZEQh/MR4YOFwCXZBYF1D0B2n7ruUXqljfGmRLViOWii6w/u+VgWVtg9/4ExuKhd2" crossorigin="anonymous"></script><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRWTQ68"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Dotdigital -->
+<script src="https://r3-t.trackedlink.net/_dmpt.js" type="text/javascript"></script>
+<script type="text/javascript">
+_dmSetDomain("healius.com.au");
+</script>
+<!-- Dotdigital -->
+
+<!-- Elfsight Announcement Bar | Healius -->
+<script src="https://elfsightcdn.com/platform.js" async></script>
+<div class="elfsight-app-628314dc-edea-4bf7-9754-bd255da7272c" data-elfsight-app-lazy></div>
+
+<!-- mobile no scroll -->
+<style>
+	.no-scroll {
+      overflow:hidden;
+  	}
+</style>
+<!-- mobile no scroll -->
+<script>
+  $('.alt-menu-btn').on('click', function(){ $('body').toggleClass('no-scroll');
+  });
+
+  $('.w--open').on('click', function(){ $('body').removeClass('no-scroll');
+  });
+</script>
+
+
+
+<!-- Google map API autocomplete -->
+
+<!-- Load Google Places API -->
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAO1GyCxKqj4fJ6P9YQze2C6joIaRKE2yA&libraries=places"></script>
+
+<!-- Set autocomplete input -->
+<script>
+  var gpaInput = document.getElementById("address_autocomplete");
+  var autocomplete = new google.maps.places.Autocomplete(gpaInput);
+</script>
+
+<!-- END Google map API autocomplete -->
+
+<!-- Step sliding card JS -->
+<script>
+$(document).ready(function () {
+    $('._w-cards-list').each(function () { 
+        $(this).find('.c-card').each(function (index) {
+            let newClass = '_'+ (index + 1); 
+            $(this).addClass(newClass);
+        });
+    });
+});
+</script>
+<!-- Step sliding card JS -->
+
+<!-- Step sliding card CSS -->
+<style>
+  
+  .c-card._1{
+    position: sticky;
+    top: 20px;
+  }
+    .c-card._2{
+    position: sticky;
+    top: 100px;
+  }
+    .c-card._3{
+    position: sticky;
+    top: 180px;
+  }
+    .c-card._4{
+    position: sticky;
+    top: 260px;
+  }
+     .c-card._5{
+    position: sticky;
+    top: 340px;
+  }
+</style>
+  
+<!-- Step sliding card CSS --></body></html>

@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.ingeniacommunities.com.au/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+	
+	<style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oA&skey=2d3c1187d5eede0f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oA&skey=2d3c1187d5eede0f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oA&skey=2d3c1187d5eede0f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oA&skey=2d3c1187d5eede0f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oA&skey=2d3c1187d5eede0f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oA&skey=2d3c1187d5eede0f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oA&skey=2d3c1187d5eede0f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oA&skey=2d3c1187d5eede0f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oA&skey=2d3c1187d5eede0f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXw&skey=7bc19f711c0de8f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXw&skey=7bc19f711c0de8f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXw&skey=7bc19f711c0de8f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXw&skey=7bc19f711c0de8f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXw&skey=7bc19f711c0de8f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXw&skey=7bc19f711c0de8f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXw&skey=7bc19f711c0de8f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXw&skey=7bc19f711c0de8f&v=v31) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXw&skey=7bc19f711c0de8f&v=v31) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXo.woff2) format('woff2');}</style><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v26.8 (Yoast SEO v26.8) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->
+	<title>Privacy - Ingenia Communities</title>
+<link data-rocket-prefetch href="https://cdn.iubenda.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://www.googletagmanager.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://cloud.typography.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://player.vimeo.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://app.sharelinktechnologies.com" rel="dns-prefetch"><link rel="preload" data-rocket-preload as="image" href="http://ingeniacommunities.com.au/wp-content/uploads/2018/05/Ingenia-Holidays-One-Mile-Beach-Aerial-1500x800.jpg" fetchpriority="high">
+	<link rel="canonical" href="https://www.ingeniacommunities.com.au/privacy/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Privacy" />
+	<meta property="og:url" content="https://www.ingeniacommunities.com.au/privacy/" />
+	<meta property="og:site_name" content="Ingenia Communities" />
+	<meta property="article:modified_time" content="2025-11-23T23:22:39+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="17 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.ingeniacommunities.com.au/privacy/","url":"https://www.ingeniacommunities.com.au/privacy/","name":"Privacy - Ingenia Communities","isPartOf":{"@id":"https://www.ingeniacommunities.com.au/#website"},"datePublished":"2018-06-15T01:09:42+00:00","dateModified":"2025-11-23T23:22:39+00:00","breadcrumb":{"@id":"https://www.ingeniacommunities.com.au/privacy/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://www.ingeniacommunities.com.au/privacy/"]}]},{"@type":"BreadcrumbList","@id":"https://www.ingeniacommunities.com.au/privacy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.ingeniacommunities.com.au/"},{"@type":"ListItem","position":2,"name":"Privacy"}]},{"@type":"WebSite","@id":"https://www.ingeniacommunities.com.au/#website","url":"https://www.ingeniacommunities.com.au/","name":"Ingenia Communities","description":"Australia&#039;s best lifestyle communities","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ingeniacommunities.com.au/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-AU"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//app.sharelinktechnologies.com' />
+<link rel='dns-prefetch' href='//cloud.typography.com' />
+
+<link rel="alternate" type="application/rss+xml" title="Ingenia Communities &raquo; Feed" href="https://www.ingeniacommunities.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ingenia Communities &raquo; Comments Feed" href="https://www.ingeniacommunities.com.au/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.ingeniacommunities.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ingeniacommunities.com.au%2Fprivacy%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.ingeniacommunities.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ingeniacommunities.com.au%2Fprivacy%2F&#038;format=xml" />
+<meta content="Ingenia Divi Child v.1.0.0" name="generator"/><style id='iubenda-inline-styles-from-embed-inline-css' type='text/css'>
+ #iubenda-cs-banner { bottom: 0px !important; left: 0px !important; position: fixed !important; width: 100% !important; z-index: 99999998 !important; background-color: black; } .iubenda-cs-content { display: block; margin: 0 auto; padding: 20px; width: auto; font-family: Helvetica,Arial,FreeSans,sans-serif; font-size: 14px; background: #000; color: #fff;} .iubenda-cs-rationale { max-width: 900px; position: relative; margin: 0 auto; } .iubenda-banner-content &gt; p { font-family: Helvetica,Arial,FreeSans,sans-serif; line-height: 1.5; } .iubenda-cs-close-btn { margin:0; color: #fff; text-decoration: none; font-size: 14px; position: absolute; top: 0; right: 0; border: none; } .iubenda-cs-cookie-policy-lnk { text-decoration: underline; color: #fff; font-size: 14px; font-weight: 900; } 
+/*# sourceURL=iubenda-inline-styles-from-embed-inline-css */
+</style>
+<link rel='stylesheet' id='embedpress-css-css' href='https://www.ingeniacommunities.com.au/wp-content/plugins/embedpress/assets/css/embedpress.css?ver=1769041903' type='text/css' media='all' />
+<link rel='stylesheet' id='embedpress-blocks-style-css' href='https://www.ingeniacommunities.com.au/wp-content/plugins/embedpress/assets/css/blocks.build.css?ver=1769041903' type='text/css' media='all' />
+<link rel='stylesheet' id='embedpress-lazy-load-css-css' href='https://www.ingeniacommunities.com.au/wp-content/plugins/embedpress/assets/css/lazy-load.css?ver=1769041903' type='text/css' media='all' />
+<link rel='stylesheet' id='vimeo-for-wordpress-public-css' href='https://www.ingeniacommunities.com.au/wp-content/plugins/vimeo/build/style-index.css?ver=1.2.2' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='map-css-css' href='https://www.ingeniacommunities.com.au/wp-content/plugins/inacommunities//style/map-style.css?ver=025361212f4378e1343a3b3c438c8e6b' type='text/css' media='all' />
+<link rel='stylesheet' id='Gotham-font-css' href='https://cloud.typography.com/7277092/6523552/css/fonts.css?ver=025361212f4378e1343a3b3c438c8e6b' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='https://www.ingeniacommunities.com.au/wp-content/themes/Divi/style.min.css?ver=4.27.5' type='text/css' media='all' />
+<style id='divi-dynamic-critical-inline-css' type='text/css'>
+@font-face{font-family:ETmodules;font-display:block;src:url(//www.ingeniacommunities.com.au/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.eot);src:url(//www.ingeniacommunities.com.au/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.eot?#iefix) format("embedded-opentype"),url(//www.ingeniacommunities.com.au/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.woff) format("woff"),url(//www.ingeniacommunities.com.au/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.ttf) format("truetype"),url(//www.ingeniacommunities.com.au/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.svg#ETmodules) format("svg");font-weight:400;font-style:normal}
+@media (min-width:981px){.et_pb_gutters3 .et_pb_column,.et_pb_gutters3.et_pb_row .et_pb_column{margin-right:5.5%}.et_pb_gutters3 .et_pb_column_4_4,.et_pb_gutters3.et_pb_row .et_pb_column_4_4{width:100%}.et_pb_gutters3 .et_pb_column_4_4 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_4_4 .et_pb_module{margin-bottom:2.75%}.et_pb_gutters3 .et_pb_column_3_4,.et_pb_gutters3.et_pb_row .et_pb_column_3_4{width:73.625%}.et_pb_gutters3 .et_pb_column_3_4 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_3_4 .et_pb_module{margin-bottom:3.735%}.et_pb_gutters3 .et_pb_column_2_3,.et_pb_gutters3.et_pb_row .et_pb_column_2_3{width:64.833%}.et_pb_gutters3 .et_pb_column_2_3 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_2_3 .et_pb_module{margin-bottom:4.242%}.et_pb_gutters3 .et_pb_column_3_5,.et_pb_gutters3.et_pb_row .et_pb_column_3_5{width:57.8%}.et_pb_gutters3 .et_pb_column_3_5 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_3_5 .et_pb_module{margin-bottom:4.758%}.et_pb_gutters3 .et_pb_column_1_2,.et_pb_gutters3.et_pb_row .et_pb_column_1_2{width:47.25%}.et_pb_gutters3 .et_pb_column_1_2 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_1_2 .et_pb_module{margin-bottom:5.82%}.et_pb_gutters3 .et_pb_column_2_5,.et_pb_gutters3.et_pb_row .et_pb_column_2_5{width:36.7%}.et_pb_gutters3 .et_pb_column_2_5 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_2_5 .et_pb_module{margin-bottom:7.493%}.et_pb_gutters3 .et_pb_column_1_3,.et_pb_gutters3.et_pb_row .et_pb_column_1_3{width:29.6667%}.et_pb_gutters3 .et_pb_column_1_3 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_1_3 .et_pb_module{margin-bottom:9.27%}.et_pb_gutters3 .et_pb_column_1_4,.et_pb_gutters3.et_pb_row .et_pb_column_1_4{width:20.875%}.et_pb_gutters3 .et_pb_column_1_4 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_1_4 .et_pb_module{margin-bottom:13.174%}.et_pb_gutters3 .et_pb_column_1_5,.et_pb_gutters3.et_pb_row .et_pb_column_1_5{width:15.6%}.et_pb_gutters3 .et_pb_column_1_5 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_1_5 .et_pb_module{margin-bottom:17.628%}.et_pb_gutters3 .et_pb_column_1_6,.et_pb_gutters3.et_pb_row .et_pb_column_1_6{width:12.0833%}.et_pb_gutters3 .et_pb_column_1_6 .et_pb_module,.et_pb_gutters3.et_pb_row .et_pb_column_1_6 .et_pb_module{margin-bottom:22.759%}.et_pb_gutters3 .et_full_width_page.woocommerce-page ul.products li.product{width:20.875%;margin-right:5.5%;margin-bottom:5.5%}.et_pb_gutters3.et_left_sidebar.woocommerce-page #main-content ul.products li.product,.et_pb_gutters3.et_right_sidebar.woocommerce-page #main-content ul.products li.product{width:28.353%;margin-right:7.47%}.et_pb_gutters3.et_left_sidebar.woocommerce-page #main-content ul.products.columns-1 li.product,.et_pb_gutters3.et_right_sidebar.woocommerce-page #main-content ul.products.columns-1 li.product{width:100%;margin-right:0}.et_pb_gutters3.et_left_sidebar.woocommerce-page #main-content ul.products.columns-2 li.product,.et_pb_gutters3.et_right_sidebar.woocommerce-page #main-content ul.products.columns-2 li.product{width:48%;margin-right:4%}.et_pb_gutters3.et_left_sidebar.woocommerce-page #main-content ul.products.columns-2 li:nth-child(2n+2),.et_pb_gutters3.et_right_sidebar.woocommerce-page #main-content ul.products.columns-2 li:nth-child(2n+2){margin-right:0}.et_pb_gutters3.et_left_sidebar.woocommerce-page #main-content ul.products.columns-2 li:nth-child(3n+1),.et_pb_gutters3.et_right_sidebar.woocommerce-page #main-content ul.products.columns-2 li:nth-child(3n+1){clear:none}}
+#et-secondary-menu li,#top-menu li{word-wrap:break-word}.nav li ul,.et_mobile_menu{border-color:#2EA3F2}.mobile_menu_bar:before,.mobile_menu_bar:after,#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a{color:#2EA3F2}#main-header{-webkit-transition:background-color 0.4s, color 0.4s, opacity 0.4s ease-in-out, -webkit-transform 0.4s;transition:background-color 0.4s, color 0.4s, opacity 0.4s ease-in-out, -webkit-transform 0.4s;transition:background-color 0.4s, color 0.4s, transform 0.4s, opacity 0.4s ease-in-out;transition:background-color 0.4s, color 0.4s, transform 0.4s, opacity 0.4s ease-in-out, -webkit-transform 0.4s}#main-header.et-disabled-animations *{-webkit-transition-duration:0s !important;transition-duration:0s !important}.container{text-align:left;position:relative}.et_fixed_nav.et_show_nav #page-container{padding-top:80px}.et_fixed_nav.et_show_nav.et-tb #page-container,.et_fixed_nav.et_show_nav.et-tb-has-header #page-container{padding-top:0 !important}.et_fixed_nav.et_show_nav.et_secondary_nav_enabled #page-container{padding-top:111px}.et_fixed_nav.et_show_nav.et_secondary_nav_enabled.et_header_style_centered #page-container{padding-top:177px}.et_fixed_nav.et_show_nav.et_header_style_centered #page-container{padding-top:147px}.et_fixed_nav #main-header{position:fixed}.et-cloud-item-editor #page-container{padding-top:0 !important}.et_header_style_left #et-top-navigation{padding-top:33px}.et_header_style_left #et-top-navigation nav>ul>li>a{padding-bottom:33px}.et_header_style_left .logo_container{position:absolute;height:100%;width:100%}.et_header_style_left #et-top-navigation .mobile_menu_bar{padding-bottom:24px}.et_hide_search_icon #et_top_search{display:none !important}#logo{width:auto;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out;margin-bottom:0;max-height:54%;display:inline-block;float:none;vertical-align:middle;-webkit-transform:translate3d(0, 0, 0)}.et_pb_svg_logo #logo{height:54%}.logo_container{-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out}span.logo_helper{display:inline-block;height:100%;vertical-align:middle;width:0}.safari .centered-inline-logo-wrap{-webkit-transform:translate3d(0, 0, 0);-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out}#et-define-logo-wrap img{width:100%}.gecko #et-define-logo-wrap.svg-logo{position:relative !important}#top-menu-nav,#top-menu{line-height:0}#et-top-navigation{font-weight:600}.et_fixed_nav #et-top-navigation{-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out}.et-cart-info span:before{content:"\e07a";margin-right:10px;position:relative}nav#top-menu-nav,#top-menu,nav.et-menu-nav,.et-menu{float:left}#top-menu li{display:inline-block;font-size:14px;padding-right:22px}#top-menu>li:last-child{padding-right:0}.et_fullwidth_nav.et_non_fixed_nav.et_header_style_left #top-menu>li:last-child>ul.sub-menu{right:0}#top-menu a{color:rgba(0,0,0,0.6);text-decoration:none;display:block;position:relative;-webkit-transition:opacity 0.4s ease-in-out, background-color 0.4s ease-in-out;transition:opacity 0.4s ease-in-out, background-color 0.4s ease-in-out}#top-menu-nav>ul>li>a:hover{opacity:0.7;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out}#et_search_icon:before{content:"\55";font-size:17px;left:0;position:absolute;top:-3px}#et_search_icon:hover{cursor:pointer}#et_top_search{float:right;margin:3px 0 0 22px;position:relative;display:block;width:18px}#et_top_search.et_search_opened{position:absolute;width:100%}.et-search-form{top:0;bottom:0;right:0;position:absolute;z-index:1000;width:100%}.et-search-form input{width:90%;border:none;color:#333;position:absolute;top:0;bottom:0;right:30px;margin:auto;background:transparent}.et-search-form .et-search-field::-ms-clear{width:0;height:0;display:none}.et_search_form_container{-webkit-animation:none;animation:none;-o-animation:none}.container.et_search_form_container{position:relative;opacity:0;height:1px}.container.et_search_form_container.et_pb_search_visible{z-index:999;-webkit-animation:fadeInTop 1s 1 cubic-bezier(0.77, 0, 0.175, 1);animation:fadeInTop 1s 1 cubic-bezier(0.77, 0, 0.175, 1)}.et_pb_search_visible.et_pb_no_animation{opacity:1}.et_pb_search_form_hidden{-webkit-animation:fadeOutTop 1s 1 cubic-bezier(0.77, 0, 0.175, 1);animation:fadeOutTop 1s 1 cubic-bezier(0.77, 0, 0.175, 1)}span.et_close_search_field{display:block;width:30px;height:30px;z-index:99999;position:absolute;right:0;cursor:pointer;top:0;bottom:0;margin:auto}span.et_close_search_field:after{font-family:'ETmodules';content:'\4d';speak:none;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;font-size:32px;display:inline-block;-webkit-box-sizing:border-box;box-sizing:border-box}.container.et_menu_container{z-index:99}.container.et_search_form_container.et_pb_search_form_hidden{z-index:1 !important}.et_search_outer{width:100%;overflow:hidden;position:absolute;top:0}.container.et_pb_menu_hidden{z-index:-1}form.et-search-form{background:rgba(0,0,0,0) !important}input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none}.et-cart-info{color:inherit}#et-top-navigation .et-cart-info{float:left;margin:-2px 0 0 22px;font-size:16px}#et-top-navigation{float:right}#top-menu li li{padding:0 20px;margin:0}#top-menu li li a{padding:6px 20px;width:200px}.nav li.et-touch-hover>ul{opacity:1;visibility:visible}#top-menu .menu-item-has-children>a:first-child:after,#et-secondary-nav .menu-item-has-children>a:first-child:after{font-family:'ETmodules';content:"3";font-size:16px;position:absolute;right:0;top:0;font-weight:800}#top-menu .menu-item-has-children>a:first-child,#et-secondary-nav .menu-item-has-children>a:first-child{padding-right:20px}#top-menu li .menu-item-has-children>a:first-child{padding-right:40px}#top-menu li .menu-item-has-children>a:first-child:after{right:20px;top:6px}#top-menu li.mega-menu{position:inherit}#top-menu li.mega-menu>ul{padding:30px 20px;position:absolute !important;width:100%;left:0 !important}#top-menu li.mega-menu ul li{margin:0;float:left !important;display:block !important;padding:0 !important}#top-menu li.mega-menu>ul>li:nth-of-type(4n){clear:right}#top-menu li.mega-menu>ul>li:nth-of-type(4n+1){clear:left}#top-menu li.mega-menu ul li li{width:100%}#top-menu li.mega-menu li>ul{-webkit-animation:none !important;animation:none !important;padding:0px;border:none;left:auto;top:auto;width:90% !important;position:relative;-webkit-box-shadow:none;box-shadow:none}#top-menu li.mega-menu li ul{visibility:visible;opacity:1;display:none}#top-menu li.mega-menu.et-hover li ul{display:block}#top-menu li.mega-menu.et-hover>ul{opacity:1 !important;visibility:visible !important}#top-menu li.mega-menu>ul>li>a{width:90%;padding:0 20px 10px}#top-menu li.mega-menu>ul>li>a:first-child{padding-top:0 !important;font-weight:bold;border-bottom:1px solid rgba(0,0,0,0.03)}#top-menu li.mega-menu>ul>li>a:first-child:hover{background-color:transparent !important}#top-menu li.mega-menu li>a{width:100%}#top-menu li.mega-menu.mega-menu-parent li li,#top-menu li.mega-menu.mega-menu-parent li>a{width:100% !important}#top-menu li.mega-menu.mega-menu-parent li>.sub-menu{float:left;width:100% !important}#top-menu li.mega-menu>ul>li{width:25%;margin:0}#top-menu li.mega-menu.mega-menu-parent-3>ul>li{width:33.33%}#top-menu li.mega-menu.mega-menu-parent-2>ul>li{width:50%}#top-menu li.mega-menu.mega-menu-parent-1>ul>li{width:100%}#top-menu li.mega-menu .menu-item-has-children>a:first-child:after{display:none}#top-menu li.mega-menu>ul>li>ul>li{width:100%;margin:0}#et_mobile_nav_menu{float:right;display:none}.mobile_menu_bar{position:relative;display:block;line-height:0}.mobile_menu_bar:before,.et_toggle_slide_menu:after{content:"\61";font-size:32px;left:0;position:relative;top:0;cursor:pointer}.mobile_nav .select_page{display:none}.et_pb_menu_hidden #top-menu,.et_pb_menu_hidden #et_search_icon:before,.et_pb_menu_hidden .et-cart-info{opacity:0;-webkit-animation:fadeOutBottom 1s 1 cubic-bezier(0.77, 0, 0.175, 1);animation:fadeOutBottom 1s 1 cubic-bezier(0.77, 0, 0.175, 1)}.et_pb_menu_visible #top-menu,.et_pb_menu_visible #et_search_icon:before,.et_pb_menu_visible .et-cart-info{z-index:99;opacity:1;-webkit-animation:fadeInBottom 1s 1 cubic-bezier(0.77, 0, 0.175, 1);animation:fadeInBottom 1s 1 cubic-bezier(0.77, 0, 0.175, 1)}.et_pb_menu_hidden #top-menu,.et_pb_menu_hidden #et_search_icon:before,.et_pb_menu_hidden .mobile_menu_bar{opacity:0;-webkit-animation:fadeOutBottom 1s 1 cubic-bezier(0.77, 0, 0.175, 1);animation:fadeOutBottom 1s 1 cubic-bezier(0.77, 0, 0.175, 1)}.et_pb_menu_visible #top-menu,.et_pb_menu_visible #et_search_icon:before,.et_pb_menu_visible .mobile_menu_bar{z-index:99;opacity:1;-webkit-animation:fadeInBottom 1s 1 cubic-bezier(0.77, 0, 0.175, 1);animation:fadeInBottom 1s 1 cubic-bezier(0.77, 0, 0.175, 1)}.et_pb_no_animation #top-menu,.et_pb_no_animation #et_search_icon:before,.et_pb_no_animation .mobile_menu_bar,.et_pb_no_animation.et_search_form_container{animation:none !important;-o-animation:none !important;-webkit-animation:none !important;-moz-animation:none !important}body.admin-bar.et_fixed_nav #main-header{top:32px}body.et-wp-pre-3_8.admin-bar.et_fixed_nav #main-header{top:28px}body.et_fixed_nav.et_secondary_nav_enabled #main-header{top:30px}body.admin-bar.et_fixed_nav.et_secondary_nav_enabled #main-header{top:63px}@media all and (min-width: 981px){.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:0;opacity:0;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out}.et_hide_primary_logo #main-header:not(.et-fixed-header) .centered-inline-logo-wrap,.et_hide_fixed_logo #main-header.et-fixed-header .centered-inline-logo-wrap{height:0;opacity:0;padding:0}.et-animated-content#page-container{-webkit-transition:margin-top 0.4s ease-in-out;transition:margin-top 0.4s ease-in-out}.et_hide_nav #page-container{-webkit-transition:none;transition:none}.et_fullwidth_nav .et-search-form,.et_fullwidth_nav .et_close_search_field{right:30px}#main-header.et-fixed-header{-webkit-box-shadow:0 0 7px rgba(0,0,0,0.1) !important;box-shadow:0 0 7px rgba(0,0,0,0.1) !important}.et_header_style_left .et-fixed-header #et-top-navigation{padding-top:20px}.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:20px}.et_hide_nav.et_fixed_nav #main-header{opacity:0}.et_hide_nav.et_fixed_nav .et-fixed-header#main-header{-webkit-transform:translateY(0px) !important;transform:translateY(0px) !important;opacity:1}.et_hide_nav .centered-inline-logo-wrap,.et_hide_nav.et_fixed_nav #main-header,.et_hide_nav.et_fixed_nav #main-header,.et_hide_nav .centered-inline-logo-wrap{-webkit-transition-duration:.7s;transition-duration:.7s}.et_hide_nav #page-container{padding-top:0 !important}.et_primary_nav_dropdown_animation_fade #et-top-navigation ul li:hover>ul,.et_secondary_nav_dropdown_animation_fade #et-secondary-nav li:hover>ul{-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_primary_nav_dropdown_animation_slide #et-top-navigation ul li:hover>ul,.et_secondary_nav_dropdown_animation_slide #et-secondary-nav li:hover>ul{-webkit-animation:fadeLeft .4s ease-in-out;animation:fadeLeft .4s ease-in-out}.et_primary_nav_dropdown_animation_expand #et-top-navigation ul li:hover>ul,.et_secondary_nav_dropdown_animation_expand #et-secondary-nav li:hover>ul{-webkit-transform-origin:0 0;transform-origin:0 0;-webkit-animation:Grow .4s ease-in-out;animation:Grow .4s ease-in-out;-webkit-backface-visibility:visible !important;backface-visibility:visible !important}.et_primary_nav_dropdown_animation_flip #et-top-navigation ul li ul li:hover>ul,.et_secondary_nav_dropdown_animation_flip #et-secondary-nav ul li:hover>ul{-webkit-animation:flipInX .6s ease-in-out;animation:flipInX .6s ease-in-out;-webkit-backface-visibility:visible !important;backface-visibility:visible !important}.et_primary_nav_dropdown_animation_flip #et-top-navigation ul li:hover>ul,.et_secondary_nav_dropdown_animation_flip #et-secondary-nav li:hover>ul{-webkit-animation:flipInY .6s ease-in-out;animation:flipInY .6s ease-in-out;-webkit-backface-visibility:visible !important;backface-visibility:visible !important}.et_fullwidth_nav #main-header .container{width:100%;max-width:100%;padding-right:32px;padding-left:30px}.et_non_fixed_nav.et_fullwidth_nav.et_header_style_left #main-header .container{padding-left:0}.et_non_fixed_nav.et_fullwidth_nav.et_header_style_left .logo_container{padding-left:30px}}@media all and (max-width: 980px){.et_fixed_nav.et_show_nav.et_secondary_nav_enabled #page-container,.et_fixed_nav.et_show_nav #page-container{padding-top:80px}.et_fixed_nav.et_show_nav.et-tb #page-container,.et_fixed_nav.et_show_nav.et-tb-has-header #page-container{padding-top:0 !important}.et_non_fixed_nav #page-container{padding-top:0}.et_fixed_nav.et_secondary_nav_only_menu.admin-bar #main-header{top:32px !important}.et_hide_mobile_logo #main-header .logo_container{display:none;opacity:0;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out}#top-menu{display:none}.et_hide_nav.et_fixed_nav #main-header{-webkit-transform:translateY(0px) !important;transform:translateY(0px) !important;opacity:1}#et-top-navigation{margin-right:0;-webkit-transition:none;transition:none}.et_fixed_nav #main-header{position:absolute}.et_header_style_left .et-fixed-header #et-top-navigation,.et_header_style_left #et-top-navigation{padding-top:24px;display:block}.et_fixed_nav #main-header{-webkit-transition:none;transition:none}.et_fixed_nav_temp #main-header{top:0 !important}#logo,.logo_container,#main-header,.container{-webkit-transition:none;transition:none}.et_header_style_left #logo{max-width:50%}#et_top_search{margin:0 35px 0 0;float:left}#et_search_icon:before{top:7px}.et_header_style_left .et-search-form{width:50% !important;max-width:50% !important}#et_mobile_nav_menu{display:block}#et-top-navigation .et-cart-info{margin-top:5px}}@media screen and (max-width: 782px){body.admin-bar.et_fixed_nav #main-header{top:46px}}@media all and (max-width: 767px){#et-top-navigation{margin-right:0}body.admin-bar.et_fixed_nav #main-header{top:46px}}@media all and (max-width: 479px){#et-top-navigation{margin-right:0}}@media print{#top-header,#main-header{position:relative !important;top:auto !important;right:auto !important;bottom:auto !important;left:auto !important}}
+@-webkit-keyframes fadeOutTop{0%{opacity:1;-webkit-transform:translatey(0);transform:translatey(0)}to{opacity:0;-webkit-transform:translatey(-60%);transform:translatey(-60%)}}@keyframes fadeOutTop{0%{opacity:1;-webkit-transform:translatey(0);transform:translatey(0)}to{opacity:0;-webkit-transform:translatey(-60%);transform:translatey(-60%)}}@-webkit-keyframes fadeInTop{0%{opacity:0;-webkit-transform:translatey(-60%);transform:translatey(-60%)}to{opacity:1;-webkit-transform:translatey(0);transform:translatey(0)}}@keyframes fadeInTop{0%{opacity:0;-webkit-transform:translatey(-60%);transform:translatey(-60%)}to{opacity:1;-webkit-transform:translatey(0);transform:translatey(0)}}@-webkit-keyframes fadeInBottom{0%{opacity:0;-webkit-transform:translatey(60%);transform:translatey(60%)}to{opacity:1;-webkit-transform:translatey(0);transform:translatey(0)}}@keyframes fadeInBottom{0%{opacity:0;-webkit-transform:translatey(60%);transform:translatey(60%)}to{opacity:1;-webkit-transform:translatey(0);transform:translatey(0)}}@-webkit-keyframes fadeOutBottom{0%{opacity:1;-webkit-transform:translatey(0);transform:translatey(0)}to{opacity:0;-webkit-transform:translatey(60%);transform:translatey(60%)}}@keyframes fadeOutBottom{0%{opacity:1;-webkit-transform:translatey(0);transform:translatey(0)}to{opacity:0;-webkit-transform:translatey(60%);transform:translatey(60%)}}@-webkit-keyframes Grow{0%{opacity:0;-webkit-transform:scaleY(.5);transform:scaleY(.5)}to{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes Grow{0%{opacity:0;-webkit-transform:scaleY(.5);transform:scaleY(.5)}to{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}/*!
+	  * Animate.css - http://daneden.me/animate
+	  * Licensed under the MIT license - http://opensource.org/licenses/MIT
+	  * Copyright (c) 2015 Daniel Eden
+	 */@-webkit-keyframes flipInX{0%{-webkit-transform:perspective(400px) rotateX(90deg);transform:perspective(400px) rotateX(90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in;opacity:0}40%{-webkit-transform:perspective(400px) rotateX(-20deg);transform:perspective(400px) rotateX(-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{-webkit-transform:perspective(400px) rotateX(10deg);transform:perspective(400px) rotateX(10deg);opacity:1}80%{-webkit-transform:perspective(400px) rotateX(-5deg);transform:perspective(400px) rotateX(-5deg)}to{-webkit-transform:perspective(400px);transform:perspective(400px)}}@keyframes flipInX{0%{-webkit-transform:perspective(400px) rotateX(90deg);transform:perspective(400px) rotateX(90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in;opacity:0}40%{-webkit-transform:perspective(400px) rotateX(-20deg);transform:perspective(400px) rotateX(-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{-webkit-transform:perspective(400px) rotateX(10deg);transform:perspective(400px) rotateX(10deg);opacity:1}80%{-webkit-transform:perspective(400px) rotateX(-5deg);transform:perspective(400px) rotateX(-5deg)}to{-webkit-transform:perspective(400px);transform:perspective(400px)}}@-webkit-keyframes flipInY{0%{-webkit-transform:perspective(400px) rotateY(90deg);transform:perspective(400px) rotateY(90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in;opacity:0}40%{-webkit-transform:perspective(400px) rotateY(-20deg);transform:perspective(400px) rotateY(-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{-webkit-transform:perspective(400px) rotateY(10deg);transform:perspective(400px) rotateY(10deg);opacity:1}80%{-webkit-transform:perspective(400px) rotateY(-5deg);transform:perspective(400px) rotateY(-5deg)}to{-webkit-transform:perspective(400px);transform:perspective(400px)}}@keyframes flipInY{0%{-webkit-transform:perspective(400px) rotateY(90deg);transform:perspective(400px) rotateY(90deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in;opacity:0}40%{-webkit-transform:perspective(400px) rotateY(-20deg);transform:perspective(400px) rotateY(-20deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}60%{-webkit-transform:perspective(400px) rotateY(10deg);transform:perspective(400px) rotateY(10deg);opacity:1}80%{-webkit-transform:perspective(400px) rotateY(-5deg);transform:perspective(400px) rotateY(-5deg)}to{-webkit-transform:perspective(400px);transform:perspective(400px)}}
+#main-header{line-height:23px;font-weight:500;top:0;background-color:#fff;width:100%;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);box-shadow:0 1px 0 rgba(0,0,0,.1);position:relative;z-index:99999}.nav li li{padding:0 20px;margin:0}.et-menu li li a{padding:6px 20px;width:200px}.nav li{position:relative;line-height:1em}.nav li li{position:relative;line-height:2em}.nav li ul{position:absolute;padding:20px 0;z-index:9999;width:240px;background:#fff;visibility:hidden;opacity:0;border-top:3px solid #2ea3f2;box-shadow:0 2px 5px rgba(0,0,0,.1);-moz-box-shadow:0 2px 5px rgba(0,0,0,.1);-webkit-box-shadow:0 2px 5px rgba(0,0,0,.1);-webkit-transform:translateZ(0);text-align:left}.nav li.et-hover>ul{visibility:visible}.nav li.et-touch-hover>ul,.nav li:hover>ul{opacity:1;visibility:visible}.nav li li ul{z-index:1000;top:-23px;left:240px}.nav li.et-reverse-direction-nav li ul{left:auto;right:240px}.nav li:hover{visibility:inherit}.et_mobile_menu li a,.nav li li a{font-size:14px;-webkit-transition:opacity .2s ease-in-out,background-color .2s ease-in-out;transition:opacity .2s ease-in-out,background-color .2s ease-in-out}.et_mobile_menu li a:hover,.nav ul li a:hover{background-color:rgba(0,0,0,.03);opacity:.7}.et-dropdown-removing>ul{display:none}.mega-menu .et-dropdown-removing>ul{display:block}.et-menu .menu-item-has-children>a:first-child:after{font-family:ETmodules;content:"3";font-size:16px;position:absolute;right:0;top:0;font-weight:800}.et-menu .menu-item-has-children>a:first-child{padding-right:20px}.et-menu li li.menu-item-has-children>a:first-child:after{right:20px;top:6px}.et-menu-nav li.mega-menu{position:inherit}.et-menu-nav li.mega-menu>ul{padding:30px 20px;position:absolute!important;width:100%;left:0!important}.et-menu-nav li.mega-menu ul li{margin:0;float:left!important;display:block!important;padding:0!important}.et-menu-nav li.mega-menu li>ul{-webkit-animation:none!important;animation:none!important;padding:0;border:none;left:auto;top:auto;width:240px!important;position:relative;box-shadow:none;-webkit-box-shadow:none}.et-menu-nav li.mega-menu li ul{visibility:visible;opacity:1;display:none}.et-menu-nav li.mega-menu.et-hover li ul,.et-menu-nav li.mega-menu:hover li ul{display:block}.et-menu-nav li.mega-menu:hover>ul{opacity:1!important;visibility:visible!important}.et-menu-nav li.mega-menu>ul>li>a:first-child{padding-top:0!important;font-weight:700;border-bottom:1px solid rgba(0,0,0,.03)}.et-menu-nav li.mega-menu>ul>li>a:first-child:hover{background-color:transparent!important}.et-menu-nav li.mega-menu li>a{width:200px!important}.et-menu-nav li.mega-menu.mega-menu-parent li>a,.et-menu-nav li.mega-menu.mega-menu-parent li li{width:100%!important}.et-menu-nav li.mega-menu.mega-menu-parent li>.sub-menu{float:left;width:100%!important}.et-menu-nav li.mega-menu>ul>li{width:25%;margin:0}.et-menu-nav li.mega-menu.mega-menu-parent-3>ul>li{width:33.33%}.et-menu-nav li.mega-menu.mega-menu-parent-2>ul>li{width:50%}.et-menu-nav li.mega-menu.mega-menu-parent-1>ul>li{width:100%}.et_pb_fullwidth_menu li.mega-menu .menu-item-has-children>a:first-child:after,.et_pb_menu li.mega-menu .menu-item-has-children>a:first-child:after{display:none}.et_fullwidth_nav #top-menu li.mega-menu>ul{width:auto;left:30px!important;right:30px!important}.et_mobile_menu{position:absolute;left:0;padding:5%;background:#fff;width:100%;visibility:visible;opacity:1;display:none;z-index:9999;border-top:3px solid #2ea3f2;box-shadow:0 2px 5px rgba(0,0,0,.1);-moz-box-shadow:0 2px 5px rgba(0,0,0,.1);-webkit-box-shadow:0 2px 5px rgba(0,0,0,.1)}#main-header .et_mobile_menu li ul,.et_pb_fullwidth_menu .et_mobile_menu li ul,.et_pb_menu .et_mobile_menu li ul{visibility:visible!important;display:block!important;padding-left:10px}.et_mobile_menu li li{padding-left:5%}.et_mobile_menu li a{border-bottom:1px solid rgba(0,0,0,.03);color:#666;padding:10px 5%;display:block}.et_mobile_menu .menu-item-has-children>a{font-weight:700;background-color:rgba(0,0,0,.03)}.et_mobile_menu li .menu-item-has-children>a{background-color:transparent}.et_mobile_nav_menu{float:right;display:none}.mobile_menu_bar{position:relative;display:block;line-height:0}.mobile_menu_bar:before{content:"a";font-size:32px;position:relative;left:0;top:0;cursor:pointer}.et_pb_module .mobile_menu_bar:before{top:2px}.mobile_nav .select_page{display:none}
+#et-secondary-menu li{word-wrap:break-word}#top-header,#et-secondary-nav li ul{background-color:#2EA3F2}#top-header{font-size:12px;line-height:13px;z-index:100000;color:#ffffff}#top-header a,#top-header a{color:#ffffff}#top-header,#et-secondary-nav{-webkit-transition:background-color 0.4s, opacity 0.4s ease-in-out, -webkit-transform 0.4s;transition:background-color 0.4s, opacity 0.4s ease-in-out, -webkit-transform 0.4s;transition:background-color 0.4s, transform 0.4s, opacity 0.4s ease-in-out;transition:background-color 0.4s, transform 0.4s, opacity 0.4s ease-in-out, -webkit-transform 0.4s}#top-header .container{padding-top:.75em;font-weight:600}#top-header,#top-header .container,#top-header #et-info,#top-header .et-social-icon a{line-height:1em}.et_fixed_nav #top-header{top:0;left:0;right:0;position:fixed}#et-info{float:left}#et-info-phone,#et-info-email{position:relative}#et-info-phone:before{content:"\e090";position:relative;top:2px;margin-right:2px}#et-info-phone{margin-right:13px}#et-info-email:before{content:"\e076";margin-right:4px}#top-header .et-social-icons{float:none;display:inline-block}#et-secondary-menu .et-social-icons{margin-right:20px}#top-header .et-social-icons li{margin-left:12px;margin-top:-2px}#top-header .et-social-icon a{font-size:14px}#et-secondary-menu{float:right}#et-info,#et-secondary-menu>ul>li a{padding-bottom:.75em;display:block}#et-secondary-nav,#et-secondary-nav li{display:inline-block}#et-secondary-nav a{-webkit-transition:background-color 0.4s, color 0.4s ease-in-out;transition:background-color 0.4s, color 0.4s ease-in-out}#et-secondary-nav li{margin-right:15px}#et-secondary-nav>li:last-child{margin-right:0}#et-secondary-menu>ul>li>a:hover,#et-info-email:hover{opacity:0.7;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out}#et-secondary-nav li{position:relative;text-align:right}#et-secondary-nav li ul{position:absolute;right:0;padding:1em 0}#et-secondary-nav li ul ul{right:220px;top:0;margin-top:-1em}#et-secondary-nav li ul li{display:block}#et-secondary-nav li ul{z-index:999999;visibility:hidden;opacity:0;-webkit-box-shadow:0 2px 5px rgba(0,0,0,0.1);box-shadow:0 2px 5px rgba(0,0,0,0.1)}#et-secondary-nav li ul{-webkit-transform:translate3d(0, 0, 0)}#et-secondary-nav li.et-hover>ul{visibility:visible}#et-secondary-nav li>ul{width:220px}#et-secondary-nav li:hover>ul,#et-secondary-nav li.et-touch-hover>ul{opacity:1;visibility:visible}#et-secondary-nav li li{padding:0 2em;margin:0}#et-secondary-nav li li a{padding:1em;width:100%;font-size:12px;line-height:1em;margin-right:0;display:block;-webkit-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out}#et-secondary-nav ul li a:hover{background-color:rgba(0,0,0,0.03)}#et-secondary-nav li:hover{visibility:inherit}#top-header .et-cart-info{margin-left:15px}#et-secondary-nav .menu-item-has-children>a:first-child:after{top:0}#et-secondary-nav li .menu-item-has-children>a:first-child:after{top:.67em;right:auto;left:2.3em}body.admin-bar.et_fixed_nav #top-header{top:32px}body.et-wp-pre-3_8.admin-bar.et_fixed_nav #top-header{top:28px}@media all and (min-width: 981px){.et_fullwidth_secondary_nav #top-header .container{width:100%;max-width:100%;padding-right:30px;padding-left:30px}.et_hide_nav.et_fixed_nav #top-header{opacity:0}.et_hide_nav.et_fixed_nav .et-fixed-header#top-header{-webkit-transform:translateY(0px) !important;transform:translateY(0px) !important;opacity:1}.et_hide_nav.et_fixed_nav #top-header,.et_hide_nav.et_fixed_nav #top-header{-webkit-transition-duration:.7s;transition-duration:.7s}}@media all and (max-width: 980px){.et_fixed_nav.et_show_nav.et_secondary_nav_enabled.et-tb #page-container,.et_fixed_nav.et_show_nav.et_secondary_nav_enabled.et-tb-has-header #page-container{padding-top:0 !important}.et_secondary_nav_only_menu #top-header{display:none}#top-header{-webkit-transition:none;transition:none}.et_fixed_nav #top-header{position:absolute}.et_hide_nav.et_fixed_nav #top-header{-webkit-transform:translateY(0px) !important;transform:translateY(0px) !important;opacity:1}#top-header .container{padding-top:0}#et-info{padding-top:0.75em}#et-secondary-nav,#et-secondary-menu{display:none !important}.et_secondary_nav_only_menu #main-header,.et_secondary_nav_only_menu #main-header{top:0 !important}#top-header .et-social-icons{margin-bottom:0}#top-header .et-cart-info{margin-left:0}}@media screen and (max-width: 782px){body.admin-bar.et_fixed_nav #top-header{top:46px}.et_fixed_nav.et_secondary_nav_only_menu.admin-bar #main-header{top:46px !important}body.admin-bar.et_fixed_nav.et_secondary_nav_enabled #main-header{top:80px}}@media all and (max-width: 767px){#et-info .et-social-icons{display:none}#et-secondary-menu .et_duplicate_social_icons{display:inline-block}body.et_fixed_nav.et_secondary_nav_two_panels #main-header{top:58px}#et-info,#et-secondary-menu{text-align:center;display:block;float:none}.et_secondary_nav_two_panels #et-secondary-menu{margin-top:12px}body.admin-bar.et_fixed_nav #top-header{top:46px}body.admin-bar.et_fixed_nav.et_secondary_nav_two_panels #main-header{top:104px}}
+.et-social-icons{float:right}.et-social-icons li{display:inline-block;margin-left:20px}.et-social-icon a{display:inline-block;font-size:24px;position:relative;text-align:center;-webkit-transition:color 300ms ease 0s;transition:color 300ms ease 0s;color:#666;text-decoration:none}.et-social-icons a:hover{opacity:0.7;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out}.et-social-icon span{display:none}.et_duplicate_social_icons{display:none}@media all and (max-width: 980px){.et-social-icons{float:none;text-align:center}}@media all and (max-width: 980px){.et-social-icons{margin:0 0 5px}}
+.et_pb_widget{float:left;max-width:100%;word-wrap:break-word}.et_pb_widget a{text-decoration:none;color:#666}.et_pb_widget li a:hover{color:#82c0c7}.et_pb_widget ol li,.et_pb_widget ul li{margin-bottom:.5em}.et_pb_widget ol li ol li,.et_pb_widget ul li ul li{margin-left:15px}.et_pb_widget select{width:100%;height:28px;padding:0 5px}.et_pb_widget_area .et_pb_widget a{color:inherit}.et_pb_bg_layout_light .et_pb_widget li a{color:#666}.et_pb_bg_layout_dark .et_pb_widget li a{color:inherit}
+.et_pb_section{position:relative;background-color:#fff;background-position:50%;background-size:100%;background-size:cover}.et_pb_section--absolute,.et_pb_section--fixed{width:100%}.et_pb_section.et_section_transparent{background-color:transparent}.et_pb_fullwidth_section{padding:0}.et_pb_fullwidth_section>.et_pb_module:not(.et_pb_post_content):not(.et_pb_fullwidth_post_content) .et_pb_row{padding:0!important}.et_pb_inner_shadow{-webkit-box-shadow:inset 0 0 7px rgba(0,0,0,.07);box-shadow:inset 0 0 7px rgba(0,0,0,.07)}.et_pb_bottom_inside_divider,.et_pb_top_inside_divider{display:block;background-repeat-y:no-repeat;height:100%;position:absolute;pointer-events:none;width:100%;left:0;right:0}.et_pb_bottom_inside_divider.et-no-transition,.et_pb_top_inside_divider.et-no-transition{-webkit-transition:none!important;transition:none!important}.et-fb .section_has_divider.et_fb_element_controls_visible--child>.et_pb_bottom_inside_divider,.et-fb .section_has_divider.et_fb_element_controls_visible--child>.et_pb_top_inside_divider{z-index:1}.et_pb_section_video:not(.et_pb_section--with-menu){overflow:hidden;position:relative}.et_pb_column>.et_pb_section_video_bg{z-index:-1}.et_pb_section_video_bg{visibility:visible;position:absolute;top:0;left:0;width:100%;height:100%;overflow:hidden;display:block;pointer-events:none;-webkit-transition:display .3s;transition:display .3s}.et_pb_section_video_bg.et_pb_section_video_bg_hover,.et_pb_section_video_bg.et_pb_section_video_bg_phone,.et_pb_section_video_bg.et_pb_section_video_bg_tablet,.et_pb_section_video_bg.et_pb_section_video_bg_tablet_only{display:none}.et_pb_section_video_bg .mejs-controls,.et_pb_section_video_bg .mejs-overlay-play{display:none!important}.et_pb_section_video_bg embed,.et_pb_section_video_bg iframe,.et_pb_section_video_bg object,.et_pb_section_video_bg video{max-width:none}.et_pb_section_video_bg .mejs-video{left:50%;position:absolute;max-width:none}.et_pb_section_video_bg .mejs-overlay-loading{display:none!important}.et_pb_social_network_link .et_pb_section_video{overflow:visible}.et_pb_section_video_on_hover:hover>.et_pb_section_video_bg{display:none}.et_pb_section_video_on_hover:hover>.et_pb_section_video_bg_hover,.et_pb_section_video_on_hover:hover>.et_pb_section_video_bg_hover_inherit{display:block}@media (min-width:981px){.et_pb_section{padding:4% 0}body.et_pb_pagebuilder_layout.et_pb_show_title .post-password-required .et_pb_section,body:not(.et_pb_pagebuilder_layout) .post-password-required .et_pb_section{padding-top:0}.et_pb_fullwidth_section{padding:0}.et_pb_section_video_bg.et_pb_section_video_bg_desktop_only{display:block}}@media (max-width:980px){.et_pb_section{padding:50px 0}body.et_pb_pagebuilder_layout.et_pb_show_title .post-password-required .et_pb_section,body:not(.et_pb_pagebuilder_layout) .post-password-required .et_pb_section{padding-top:0}.et_pb_fullwidth_section{padding:0}.et_pb_section_video_bg.et_pb_section_video_bg_tablet{display:block}.et_pb_section_video_bg.et_pb_section_video_bg_desktop_only{display:none}}@media (min-width:768px){.et_pb_section_video_bg.et_pb_section_video_bg_desktop_tablet{display:block}}@media (min-width:768px) and (max-width:980px){.et_pb_section_video_bg.et_pb_section_video_bg_tablet_only{display:block}}@media (max-width:767px){.et_pb_section_video_bg.et_pb_section_video_bg_phone{display:block}.et_pb_section_video_bg.et_pb_section_video_bg_desktop_tablet{display:none}}
+.et_pb_row{width:80%;max-width:1080px;margin:auto;position:relative}body.safari .section_has_divider,body.uiwebview .section_has_divider{-webkit-perspective:2000px;perspective:2000px}.section_has_divider .et_pb_row{z-index:5}.et_pb_row_inner{width:100%;position:relative}.et_pb_row.et_pb_row_empty,.et_pb_row_inner:nth-of-type(n+2).et_pb_row_empty{display:none}.et_pb_row:after,.et_pb_row_inner:after{content:"";display:block;clear:both;visibility:hidden;line-height:0;height:0;width:0}.et_pb_row_4col .et-last-child,.et_pb_row_4col .et-last-child-2,.et_pb_row_6col .et-last-child,.et_pb_row_6col .et-last-child-2,.et_pb_row_6col .et-last-child-3{margin-bottom:0}.et_pb_column{float:left;background-size:cover;background-position:50%;position:relative;z-index:2;min-height:1px}.et_pb_column--with-menu{z-index:3}.et_pb_column.et_pb_column_empty{min-height:1px}.et_pb_row .et_pb_column.et-last-child,.et_pb_row .et_pb_column:last-child,.et_pb_row_inner .et_pb_column.et-last-child,.et_pb_row_inner .et_pb_column:last-child{margin-right:0!important}.et_pb_column.et_pb_section_parallax{position:relative}.et_pb_column,.et_pb_row,.et_pb_row_inner{background-size:cover;background-position:50%;background-repeat:no-repeat}@media (min-width:981px){.et_pb_row{padding:2% 0}body.et_pb_pagebuilder_layout.et_pb_show_title .post-password-required .et_pb_row,body:not(.et_pb_pagebuilder_layout) .post-password-required .et_pb_row{padding:0;width:100%}.et_pb_column_3_4 .et_pb_row_inner{padding:3.735% 0}.et_pb_column_2_3 .et_pb_row_inner{padding:4.2415% 0}.et_pb_column_1_2 .et_pb_row_inner,.et_pb_column_3_5 .et_pb_row_inner{padding:5.82% 0}.et_section_specialty>.et_pb_row{padding:0}.et_pb_row_inner{width:100%}.et_pb_column_single{padding:2.855% 0}.et_pb_column_single .et_pb_module.et-first-child,.et_pb_column_single .et_pb_module:first-child{margin-top:0}.et_pb_column_single .et_pb_module.et-last-child,.et_pb_column_single .et_pb_module:last-child{margin-bottom:0}.et_pb_row .et_pb_column.et-last-child,.et_pb_row .et_pb_column:last-child,.et_pb_row_inner .et_pb_column.et-last-child,.et_pb_row_inner .et_pb_column:last-child{margin-right:0!important}.et_pb_row.et_pb_equal_columns,.et_pb_row_inner.et_pb_equal_columns,.et_pb_section.et_pb_equal_columns>.et_pb_row{display:-webkit-box;display:-ms-flexbox;display:flex}.rtl .et_pb_row.et_pb_equal_columns,.rtl .et_pb_row_inner.et_pb_equal_columns,.rtl .et_pb_section.et_pb_equal_columns>.et_pb_row{-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.et_pb_row.et_pb_equal_columns>.et_pb_column,.et_pb_section.et_pb_equal_columns>.et_pb_row>.et_pb_column{-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1}}@media (max-width:980px){.et_pb_row{max-width:1080px}body.et_pb_pagebuilder_layout.et_pb_show_title .post-password-required .et_pb_row,body:not(.et_pb_pagebuilder_layout) .post-password-required .et_pb_row{padding:0;width:100%}.et_pb_column .et_pb_row_inner,.et_pb_row{padding:30px 0}.et_section_specialty>.et_pb_row{padding:0}.et_pb_column{width:100%;margin-bottom:30px}.et_pb_bottom_divider .et_pb_row:nth-last-child(2) .et_pb_column:last-child,.et_pb_row .et_pb_column.et-last-child,.et_pb_row .et_pb_column:last-child{margin-bottom:0}.et_section_specialty .et_pb_row>.et_pb_column{padding-bottom:0}.et_pb_column.et_pb_column_empty{display:none}.et_pb_row_1-2_1-4_1-4,.et_pb_row_1-2_1-6_1-6_1-6,.et_pb_row_1-4_1-4,.et_pb_row_1-4_1-4_1-2,.et_pb_row_1-5_1-5_3-5,.et_pb_row_1-6_1-6_1-6,.et_pb_row_1-6_1-6_1-6_1-2,.et_pb_row_1-6_1-6_1-6_1-6,.et_pb_row_3-5_1-5_1-5,.et_pb_row_4col,.et_pb_row_5col,.et_pb_row_6col{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}.et_pb_row_1-4_1-4>.et_pb_column.et_pb_column_1_4,.et_pb_row_1-4_1-4_1-2>.et_pb_column.et_pb_column_1_4,.et_pb_row_4col>.et_pb_column.et_pb_column_1_4{width:47.25%;margin-right:5.5%}.et_pb_row_1-4_1-4>.et_pb_column.et_pb_column_1_4:nth-child(2n),.et_pb_row_1-4_1-4_1-2>.et_pb_column.et_pb_column_1_4:nth-child(2n),.et_pb_row_4col>.et_pb_column.et_pb_column_1_4:nth-child(2n){margin-right:0}.et_pb_row_1-2_1-4_1-4>.et_pb_column.et_pb_column_1_4{width:47.25%;margin-right:5.5%}.et_pb_row_1-2_1-4_1-4>.et_pb_column.et_pb_column_1_2,.et_pb_row_1-2_1-4_1-4>.et_pb_column.et_pb_column_1_4:nth-child(odd){margin-right:0}.et_pb_row_1-2_1-4_1-4 .et_pb_column:nth-last-child(-n+2),.et_pb_row_1-4_1-4 .et_pb_column:nth-last-child(-n+2),.et_pb_row_4col .et_pb_column:nth-last-child(-n+2){margin-bottom:0}.et_pb_row_1-5_1-5_3-5>.et_pb_column.et_pb_column_1_5,.et_pb_row_5col>.et_pb_column.et_pb_column_1_5{width:47.25%;margin-right:5.5%}.et_pb_row_1-5_1-5_3-5>.et_pb_column.et_pb_column_1_5:nth-child(2n),.et_pb_row_5col>.et_pb_column.et_pb_column_1_5:nth-child(2n){margin-right:0}.et_pb_row_3-5_1-5_1-5>.et_pb_column.et_pb_column_1_5{width:47.25%;margin-right:5.5%}.et_pb_row_3-5_1-5_1-5>.et_pb_column.et_pb_column_1_5:nth-child(odd),.et_pb_row_3-5_1-5_1-5>.et_pb_column.et_pb_column_3_5{margin-right:0}.et_pb_row_3-5_1-5_1-5 .et_pb_column:nth-last-child(-n+2),.et_pb_row_5col .et_pb_column:last-child{margin-bottom:0}.et_pb_row_1-6_1-6_1-6_1-2>.et_pb_column.et_pb_column_1_6,.et_pb_row_6col>.et_pb_column.et_pb_column_1_6{width:29.666%;margin-right:5.5%}.et_pb_row_1-6_1-6_1-6_1-2>.et_pb_column.et_pb_column_1_6:nth-child(3n),.et_pb_row_6col>.et_pb_column.et_pb_column_1_6:nth-child(3n){margin-right:0}.et_pb_row_1-2_1-6_1-6_1-6>.et_pb_column.et_pb_column_1_6{width:29.666%;margin-right:5.5%}.et_pb_row_1-2_1-6_1-6_1-6>.et_pb_column.et_pb_column_1_2,.et_pb_row_1-2_1-6_1-6_1-6>.et_pb_column.et_pb_column_1_6:last-child{margin-right:0}.et_pb_row_1-2_1-2 .et_pb_column.et_pb_column_1_2,.et_pb_row_1-2_1-6_1-6_1-6 .et_pb_column:nth-last-child(-n+3),.et_pb_row_6col .et_pb_column:nth-last-child(-n+3){margin-bottom:0}.et_pb_row_1-2_1-2 .et_pb_column.et_pb_column_1_2 .et_pb_column.et_pb_column_1_6{width:29.666%;margin-right:5.5%;margin-bottom:0}.et_pb_row_1-2_1-2 .et_pb_column.et_pb_column_1_2 .et_pb_column.et_pb_column_1_6:last-child{margin-right:0}.et_pb_row_1-6_1-6_1-6_1-6>.et_pb_column.et_pb_column_1_6{width:47.25%;margin-right:5.5%}.et_pb_row_1-6_1-6_1-6_1-6>.et_pb_column.et_pb_column_1_6:nth-child(2n){margin-right:0}.et_pb_row_1-6_1-6_1-6_1-6:nth-last-child(-n+3){margin-bottom:0}}@media (max-width:479px){.et_pb_row .et_pb_column.et_pb_column_1_4,.et_pb_row .et_pb_column.et_pb_column_1_5,.et_pb_row .et_pb_column.et_pb_column_1_6{width:100%;margin:0 0 30px}.et_pb_row .et_pb_column.et_pb_column_1_4.et-last-child,.et_pb_row .et_pb_column.et_pb_column_1_4:last-child,.et_pb_row .et_pb_column.et_pb_column_1_5.et-last-child,.et_pb_row .et_pb_column.et_pb_column_1_5:last-child,.et_pb_row .et_pb_column.et_pb_column_1_6.et-last-child,.et_pb_row .et_pb_column.et_pb_column_1_6:last-child{margin-bottom:0}.et_pb_row_1-2_1-2 .et_pb_column.et_pb_column_1_2 .et_pb_column.et_pb_column_1_6{width:100%;margin:0 0 30px}.et_pb_row_1-2_1-2 .et_pb_column.et_pb_column_1_2 .et_pb_column.et_pb_column_1_6.et-last-child,.et_pb_row_1-2_1-2 .et_pb_column.et_pb_column_1_2 .et_pb_column.et_pb_column_1_6:last-child{margin-bottom:0}.et_pb_column{width:100%!important}}
+.et_pb_post_title.et_pb_featured_bg{padding:16% 8%;background-size:cover;background-position:50%;position:relative;overflow:hidden}.et_pb_post_title .et_pb_parallax_css{background-repeat:no-repeat;background-position:top;background-size:cover;background-attachment:fixed;position:absolute;width:100%;height:100%;overflow:hidden}.et_pb_post_title.et_pb_featured_bg .et_pb_title_container{padding:1em 1.5em}.et_pb_post_title.et_pb_featured_bg .et_pb_title_meta_container{padding-bottom:0}.et_pb_title_container h1{font-size:26px}.et_pb_column_1_3 .et_pb_title_container h1,.et_pb_column_1_4 .et_pb_title_container h1,.et_pb_column_1_5 .et_pb_title_container h1,.et_pb_column_1_6 .et_pb_title_container h1,.et_pb_column_2_5 .et_pb_title_container h1{font-size:18px}.et_pb_title_featured_container{margin-left:auto;margin-right:auto}.et_pb_title_featured_container .et_pb_image_wrap{display:inline-block;position:relative;max-width:100%;width:100%}.et_pb_title_featured_container img{width:100%}.et_pb_title_container{display:block;max-width:100%;word-wrap:break-word;z-index:98;position:relative}.et_pb_title_featured_container{line-height:0;position:relative}p.et_pb_title_meta_container{padding-bottom:1em}p.et_pb_title_meta_container .et_pb_title_meta_item--visible+.et_pb_title_meta_item--visible:before{content:" | "}.et_pb_bg_layout_light p.et_pb_title_meta_container,.et_pb_bg_layout_light p.et_pb_title_meta_container a{color:#666}.et_pb_bg_layout_dark p.et_pb_title_meta_container,.et_pb_bg_layout_dark p.et_pb_title_meta_container a{color:inherit}@media (max-width:980px){.et_pb_bg_layout_light_tablet p.et_pb_title_meta_container,.et_pb_bg_layout_light_tablet p.et_pb_title_meta_container a{color:#666}.et_pb_bg_layout_dark_tablet p.et_pb_title_meta_container,.et_pb_bg_layout_dark_tablet p.et_pb_title_meta_container a{color:inherit}}@media (max-width:767px){.et_pb_title_container h1{font-size:18px}.et_pb_bg_layout_light_phone p.et_pb_title_meta_container,.et_pb_bg_layout_light_phone p.et_pb_title_meta_container a{color:#666}.et_pb_bg_layout_dark_phone p.et_pb_title_meta_container,.et_pb_bg_layout_dark_phone p.et_pb_title_meta_container a{color:inherit}}
+.et_pb_button[data-icon]:not([data-icon=""]):after{content:attr(data-icon)}@media (max-width:980px){.et_pb_button[data-icon-tablet]:not([data-icon-tablet=""]):after{content:attr(data-icon-tablet)}}@media (max-width:767px){.et_pb_button[data-icon-phone]:not([data-icon-phone=""]):after{content:attr(data-icon-phone)}}
+.et_pb_space{-webkit-box-sizing:content-box;box-sizing:content-box;height:23px}.et_pb_divider_hidden{margin-bottom:0!important}.et_pb_divider_internal{display:inline-block;width:100%}.et_pb_divider{margin:0 0 30px;position:relative}.et_pb_divider:before{content:"";width:100%;height:1px;border-top:1px solid rgba(0,0,0,.1);position:absolute;left:0;top:0;z-index:10}.et_pb_divider:after,.et_pb_space:after{content:"";display:table}.et_pb_divider_position_bottom:before{top:auto!important;bottom:0!important}.et_pb_divider_position_center:before{top:50%!important}@media (max-width:980px){.et_pb_divider_position_top_tablet:before{top:0!important;bottom:auto!important}.et_pb_divider_position_bottom_tablet:before{top:auto!important;bottom:0!important}.et_pb_divider_position_center_tablet:before{top:50%!important}.et_pb_space.et-hide-mobile{display:none}}@media (max-width:767px){.et_pb_divider_position_top_phone:before{top:0!important;bottom:auto!important}.et_pb_divider_position_bottom_phone:before{top:auto!important;bottom:0!important}.et_pb_divider_position_center_phone:before{top:50%!important}}.ie .et_pb_divider{overflow:visible}
+.et_pb_text{word-wrap:break-word}.et_pb_text ol,.et_pb_text ul{padding-bottom:1em}.et_pb_text>:last-child{padding-bottom:0}.et_pb_text_inner{position:relative}
+.et-menu li{display:inline-block;font-size:14px;padding-right:22px}.et-menu>li:last-child{padding-right:0}.et-menu a{color:rgba(0,0,0,.6);text-decoration:none;display:block;position:relative}.et-menu a,.et-menu a:hover{-webkit-transition:all .4s ease-in-out;transition:all .4s ease-in-out}.et-menu a:hover{opacity:.7}.et-menu li>a{padding-bottom:29px;word-wrap:break-word}a.et_pb_menu__icon,button.et_pb_menu__icon{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:0;margin:0 11px;font-size:17px;line-height:normal;background:none;border:0;cursor:pointer;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}a.et_pb_menu__icon:after,button.et_pb_menu__icon:after{font-family:ETmodules}a.et_pb_menu__icon__with_count:after,button.et_pb_menu__icon__with_count:after{margin-right:10px}.et_pb_menu__wrap .mobile_menu_bar{-webkit-transform:translateY(3%);transform:translateY(3%)}.et_pb_menu__wrap .mobile_menu_bar:before{top:0}.et_pb_menu__logo{overflow:hidden}.et_pb_menu__logo img{display:block}.et_pb_menu__logo img[src$=".svg"]{width:100%}.et_pb_menu__search-button:after{content:"U"}.et_pb_menu__cart-button:after{content:"\E07A"}@media (max-width:980px){.et-menu{display:none}.et_mobile_nav_menu{display:block;margin-top:-1px}}
+.et_pb_with_border.et_pb_menu .et_pb_menu__logo img{border:0 solid #333}.et_pb_menu.et_hover_enabled:hover{z-index:auto}.et_pb_menu .et-menu-nav,.et_pb_menu .et-menu-nav>ul{float:none}.et_pb_menu .et-menu-nav>ul{padding:0!important;line-height:1.7em}.et_pb_menu .et-menu-nav>ul ul{padding:20px 0;text-align:left}.et_pb_bg_layout_dark.et_pb_menu ul li a{color:#fff}.et_pb_bg_layout_dark.et_pb_menu ul li a:hover{color:hsla(0,0%,100%,.8)}.et-menu li li.menu-item-has-children>a:first-child:after{top:12px}.et_pb_menu .et-menu-nav>ul.upwards li ul{bottom:100%;top:auto;border-top:none;border-bottom:3px solid #2ea3f2;-webkit-box-shadow:2px -2px 5px rgba(0,0,0,.1);box-shadow:2px -2px 5px rgba(0,0,0,.1)}.et_pb_menu .et-menu-nav>ul.upwards li ul li ul{bottom:-23px}.et_pb_menu .et-menu-nav>ul.upwards li.mega-menu ul ul{bottom:0;top:auto;border:none}.et_pb_menu_inner_container{position:relative}.et_pb_menu .et_pb_menu__wrap{-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;-ms-flex-wrap:wrap;flex-wrap:wrap;opacity:1}.et_pb_menu .et_pb_menu__wrap--visible{-webkit-animation:fadeInBottom 1s cubic-bezier(.77,0,.175,1) 1;animation:fadeInBottom 1s cubic-bezier(.77,0,.175,1) 1}.et_pb_menu .et_pb_menu__wrap--hidden{opacity:0;-webkit-animation:fadeOutBottom 1s cubic-bezier(.77,0,.175,1) 1;animation:fadeOutBottom 1s cubic-bezier(.77,0,.175,1) 1}.et_pb_menu .et_pb_menu__menu{-webkit-box-flex:0;-ms-flex:0 1 auto;flex:0 1 auto;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.et_pb_menu .et_pb_menu__menu,.et_pb_menu .et_pb_menu__menu>nav,.et_pb_menu .et_pb_menu__menu>nav>ul{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch}.et_pb_menu .et_pb_menu__menu>nav>ul{-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.et_pb_menu .et_pb_menu__menu>nav>ul>li{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;margin:0}.et_pb_menu .et_pb_menu__menu>nav>ul>li.mega-menu{position:static}.et_pb_menu .et_pb_menu__menu>nav>ul>li>ul{top:calc(100% - 1px);left:0}.et_pb_menu .et_pb_menu__menu>nav>ul.upwards>li>ul{top:auto;bottom:calc(100% - 1px)}.et_pb_menu--with-logo .et_pb_menu__menu>nav>ul>li>a{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:31px 0;white-space:nowrap}.et_pb_menu--with-logo .et_pb_menu__menu>nav>ul>li>a:after{top:50%!important;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.et_pb_menu--without-logo .et_pb_menu__menu>nav>ul{padding:0!important}.et_pb_menu--without-logo .et_pb_menu__menu>nav>ul>li{margin-top:8px}.et_pb_menu--without-logo .et_pb_menu__menu>nav>ul>li>a{padding-bottom:8px}.et_pb_menu--without-logo .et_pb_menu__menu>nav>ul.upwards>li{margin-top:0;margin-bottom:8px}.et_pb_menu--without-logo .et_pb_menu__menu>nav>ul.upwards>li>a{padding-top:8px;padding-bottom:0}.et_pb_menu--without-logo .et_pb_menu__menu>nav>ul.upwards>li>a:after{top:auto;bottom:0}.et_pb_menu .et_pb_menu__icon{-webkit-box-flex:0;-ms-flex:0 0 auto;flex:0 0 auto}.et_pb_menu .et-menu{margin-left:-11px;margin-right:-11px}.et_pb_menu .et-menu>li{padding-left:11px;padding-right:11px}.et_pb_menu--style-left_aligned .et_pb_menu_inner_container,.et_pb_menu--style-left_aligned .et_pb_row{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch}.et_pb_menu--style-left_aligned .et_pb_menu__logo-wrap{-webkit-box-flex:0;-ms-flex:0 1 auto;flex:0 1 auto;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.et_pb_menu--style-left_aligned .et_pb_menu__logo{margin-right:30px}.rtl .et_pb_menu--style-left_aligned .et_pb_menu__logo{margin-right:0;margin-left:30px}.et_pb_menu--style-left_aligned.et_pb_text_align_center .et_pb_menu__menu>nav>ul,.et_pb_menu--style-left_aligned.et_pb_text_align_center .et_pb_menu__wrap{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.et_pb_menu--style-left_aligned.et_pb_text_align_right .et_pb_menu__menu>nav>ul,.et_pb_menu--style-left_aligned.et_pb_text_align_right .et_pb_menu__wrap{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.et_pb_menu--style-left_aligned.et_pb_text_align_justified .et_pb_menu__menu,.et_pb_menu--style-left_aligned.et_pb_text_align_justified .et_pb_menu__menu>nav,.et_pb_menu--style-left_aligned.et_pb_text_align_justified .et_pb_menu__wrap{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.et_pb_menu--style-left_aligned.et_pb_text_align_justified .et_pb_menu__menu>nav>ul{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.et_pb_menu--style-centered .et_pb_menu__logo-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.et_pb_menu--style-centered .et_pb_menu__logo-wrap,.et_pb_menu--style-centered .et_pb_menu__logo img{margin:0 auto}.et_pb_menu--style-centered .et_pb_menu__menu>nav>ul,.et_pb_menu--style-centered .et_pb_menu__wrap{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.et_pb_menu--style-inline_centered_logo .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,.et_pb_menu--style-inline_centered_logo .et_pb_row>.et_pb_menu__logo-wrap{display:none;margin-bottom:30px}.et_pb_menu--style-inline_centered_logo .et_pb_menu__logo{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.et_pb_menu--style-inline_centered_logo .et_pb_menu__logo,.et_pb_menu--style-inline_centered_logo .et_pb_menu__logo img{margin:0 auto}.et_pb_menu--style-inline_centered_logo .et_pb_menu__wrap{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.et_pb_menu--style-inline_centered_logo .et_pb_menu__logo-slot{-webkit-box-align:center!important;-ms-flex-align:center!important;align-items:center!important}.et_pb_menu--style-inline_centered_logo .et_pb_menu__logo-slot .et_pb_menu__logo,.et_pb_menu--style-inline_centered_logo .et_pb_menu__logo-slot .et_pb_menu__logo-wrap{width:100%;height:100%}.et_pb_menu--style-inline_centered_logo .et_pb_menu__logo-slot img{max-height:100%}.et_pb_menu .et_pb_menu__logo-slot .et-fb-content-placeholder{min-width:96px}.et_pb_menu .et_pb_menu__search-container{position:absolute;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:stretch;-ms-flex-pack:stretch;justify-content:stretch;-ms-flex-line-pack:stretch;align-content:stretch;left:0;bottom:0;width:100%;height:100%;opacity:0;z-index:999}.et_pb_menu .et_pb_menu__search-container--visible{opacity:1;-webkit-animation:fadeInTop 1s cubic-bezier(.77,0,.175,1) 1;animation:fadeInTop 1s cubic-bezier(.77,0,.175,1) 1}.et_pb_menu .et_pb_menu__search-container--hidden{-webkit-animation:fadeOutTop 1s cubic-bezier(.77,0,.175,1) 1;animation:fadeOutTop 1s cubic-bezier(.77,0,.175,1) 1}.et_pb_menu .et_pb_menu__search-container--disabled{display:none}.et_pb_menu .et_pb_menu__search{-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:stretch;-ms-flex-pack:stretch;justify-content:stretch;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.et_pb_menu .et_pb_menu__search-form{-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto}.et_pb_menu .et_pb_menu__search-input{border:0;width:100%;color:#333;background:transparent}.et_pb_menu .et_pb_menu__close-search-button{-webkit-box-flex:0;-ms-flex:0 0 auto;flex:0 0 auto}.et_pb_menu .et_pb_menu__close-search-button:after{content:"M";font-size:1.7em}@media (min-width:981px){.et_dropdown_animation_fade.et_pb_menu ul li:hover>ul{-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.et_dropdown_animation_slide.et_pb_menu ul li:hover>ul{-webkit-animation:fadeLeft .4s ease-in-out;animation:fadeLeft .4s ease-in-out}.et_dropdown_animation_expand.et_pb_menu ul li:hover>ul{-webkit-transform-origin:0 0;-webkit-animation:Grow .4s ease-in-out;animation:Grow .4s ease-in-out;-webkit-backface-visibility:visible!important;backface-visibility:visible!important}.et_dropdown_animation_flip.et_pb_menu ul li ul li:hover>ul{-webkit-animation:flipInX .6s ease-in-out;animation:flipInX .6s ease-in-out;-webkit-backface-visibility:visible!important;backface-visibility:visible!important}.et_dropdown_animation_flip.et_pb_menu ul li:hover>ul{-webkit-animation:flipInY .6s ease-in-out;animation:flipInY .6s ease-in-out;-webkit-backface-visibility:visible!important;backface-visibility:visible!important}.et_pb_menu.et_pb_menu_fullwidth .et_pb_row{width:100%;max-width:100%;padding:0 30px!important}}@media (max-width:980px){.et_pb_menu--style-left_aligned .et_pb_menu_inner_container,.et_pb_menu--style-left_aligned .et_pb_row{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.et_pb_menu--style-left_aligned .et_pb_menu__wrap{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.et_pb_menu--style-left_aligned.et_pb_text_align_center .et_pb_menu__wrap{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.et_pb_menu--style-left_aligned.et_pb_text_align_right .et_pb_menu__wrap{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.et_pb_menu--style-left_aligned.et_pb_text_align_justified .et_pb_menu__wrap{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.et_pb_menu--style-inline_centered_logo .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,.et_pb_menu--style-inline_centered_logo .et_pb_row>.et_pb_menu__logo-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.et_pb_menu--style-inline_centered_logo .et_pb_menu_inner_container>.et_pb_menu__logo,.et_pb_menu--style-inline_centered_logo .et_pb_row>.et_pb_menu__logo{margin:0 auto}.et_pb_menu--style-inline_centered_logo .et_pb_menu__logo-slot{display:none}.et_pb_menu .et_pb_row{min-height:81px}.et_pb_menu .et_pb_menu__menu{display:none}.et_pb_menu .et_mobile_nav_menu{float:none;margin:0 6px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.et_pb_menu .et_mobile_menu{top:100%;padding:5%}.et_pb_menu .et_mobile_menu,.et_pb_menu .et_mobile_menu ul{list-style:none!important;text-align:left}.et_pb_menu .et_mobile_menu ul{padding:0}.et_pb_menu .et_pb_mobile_menu_upwards .et_mobile_menu{top:auto;bottom:100%}}
+/*# sourceURL=divi-dynamic-critical-inline-css */
+</style>
+<link rel='preload' id='divi-dynamic-late-css' href='https://www.ingeniacommunities.com.au/wp-content/et-cache/4316/et-divi-dynamic-tb-14342-4316-late.css?ver=1769044931' as='style' media='all' onload="this.onload=null;this.rel='stylesheet'" />
+<link rel='stylesheet' id='divi-breadcrumbs-module-styles-css' href='https://www.ingeniacommunities.com.au/wp-content/plugins/divi-breadcrumbs-module/styles/style.min.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='gravitydivi-forms-customizer-module-styles-css' href='https://www.ingeniacommunities.com.au/wp-content/plugins/gravitydivi-forms-customizer-module/styles/style.min.css?ver=2.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://www.ingeniacommunities.com.au/wp-content/themes/ingenia-divi-child/style.css?ver=4.27.5' type='text/css' media='all' />
+
+<script  type="text/javascript" class=" _iub_cs_skip" type="text/javascript" id="iubenda-head-inline-scripts-0">
+/* <![CDATA[ */
+ var _iub = _iub || []; _iub.csConfiguration = {"lang":"en","siteId":1321560,"localConsentDomain":"ingeniacommunities.com.au","cookiePolicyId":60933002, "banner":{ "slideDown":false,"applyStyles":false } }; 
+//# sourceURL=iubenda-head-inline-scripts-0
+/* ]]> */
+</script>
+
+<script  type="text/javascript" class=" _iub_cs_skip" type="text/javascript" id="iubenda-head-inline-scripts-1">
+/* <![CDATA[ */
+(function (w, d) { var loader = function () { var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/cookie_solution/stable/iubenda_cs.js"; tag.parentNode.insertBefore(s, tag); }; if (w.addEventListener) { w.addEventListener("load", loader, false); } else if (w.attachEvent) { w.attachEvent("onload", loader); } else { w.onload = loader; } })(window, document);
+//# sourceURL=iubenda-head-inline-scripts-1
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://player.vimeo.com/api/player.js?ver=1.2.2" id="vimeo-for-wordpress-player-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/plugins/ausstocks/js/highstock.js?ver=025361212f4378e1343a3b3c438c8e6b" id="asx-highstock-js-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/plugins/ausstocks/js/exporting.js?ver=025361212f4378e1343a3b3c438c8e6b" id="asx-export-js-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/plugins/inacommunities//js/maps.js?ver=1.7.2" id="maps-js-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/themes/ingenia-divi-child/ds-script.js?ver=025361212f4378e1343a3b3c438c8e6b" id="ds-theme-script-js"></script>
+<script type="text/javascript" defer="" crossorigin="anonymous" src="https://app.sharelinktechnologies.com/widget/js?ver=025361212f4378e1343a3b3c438c8e6b" id="sharelink-frontend-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.ingeniacommunities.com.au/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.ingeniacommunities.com.au/wp-json/wp/v2/pages/4316" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ingeniacommunities.com.au/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://www.ingeniacommunities.com.au/?p=4316' />
+<style type="text/css" id="simple-css-output">}.asx_price_box { border: 1px solid #5d6468;}.asx_dark .et_pb_widget a, .asx_dark .asx_price_box a{ color: #5d6468;}/*Maps*/#map .region { position : absolute; top : 0; left : 0; display : block; text-align : center; cursor : pointer;}#map .region a { line-height: 1.2; color : #707372; text-shadow: 0 0 1px rgba(0,0,0,0.1); text-decoration : none; display : block; box-shadow: none;}#map .region .num,#map .region .text { display : block; font-weight : 600;}#map .region .num { display: block; line-height: 1.2; font-size : 32px; font-weight : 600;}#map .region .text { font-size : 14px;}#map .region.nsw { top : 165px; left : 242px; width : 106px; height : 74px;}#map .region.qld {top: 4px;left: 224px;width: 126px;height: 166px;}#map .region.sa {top: 139px;left: 142px;width: 101px;height: 113px;}#map .region.nt { top: 4px; left: 142px; width: 81px; height: 136px;}#map .region.vic {top: 211px;left: 242px;width: 68px;height: 52px;}#map .region.wa {top: 31px;left: 5px;width: 137px;height: 199px;}#map .region.tas {top: 274px;left: 261px;width: 33px;height: 30px;}#map .region.act {top: 239px;left: 326px;width: 39px;height: 20px;}#map .region.sa a,#map .region.nsw a { padding-top: 8%;}#map .region.vic a { position : relative; left: -52px; top: 65px;}#map .region.tas a { position : relative; left: 43px; top: 7px;}#map .region.nt a,#map .region.wa a,#map .region.qld a { padding-top: 70%;}#map .callouts { position : absolute;}#map .callouts .callout .in { width : 130px;}#map .callouts .callout h4 { font-size : 14px; padding : 2px 0; margin-bottom : 4px; color : #242021; border-bottom : 1px dashed #000; font-weight : 700;}#map .callouts .callout li span { vertical-align : middle; line-height: 10px;}#map .callouts .callout .dev { display : inline-block; border-radius : 3px; -moz-border-radius : 3px; -webkit-border-radius : 3px; width : 6px; height : 6px; background-color : #242021; margin-right : 2px;}#map .callouts .callout .garden_villages .dev { background-color : #707372;}#map .callouts .callout .settlers .dev { background-color : #707372;}#map .callouts .callout .ale .dev { background-color : #707372;}#map .callouts .callout ul { margin : 0; padding: 0;}#map .callouts .callout ul li { list-style-type : none; font-size : 11px;}#map .callouts .callout ul li,#map .callouts .callout ul li a { color : #242021;}#map-summary { margin-top : -190px; cursor : pointer;}.home #map-summary { margin-top : -65px;}#map-contact { margin-top : 45px;}#map-summary .num { font-size : 72px; color : #707372; text-shadow: 0 0 1px rgba(0,0,0,0.1); font-weight : 600; display : block; line-height : 1;}#map-summary .text { display : block; color : #707372; font-size : 18px; font-weight : 600; text-shadow: 0 0 1px rgba(0,0,0,0.1);}#map-summary .link { color : #FDB813; font-size : 13px; font-weight : 400;}#mapsmall .region a { display : block; padding : 0; height : 100%;}#select-community { position : relative;}#select-community select { margin : 0 auto; width : 180px; display : block; margin-top : 80px;}#select-community p.or { position : absolute; left : 0; top : 100px;}.map-selector { padding : 40px 0; border-bottom : 1px solid #C6C6C6; margin-bottom : 40px;}.map-selector h4 { text-align : center;}.communities { position : relative; padding-bottom : 20px; margin-bottom : 30px;}.communities #map-contact { position : absolute; bottom : 0;}.communities td.thumb,.properties td.thumb { width : 150px; vertical-align : top;}.communities td.text,.properties td.text { padding : 0 0 0 20px; vertical-align : top;}.widget_map_widget .phone { width: 300px; margin-top: 20px;}.widget_map_widget .number { color: #FDB813; font-weight: bold; font-size: 20px;}.widget_map_widget #location { width: 315px;}#title-communities{ font-size: 1.5em; padding-top: 8%; padding-right: 5%; padding-bottom: 5%; padding-left: 5%; text-align: center;}#title-communities h2{ font-weight: 600; font-size: 5em; color: #5d6468; text-align: center; padding-top: 20px;}#title-communities .text{ color: #5d6468}.map-column{ background-color: rgba(112,115,114,0.1);}.map-column p{ padding-bottom:0px;}@media only screen and (max-width: 400px) { #title-communities{ padding-top: 0%; } #title-communities h2{ font-size: 5em; }}@media (min-width: 981px) and (max-width: 1210px) { .et_pb_column_1_3 #map .region.vic a { position: relative; left: -116px; top: -36px; } .et_pb_column_1_3 #map .region.qld { top: -33px; left: 141px; width: 126px; height: 166px; } .et_pb_column_1_3 #map .region.nsw { top: 106px; left: 164px; width: 106px; height: 74px; } .et_pb_column_1_3 #map .region.wa { top: -29px; left: 5px; width: 137px; height: 199px; } .et_pb_column_1_3 #title-communities h2{ font-size: 5em; } .et_pb_column_1_3 #title-communities{ padding-top: 25%; } .et_pb_column_1_3 #map .callouts .wa { top: -95px; left: -16px; } .et_pb_column_1_3 #map .callouts .nsw{ top: 74px; left: 6px; } .et_pb_column_1_3 #map .callouts .qld{ top: 24px; left: 5px; } .et_pb_column_1_3 #map .callouts .vic{ top: 139px; left: -56px; }}@media only screen and (max-width: 375px) { #map{ width: 320px; height: 284px; background-size: cover; margin-left: -20px; } #map .region.qld { top: -6px; left: 202px; } #map .region.nsw { top: 141px; left: 219px; } #map .region.vic a { left: -70px; top: 10px; } #map .region.wa { top: 2px; left: 28px; } #map .callouts .wa{ top: -65px; left: 6px; } #map .callouts .qld{ top: 44px; left: 54px; } #map .callouts .nsw{ top: 103px; left: 53px; } #map .callouts .vic{ top: 177px; } }@media only screen and (max-width: 330px) { #map{ margin-left: -35px; }}.aus_tab_inner_content a{ color: #5d6468;}.aus_tab_inner_content a:hover{ color: #f2a900;}.breadcrumb-hide-title span.dcsbcm_divi_breadcrumb:last-child { margin-right: 4px;}@media only screen and (max-width: 350px) { .asx_price_box .asx_col_l{ width: 65%; font-size: 16px; } .asx_price_box .asx_col_r{ width: 35%; font-size: 16px; }}#map .callouts .callout{ background-color: transparent;}.et_link_content .post-meta, .et_link_content .post-meta a{ color: #FFF !important;}body .et_pb_promo_button.link-pdf:hover{ background: #5d6468 !important; border-color: #5d6468 !important; color: #FFF !important;}.wpjb-text-box .wpjb-text{ font-weight: 300;}</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P7H3FF');</script>
+<!-- End Google Tag Manager -->
+<script>
+jQuery(function($){
+    $('.et_pb_accordion .et_pb_toggle_open').addClass('et_pb_toggle_close').removeClass('et_pb_toggle_open');
+
+    $('.et_pb_accordion .et_pb_toggle').click(function() {
+      $this = $(this);
+      setTimeout(function(){
+         $this.closest('.et_pb_accordion').removeClass('et_pb_accordion_toggling');
+      },700);
+    });
+});
+</script>
+
+
+
+<script>
+	
+
+
+	
+
+	
+</script>
+<link rel="icon" href="https://www.ingeniacommunities.com.au/wp-content/uploads/2018/03/cropped-Ingenia-Communities-512x512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.ingeniacommunities.com.au/wp-content/uploads/2018/03/cropped-Ingenia-Communities-512x512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.ingeniacommunities.com.au/wp-content/uploads/2018/03/cropped-Ingenia-Communities-512x512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.ingeniacommunities.com.au/wp-content/uploads/2018/03/cropped-Ingenia-Communities-512x512-270x270.png" />
+<style type="text/css">#Ausstocks Price Box
+.asx_price_box{width:99%;border: 1px solid #5d6468;}
+.asx_head{ color:#5d6468; background-color:#707372FA; padding:10px;}
+.asx_head{background-color: rgba(93,100,104,0.1)!important;a}
+.asx_code{font-size:2em;margin-right:30px; float:left;}
+.asx_price {font-size:2em;color:#5d6468;float:left}
+.asx_change{font-size:1.2em;color:#fff; float:right}
+.asx_bg_1{background-color:#ffffff;}
+.asx_bg_2{background-color:#f8f8f8;}
+.asx_col_l{width:70%;float:left;padding:10px;border-bottom: 1px solid #e1e1e1;font-weight:light; color: #707372;}
+.asx_col_r{width:30%;float:right;padding:10px;text-align:right;border-bottom: 1px solid #e1e1e1;font-weight:bold; color: #707372; font-size: 0.8em;}
+
+#Ausstocks Latest Announcements
+
+.latest_announcements{margin-left:-20px;}
+.latest_announce_content{font-size:0.9em;}
+
+
+#Ausstocks Announcements
+.a{color:#000000;}
+.aus_tabcontainer{margin: 30px 0;position: relative;width:100%;clear: both;overflow: hidden;background: transparent;}
+.aus_tab_titles{position: relative;width:100%;clear: both;float:left;z-index: 5;}
+.aus_tab_content{visibility: hidden;clear: both;padding: 10px 19px;overflow:auto;position: absolute;top:0;z-index: 0;left:120%;width:100%;}
+.aus_tab{cursor:pointer;margin:0 -1px 0 0;display: block;float: left;z-index: 2;position: relative;padding:12px 16px;top:1px;font-size: 0.8em;text-decoration: none;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+border-style: solid;
+border-width:1px;
+}
+.aus_active_tab{
+z-index: 4;
+position: relative;
+font-weight: bold;
+text-decoration: none;
+border-bottom: none;
+background: #FFF;
+}
+.aus_tab_titles .aus_tab:first-child{
+border-top-left-radius:  2px;
+}
+.aus_tab_titles .aus_tab:last-child{
+border-top-right-radius: 2px;
+}
+.aus_tab_titles a {
+	color: #5d6468;
+}
+.aus_active_tab_content{
+display: block;
+visibility: visible;
+z-index: 3;
+position: relative;
+overflow:auto;
+border-style: solid;
+border-width:1px;
+border-radius: 2px;
+left:0;
+width:auto;
+}
+.aus_tab_inner_content{
+margin: 11px 0;
+left:-200%;
+position: relative;
+}
+.aus_active_tab_content .aus_tab_inner_content{
+left:0;
+position: relative;
+}
+.aus_tab_inner_content table, .aus_tab_inner_content th, .aus_tab_inner_content td {
+    border: 1px solid #d1d1d1;
+}
+.aus_tab_inner_content th, .aus_tab_inner_content td {
+    padding: 0.4375em;
+}
+.aus_tab_inner_content td {
+    border-width: 0 1px 1px 0;
+}
+.aus_tab_titles .aus_tab{border-bottom: none;padding:12px 16px 14px 16px;}
+.aus_tab_titles a:hover, .aus_tab_titles a:focus, .aus_tab_titles a:visited{
+   text-decoration: none;
+}
+@media only screen and (max-width: 768px) {
+.aus_active_tab_content{font-size:0.8em;}
+.aus_tab_content{padding:0px !important;}
+.entry-content tr td, body.et-pb-preview #main-content .container tr td{padding:4px;}
+.aus_tab_titles .aus_tab{border-bottom: solid 1px !important;}
+}</style><link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://www.ingeniacommunities.com.au/wp-content/et-cache/global/et-divi-customizer-global.min.css?ver=1769042126" /><style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style><meta name="generator" content="WP Rocket 3.20.3" data-wpr-features="wpr_preconnect_external_domains wpr_automatic_lazy_rendering wpr_oci wpr_desktop" /></head>
+<body class="wp-singular page-template-default page page-id-4316 custom-background wp-theme-Divi wp-child-theme-ingenia-divi-child et-tb-has-template et-tb-has-footer et_pb_button_helper_class et_non_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_only_menu et_primary_nav_dropdown_animation_slide et_secondary_nav_dropdown_animation_expand et_header_style_left et_cover_background osx et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db">
+	<div  id="page-container">
+<div  id="et-boc" class="et-boc">
+			
+				<div  id="top-header">
+		<div class="container clearfix">
+
+		
+			<div id="et-secondary-menu">
+			<ul id="et-secondary-nav" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-567"><a href="https://www.ingeniacommunities.com.au/investor-centre/">Investor Centre</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14834"><a href="https://www.ingeniacommunities.com.au/2025-annual-general-meeting/">2025 Annual General Meeting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href="https://www.ingeniacommunities.com.au/investor-centre/faqs/">FAQs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12862"><a href="https://www.ingeniacommunities.com.au/investor-centre/key-dates/">Key Dates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="https://www.ingeniacommunities.com.au/investor-centre/my-security-holding/">My Security Holding</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570"><a href="https://www.ingeniacommunities.com.au/investor-centre/corporate-governance/">Corporate Governance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7448"><a href="https://www.ingeniacommunities.com.au/investor-centre/security-price/">Security Price</a></li>
+</ul>
+</li>
+</ul>			</div>
+
+		</div>
+	</div>
+
+
+	<header  id="main-header" data-height-onload="66">
+		<div class="container clearfix et_menu_container">
+					<div class="logo_container">
+				<span class="logo_helper"></span>
+				<a href="https://www.ingeniacommunities.com.au/">
+				<img src="https://www.ingeniacommunities.com.au/wp-content/uploads/2018/03/Ingenia-Logo.png" width="322" height="200" alt="Ingenia Communities" id="logo" data-height-percentage="73" />
+				</a>
+			</div>
+					<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+									<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-81"><a href="https://www.ingeniacommunities.com.au/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="https://www.ingeniacommunities.com.au/about-us/purpose-and-values/">Purpose and Values</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="https://www.ingeniacommunities.com.au/about-us/board-of-directors/">Board of Directors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-469"><a href="https://www.ingeniacommunities.com.au/about-us/leadership-team/">Leadership Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4040"><a href="https://www.ingeniacommunities.com.au/ingenia-connect/">Ingenia Connect</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11317"><a href="https://www.ingeniacommunities.com.au/sustainability/">Sustainability</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-131"><a href="https://www.ingeniacommunities.com.au/our-business/">Our Business</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.ingeniacommunities.com.au/our-business/ingenia-lifestyle/">Ingenia Lifestyle</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="https://www.ingeniacommunities.com.au/our-business/ingenia-holidays/">Ingenia Holidays</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://www.ingeniacommunities.com.au/our-business/ingenia-gardens/">Ingenia Gardens</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10485"><a href="https://www.ingeniacommunities.com.au/our-business/ingenia-rental/">Ingenia Rental</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10486"><a href="https://www.ingeniacommunities.com.au/our-business/development/">Development</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="https://www.ingeniacommunities.com.au/news/">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15129"><a href="https://www.ingeniacommunities.com.au/news/case-studies/">Case Studies</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="https://www.ingeniacommunities.com.au/careers/">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150"><a href="https://www.ingeniacommunities.com.au/contact/">Contact</a></li>
+</ul>					</nav>
+				
+				
+				
+									<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+				
+				<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>			</div> <!-- #et-top-navigation -->
+		</div> <!-- .container -->
+				<div class="et_search_outer">
+			<div class="container et_search_form_container">
+				<form role="search" method="get" class="et-search-form" action="https://www.ingeniacommunities.com.au/">
+				<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />				</form>
+				<span class="et_close_search_field"></span>
+			</div>
+		</div>
+			</header> <!-- #main-header -->
+<div  id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-4316" class="post-4316 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0 et_animated">
+				<div class="et_pb_column et_pb_column_3_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_post_title et_pb_post_title_0 et_pb_bg_layout_dark  et_pb_text_align_left"   >
+				
+				
+				
+				
+				
+				<div class="et_pb_title_container">
+					<h1 class="entry-title">Privacy</h1>
+				</div>
+				
+			</div><div class="et_pb_module et_pb_divider et_pb_divider_0 et_animated et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+				
+				
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_dcsbcm_divi_breadcrumbs_module et_pb_dcsbcm_divi_breadcrumbs_module_0">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					<span class="dcsbcm_divi_breadcrumb" typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://www.ingeniacommunities.com.au/">Home</a></span><span class="dcsbcm_separator">&nbsp;|&nbsp;</span><span class="dcsbcm_divi_breadcrumb dcsbcm_divi_breadcrumb-active">Privacy</span></div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Last Updated: June 2025, (v7.1) Page 1</p>
+<p><strong>PRIVACY COMMITMENT </strong></p>
+<p>The Ingenia Communities Group (&#8220;Ingenia&#8221;, &#8220;us&#8221; or &#8220;we&#8221;) comprises Ingenia Communities Holdings Limited, Ingenia Communities Management Trust, Ingenia Communities Fund, and Ingenia Communities RE Limited.</p>
+<p>Ingenia is a leading owner, operator and developer of a diversified portfolio of seniors housing accommodation and holiday accommodation. Ingenia has assets across Australia branded as Ingenia Lifestyle, Ingenia Gardens, Ingenia Rentals and Ingenia Holidays. Seniors’ residents may also from time to time receive assistance to access care services.</p>
+<p>Ingenia is committed to protecting all personal information that it handles or processes and is bound by the Australian Privacy Principles under the Privacy Act 1988 (Cth) and other privacy laws which govern the way in which organisations hold, collect, use and disclose personal information. This Privacy Policy describes how Ingenia collects, holds and discloses personal information.</p>
+<p><strong>SCOPE &amp; APPLICATION </strong></p>
+<p>This policy applies to all personal information provided to Ingenia. This includes personal information of existing and prospective customers (including holiday guests, residents, and tenants) and existing and prospective suppliers. It also applies to prospective employees who may provide Ingenia with personal information in relation to potential employment.</p>
+<p>Employment-related personal information of individuals employed by Ingenia may form employee records, and as such may be dealt with separately by Ingenia and may not be subject to this policy. Ingenia employees with queries about their employee records should contact Ingenia’s People and Culture team.</p>
+<p><strong>WHAT PERSONAL INFORMATION DOES INGENIA COLLECT? </strong></p>
+<p>Ingenia will only collect personal information (including in some instances, sensitive information) which a reasonable person would agree is necessary to provide our services and to operate and manage our business.</p>
+<p>The personal (or sensitive) information that is collected, held and used by Ingenia will depend on the nature of your relationship with us and may include (but is not limited to):</p>
+<ul>
+<li>Personal identification and contact details (including name, email address and telephone number)</li>
+<li>Financial information, including pension and payment and credit card details</li>
+<li>Tax file and Medicare numbers</li>
+<li>Bank account details</li>
+<li>Health information such as private health care provider details (from residents receiving assistance to access care)</li>
+<li>Next of kin and power of attorney details (from residents)</li>
+<li>Criminal History (from job applicants)</li>
+</ul>
+<p>If you are applying for employment with Ingenia, we may also collect your resume, qualifications, skills, education history, residency status, previous employment history and criminal history information.</p>
+<p>If you fail to provide personal information requested by us, or if the personal information you supply is incorrect or incomplete, there may be a range of consequences, for example we may be unable to provide you with our services.</p>
+<p><strong>HOW IS THE INFORMATION COLLECTED? </strong></p>
+<p>We may collect personal information about you during the course of your dealings with us. For example:</p>
+<ul>
+<li>if you use our website, including to make bookings or enquiries</li>
+<li>completing application forms when you arrange to receive services from us, including online, by email or phone, or face to face</li>
+<li>while receiving services or care from us</li>
+<li>via care assistance documentation, if you are a resident receiving care</li>
+<li>during interviews, if you are applying to work with us</li>
+<li>if you enter into a competition we run subscribe to receive a newsletter or promotional material</li>
+<li>if you contact us via telephone or email with queries or to discuss services.</li>
+</ul>
+<p>In most cases, and where possible, personal information is collected directly from you. If this is not practical, the information may be obtained from another person or entity, for example, from:</p>
+<ul>
+<li>medical practitioners;</li>
+<li>family members or carers; or</li>
+<li>previous employers, where you are applying for a job with us.</li>
+</ul>
+<p>&nbsp;</p>
+<p>If you provide us with personal information about a third party, you represent, and we collect it on the basis that, you have that person’s consent for us to collect and handle their personal information in accordance with this privacy policy.</p>
+<p>From time to time, you may have the option to deal with us on an anonymous basis or by using a pseudonym. However, if the personal information you provide us is incomplete or inaccurate, or you withhold personal information, we may not be able to provide the products or services you are seeking or deal with you effectively, or we may need to request that personal information at a later time.</p>
+<p>Additional privacy measures are employed to protect sensitive information (such as health information, racial or ethnic origin, religious beliefs, sexual preferences, and criminal history). Where we do collect sensitive information, we will only do so with your consent.</p>
+<p><strong>PURPOSE OF COLLECTION – HOW DO WE USE YOUR PERSONAL INFORMATION? </strong></p>
+<p>We will generally only use your personal information for the purpose for which we collected it, or for related purposes we consider would be within your reasonable expectations. If you do not provide your personal information to us we may be unable to fulfil one or more of these purposes.</p>
+<p><strong>GENERAL USES </strong></p>
+<p>Generally, we may use your personal information for purposes that include the following:</p>
+<ul>
+<li>to provide products or services to you, and to manage our relationship with you;</li>
+<li>administer our dealings and potential dealings with suppliers of products and services;</li>
+<li>to provide information that you request, and to respond to your enquiries,</li>
+<li>to manage any complaints;</li>
+<li>to handle payments for services purchased by you;</li>
+<li>to verify your identity, if necessary;</li>
+<li>for marketing research and marketing purposes (see further below), and for improving our services;</li>
+<li>enable us to manage our internal business affairs, for example, quality assurance, risk management, billing and administrative purposes;</li>
+<li>for our general business operations (for example, maintenance of our business records, compliance with our legal and insurance obligations and statistical purposes);</li>
+<li>if you are a job applicant, to assess your suitability to work with us</li>
+</ul>
+<p><strong>SPECIFIC USES </strong></p>
+<p>Depending on our relationship with you, we may use your personal information as following:</p>
+<p>INVESTORS</p>
+<p>Personal information is collected from investors to allow Ingenia (or an external service provider) to process applications and to administer and report on investments.</p>
+<p>TENANTS</p>
+<p>Collection of personal information from a tenant in an Ingenia community allows Ingenia to make decisions on suitability of tenants for the community, leasing arrangements, collect rent, communicate with tenants as well as complete other associated documents.</p>
+<p>RESIDENTS RECEIVING ASSISTANCE TO ACCESS CARE SERVICES</p>
+<p>Collection of personal or sensitive information including information about the health and wellbeing of a resident receiving assistance to access care services is necessary to manage relationships with our care recipients. It also allows Ingenia to assist in facilitating the services required, to communicate with residents, notify them about additional services and to comply with applicable laws. The type of information collected will be dependent on the services that the recipient requests or requires.</p>
+<p>SHORT TERM HOLIDAY GUESTS</p>
+<p>Ingenia collects information such as contact details, credit card information and direct debit details from individuals renting cabins (or other accommodation) for short term holidays. This information assists Ingenia in managing holiday bookings, communicating with guests and collecting payments.</p>
+<p>HOME PURCHASING AND SALES</p>
+<p>Ingenia may collect information such as contact details, banking details and solicitor details from home purchasers in our land lease communities for use in preparing the contract for purchase and to manage the ongoing relationship with the resident. Ingenia may also collect contact details, bank details and solicitor details from home sellers in our land lease communities to manage the sale process.</p>
+<p>PROSPECTIVE EMPLOYEES</p>
+<p>Prospective employee information is used by Ingenia to consider the application for employment and manage the recruitment process. If a candidate is unsuccessful in obtaining a position with Ingenia, Ingenia will retain their application and personal information in accordance with this policy including background and reference checks in order to contact the candidate if a position becomes available in the future.</p>
+<p><strong>OTHER PURPOSES </strong></p>
+<p>Ingenia may also use personal information to:</p>
+<ul>
+<li>manage its business operations (including maintaining business records, billing, and complying with our insurance obligations) and help run the organisation</li>
+<li>comply with legislative and regulatory requirements (both in Australia and overseas)</li>
+<li>share information with law enforcement, regulators and government agencies including foreign government agencies</li>
+<li>to prevent, and investigate suspicious, fraudulent or criminal activities; and</li>
+<li>answer questions and resolve your complaints.</li>
+</ul>
+<p><strong>USE FOR MARKETING PURPOSES </strong></p>
+<p>Ingenia may use your personal information for various marketing-related purposes. These include:</p>
+<p>WEBSITE IMPROVEMENT</p>
+<p>Where Ingenia personalises its websites for ease of customer use, to improve customer experience and generate more bookings or sales/marketing leads to the business. This does not involve disclosure of personal information to any other person (except perhaps service providers e.g. contracted website developers).</p>
+<p>INSIGHTS AND ANALYSIS</p>
+<p>Where Ingenia uses personal information to analyse data and gain insights to improve its advertising and marketing strategy – to understand how to better improve customer experience and sell other offerings to them, analyse revenue attribution/customer behaviour, and to improve marketing effectiveness. This does not involve disclosure of personal information to any other person (except perhaps Ingenia&#8217;s contracted service providers).</p>
+<p>DIRECT MARKETING (SMS AND EMAIL COMMUNICATIONS)</p>
+<p>Where you subscribe to Ingenia&#8217;s mailing lists, or otherwise request it, Ingenia may use your contact information to send you direct marketing, being emails or SMS, with promotional offers, updates, advertising etc.</p>
+<p>The communications may relate to updates on our products and services, to market other products that it may offer, or to provide information about new products or services and updates on developments within the business. We may also provide you with information relating to events or special programs or offers you might find of interest.</p>
+<p>We will only send you direct marketing where we have your consent. If you no longer wish to receive direct marketing from us you may unsubscribe by using the unsubscribe function included as part of the communication, or by contacting us at 1300 536 509 or via the relevant email below:</p>
+<ul>
+<li>Ingenia Holidays: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="335e52415856475a5d54735a5d54565d5a525b5c5f5a57524a401d505c5e1d5246">[email&#160;protected]</a></li>
+<li>Ingenia Lifestyle: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f59894879e90819c9b92b59c9b92909b9c94999c939086818c9990db969a98db9480">[email&#160;protected]</a></li>
+<li>Ingenia Gardens: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="bdd0dccfd6d8c9d4d3dafdd4d3dad8d3d4dcdadccfd9d8d3ce93ded2d093dcc8">[email&#160;protected]</a></li>
+<li>Ingenia Rental: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="dfb2beadb4baabb6b1b89fb6b1b8bab1b6beadbab1abbeb3f1bcb0b2f1beaa">[email&#160;protected]</a></li>
+</ul>
+<p>DIGITAL ADVERTISING</p>
+<p>Where Ingenia uses your email address to make use of digital advertising services such as those offered by social media platforms and Google, so that Ingenia may target its advertising to you or other individuals via those platforms. This may involve matching of your information with other information held by the platform, disclosure of your information to the platform for the purposes of &#8220;lookalike&#8221; analysis, or aggregation of your information and use to identify the attributes of a typical Ingenia customer.</p>
+<p>THIRD PARTY SHARING</p>
+<p>Where Ingenia may disclose your personal information to third parties so that those third parties may personalise their own advertising and websites. The third parties may be content partners, media partners, strategic partnerships and other brands owned or managed by Ingenia Communities.</p>
+<p><strong>DISCLOSURE OF PERSONAL INFORMATION </strong></p>
+<p>We may disclose your personal information (including, in some instance, your sensitive information with third parties if required in connection with the conduct of our business. Personal information is not disclosed to any other person except in the following circumstances:</p>
+<ul>
+<li>During general business practice Ingenia may outsource functions to third party services providers, for example:</li>
+<li>unit registry;</li>
+<li>custodial services;</li>
+<li>Suppliers of care services provided to residents.</li>
+<li>To any third parties involved in a residents ongoing healthcare (such as general practitioner, specialist or carer).</li>
+<li>For the marketing-related purposes described above, including to advertising platforms, marketing and advertising service providers, content partners, media partners, and strategic partnerships.</li>
+<li>During the recruitment process to contact referees and undertake background checks as well as any third-party service providers as may be necessary to progress an application.</li>
+<li>To any third parties involved in a resident’s ongoing healthcare (such as general practitioner, specialist or carer)</li>
+<li>To organisations with whom Ingenia has contracted to assist in providing services required by Ingenia, such as:</li>
+<li>Professional advisers, (insurers, legal advisers, accounting service providers, auditors.</li>
+<li>Data management and storage providers, mail service providers, survey service providers.</li>
+<li>To anyone or any entity Ingenia is required or permitted by law to disclose personal information to (including the courts or enforcement agencies)</li>
+<li>To police and law enforcement agencies where Ingenia requires a criminal history check</li>
+</ul>
+<p>For investors, Ingenia may disclose personal information about you to external service providers to process applications and to administer and report on investments. We may also provide investors&#8217; personal information to the registry. If you are an investor and wish to find out how the registry handles your information, please contact them at: MUFG Corporate Markets, Locked Bag A14 Sydney South NSW 1235 Telephone: 1300 554 474 (toll free within Australia).</p>
+<p><strong>OVERSEAS DISCLOSURE </strong></p>
+<p>In some cases, the organisations to who we may disclose your personal information may be based outside Australia. For example, we may disclose your personal information to a service provider who may be based in another country.</p>
+<p>Otherwise, we are not likely to disclose any of your personal information to overseas recipients.</p>
+<p>Where we disclose your personal information to overseas recipients, we take reasonable steps to require the protection of your personal information as required by the Privacy Act.</p>
+<p><strong>COOKIES </strong></p>
+<p>A ‘cookie’ is a small data file placed on a computer or device which lets Ingenia identify and interact more effectively with your computer. Cookies do not identify an individual, but they do identify your web requests, ISP (which can be used to locate your general location), browser type, browser language and the date and time of your request number of hits, pages visited and length of user session. They allow Ingenia to identify usage patterns, including date and time of day you access our website and provide you with a better browsing experience.</p>
+<p>Apart from the IP address of the computer you may be using, Ingenia does not use cookies to collect any personal information such as name and email address.</p>
+<p>If you prefer not to have cookies collected, you can disable this option in your browser settings.</p>
+<p><strong>STORAGE AND SECURITY </strong></p>
+<p>We may store your personal information in hard copy document or electronic form. At all times Ingenia will take reasonable steps to ensure that the personal information collected and held is protected from loss, or unauthorised use, access, modification or disclosure.</p>
+<p>Personal information (both electronic and hard copy) is also protected via a range of measures including but not limited to:</p>
+<ul>
+<li>Access to information systems is controlled via access management procedures.</li>
+<li>Company policies and procedures regarding keeping information secure which all employees are bound by.</li>
+<li>All employees are required to complete training on information security and privacy as required.</li>
+</ul>
+<p>Ingenia regularly reviews and monitors compliance with policies and best practice.</p>
+<p>There are however inherent risks in transmitting information across the internet and we cannot guarantee that any information you transmit to us over the internet is 100% secure (including personal information provided to us via our websites, via online services or via email).</p>
+<p>In relation to electronic information, Ingenia takes all reasonable steps to manage data stored to ensure data security. We may store some personal information with third-party data storage providers, who also employ security measures to protect your personal information.</p>
+<p><strong>RETENTION AND DESTRUCTION OF PERSONAL INFORMATION </strong></p>
+<p>We will take reasonable steps to destroy or permanently de-identify your personal information when we no longer require it for any purpose for which it was collected. We may retain your personal information for as long as necessary to comply with any applicable law, for insurance and corporate governance purposes, for the prevention of fraud and to resolve disputes. Your personal information may also be retained in our information technology system back-up records.</p>
+<p><strong>DATA BREACHES </strong></p>
+<p>In the event that a privacy breach does occur, Ingenia will respond to reduce the risk of damage in accordance with the Notifiable Data Breach Scheme under the Privacy Act, including any mandatory data breach reporting requirements.</p>
+<p>Please contact us if you have reason to believe or suspect that a data breach may have occurred, so that we can investigate and, if necessary, undertake appropriate containment, risk mitigation and notification activities as required.</p>
+<p><strong>ACCESS AND CORRECTION </strong></p>
+<p>Please notify us if your personal details change so that we may keep our records current.</p>
+<p>You have the right to seek access to and/or correct the personal information Ingenia holds about you if you believe it to be inaccurate, incomplete, out of date or misleading.</p>
+<p>Generally, we will provide you with access, except where the law permits us to deny access. In those circumstances, we will provide you with written responses for refusal (unless it is unreasonable to do so).</p>
+<p>You can make a request by contacting Ingenia’s Privacy Officer in writing (contact details listed below). We will respond to the request within a reasonable period, and will give access to the information in the manner requested if it is reasonable and practicable to do so. We will seek to verify your identity before we provide access or make any changes to your personal information.</p>
+<p>We will consider all other questions, requests, or complaint and provide a response within a reasonable period.</p>
+<p><strong>CONTACT US </strong></p>
+<p>If you wish to correct or request to access to your personal information, if you have a question or wish to raise a concern about the treatment of your personal information, or if you have a complaint, you should contact Ingenia&#8217;s Privacy Officer at:</p>
+<p>Privacy Officer</p>
+<p>Ingenia Communities Level 10, 20 Bond Street NSW 2000</p>
+<p>Telephone: 1300 536 509</p>
+<p>Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3646445f4057554f765f585153585f5755595b5b43585f425f53451855595b185743">[email&#160;protected]</a></p>
+<p><strong>COMPLAINTS RESOLUTION </strong></p>
+<p>If you feel that an issue or complaint remains unresolved or if you want further investigation to take place, you can refer your complaint to the Australian Information Commissioner (the OAIC). The OAIC can be contacted at:</p>
+<p>Website: www.oaic.gov.au</p>
+<p>Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="593c37282c302b3c2a193638303a773e362f77382c">[email&#160;protected]</a></p>
+<p>Telephone: 1300 363 992</p>
+<p><strong>POLICY UPDATES </strong></p>
+<p>Ingenia will review this policy from time to time and may make changes to reflect Ingenia&#8217;s current business practices and any changes in the law. If changes are made to this policy, the updated version will be available on our website.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+						</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+	<footer data-wpr-lazyrender="1" class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_footer">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><span style="color: #fdb414;"><strong>Acknowledgement Of Country</strong></span></h3>
+<p><strong></strong></p>
+<p>As an owner, operator and developer of real estate across Australia, Ingenia Communities acknowledges the traditional custodians of the lands on which we operate. We recognise their ongoing connection to land, waters and community, and pay our respects to First Nations Elders both past and present. </p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1_tb_footer et_pb_with_background et_section_regular et_pb_section--with-menu" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1_tb_footer et_pb_row--with-menu">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column--with-menu">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_menu et_pb_menu_0_tb_footer et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-centered">
+					
+					
+					
+					
+					<div class="et_pb_menu_inner_container clearfix">
+						
+						<div class="et_pb_menu__wrap">
+							<div class="et_pb_menu__menu">
+								<nav class="et-menu-nav"><ul id="menu-footer-menu" class="et-menu nav"><li id="menu-item-4312" class="et_pb_menu_page_id-4312 menu-item menu-item-type-custom menu-item-object-custom menu-item-4312"><a href="https://ingenialifestyle.com.au/?utm_source=ingeniacommunities-website&#038;utm_medium=link&#038;utm_campaign=footer">Ingenia Lifestyle &#8211; Over 55 Living</a></li>
+<li id="menu-item-4313" class="et_pb_menu_page_id-4313 menu-item menu-item-type-custom menu-item-object-custom menu-item-4313"><a href="http://ingeniaholidays.com.au/?utm_source=ingeniacommunities-website&#038;utm_medium=link&#038;utm_campaign=footer">Ingenia Holidays</a></li>
+<li id="menu-item-4314" class="et_pb_menu_page_id-4314 menu-item menu-item-type-custom menu-item-object-custom menu-item-4314"><a href="http://ingeniagardens.com.au/?utm_source=ingeniacommunities-website&#038;utm_medium=link&#038;utm_campaign=footer">Ingenia Gardens</a></li>
+<li id="menu-item-4315" class="et_pb_menu_page_id-4315 menu-item menu-item-type-custom menu-item-object-custom menu-item-4315"><a href="http://ingeniarental.com.au/?utm_source=ingeniacommunities-website&#038;utm_medium=link&#038;utm_campaign=footer">Ingenia Rental</a></li>
+<li id="menu-item-8072" class="et_pb_menu_page_id-8072 menu-item menu-item-type-custom menu-item-object-custom menu-item-8072"><a>|</a></li>
+<li id="menu-item-4323" class="et_pb_menu_page_id-4316 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4316 current_page_item menu-item-4323"><a href="https://www.ingeniacommunities.com.au/privacy/" aria-current="page">Privacy</a></li>
+<li id="menu-item-13338" class="et_pb_menu_page_id-13332 menu-item menu-item-type-post_type menu-item-object-page menu-item-13338"><a href="https://www.ingeniacommunities.com.au/disclaimer/">Website Disclaimer</a></li>
+<li id="menu-item-4324" class="et_pb_menu_page_id-565 menu-item menu-item-type-post_type menu-item-object-page menu-item-4324"><a href="https://www.ingeniacommunities.com.au/sitemap/">Sitemap</a></li>
+</ul></nav>
+							</div>
+							
+							
+							<div class="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="mobile_menu_bar"></span>
+				</div>
+			</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2_tb_footer et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_2_tb_footer">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner">© Copyright 2026 Ingenia Communities</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		</div>
+
+			<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/ingenia-divi-child/*","/wp-content/themes/Divi/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+		<script type="application/javascript">
+			(function() {
+				var file     = ["https:\/\/www.ingeniacommunities.com.au\/wp-content\/et-cache\/4316\/et-divi-dynamic-tb-14342-4316-late.css"];
+				var handle   = document.getElementById('divi-style-parent-css');
+				var location = handle.parentNode;
+
+				if (0===document.querySelectorAll('link[href="' + file + '"]').length) {
+					var link  = document.createElement('link');
+					link.rel  = 'stylesheet';
+					link.id   = 'et-dynamic-late-css';
+					link.href = file;
+
+					location.insertBefore(link, handle.nextSibling);
+				}
+			})();
+		</script>
+			<script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_row_0","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_divider_0","style":"zoomLeft","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+				</script>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7H3FF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/plugins/embedpress/assets/js/gallery-justify.js?ver=1769041903" id="embedpress-gallery-justify-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/plugins/embedpress/assets/js/lazy-load.js?ver=1769041903" id="embedpress-lazy-load-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/plugins/vimeo/build/index.js?ver=075a52cf774c248d3c1753e0e3e5be8e" id="vimeo-for-wordpress-public-js"></script>
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https://www.ingeniacommunities.com.au/wp-admin/admin-ajax.php","images_uri":"https://www.ingeniacommunities.com.au/wp-content/themes/Divi/images","builder_images_uri":"https://www.ingeniacommunities.com.au/wp-content/themes/Divi/includes/builder/images","et_frontend_nonce":"6c9a41b085","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"704c5ebfd4","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"4316","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":"https://www.ingeniacommunities.com.au/wp-content/themes/Divi/includes/builder/frontend-builder/assets/vendors","accent_color":"#707372","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+//# sourceURL=divi-custom-script-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/themes/Divi/js/scripts.min.js?ver=4.27.5" id="divi-custom-script-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/plugins/divi-breadcrumbs-module/scripts/frontend-bundle.min.js?ver=2.0.0" id="divi-breadcrumbs-module-frontend-bundle-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/plugins/gravitydivi-forms-customizer-module/scripts/frontend-bundle.min.js?ver=2.1.0" id="gravitydivi-forms-customizer-module-frontend-bundle-js"></script>
+<script type="text/javascript" src="https://www.ingeniacommunities.com.au/wp-content/themes/Divi/core/admin/js/common.js?ver=4.27.5" id="et-core-common-js"></script>
+<style id="et-builder-module-design-tb-14342-deferred-4316-cached-inline-styles">div.et_pb_section.et_pb_section_0_tb_footer{background-image:url(https://www.ingeniacommunities.com.au/wp-content/uploads/2024/10/INGENIA-FINAL-2-01.png),linear-gradient(1deg,#ffffff 2%,#32fff1 100%)!important}.et_pb_row_0_tb_footer{background-color:#ffffff;border-radius:18px 18px 18px 18px;overflow:hidden;min-height:186px}.et_pb_row_0_tb_footer.et_pb_row{padding-top:20px!important;padding-right:20px!important;padding-bottom:20px!important;padding-left:20px!important;margin-top:0px!important;margin-bottom:0px!important;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px}.et_pb_row_0_tb_footer,body #page-container .et-db #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row{width:100%}.et_pb_text_0_tb_footer{padding-top:7px!important}.et_pb_section_1_tb_footer{height:0px;min-height:30px}.et_pb_section_1_tb_footer.et_pb_section{padding-top:0px;padding-bottom:73px;margin-top:0px;background-color:#d7d8d8!important}.et_pb_row_1_tb_footer.et_pb_row{padding-bottom:0px!important;padding-bottom:0px}.et_pb_menu_0_tb_footer.et_pb_menu ul li a{font-weight:700}.et_pb_menu_0_tb_footer.et_pb_menu{min-height:38px}.et_pb_menu_0_tb_footer.et_pb_menu ul li.current-menu-item a{color:rgba(93,100,104,0.98)!important}.et_pb_menu_0_tb_footer.et_pb_menu .nav li ul,.et_pb_menu_0_tb_footer.et_pb_menu .et_mobile_menu,.et_pb_menu_0_tb_footer.et_pb_menu .et_mobile_menu ul{background-color:#ffffff!important}.et_pb_menu_0_tb_footer .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,.et_pb_menu_0_tb_footer .et_pb_menu__logo-slot{width:auto;max-width:100%}.et_pb_menu_0_tb_footer .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_menu_0_tb_footer .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img{height:auto;max-height:none}.et_pb_menu_0_tb_footer .mobile_nav .mobile_menu_bar:before,.et_pb_menu_0_tb_footer .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_menu_0_tb_footer .et_pb_menu__icon.et_pb_menu__close-search-button,.et_pb_menu_0_tb_footer .et_pb_menu__icon.et_pb_menu__cart-button{color:#707372}.et_pb_section_2_tb_footer{height:0px;min-height:72px}.et_pb_section_2_tb_footer.et_pb_section{padding-top:0px;padding-bottom:64px;margin-bottom:-5px;background-color:#5D6468!important}.et_pb_row_2_tb_footer{min-height:34px}.et_pb_row_2_tb_footer.et_pb_row{padding-bottom:0px!important;padding-left:34px!important;padding-bottom:0px;padding-left:34px}.et_pb_text_1_tb_footer.et_pb_text{color:#ffffff!important}.et_pb_text_1_tb_footer{font-size:14px}div.et_pb_section.et_pb_section_0{background-image:linear-gradient(45deg,rgba(0,0,0,0.5) 46%,rgba(0,0,0,0) 100%),url(http://ingeniacommunities.com.au/wp-content/uploads/2018/05/Ingenia-Holidays-One-Mile-Beach-Aerial-1500x800.jpg)!important}.et_pb_row_0.et_pb_row{padding-top:60px!important;padding-right:0px!important;padding-bottom:65px!important;padding-left:0px!important;padding-top:60px;padding-right:0px;padding-bottom:65px;padding-left:0px}.et_pb_post_title_0 .et_pb_title_container h1.entry-title,.et_pb_post_title_0 .et_pb_title_container h2.entry-title,.et_pb_post_title_0 .et_pb_title_container h3.entry-title,.et_pb_post_title_0 .et_pb_title_container h4.entry-title,.et_pb_post_title_0 .et_pb_title_container h5.entry-title,.et_pb_post_title_0 .et_pb_title_container h6.entry-title{font-size:2.5em;text-shadow:0em 0.1em 0.1em rgba(0,0,0,0.4)}.et_pb_divider_0{max-width:120px}.et_pb_divider_0:before{border-top-color:rgba(242,169,0,0.7);border-top-width:3px}.et_pb_section_1.et_pb_section{padding-top:1%;padding-right:0px;padding-bottom:1%;padding-left:0px;background-color:rgba(93,100,104,0.1)!important}.et_pb_row_1.et_pb_row{padding-top:0px!important;padding-right:2%!important;padding-bottom:0px!important;padding-left:2%!important;padding-top:0;padding-right:2%;padding-bottom:0;padding-left:2%}.et_pb_dcsbcm_divi_breadcrumbs_module_0{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:300;font-size:-1px;color:#5d6468!important;padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:0px!important;margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}.et_pb_dcsbcm_divi_breadcrumbs_module_0 span.dcsbcm_separator,.et_pb_dcsbcm_divi_breadcrumbs_module_0 .dcsbcm_divi_breadcrumb a{color:#5d6468!important}.et_pb_section_2.et_pb_section{padding-top:0px;padding-bottom:20px}.et_pb_row_2.et_pb_row{padding-top:50px!important;padding-right:2%!important;padding-bottom:0px!important;padding-left:2%!important;padding-top:50px;padding-right:2%;padding-bottom:0;padding-left:2%}.et_pb_text_0.et_pb_text{color:#5D6468!important}.et_pb_text_0{font-weight:300}</style>	
+	</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1778571456 -->
