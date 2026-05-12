@@ -1,14 +1,12 @@
 # PrivacyPolicyScraper
 
-Scrapes and stores privacy policies for 263 Australian organisations: ASX 200 companies, 20 MNCs operating in Australia, and 20 Australian Government entities.
+Privacy policies for 263 Australian organisations: ASX 200 companies, 20 MNCs operating in Australia, and 20 Australian Government entities.
 
-For each organisation it finds the privacy policy URL, downloads the full HTML (+ screenshot) or PDF, and extracts plain text. Everything is stored in SQLite and a local folder structure. A minimal Flask dashboard lets you browse and read policies.
+**Scraping is already done.** The database, extracted text, screenshots, and raw HTML/PDFs are included in this repository. You only need to run the scraper again if you want to refresh or extend the data.
 
 ---
 
-## Setup
-
-**Requirements:** Python 3.10+
+## Quickstart — browse the data
 
 ```bash
 git clone https://github.com/<you>/PrivacyPolicyScraper.git
@@ -21,15 +19,40 @@ python -m venv .venv
 source .venv/bin/activate
 
 pip install --prefer-binary -r requirements.txt
-playwright install chromium
+
+python main.py serve
 ```
+
+Open **http://localhost:5000** in your browser.
+
+The dashboard lets you:
+- Browse all 263 organisations, filter by type (ASX200 / MNC / Government)
+- Search by name, sector, or ASX code
+- View extracted policy text per company
+- Open raw HTML, PNG screenshot, or download PDF
 
 ---
 
-## Usage
+## Data without the dashboard
+
+All data is also accessible directly:
+
+| Path | Contents |
+|------|----------|
+| `data/output/companies.csv` | Company metadata (name, website, sector, type, ASX code) |
+| `data/output/privacy_policies.csv` | Policy URLs, status, extracted text |
+| `data/db/privacy_scraper.db` | SQLite database (open with DB Browser or any SQLite client) |
+| `storage/companies/<slug>/` | Per-company files: `privacy_policy.html`, `screenshot.png`, `extracted_text.txt`, `privacy_policy.pdf` |
+
+---
+
+## Re-running or extending the scraper
 
 ```bash
-# Scrape all 263 organisations (takes ~45 min on first run)
+# One-time: install Playwright browser (only needed for screenshots)
+playwright install chromium
+
+# Scrape all organisations
 python main.py scrape
 
 # Scrape a subset
@@ -41,36 +64,9 @@ python main.py scrape --type GOVERNMENT
 python main.py scrape --company CBA
 python main.py scrape --company "Commonwealth Bank"
 
-# Re-scrape companies that were already done
+# Force re-scrape already-done companies
 python main.py scrape --force
 
-# Export to CSV  (data/output/)
+# Regenerate CSVs after scraping
 python main.py export
-
-# Start dashboard  → http://localhost:5000
-python main.py serve
 ```
-
----
-
-## Output
-
-| Path | Contents |
-|------|----------|
-| `data/db/privacy_scraper.db` | SQLite database |
-| `data/output/companies.csv` | Company metadata |
-| `data/output/privacy_policies.csv` | Policy URLs, status, extracted text |
-| `storage/companies/<slug>/` | Per-company files (html, png, txt, pdf) |
-
-Raw files are accessible without the dashboard — open any `.html` in a browser, `.png` in an image viewer, or `.txt` in any editor.
-
----
-
-## Dashboard
-
-`python main.py serve` starts a local Flask server at `http://127.0.0.1:5000`.
-
-- Filter companies by type (ASX200 / MNC / Government)
-- Live search by name, sector, or ASX code
-- Per-company detail page with extracted text and links to raw files
-- `GET /api/status` returns JSON counts by scraping status

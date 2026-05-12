@@ -10,10 +10,9 @@ dist/
 build/
 .eggs/
 
-# Scraped data (large — run `python main.py scrape` to regenerate)
-storage/
-data/db/
-data/output/
+# SQLite transient journal files
+*.db-wal
+*.db-shm
 
 # Claude
 .claude/

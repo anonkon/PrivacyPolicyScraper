@@ -1,0 +1,264 @@
+﻿id,name,website,sector,company_type,asx_code,policy_status,policy_url,content_type,scraped_at
+208,29Metals,https://www.29metals.com,Materials,ASX200,29M,SUCCESS,https://www.29metals.com/privacy-policy,html,2026-05-12 10:27:11.595744
+91,A2 Milk Company,https://www.a2milk.com,Consumer Staples,ASX200,A2M,SUCCESS,https://www.a2milk.com/privacy,html,2026-05-12 10:27:24.797206
+56,AGL Energy,https://www.agl.com.au,Energy,ASX200,AGL,SUCCESS,https://www.agl.com.au/privacy-policy,html,2026-05-12 10:27:36.549505
+11,AMP Limited,https://www.amp.com.au,Financials,ASX200,AMP,SUCCESS,https://www.amp.com.au/privacy,html,2026-05-12 10:27:50.553259
+3,ANZ Group Holdings,https://www.anz.com.au,Financials,ASX200,ANZ,SUCCESS,https://www.anz.com.au/privacy/centre/,html,2026-05-12 10:28:14.261584
+60,APA Group,https://www.apa.com.au,Energy,ASX200,APA,SUCCESS,https://www.apa.com.au/privacy-statement,html,2026-05-12 10:28:26.645264
+70,ARB Corporation,https://www.arb.com.au,Consumer Discretionary,ASX200,ARB,SUCCESS,https://www.arb.com.au/privacy-policy,html,2026-05-12 10:28:36.737457
+14,ASX Limited,https://www.asx.com.au,Financials,ASX200,ASX,SUCCESS,https://www.asx.com.au/privacy,html,2026-05-12 10:28:47.593166
+150,Abacus Property Group,https://www.abacusproperty.com.au,Real Estate,ASX200,ABP,SUCCESS,https://abacusgroup.com.au/privacy-policy/,html,2026-05-12 10:28:57.445788
+74,Accent Group,https://www.accentgroupltd.com,Consumer Discretionary,ASX200,AX1,NOT_FOUND,,,2026-05-12 12:07:41.856618
+83,Adairs,https://www.adairs.com.au,Consumer Discretionary,ASX200,ADH,SUCCESS,https://www.adairs.com.au#,html,2026-05-12 11:57:39.091829
+209,Aeris Resources,https://www.aerisresources.com.au,Materials,ASX200,AIS,SUCCESS,https://www.aerisresources.com.au/privacy-policy/,html,2026-05-12 11:57:46.103341
+215,Airtasker,https://www.airtasker.com,Technology,ASX200,ART,SUCCESS,https://support.airtasker.com/hc/en-au,html,2026-05-12 11:57:58.763912
+122,Alliance Aviation Services,https://www.allianceaviation.com.au,Industrials,ASX200,AQZ,NOT_FOUND,,,2026-05-12 12:10:38.893815
+47,Amcor,https://www.amcor.com,Materials,ASX200,AMC,SUCCESS,https://www.amcor.com/privacy_policy/privacy_policy,html,2026-05-12 12:03:14.197403
+59,Ampol,https://www.ampol.com.au,Energy,ASX200,ALD,SUCCESS,https://www.ampol.com.au/privacy,html,2026-05-12 12:03:20.067485
+108,Ansell,https://www.ansell.com,Health Care,ASX200,ANN,SUCCESS,https://www.ansell.com/au/en/legal/privacy-policy,html,2026-05-12 12:03:30.588797
+160,Appen,https://www.appen.com,Technology,ASX200,APX,SUCCESS,https://www.appen.com/legal-policies/privacy-statement,html,2026-05-12 12:03:36.618191
+152,Arena REIT,https://www.arenagroup.com.au,Real Estate,ASX200,ARF,SUCCESS,https://www.arenagroup.com.au/privacy,html,2026-05-12 12:03:58.434090
+187,Aristocrat Leisure,https://www.aristocrat.com,Consumer Discretionary,ASX200,ALL,SUCCESS,https://www.aristocrat.com/privacy-policy/,html,2026-05-12 12:04:02.956585
+120,Atlas Arteria,https://www.atlasarteria.com,Industrials,ASX200,ALX,SUCCESS,https://www.atlasarteria.com/privacy,html,2026-05-12 12:04:08.085592
+164,Audinate Group,https://www.audinate.com,Technology,ASX200,AD8,SUCCESS,https://www.audinate.com/legal/privacy-policy/,html,2026-05-12 12:04:15.949876
+131,Aurizon Holdings,https://www.aurizon.com.au,Industrials,ASX200,AZJ,SUCCESS,https://www.aurizon.com.au/privacy-policy,html,2026-05-12 12:04:21.131340
+168,Aussie Broadband,https://www.aussiebroadband.com.au,Technology,ASX200,ABB,SUCCESS,https://www.aussiebroadband.com.au/legal/privacy-policy/,html,2026-05-12 12:04:29.188988
+99,Australian Agricultural Company,https://www.aaco.com.au,Consumer Staples,ASX200,AAC,SUCCESS,https://aaco.com.au/policies/privacy-policy,html,2026-05-12 12:04:33.230138
+107,Australian Clinical Labs,https://www.australianclinicallabs.com.au,Health Care,ASX200,ACL,NOT_FOUND,,,2026-05-12 12:13:35.938707
+28,BHP Group,https://www.bhp.com,Materials,ASX200,BHP,NOT_FOUND,,,2026-05-12 12:16:36.846350
+16,Bank of Queensland,https://www.boq.com.au,Financials,ASX200,BOQ,FAILED,,,2026-05-12 12:16:38.892568
+81,Bapcor,https://www.bapcor.com.au,Consumer Discretionary,ASX200,BAP,NOT_FOUND,,,2026-05-12 12:16:41.144470
+53,Beach Energy,https://www.beachenergy.com.au,Energy,ASX200,BPT,SUCCESS,https://beachenergy.com.au/privacy-policy/,html,2026-05-12 12:16:50.681471
+92,Bega Cheese,https://www.begacheese.com.au,Consumer Staples,ASX200,BGA,SUCCESS,https://begagroup.com.au/privacy-policy/,html,2026-05-12 12:16:56.701054
+15,Bendigo and Adelaide Bank,https://www.bendigobank.com.au,Financials,ASX200,BEN,SUCCESS,https://www.bendigobank.com.au/privacy,html,2026-05-12 12:17:02.406400
+217,Betmakers Technology Group,https://www.betmakers.com,Technology,ASX200,BET,SUCCESS,https://betmakers.com/privacy,html,2026-05-12 12:17:07.417305
+49,BlueScope Steel,https://www.bluescopesteel.com,Materials,ASX200,BSL,FAILED,,,2026-05-12 12:17:09.564192
+52,Boral,https://www.boral.com.au,Materials,ASX200,BLD,SUCCESS,https://www.boral.com.au/about/privacy-policy,html,2026-05-12 12:17:48.305459
+211,Boss Energy,https://www.bossenergy.com.au,Energy,ASX200,BOE,NOT_FOUND,,,2026-05-12 12:20:45.424505
+119,Brambles,https://www.brambles.com,Industrials,ASX200,BXB,SUCCESS,https://www.brambles.com/privacy-notice,html,2026-05-12 12:20:58.486424
+126,CIMIC Group,https://www.cimic.com.au,Industrials,ASX200,CIM,SUCCESS,https://www.cimic.com.au/our-group/governance/policies,html,2026-05-12 12:21:33.811322
+100,CSL Limited,https://www.csl.com,Health Care,ASX200,CSL,SUCCESS,https://privacy.csl.com/,html,2026-05-12 12:21:39.337362
+112,Capitol Health,https://www.capitolhealth.com.au,Health Care,ASX200,CAJ,SUCCESS,https://www.capitolhealth.com.au/privacy-policy,html,2026-05-12 12:21:44.688035
+200,Capricorn Metals,https://www.capricornmetals.com.au,Materials,ASX200,CMM,NOT_FOUND,,,2026-05-12 12:21:46.793097
+77,Carsales.com,https://www.carsales.com.au,Consumer Discretionary,ASX200,CAR,SUCCESS,https://www.carsales.com.au/info/privacy-policy/,html,2026-05-12 12:22:03.327619
+222,Carsguide Autotrader,https://www.carsguide.com.au,Consumer Discretionary,ASX200,CAG,NOT_FOUND,,,2026-05-12 12:22:04.702192
+165,Catapult Group International,https://www.catapultsports.com,Technology,ASX200,CAT,SUCCESS,https://www.catapult.com/privacy-policy,html,2026-05-12 12:22:13.369769
+153,Cedar Woods Properties,https://www.cedarwoods.com.au,Real Estate,ASX200,CWP,SUCCESS,https://www.cedarwoods.com.au/privacy-policy,html,2026-05-12 12:22:22.449398
+148,Centuria Industrial REIT,https://www.centuria.com.au,Real Estate,ASX200,CIP,SUCCESS,https://centuria.com.au/contact-us/privacy-policy/,html,2026-05-12 12:22:29.340268
+12,Challenger Limited,https://www.challenger.com.au,Financials,ASX200,CGF,SUCCESS,https://www.challenger.com.au/privacy,html,2026-05-12 12:22:35.025131
+143,Charter Hall Group,https://www.charterhall.com.au,Real Estate,ASX200,CHC,SUCCESS,https://www.charterhall.com.au/privacy-policy,html,2026-05-12 12:22:41.552588
+177,Chorus,https://www.chorus.co.nz,Communication Services,ASX200,CNU,SUCCESS,https://www.chorus.co.nz/legal/privacy-policy,html,2026-05-12 12:22:46.563552
+86,City Chic Collective,https://www.citychicglobal.com,Consumer Discretionary,ASX200,CCX,NOT_FOUND,,,2026-05-12 12:22:48.697713
+123,Cleanaway Waste Management,https://www.cleanaway.com.au,Industrials,ASX200,CWY,SUCCESS,https://www.cleanaway.com.au/privacy-statement,html,2026-05-12 12:22:54.234342
+103,Cochlear,https://www.cochlear.com,Health Care,ASX200,COH,SUCCESS,https://www.cochlear.com/global/en/corporate/privacy-notice,html,2026-05-12 12:23:00.361142
+89,Coles Group,https://www.colesgroup.com.au,Consumer Staples,ASX200,COL,SUCCESS,https://www.colesgroup.com.au/Error.html?aspxerrorpath=/privacy,html,2026-05-12 12:23:03.911487
+1,Commonwealth Bank of Australia,https://www.commbank.com.au,Financials,ASX200,CBA,SUCCESS,https://www.commbank.com.au/support/privacy.html,html,2026-05-12 09:14:02.325512
+13,Computershare,https://www.computershare.com,Financials,ASX200,CPU,SUCCESS,https://www.computershare.com/us/privacy,html,2026-05-12 12:23:20.174711
+186,Contact Energy,https://contact.co.nz,Utilities,ASX200,CEN,SUCCESS,https://contact.co.nz/personal/legal/privacy,html,2026-05-12 12:23:25.540330
+203,Core Lithium,https://www.corelithium.com.au,Materials,ASX200,CXO,SUCCESS,https://www.corelithium.com.au/privacy-policy,html,2026-05-12 12:23:30.484065
+43,Coronado Global Resources,https://www.coronadoglobal.com.au,Materials,ASX200,CRN,NOT_FOUND,,,2026-05-12 12:23:33.336967
+67,Corporate Travel Management,https://www.ctmglobal.com,Consumer Discretionary,ASX200,CTD,SUCCESS,https://www.ctmglobal.com/privacy,html,2026-05-12 12:23:38.599166
+98,Costa Group Holdings,https://www.costagroup.com.au,Consumer Staples,ASX200,CGC,SUCCESS,https://costagroup.com.au/privacy-policy/,html,2026-05-12 12:23:43.691955
+189,Crown Resorts,https://www.crownresorts.com.au,Consumer Discretionary,ASX200,CWN,SUCCESS,https://www.crownresorts.com.au/general/privacy-policy,html,2026-05-12 12:23:55.065348
+162,Data#3,https://www.data3.com.au,Technology,ASX200,DTL,SUCCESS,https://www.data3.com,html,2026-05-12 12:24:15.207409
+142,Dexus,https://www.dexus.com,Real Estate,ASX200,DXS,SUCCESS,https://www.dexus.com/general/privacy-policy.html,html,2026-05-12 12:24:46.293394
+173,Dicker Data,https://www.dickerdata.com.au,Technology,ASX200,DDR,SUCCESS,https://www.dickerdata.com.au/privacy-policy,html,2026-05-12 12:24:53.336810
+183,Domain Holdings Australia,https://www.domain.com.au,Communication Services,ASX200,DHG,NOT_FOUND,,,2026-05-12 12:25:13.115876
+65,Domino's Pizza Enterprises,https://www.dominos.com.au,Consumer Discretionary,ASX200,DMP,SUCCESS,https://www.dominos.com.au/privacy,html,2026-05-12 12:25:17.227027
+124,Downer EDI,https://www.downergroup.com,Industrials,ASX200,DOW,SUCCESS,https://www.downergroup.com/policies/,html,2026-05-12 12:25:45.373185
+69,Eagers Automotive,https://www.eagersautomotive.com.au,Consumer Discretionary,ASX200,APE,SUCCESS,https://www.eagersautomotive.com.au/privacy-policy/,html,2026-05-12 12:25:59.037694
+94,Elders,https://www.elderslimited.com.au,Consumer Staples,ASX200,ELD,NOT_FOUND,,,2026-05-12 12:28:55.972548
+212,Elmo Software,https://www.elmosoftware.com.au,Technology,ASX200,ELO,SUCCESS,https://elmosoftware.com.au/privacy,html,2026-05-12 12:29:02.439005
+198,Emerald Resources,https://www.emeraldresources.com.au,Materials,ASX200,EMR,SUCCESS,https://www.emeraldresources.com.au/privacy-policy/,html,2026-05-12 12:29:08.095485
+174,Empired,https://www.empired.com,Technology,ASX200,EPD,NOT_FOUND,,,2026-05-12 12:40:48.197704
+96,Endeavour Group,https://www.endeavourgroup.com.au,Consumer Staples,ASX200,EDV,SUCCESS,https://www.endeavourgroup.com.au/privacy-at-endeavour-group/,html,2026-05-12 12:40:56.646657
+213,Envirosuite,https://www.envirosuite.com,Technology,ASX200,EVS,SUCCESS,https://envirosuite.com/privacy-terms-and-conditions,html,2026-05-12 12:41:05.825889
+114,Estia Health,https://www.estiahealth.com.au,Health Care,ASX200,EHE,SUCCESS,https://www.estiahealth.com.au/privacy-policy,html,2026-05-12 12:41:11.289420
+33,Evolution Mining,https://www.evolutionmining.com.au,Materials,ASX200,EVN,SUCCESS,https://evolutionmining.com/documents/privacy-policy/,html,2026-05-12 12:41:14.462221
+195,Fisher & Paykel Healthcare,https://www.fphcare.com,Health Care,ASX200,FPH,SUCCESS,https://www.fphcare.com/au/corporate/about-us/privacy-statement/,html,2026-05-12 12:41:51.258812
+66,Flight Centre Travel Group,https://www.fctg.com,Consumer Discretionary,ASX200,FLT,SUCCESS,https://www.fctg.com/privacy-policy,html,2026-05-12 12:41:56.685277
+30,Fortescue,https://www.fortescue.com,Materials,ASX200,FMG,SUCCESS,https://www.fortescue.com/en/privacy,html,2026-05-12 12:42:09.773533
+141,GPT Group,https://www.gpt.com.au,Real Estate,ASX200,GPT,SUCCESS,https://www.gpt.com.au/privacy-policy,html,2026-05-12 12:42:16.744119
+21,GQG Partners,https://www.gqgpartners.com,Financials,ASX200,GQG,SUCCESS,https://gqg.com/privacy-policy/,html,2026-05-12 12:42:25.801925
+82,GUD Holdings,https://www.gudholdings.com.au,Consumer Discretionary,ASX200,GUD,NOT_FOUND,,,2026-05-12 12:45:22.704075
+167,Gentrack Group,https://www.gentrack.com,Technology,ASX200,GTK,SUCCESS,https://gentrack.com/wp-content/uploads/Privacy-Notice.pdf,pdf,2026-05-12 12:45:31.879723
+205,Glencore (Australian ops),https://www.glencore.com.au,Materials,ASX200,GLE,SUCCESS,https://www.glencore.com.au/privacy-policy,html,2026-05-12 12:45:38.059183
+137,Goodman Group,https://www.goodman.com,Real Estate,ASX200,GMG,NOT_FOUND,,,2026-05-12 12:45:42.008836
+93,GrainCorp,https://www.graincorp.com.au,Consumer Staples,ASX200,GNC,SUCCESS,https://www.graincorp.com.au/wp-content/uploads/2021/02/GrainCorpLimitedPrivacyPolicy.pdf,pdf,2026-05-12 12:46:24.958453
+219,Hansen Technologies,https://www.hansencx.com,Technology,ASX200,HSN,SUCCESS,https://www.hansencx.com/privacy-policy/,html,2026-05-12 12:46:34.126934
+63,Harvey Norman Holdings,https://www.harveynorman.com.au,Consumer Discretionary,ASX200,HVN,SUCCESS,https://www.harveynorman.com.au/privacy-policy,html,2026-05-12 12:46:41.944257
+105,Healius,https://www.healius.com.au,Health Care,ASX200,HLS,SUCCESS,https://www.healius.com.au/privacy,html,2026-05-12 12:46:46.669055
+87,Helloworld Travel,https://www.helloworld.com.au,Consumer Discretionary,ASX200,HLO,SUCCESS,https://www.helloworld.com.au/global/404?default,html,2026-05-12 12:46:50.778817
+151,HomeCo Daily Needs REIT,https://www.homeco.com.au,Real Estate,ASX200,HDN,SUCCESS,https://www.homeco.com.au/privacy,html,2026-05-12 12:46:57.088898
+17,Hub24,https://www.hub24.com.au,Financials,ASX200,HUB,SUCCESS,https://www.hub24.com.au/privacy-policy/,html,2026-05-12 12:47:06.780517
+179,IDP Education,https://www.idp.com,Communication Services,ASX200,IEL,SUCCESS,https://www.idp.com/privacy-policy/,html,2026-05-12 12:47:30.410973
+36,IGO Limited,https://www.igo.com.au,Materials,ASX200,IGO,SUCCESS,https://www.igo.com.au/site/utilities/privacy-policy,html,2026-05-12 12:47:38.525782
+19,IRESS,https://www.iress.com,Financials,ASX200,IRE,SUCCESS,https://www.iress.com/,html,2026-05-12 12:48:37.268447
+38,Iluka Resources,https://www.iluka.com,Materials,ASX200,ILU,SUCCESS,https://www.iluka.com/documents/2019/privacy-policy/,html,2026-05-12 12:48:43.690388
+218,Imdex,https://www.imdexlimited.com,Technology,ASX200,IMD,SUCCESS,https://www.imdex.com,html,2026-05-12 12:48:51.104867
+117,Immutep,https://www.immutep.com,Health Care,ASX200,IMM,SUCCESS,https://www.immutep.com/privacy-policy/,html,2026-05-12 12:49:03.436119
+45,Incitec Pivot,https://www.incitecpivot.com.au,Materials,ASX200,IPL,SUCCESS,https://www.incitecpivot.com.au:443/privacy-policy/,html,2026-05-12 12:49:08.269274
+166,Infomedia,https://www.infomedia.com.au,Technology,ASX200,IFM,SUCCESS,https://www.infomedia.com.au/legal/privacy-policy/,html,2026-05-12 12:49:16.525710
+147,Ingenia Communities Group,https://www.ingeniacommunities.com.au,Real Estate,ASX200,INA,SUCCESS,https://www.ingeniacommunities.com.au/privacy/,html,2026-05-12 12:49:23.074494
+97,Inghams Group,https://www.inghams.com.au,Consumer Staples,ASX200,ING,SUCCESS,https://inghams.com.au/privacy/,html,2026-05-12 12:49:33.200561
+6,Insurance Australia Group,https://www.iag.com.au,Financials,ASX200,IAG,SUCCESS,https://www.iag.com.au/privacy-and-security,html,2026-05-12 12:49:38.612436
+111,Integral Diagnostics,https://www.integraldiagnostics.com.au,Health Care,ASX200,IDX,SUCCESS,https://integraldiagnostics.com.au/privacy-policy/,html,2026-05-12 12:49:43.769979
+220,Integrated Research,https://www.ir.com,Technology,ASX200,IRI,SUCCESS,https://www.ir.com/legal/privacy-policy,html,2026-05-12 12:49:54.553639
+64,JB Hi-Fi,https://www.jbhifi.com.au,Consumer Discretionary,ASX200,JBH,SUCCESS,https://www.jbhifi.com.au/pages/help-and-support/360052938974,html,2026-05-12 12:50:00.333630
+51,James Hardie Industries,https://www.jameshardie.com.au,Materials,ASX200,JHX,SUCCESS,https://www.jameshardie.com.au/privacy-policy,html,2026-05-12 12:50:06.599376
+61,Karoon Energy,https://www.karoonenergy.com,Energy,ASX200,KAR,NOT_FOUND,,,2026-05-12 12:50:43.136168
+76,Kogan.com,https://www.kogan.com,Consumer Discretionary,ASX200,KGN,NOT_FOUND,,,2026-05-12 12:50:44.759200
+24,Latitude Group Holdings,https://www.latitudefinancial.com.au,Financials,ASX200,LFS,SUCCESS,https://www.latitudefinancial.com.au/privacy/,html,2026-05-12 12:50:51.203339
+145,Lendlease Group,https://www.lendlease.com,Real Estate,ASX200,LLC,SUCCESS,https://www.lendlease.com:443/au/privacy/?utm_source=url-redirect&utm_medium=www-lendlease-com_privacy,html,2026-05-12 12:50:56.306879
+159,Life360,https://www.life360.com,Technology,ASX200,360,SUCCESS,https://legal.corp.life360.com/hc/en-us/articles/16038777217175-Life360-Privacy-Policy,html,2026-05-12 12:51:06.521508
+216,Limeade,https://www.limeade.com,Technology,ASX200,LME,SUCCESS,https://www.webmdhealthservices.com/?limeaderedirect=1,html,2026-05-12 12:51:13.640232
+133,Lindsay Australia,https://www.lindsay.com.au,Industrials,ASX200,LAU,SUCCESS,https://www.lindsay.com.au/privacy,html,2026-05-12 12:51:18.060433
+202,Liontown Resources,https://www.liontownresources.com.au,Materials,ASX200,LTR,NOT_FOUND,,,2026-05-12 12:51:23.049675
+73,Lovisa Holdings,https://www.lovisa.com,Consumer Discretionary,ASX200,LOV,SUCCESS,https://www.lovisa.com/pages/security-privacy,html,2026-05-12 12:51:41.111385
+37,Lynas Rare Earths,https://www.lynasrareearths.com,Materials,ASX200,LYC,SUCCESS,https://www.lynasrareearths.com/privacy,html,2026-05-12 12:51:46.159422
+5,Macquarie Group,https://www.macquarie.com,Financials,ASX200,MQG,SUCCESS,https://www.macquarie.com/au/en/disclosures/privacy-and-cookies.html,html,2026-05-12 12:51:51.779882
+22,Magellan Financial Group,https://www.magellangroup.com.au,Financials,ASX200,MFG,SUCCESS,https://magellaninvestmentpartners.com/privacy/,html,2026-05-12 12:51:58.097104
+130,McMillan Shakespeare,https://www.mmsg.com.au,Industrials,ASX200,MMS,SUCCESS,https://mmsg.com.au/privacy,html,2026-05-12 12:52:08.060593
+9,Medibank Private,https://www.medibank.com.au,Financials,ASX200,MPL,SUCCESS,https://www.medibank.com.au/privacy/,html,2026-05-12 12:52:16.281328
+161,Megaport,https://www.megaport.com,Technology,ASX200,MP1,SUCCESS,https://www.megaport.com/legal/privacy-policy/,html,2026-05-12 12:52:25.648018
+184,Mercury NZ,https://www.mercury.co.nz,Utilities,ASX200,MCY,SUCCESS,https://www.mercury.co.nz/terms-conditions/privacy-policy,html,2026-05-12 12:52:32.529858
+185,Meridian Energy,https://www.meridianenergy.co.nz,Utilities,ASX200,MEZ,SUCCESS,https://www.meridianenergy.co.nz/legal-and-privacy?redirectfrom=%2Fprivacy,html,2026-05-12 12:52:38.250300
+34,Mineral Resources,https://www.mineralresources.com.au,Materials,ASX200,MIN,SUCCESS,https://www.mineralresources.com.au/privacy-policy/,html,2026-05-12 12:53:10.192913
+140,Mirvac Group,https://www.mirvac.com,Real Estate,ASX200,MGR,SUCCESS,https://www.mirvac.com/privacy-policy,html,2026-05-12 12:53:19.542110
+127,Monadelphous Group,https://www.monadelphous.com.au,Industrials,ASX200,MND,NOT_FOUND,,,2026-05-12 12:53:23.883056
+115,Monash IVF Group,https://www.monashivf.com,Health Care,ASX200,MVF,SUCCESS,https://monashivf.com/privacy-policy/,html,2026-05-12 12:53:29.606204
+157,NEXTDC,https://www.nextdc.com,Technology,ASX200,NXT,SUCCESS,https://www.nextdc.com/privacy-policy,html,2026-05-12 12:53:37.484291
+10,NIB Holdings,https://www.nib.com.au,Financials,ASX200,NHF,SUCCESS,https://www.nib.com.au/legal/privacy-policy,html,2026-05-12 12:53:43.596396
+109,Nanosonics,https://www.nanosonics.com.au,Health Care,ASX200,NAN,SUCCESS,https://www.nanosonics.com.au/policies/privacy,html,2026-05-12 12:53:57.725170
+2,National Australia Bank,https://www.nab.com.au,Financials,ASX200,NAB,SUCCESS,https://www.nab.com.au/common/privacy-policy?own_cid=shortURL:privacy,html,2026-05-12 12:54:05.306878
+146,National Storage REIT,https://www.nationalstorage.com.au,Real Estate,ASX200,NSR,NOT_FOUND,,,2026-05-12 12:54:10.499255
+18,Netwealth Group,https://www.netwealth.com.au,Financials,ASX200,NWL,SUCCESS,https://www.netwealth.com.au/privacy-policy,html,2026-05-12 12:54:24.067096
+42,New Hope Corporation,https://www.newhopegroup.com.au,Materials,ASX200,NHC,SUCCESS,https://newhopegroup.com.au/privacy-policy/,html,2026-05-12 12:54:29.493579
+182,News Corporation,https://newscorp.com,Communication Services,ASX200,NWS,SUCCESS,https://newscorp.com/privacy-notice/,html,2026-05-12 12:54:34.156776
+71,Nick Scali,https://www.nickscali.com.au,Consumer Discretionary,ASX200,NCK,SUCCESS,https://www.nickscali.com.au/privacy,html,2026-05-12 12:54:39.626302
+180,Nine Entertainment,https://www.nineentertainment.com.au,Communication Services,ASX200,NEC,SUCCESS,https://www.nineforbrands.com.au/,html,2026-05-12 12:54:45.343012
+221,Nitro Software,https://www.nitro.com,Technology,ASX200,NTO,NOT_FOUND,,,2026-05-12 12:54:51.648317
+32,Northern Star Resources,https://www.nsrltd.com,Materials,ASX200,NST,SUCCESS,https://www.nsrltd.com/privacy-policy/,html,2026-05-12 12:54:56.562877
+204,Novonix,https://www.novonix.com.au,Materials,ASX200,NVX,NOT_FOUND,,,2026-05-12 12:54:58.803633
+46,Nufarm,https://www.nufarm.com,Materials,ASX200,NUF,NOT_FOUND,,,2026-05-12 12:55:03.940326
+171,Nuix,https://www.nuix.com,Technology,ASX200,NXL,SUCCESS,https://www.nuix.com/privacy-policy,html,2026-05-12 12:55:09.359760
+206,OZ Minerals,https://www.ozminerals.com,Materials,ASX200,OZL,SUCCESS,https://www.ozminerals.com,html,2026-05-12 12:55:18.780925
+163,Objective Corporation,https://www.objective.com,Technology,ASX200,OCL,SUCCESS,https://www.objective.com/privacy-policy,html,2026-05-12 12:55:24.926857
+44,Orica,https://www.orica.com,Materials,ASX200,ORI,SUCCESS,https://www.orica.com/privacy-policy,html,2026-05-12 12:55:37.221833
+57,Origin Energy,https://www.originenergy.com.au,Energy,ASX200,ORG,SUCCESS,https://www.originenergy.com.au/privacy/,html,2026-05-12 12:55:42.630894
+48,Orora,https://www.ororagroup.com.au,Materials,ASX200,ORA,NOT_FOUND,,,2026-05-12 12:55:46.561116
+196,Pacific Smiles Group,https://www.pacificsmiles.com.au,Health Care,ASX200,PSQ,SUCCESS,https://pacificsmilesdental.com.au/,html,2026-05-12 12:55:52.010051
+210,Paladin Energy,https://www.paladinenergy.com.au,Energy,ASX200,PDN,SUCCESS,https://www.paladinenergy.com/privacy-policy/,html,2026-05-12 12:55:58.057041
+154,Peet Limited,https://www.peet.com.au,Real Estate,ASX200,PPC,SUCCESS,https://www.peet.com.au/privacy-policy/,html,2026-05-12 12:56:03.156880
+20,Perpetual Limited,https://www.perpetual.com.au,Financials,ASX200,PPT,SUCCESS,https://www.perpetual.com.au/privacy-policy,html,2026-05-12 12:56:11.732657
+40,Perseus Mining,https://www.perseusmining.com,Materials,ASX200,PRU,SUCCESS,https://perseusmining.com/privacy-policy/,html,2026-05-12 12:56:17.883000
+35,Pilbara Minerals,https://www.pilbaraminerals.com.au,Materials,ASX200,PLS,NOT_FOUND,,,2026-05-12 12:56:20.160624
+23,Pinnacle Investment Management,https://www.pinnacleinvestment.com,Financials,ASX200,PNI,SUCCESS,https://pinnacleinvestment.com/privacy-policy/,html,2026-05-12 12:56:29.545334
+116,Polynovo,https://www.polynovo.com,Health Care,ASX200,PNV,SUCCESS,https://polynovo.com/privacy-policy-int-en/,html,2026-05-12 12:56:41.720877
+26,Praemium,https://www.praemium.com,Financials,ASX200,PPS,SUCCESS,https://www.praemium.com/privacy-and-data/,html,2026-05-12 12:56:50.329406
+72,Premier Investments,https://www.premierinvestments.com.au,Consumer Discretionary,ASX200,PMV,NOT_FOUND,,,2026-05-12 12:56:54.691039
+193,Priceline Pharmacy,https://www.priceline.com.au,Consumer Staples,ASX200,API,NOT_FOUND,,,2026-05-12 12:56:59.752913
+110,Pro Medicus,https://www.promedicus.net,Health Care,ASX200,PME,NOT_FOUND,,,2026-05-12 12:57:01.150718
+7,QBE Insurance Group,https://www.qbe.com,Financials,ASX200,QBE,NOT_FOUND,,,2026-05-12 12:57:12.616571
+121,Qantas Airways,https://www.qantas.com,Industrials,ASX200,QAN,SUCCESS,https://www.qantas.com/en-au/help/policies/privacy-and-security,html,2026-05-12 12:57:17.701050
+132,Qube Holdings,https://www.qube.com.au,Industrials,ASX200,QUB,SUCCESS,https://qube.com.au/privacy/,html,2026-05-12 12:57:25.076070
+78,REA Group,https://www.rea-group.com,Communication Services,ASX200,REA2,NOT_FOUND,,,2026-05-12 12:57:35.984380
+201,Ramelius Resources,https://www.rameliusresources.com.au,Materials,ASX200,RMS,SUCCESS,https://www.rameliusresources.com.au/privacy-policy/,html,2026-05-12 12:58:01.963946
+102,Ramsay Health Care,https://www.ramsayhealth.com,Health Care,ASX200,RHC,SUCCESS,https://www.ramsayhealth.com/en/privacy-policy/,html,2026-05-12 12:58:09.998155
+170,ReadyTech Holdings,https://www.readytech.com.au,Technology,ASX200,RDY,SUCCESS,https://readytech.io/security-and-compliance/privacy-policy,html,2026-05-12 12:58:27.842555
+214,Redbubble,https://www.redbubble.com,Consumer Discretionary,ASX200,RBL,SUCCESS,https://www.redbubble.com/privacy,html,2026-05-12 12:58:37.801176
+191,Reece Group,https://www.reece.com.au,Industrials,ASX200,REH,SUCCESS,https://www.reece.com.au/privacy,html,2026-05-12 12:58:44.576416
+113,Regis Healthcare,https://www.regis.com.au,Health Care,ASX200,REG,SUCCESS,https://www.regis.com.au/privacy-policy/,html,2026-05-12 12:58:52.390271
+39,Regis Resources,https://www.regisresources.com,Materials,ASX200,RRL,NOT_FOUND,,,2026-05-12 12:58:54.020332
+192,Reliance Worldwide Corporation,https://www.relianceworldwide.com,Industrials,ASX200,RWC,NOT_FOUND,,,2026-05-12 13:04:45.827656
+104,ResMed,https://www.resmed.com,Health Care,ASX200,RMD,SUCCESS,https://www.resmed.com.au/privacy-policy,html,2026-05-12 13:04:55.678763
+29,Rio Tinto,https://www.riotinto.com,Materials,ASX200,RIO,SUCCESS,https://www.riotinto.com/en/404,html,2026-05-12 13:05:04.889769
+149,Rural Funds Group,https://www.ruralfunds.com.au,Real Estate,ASX200,RFF,SUCCESS,https://www.ruralfunds.com.au/privacy-policy,html,2026-05-12 13:05:09.644590
+207,Sandfire Resources,https://www.sandfire.com.au,Materials,ASX200,SFR,SUCCESS,https://www.sandfire.com.au/wp-content/uploads/2024/08/Privacy-Policy_2024-1.pdf,pdf,2026-05-12 13:06:05.555367
+55,Santos,https://www.santos.com,Energy,ASX200,STO,SUCCESS,https://www.santos.com/privacy/,html,2026-05-12 13:06:11.642490
+138,Scentre Group,https://www.scentregroup.com,Real Estate,ASX200,SCG,NOT_FOUND,,,2026-05-12 13:06:30.855006
+79,Seek,https://www.seek.com.au,Consumer Discretionary,ASX200,SEK,SUCCESS,https://au.seek.com/privacy,html,2026-05-12 13:06:35.696352
+95,Select Harvests,https://www.selectharvests.com.au,Consumer Staples,ASX200,SHV,SUCCESS,https://www.selectharvests.com.au/privacy/,html,2026-05-12 13:06:42.014526
+223,Service One Alliance Bank,https://www.serviceone.com.au,Financials,ASX200,SVC,SUCCESS,https://goodloop.au/privacy-policy,html,2026-05-12 13:06:47.352593
+136,Service Stream,https://www.servicestream.com.au,Industrials,ASX200,SSM,SUCCESS,https://servicestream.com.au/privacy-terms,html,2026-05-12 13:07:01.480857
+128,Seven Group Holdings,https://www.sevengroup.com.au,Industrials,ASX200,SVW,SUCCESS,https://sghl.com.au/privacy-policy,html,2026-05-12 13:07:06.818486
+181,Seven West Media,https://www.sevenwestmedia.com.au,Communication Services,ASX200,SWM,SUCCESS,https://sevenwestmedia.com.au/privacy-policies/,html,2026-05-12 13:07:13.786777
+106,Sigma Healthcare,https://www.sigmahealthcare.com.au,Health Care,ASX200,SIG,SUCCESS,https://sigmahealthcare.com.au/privacy-policy/,html,2026-05-12 13:07:19.470024
+199,Silver Lake Resources,https://www.silverlakeresources.com.au,Materials,ASX200,SLR,NOT_FOUND,,,2026-05-12 13:07:27.057585
+50,Sims Limited,https://www.simsmm.com,Materials,ASX200,SGM,SUCCESS,https://www.simsmm.com/privacy/,html,2026-05-12 13:07:36.643477
+190,Sky Network Television,https://www.sky.co.nz,Communication Services,ASX200,SKT,SUCCESS,https://www.sky.co.nz/privacy,html,2026-05-12 13:07:41.250924
+129,SmartGroup Corporation,https://www.smartgroup.com.au,Industrials,ASX200,SIQ,SUCCESS,https://www.smartgroup.com.au/privacy,html,2026-05-12 13:07:45.518130
+101,Sonic Healthcare,https://www.sonichealthcare.com,Health Care,ASX200,SHL,SUCCESS,https://www.sonichealthcare.com/privacy-and-security/privacy-policy/,html,2026-05-12 13:07:50.453492
+31,South32,https://www.south32.net,Materials,ASX200,S32,NOT_FOUND,,,2026-05-12 13:07:54.668066
+178,Spark New Zealand,https://www.sparknz.co.nz,Communication Services,ASX200,SPK,SUCCESS,https://www.spark.co.nz/online/request-blocked?_event_transid=454995673,html,2026-05-12 13:08:01.391133
+80,Star Entertainment Group,https://www.starentertainmentgroup.com.au,Consumer Discretionary,ASX200,SGR,SUCCESS,https://www.star.com.au/privacy-policy,html,2026-05-12 13:08:07.890109
+139,Stockland,https://www.stockland.com.au,Real Estate,ASX200,SGP,SUCCESS,https://www.stockland.com.au/privacy-policy,html,2026-05-12 13:08:13.312741
+8,Suncorp Group,https://www.suncorp.com.au,Financials,ASX200,SUN,SUCCESS,https://www.suncorp.com.au/about-us/legal/privacy.html,html,2026-05-12 13:08:20.112264
+84,Super Retail Group,https://www.superretailgroup.com,Consumer Discretionary,ASX200,SUL,SUCCESS,https://www.superretailgroup.com.au/privacy-and-security,html,2026-05-12 13:08:27.394207
+169,Superloop,https://www.superloop.com,Technology,ASX200,SLC,SUCCESS,https://www.superloop.com/privacy-policy/,html,2026-05-12 13:08:36.856637
+176,TPG Telecom,https://www.tpgtelecom.com.au,Communication Services,ASX200,TPG,SUCCESS,https://www.tpgtelecom.com.au/about-us/privacy,html,2026-05-12 13:08:42.556629
+188,Tabcorp Holdings,https://www.tabcorp.com.au,Consumer Discretionary,ASX200,TAH,NOT_FOUND,,,2026-05-12 13:11:44.378550
+156,TechnologyOne,https://www.technologyone.com,Technology,ASX200,TNE,SUCCESS,https://www.technologyone.com/privacy,html,2026-05-12 13:11:49.358877
+175,Telstra Group,https://www.telstra.com.au,Communication Services,ASX200,TLS,SUCCESS,https://www.telstra.com.au/privacy,html,2026-05-12 13:11:55.976448
+75,Temple & Webster Group,https://www.templeandwebster.com.au,Consumer Discretionary,ASX200,TPW,NOT_FOUND,,,2026-05-12 13:11:59.872883
+134,Toll Holdings,https://www.tollgroup.com,Industrials,ASX200,TOL,SUCCESS,https://www.tollgroup.com/page-not-found,html,2026-05-12 13:12:04.286524
+118,Transurban Group,https://www.transurban.com,Industrials,ASX200,TCL,SUCCESS,https://www.transurban.com/privacy,html,2026-05-12 13:12:10.584790
+90,Treasury Wine Estates,https://www.tweglobal.com,Consumer Staples,ASX200,TWE,SUCCESS,https://www.tweglobal.com/privacy,html,2026-05-12 13:12:27.114610
+25,Tyro Payments,https://www.tyro.com,Financials,ASX200,TYR,SUCCESS,https://www.tyro.com/privacy-policy/,html,2026-05-12 13:12:34.003466
+85,Universal Store Holdings,https://www.universalstore.com,Consumer Discretionary,ASX200,UNI,SUCCESS,https://www.universalstore.com/pages/privacy-policy,html,2026-05-12 13:12:56.643427
+135,Ventia Services Group,https://www.ventia.com,Industrials,ASX200,VNT,NOT_FOUND,,,2026-05-12 13:12:59.008778
+144,Vicinity Centres,https://www.vicinity.com.au,Real Estate,ASX200,VCX,SUCCESS,https://www.vicinity.com.au/privacy-policy,html,2026-05-12 13:13:04.778052
+197,Virtus Health,https://www.virtushealth.com.au,Health Care,ASX200,VRT,SUCCESS,https://www.virtushealth.com.au/privacy-policy,html,2026-05-12 13:13:09.364866
+58,Viva Energy Group,https://www.vivaenergy.com.au,Energy,ASX200,VEA,SUCCESS,https://www.vivaenergy.com.au/contact/privacy-policy/privacy-policy,html,2026-05-12 13:13:40.792947
+68,Webjet,https://www.webjet.com.au,Consumer Discretionary,ASX200,WEB,SUCCESS,https://www.webjet.com.au/about/privacy/,html,2026-05-12 13:13:51.434731
+62,Wesfarmers,https://www.wesfarmers.com.au,Consumer Discretionary,ASX200,WES,SUCCESS,https://www.wesfarmers.com.au/privacy,html,2026-05-12 13:13:56.095598
+4,Westpac Banking Corporation,https://www.westpac.com.au,Financials,ASX200,WBC,SUCCESS,https://www.westpac.com.au/privacy/,html,2026-05-12 13:14:00.963692
+172,Whispir,https://www.whispir.com,Technology,ASX200,WSP,SUCCESS,https://www.whispir.com/terms/privacy-policy/,html,2026-05-12 13:14:11.883529
+41,Whitehaven Coal,https://www.whitehavencoal.com.au,Materials,ASX200,WHC,SUCCESS,https://www.whitehavencoal.com.au/wp-content/uploads/2023/03/23_03_03_-_WHC_Privacy_Policy.pdf,pdf,2026-05-12 13:14:32.464989
+155,WiseTech Global,https://www.wisetechglobal.com,Technology,ASX200,WTC,SUCCESS,https://www.wisetechglobal.com/legal/#privacypolicy,html,2026-05-12 13:14:38.201070
+54,Woodside Energy,https://www.woodside.com,Energy,ASX200,WDS,SUCCESS,https://www.woodside.com/privacy,html,2026-05-12 13:14:43.827473
+88,Woolworths Group,https://www.woolworthsgroup.com.au,Consumer Staples,ASX200,WOW,SUCCESS,https://www.woolworthsgroup.com.au/au/en/privacy.html,html,2026-05-12 13:14:51.817815
+194,Woolworths New Zealand,https://www.countdown.co.nz,Consumer Staples,ASX200,WNZ,SUCCESS,https://www.woolworths.co.nz/privacy,html,2026-05-12 13:14:54.265328
+125,Worley,https://www.worley.com,Industrials,ASX200,WOR,SUCCESS,https://www.worley.com/en/site-services/privacy,html,2026-05-12 13:15:03.636430
+158,Xero,https://www.xero.com,Technology,ASX200,XRO,SUCCESS,https://www.xero.com/au/legal/privacy/,html,2026-05-12 13:15:12.020037
+27,Zip Co,https://www.zip.co,Financials,ASX200,ZIP,SUCCESS,https://zip.co/au/page/privacy,html,2026-05-12 13:15:18.422357
+251,AUSTRAC,https://www.austrac.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.austrac.gov.au/about-us/policies-and-governance/our-policies/privacy,html,2026-05-12 09:15:44.350342
+260,Attorney-General's Department,https://www.ag.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.ag.gov.au/about-us/accountability-and-reporting/privacy-policy,html,2026-05-12 09:15:59.975384
+252,Australian Bureau of Statistics,https://www.abs.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.abs.gov.au/about/legislation-and-policy/privacy/privacy-abs,html,2026-05-12 09:16:11.225369
+247,Australian Competition and Consumer Commission,https://www.accc.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.accc.gov.au/about-us/using-our-website/privacy-policy,html,2026-05-12 09:16:27.467170
+255,Australian Cyber Security Centre,https://www.cyber.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.cyber.gov.au/about-us/privacy,html,2026-05-12 09:16:50.594180
+257,Australian Electoral Commission,https://www.aec.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.aec.gov.au/privacy/,html,2026-05-12 09:17:03.128844
+250,Australian Federal Police,https://www.afp.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.afp.gov.au/privacy,html,2026-05-12 09:17:15.730568
+258,Australian Human Rights Commission,https://humanrights.gov.au,Government,GOVERNMENT,,SUCCESS,https://humanrights.gov.au/about-us/what-we-do/corporate-publications/policies/commission-policies/privacy,html,2026-05-12 09:17:37.972181
+246,Australian Prudential Regulation Authority,https://www.apra.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.apra.gov.au/privacy,html,2026-05-12 09:17:49.242404
+245,Australian Securities and Investments Commission,https://www.asic.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.asic.gov.au/privacy,html,2026-05-12 09:17:59.389815
+262,Australian Signals Directorate,https://www.asd.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.asd.gov.au/privacy,html,2026-05-12 09:18:09.877997
+244,Australian Taxation Office,https://www.ato.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.ato.gov.au/about-ato/commitments-and-reporting/information-and-privacy/your-privacy,html,2026-05-12 09:18:19.250334
+254,Department of Education,https://www.education.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.education.gov.au/using-site/privacy,html,2026-05-12 09:18:37.525715
+261,Department of Foreign Affairs and Trade,https://www.dfat.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.dfat.gov.au/about-us/corporate/privacy,html,2026-05-12 09:18:48.824210
+253,Department of Health and Aged Care,https://www.health.gov.au,Government,GOVERNMENT,,SUCCESS,https://www1.health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm?Open=&utm_source=health.gov.au&utm_medium=redirect&utm_campaign=digital_transformation&utm_content=privacy,html,2026-05-12 09:19:00.822704
+249,Department of Home Affairs,https://www.homeaffairs.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.homeaffairs.gov.au/access-and-accountability/our-commitments/privacy,html,2026-05-12 09:19:16.921916
+263,Digital Transformation Agency,https://www.dta.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.dta.gov.au/privacy-policy,html,2026-05-12 09:19:32.181656
+259,National Disability Insurance Agency,https://www.ndis.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/privacy,html,2026-05-12 09:20:05.166489
+256,Office of the Australian Information Commissioner,https://www.oaic.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.oaic.gov.au/privacy,html,2026-05-12 09:20:18.943504
+248,Services Australia,https://www.servicesaustralia.gov.au,Government,GOVERNMENT,,SUCCESS,https://www.servicesaustralia.gov.au/your-right-to-privacy?context=22,html,2026-05-12 09:20:31.956242
+232,Accenture Australia,https://www.accenture.com/au-en,Industrials,MNC,,SUCCESS,https://www.accenture.com/au-en/support/privacy-policy,html,2026-05-12 11:34:29.457721
+240,Airbnb Australia,https://www.airbnb.com.au,Consumer Discretionary,MNC,,SUCCESS,https://www.airbnb.com.au/privacy,html,2026-05-12 11:57:52.117933
+226,Amazon Australia,https://www.amazon.com.au,Consumer Discretionary,MNC,,SUCCESS,https://www.amazon.com.au/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ,html,2026-05-12 12:02:26.917696
+227,Apple Australia,https://www.apple.com/au,Technology,MNC,,SUCCESS,https://www.apple.com/privacy/,html,2026-05-12 12:03:43.219203
+243,Booking Holdings Australia,https://www.booking.com,Consumer Discretionary,MNC,,SUCCESS,https://www.booking.com/privacy,html,2026-05-12 12:17:43.284081
+233,Deloitte Australia,https://www.deloitte.com/au,Financials,MNC,,SUCCESS,https://www.deloitte.com/au/en/legal/privacy.html?icid=bn_privacy,html,2026-05-12 12:24:37.298674
+235,EY Australia,https://www.ey.com/en_au,Financials,MNC,,SUCCESS,https://www.ey.com/en_gl/legal-and-privacy,html,2026-05-12 12:25:53.167079
+224,Google Australia,https://www.google.com.au,Technology,MNC,,SUCCESS,https://www.google.com.au/privacy/,html,2026-05-12 12:45:50.771421
+231,IBM Australia,https://www.ibm.com/au-en,Technology,MNC,,SUCCESS,https://www.ibm.com/us-en/privacy,html,2026-05-12 12:47:20.588527
+242,IKEA Australia,https://www.ikea.com/au/en,Consumer Discretionary,MNC,,SUCCESS,https://www.ikea.com/au/en/customer-service/privacy-policy/,html,2026-05-12 12:47:57.383283
+236,KPMG Australia,https://kpmg.com/au,Financials,MNC,,SUCCESS,https://kpmg.com/xx/en/misc/privacy.html,html,2026-05-12 12:50:13.035801
+238,McDonald's Australia,https://www.mcdonalds.com/au/en-au.html,Consumer Staples,MNC,,SUCCESS,https://www.mcdonalds.com/us/en-us/privacy.html,html,2026-05-12 12:52:01.795703
+228,Meta Australia,https://www.facebook.com/about/privacy,Technology,MNC,,NOT_FOUND,,,2026-05-12 12:52:53.055606
+225,Microsoft Australia,https://www.microsoft.com/en-au,Technology,MNC,,SUCCESS,https://www.microsoft.com/en-us/privacy/privacystatement,html,2026-05-12 12:53:02.282102
+241,Netflix Australia,https://www.netflix.com/au,Communication Services,MNC,,SUCCESS,https://help.netflix.com/legal/privacy,html,2026-05-12 12:54:18.654139
+230,Oracle Australia,https://www.oracle.com/au,Technology,MNC,,SUCCESS,https://www.oracle.com/legal/privacy/privacy-policy/,html,2026-05-12 12:55:30.587756
+234,PwC Australia,https://www.pwc.com.au,Financials,MNC,,SUCCESS,https://www.pwc.com.au/contact-us/privacy-policy.html,html,2026-05-12 12:57:07.390190
+229,Salesforce Australia,https://www.salesforce.com/au,Technology,MNC,,SUCCESS,https://www.salesforce.com/company/legal/privacy/,html,2026-05-12 13:05:41.115825
+237,Samsung Australia,https://www.samsung.com/au,Technology,MNC,,SUCCESS,https://www.samsung.com/au/sustainability/security-and-privacy/,html,2026-05-12 13:05:48.482379
+239,Uber Australia,https://www.uber.com/au/en,Industrials,MNC,,NOT_FOUND,,,2026-05-12 13:12:46.173456
