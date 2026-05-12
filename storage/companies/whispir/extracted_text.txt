@@ -1,0 +1,581 @@
+Privacy Policy | Whispir Australia - Data Protection
+Skip to content
+Terms and Conditions
+Browser and App Support
+Acceptable Use
+Terms of Use
+Data retention policy
+Vulnerability Disclosure Policy
+Infringement & Content Complaints
+Data Protection Addendum
+Privacy Policy
+Cookie Policy
+Terms of Service
+Corporate Governance
+Privacy Policy
+Effective Date – November 2023
+Whispir Limited, Whispir Holdings Pte Limited and their affiliates (including Whispir Australia Pty Ltd, Whispir Americas Inc. and Whispir Pte Ltd) (collectively, “
+Whispir
+” or “
+we
+“) appreciate your trust and respect your right to privacy.  This Privacy Policy applies to personal information that Whispir processes and describes how you can exercise your privacy rights.
+Whispir offers a cloud-based communications workflow platform (“
+Services
+”), as well as
+www.whispir.com
+and its affiliated domains, including whispir.net, whispir.org, www.whispir.com.au, www.whispir.com.sg, whispir.co.nz, whispir.co.uk and whs.pr (collectively, our
+“
+Sites
+”
+).
+For more information about Whispir, please see the “
+About
+” section at
+https://www.whispir.com/about
+.
+If you want to quickly navigate to a particular part of our Privacy Policy, you can click on the link below:
+ARE YOU A CUSTOMER, USER, END USER OR VISITOR?
+INFORMATION WE COLLECT AND WHY WE COLLECT IT.
+HOW WHISPIR SHARES PERSONAL INFORMATION.
+OUR USE OF COOKIES AND SIMILAR TRACKING TECHNOLOGY.
+HOW WHISPIR PROTECTS PERSONAL INFORMATION.
+HOW WHISPIR RETAINS PERSONAL INFORMATION.
+CHILDREN’S PRIVACY.
+ACCESS AND CORRECTION OF YOUR PERSONAL INFORMATION.
+HOW TO MAKE A COMPLAINT.
+COUNTRY SPECIFIC TERMS – CALIFORNIA, EEA, UK, AUSTRALIAN AND SINGAPORE RESIDENTS.
+INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION.
+UPDATES TO THIS PRIVACY POLICY.
+HOW TO CONTACT US.
+1. ARE YOU A CUSTOMER, USER, END USER OR VISITOR?
+For our Services:
+you are our
+“
+Customer
+”
+if you are the legal or natural person identified on our Application Form or access or use the Services pursuant to a reseller, VAR, distributor, channel partner or similar authorized agreement.
+you are a
+“
+User
+”
+if you are an employee, consultant, contractor, agent or other representative authorized by our Customer to access and use our Services under our agreement with the Customer.  A Customer who is a natural person also is a User.
+you are an
+“
+End User
+”
+if you receive communications through any of our communications channels, including SMS, email, voice, social media, and push notifications (collectively,
+“
+communications
+”
+) through the Services from our Customer but do not have a direct relationship with Whispir.
+you are a
+“
+Visitor
+”
+if you use our Sites to learn about our products and services, sign up for an online demo, attend one of our webinars or otherwise access content from our Sites.
+We sometimes refer to Users, End Users and Visitors together as “
+Authorized Users
+.”
+2. INFORMATION WE COLLECT AND WHY WE COLLECT IT
+In general, we collect personal information from or about you for the purposes described in this Privacy Policy or for purposes that we explain to you when or before we collect your personal information.  We also may use your personal information for other purposes that are not incompatible with the purposes that we disclose to you but only when permitted by applicable laws.
+Where we collect personal information of End Users and Users, such personal information will be disclosed, stored and handled in accordance with the terms of our agreement with the Customer that provided the End User or User personal information
+.
+If you do not provide the personal information requested, we may not be able to provide our Services (or specific Site functionality) or action your request.
+2.1 We collect the information that you provide to us
+When you use our Services or Sites, we may ask you to provide certain information.
+2.1.1 Business contact details, including:
+name
+telephone number(s)
+email address
+postal address  (current and previous)
+Why Whispir collects the personal information:
+To complete your subscription for the Services.
+To respond to your correspondence and requests.
+To obtain your feedback regarding our Sites or Services.
+To send you information and updates about our Sites or Services that we think will interest you.
+To confirm a Customer’s identity and associate a User or End User with a Customer’s account.
+To monitor and enforce compliance with our Terms of Service (
+https://www.whispir.com/terms-of-service
+), Acceptable Use Policy (
+https://www.whispir.com/acceptable-use
+) or other agreement.
+2.1.2 User credentials, including:
+name
+email address
+job title
+Why Whispir collects the personal information:
+To set up and maintain an account.
+To confirm identity.
+For customer support and to troubleshoot problems.
+To customize the experience of our Services and Sites.
+To communicate with you.
+To promote our Services and Sites, such as through targeted advertising.
+To monitor and enforce compliance with our Terms of Service, Acceptable Use Policy or other agreement.
+To learn how Authorized Users interact with our Sites and Services so that we can improve them and develop new features.
+2.1.3 Other personal information that you choose to provide or the relevant Customer provides to us, such as:
+device type
+date of birth
+gender
+driver’s license number
+personal interests
+Why Whispir collects the personal information:
+To confirm identity and age of majority.
+For customer support for our Services and Sites and to troubleshoot problems.
+To communicate with you.
+To monitor and enforce compliance with our Terms of Service, Acceptable Use Policy or other agreement.
+To learn how Authorized Users interact with our Services and Sites so that we can improve them  and develop new features.
+2.1.4 Ordering information
+Whispir collects details of payment status (such as whether the payment was processed) but does not itself process credit card transactions. Credit card transactions are processed by a third-party credit card processing service.
+Why Whispir collects the personal information:
+To complete your purchase of our Services.
+To register you for a webinar or free trial.
+2.1.5 If you are an employee or prospective employee or apply for a contractor role with us, we may collect your:
+contact details
+qualifications
+resume
+current and former employment details
+pay rate and salary
+bank details
+feedback from supervisors
+training records
+logs of your usage of our equipment (e.g. phones, computers and vehicles)
+Why Whispir collects the personal information:
+To consider and process your application for a job with us and if you are successful, so we can administer that employment or contractual relationship (e.g. pay you, allow you to perform your role and deal with any performance issues).
+2.1.6 Information you give us when you fill out our forms or send us emails
+Why Whispir collects the personal information:
+To respond to your request in the form or email.
+To learn more about your products or services if you are a prospective or current vendor.
+2.2 We collect personal information about Authorized Users
+Whispir collects information about Authorized Users from their use of the Services and Sites.  Whispir and its vendors collect this information in order to detect fraud and block fraudsters from disrupting the Services and Sites and as described in section 2.1 above.
+The information we collect, some of which is personal information, includes mobile telephone numbers, contents of communications, and IP addresses.  If you have more questions about information collected from or about Authorized Users, please contact the business from which you receive communications.
+2.3 We automatically collect information about use of the Sites or Services
+We automatically collect certain information about use of the Sites and Services from the computers or mobile devices of Authorized Users.  Some of this automatically collected information is personal information under certain laws.
+The information that we automatically collect includes:
+Information about how your computer or device interacts with our Sites and Services, including the date, time, search requests and results, webpages accessed and links clicked.
+Information from and about the communications sent through the Services.
+IP address, broad geographic location (e.g., country or city-level location which Whispir derives from other data), device type and  identification number, browser type, internet service provider, operating system and other technical information.
+We use this automatically collected information:
+To provide our Services.
+For billing purposes.
+To better understand how our Sites and Services are used so that we can improve them and develop new features.
+For our analytics purposes, such as to track usage of our Sites, to measure the number of unique Visitors to the different sections of our Sites, to understand how people find our Sites and to help us make our Sites and marketing more useful.
+To detect and block fraudulent user of the Sites and Services.
+To deliver advertising about our Services.
+Some of this information is automatically collected using cookies and similar tracking technology.  See the
+OUR USE OF COOKIES AND SIMILAR TRACKING TECHNOLOGY
+(Section 4 below).
+2.4 We collect information about use of our Apps
+When you download, access or otherwise use our mobile applications (
+“
+Apps
+”
+), the information that we collect depends on your operating system and permissions.  Our Apps need to use certain features and data from your mobile device in order to function.  For example, we automatically collect usage statistics and crash logs to help us identify and fix problems.
+To learn more about the specific information collected by our Apps, please check your device settings or review the information available on the particular platform from which you downloaded an App, such as
+Google Play
+.  Our Apps also allow you to check or change your status for certain data collection in the preferences or settings.  If you change your settings, certain features may be unavailable or not function properly.  To stop collection of all information through an App, please uninstall the App.
+2.5 We collect information from third party sources
+We will generally collect personal information directly from you where it is reasonable and practicable to do so.  From time to time, we, however, may receive personal information about you from third-party sources, which include:
+A Customer or reseller that may provide us with your business contact information in connection with use of our Services.
+If you are an End User or User, your personal information is provided to us by the Customer (and we require that the Customer only provide information to us if the Customer has the legal rights and (if applicable) consents from the Customer’s End Users/Users to do so).
+From trade show operators, such as when we receive a list of attendees.
+Marketing services vendors that help us identify individuals who may be interested in learning more about our Services and to supplement personal information we already have, such as when we acquire a contact list from data aggregators.
+From publicly-available sources so that we can better understand our customer base.
+If you apply for a job or other position with us, from individuals who provide references in support of your job application and recruitment agencies.
+3. HOW WHISPIR SHARES PERSONAL INFORMATION
+We may disclose your personal information to the following categories of recipients:
+Network operators (e.g., telecommunication providers) for security, spam and fraud protection or to provide telecommunications network access;
+Other vendors that help us provide the Services and Sites, such as payment card processors, auditors, data security services and cloud services providers;
+Resellers with which Whispir may share order information, business contact information and other information that a reseller may require to help you access the Services;
+Where permitted by applicable law, marketing vendors engaged by Whispir that assist us to target individuals who may be interested in learning more about the Services and who help us supplement personal information that we already have about you;
+For Users and End Users, our Customer through which the Services are accessed;
+Our professional advisors, including our accountants, auditors and lawyers;
+Competent law enforcement, government regulators, courts or other third parties when we believe disclosure is necessary (i) as a matter of law, (ii) to exercise, establish or defend our legal rights or (iii) to protect the vital interests of any person;
+Potential acquirers and their professional advisers in connection with any proposed purchase, merger or acquisition of all or any part of our business.  We will inform the buyer that the terms of this Privacy Policy apply to personal information; and
+Any other person with consent to the disclosure.
+WHISPIR DOES NOT USE THE CUSTOMER DATA TO TRAIN ARTIFICIAL INTELLIGENCE MODELS, AND AS WHISPIR UTILISES OPENAI’S API SOLUTION TO PROVIDE WHISPIR’S COMPOSE AI FUNCTIONALITY, THE CUSTOMER DATA IS NOT USED TO TRAIN OPENAI’S MODELS.
+WHISPIR DOES NOT AND WILL NOT SELL OR EXCHANGE FOR VALUE PERSONAL INFORMATION
+.
+4. OUR USE OF COOKIES AND SIMILAR TRACKING TECHNOLOGY
+We use cookies and other data tracking technology to collect and use personal information about you.  We also may allow others to use cookies and similar technologies (e.g., pixels) to recognize you and/or your device(s) when you use the Sites or Services.
+4.1 What are cookies?
+Cookies are small text files that are sent to or accessed from your web browser or your computer’s hard drive.  A cookie typically contains the name of the domain (internet location) from which the cookie originated, the “
+lifetime
+” of the cookie (i.e., when it expires) and a randomly generated unique number or similar identifier.  A cookie also may contain information about your computer, such as settings, browsing history and activities conducted while using the Sites and certain Services.
+Whispir also uses “
+pixels
+” (also known as web beacons).  Pixels are transparent images that are used in collecting information about website usage across websites and over time.
+Cookies that Whispir sets on the Sites are called first-party cookies.  Cookies set by any other party are called third-party cookies.  Third-party cookies enable third-party features or functionality on or through the Sites, such as analytics, marketing automation and customer support.  The parties that set third-party cookies can recognize your computer both when it visits the Sites and also when it visits certain other websites.
+You can manage your cookie preferences by using the cookie banner and preference centre on our website. Please note that some features of our Sites and Services may not work properly without cookies.  To learn more about cookies generally, visit
+www.allaboutcookies.org
+and
+https://optout.aboutads.info/?c=2&lang=EN
+.
+Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a “
+Do Not Track
+” (“
+DNT
+”) or similar feature that signals to websites that a User or Visitor does not want to have his or her online activity and behavior tracked.  If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser’s user.  Not all browsers offer a DNT option and DNT signals are not yet uniform.  For this reason, many website operators, including Whispir, do not respond to DNT signals.
+4.2 Why does Whispir use cookies and other tracking technology?
+Some cookies are required for the Sites or Services to operate.  Other cookies enable us to track the interests of Authorized Users for targeted advertising and to enhance the experience of the Site.
+The types of cookies served on the Sites and through the Services and why they are used is set out in our Cookie preference centre available at www.whispir.com.
+Pixels and similar data collection technology enable Whispir to monitor the traffic patterns of Visitors from one webpage to another, to deliver or communicate with cookies, to understand whether you visit the Sites after seeing our online advertisement displayed on a third-party website, to improve performance of the Sites and to measure the success of our email marketing campaigns.
+We also use Google Analytics (including Double Click) on our Sites.  Google Analytics provides us with demographic-type data about Authorized Users, such as age and gender.  Google uses a cookie that Google recognizes when you visit other websites.
+Google’s cookies help us analyze how the Sites are used.  The information generated by the cookie about use of the Sites (including your IP address) is transmitted to and stored by Google on servers in the United States.  On behalf of Whispir, Google will use this information to evaluate use of the Sites and compile reports for us and third parties that help operate and provide services related to Whispir.  Google will not associate your IP address with any other data held by Google.
+For more information about how Google collects, uses and shares your information, please visit
+https://www.google.com/policies/privacy/partners/
+or
+Google’s Privacy Policy
+.  Google has developed an opt-out browser add-on; if you want to opt out of Google Analytics, you can download and install the add-on for your web browser.  You may refuse the use of these cookies by selecting the appropriate settings on your browser.
+Whispir currently does not serve targeted advertisements on the Sites.  Whispir may use information about your visits to the Sites to provide relevant advertisements on other websites about goods and services that may interest you.  Whispir and third parties also may deploy technology that measures the effectiveness of advertisements by using cookies or web beacons to collect information about your visits to the Sites and other websites to provide relevant advertisements on other websites about goods and services that may interest you.  The information collected through this process does not enable us or the third parties to identify your name, contact details or similar directly identifying details unless you choose to provide them.
+5. HOW WHISPIR PROTECTS PERSONAL INFORMATION
+We use technical, physical and administrative safeguards intended to protect the personal information that we collect from and about you.  Our safeguards are designed to provide a level of security appropriate to the risk of processing your personal information and include (as applicable) measures to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and a procedure for regularly testing, assessing and evaluating the effectiveness of technical and organizational measures for ensuring the security of the processing of personal information.
+You are responsible for maintaining the security of your account credentials for the Services.  Whispir will treat access to the Services through your account credentials as authorized by you.  We may suspend your use of all or part of the Services or Sites  without notice if we suspect or detect any breach of security.  If you believe that information you provided to us is no longer secure, please notify us immediately at
+[email protected]
+.
+If we become aware of a breach that affects the security of your personal information, we will provide you or the Customer with notice as required by applicable law.  When permitted by applicable law, Whispir will provide this notice to you through the email address associated with your Whispir account.
+UNAUTHORIZED ACCESS TO SITES OR SERVICES – INCLUDING SCRAPING – IS PROHIBITED AND MAY LEAD TO CRIMINAL PROSECUTION.
+6. HOW WHISPIR RETAINS PERSONAL INFORMATION
+We retain personal information for as long we have a legitimate business need to do so, such as for the duration of our contract with you or to comply with applicable legal, tax or accounting requirements.
+When we no longer have a legitimate business need to process your personal information, we follow our Data Retention Policy (
+https://www.whispir.com/data-retention-policy
+) and either delete or anonymize your personal information.  If we cannot delete or anonymize your personal information, then we will segregate and securely store your personal information until deletion or anonymization is possible.
+Once we anonymize your personal information, it is no longer personal information.  We use anonymized data subject to applicable law and our Customer agreements.
+For more information, please contact
+[email protected]
+.
+7. CHILDREN’S PRIVACY
+The Sites and Services are not intended for use by minors (i.e., children under the age of majority in a particular jurisdiction).  Whispir does not knowingly collect personal information from minors.  Consistent with the requirements of applicable law, if we learn that a minor has improperly provided us with personal information, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the minor that he or she cannot use the Sites or Services and subsequently will delete that information.
+8. ACCESS AND CORRECTION OF YOUR PERSONAL INFORMATION
+You may request access to the personal information that we hold about you and/or to make corrections to that information by contacting us (see
+HOW TO CONTACT US
+(Section 13 below)).  We will respond to all requests for access to or correction of personal information within a reasonable time and in accordance with applicable legal requirements.
+Whispir determines the purpose and means of processing personal information about Users and Visitors but Whispir generally processes personal information about End Users only as permitted in our contract with the relevant Customer or as otherwise permitted or instructed by the Customer.  If you are an End User that wishes to access or correct the personal information we hold about you, please direct your request to the Customer and we will work with you and the relevant Customer to address such requests as it is the Customer (and not us) that ultimately controls the information we hold about a Customer’s End Users.
+9. HOW TO MAKE A COMPLAINT
+If you have a concern or complaint about how we may have handled your personal information, please contact us at
+[email protected]
+or by mail to the relevant Whispir entity at the address set out at Section
+13
+below.  When contacting us, please provide as much detail as possible in relation to your concern or complaint.  We take all concerns and complaints seriously and respond within a reasonable period. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
+10. COUNTRY SPECIFIC TERMS – CALIFORNIA, EEA, UK, AUSTRALIAN AND SINGAPORE RESIDENTS
+IF YOU ARE LOCATED IN A JURISDICTION WITH DATA PROTECTION LAWS THAT OFFER YOU PRIVACY RIGHTS NOT DESCRIBED IN THIS PRIVACY POLICY, PLEASE CONTACT US AT
+[email protected]
+. We respect your privacy rights and will do our best to accommodate your requests.
+10.1. Whispir’s California Privacy Notice
+Whispir’s California Privacy Notice (
+“
+California Privacy Notice
+”
+) applies to the processing of Personal Information of residents of the U.S. State of California (
+“
+California Consumers
+”
+) as required by the
+California Consumer Privacy Act of 2018
+(
+“
+CCPA
+”
+).
+If you are a California Consumer, this California Privacy Notice explains your privacy rights and is intended to inform you at or before the time that you provide us with your Personal Information how and why we process your Personal Information.  In this California Privacy Notice, “
+Personal Information
+” means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular California Consumer or household.
+If this California Privacy Notice and any provision in the rest of our Privacy Policy conflict, then this California Privacy Notice controls for the processing of Personal Information of California Consumers.
+Your California Consumer Privacy Rights
+.
+CCPA offers California Consumers the following key privacy rights:
+Right to Access Information: You have the right to request access to Personal Information collected about you and information regarding the source of that information, the purposes for which we collect it and the third parties and service providers with whom we share it.
+Right to Request Deletion: You have the right to request that we delete certain Personal Information that we have collected from you.
+Right to Notice of Financial Incentive:  If we offer a financial incentive or price or service difference in exchange for your Personal Information, we will notify you in advance before collecting your Personal Information for this purpose and explain how you can opt in to the financial incentive or price or service difference.
+Right to Opt-Out of Sale of Personal Information to Third Parties: Whispir does not sell your Personal Information to third parties.  If this policy changes, we will notify you and provide you with information about how to opt out of sale of your Personal Information by us.  Sharing your Personal Information with our service providers is not a sale of your Personal Information because we make sure that our service providers are contractually obligated to use the Personal Information only to provide services to us and not sell it.
+Notice at Collection of Personal Information.  For CCPA purposes, Whispir generally acts as a “
+Business
+” with respect to your Personal Information, which means that Whispir determines how and why the Personal Information that Whispir collects from or about you is processed.  When Whispir is handling Personal Information about End Users on behalf of our Customers, Whispir is acting as a “
+Service Provider
+”, which means that Whispir can only use your Personal Information for specified purposes and as permitted in our contract with our Customer.
+This Notice at Collection of Personal Information describes our Personal Information collection practices when we are acting as the Business, including a list of the categories of Personal Information we collect, the purposes for which we collect Personal Information and the sources from which we collect Personal Information.  If you have more questions about information collected from or about Users, please contact the company from which you receive communications because they are the “
+Business
+” for CCPA purposes.
+The following section lists categories of Personal Information that generally match the categories in the definition of Personal Information in CCPA.  We indicate for each listed category the specific types of Personal Information in the category that we collect as a Business and why we collect it.  We provide information about how we use and disclose Personal Information above in this Privacy Policy.
+10.1.1 Identifiers, including:
+Name, postal address, email address, unique identifier, Internet Protocol address, account name, and similar identifiers.
+We do not collect your social security number, driver’s license number or passport number.
+We do
+not
+collect your insurance policy number, education, employment history, medical information, or health insurance information.
+Why Whispir collects this personal information:
+We collect your name, telephone number(s), email address(-es) and contact address when you create an account, an account is created for you or you complete a transaction.  If you choose to create an account, we assign a username and one or more unique identifiers to your account.
+We collect your IP address and your Device ID automatically.
+To troubleshoot problems
+To learn how Authorized Users interact with our Sites and Services
+To improve our products and services and develop new features
+To customize your experience
+To promote our products and services
+To communicate with you
+10.1.2 Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)), including:
+Name, signature, address, telephone number and current employer and work address.
+Why Whispir collects this personal information:
+We collect this information for the reasons described in section 10.1.1 above.
+10.1.3 Protected classification characteristics under California or federal law
+We do
+not
+collect race, national origin, citizenship, marital status, gender, sexual orientation/identity, medical condition, AIDS/HIV status, genetic information, military or veteran status, religion, disability,  political affiliations or activities or status as a victim of domestic violence, assault or stalking or any other information in this category.
+10.1.4 Commercial information, including:
+Records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+Why Whispir collects this personal information:
+We create records of the Services purchased or considered, as well as your purchasing history in order to provide you with the Services that you have purchased and to offer other products that may be useful to you.  You provide payment and billing information when you purchase our Services but we do not collect and store your bank account number, credit card number, debit card number – this information is collected by our third party payment processor and not shared with us.
+We collect this information for the reasons described in section 10.1.1 above.
+10.1.5 Biometric information
+We do
+not
+collect information about your physiological, biological or behavioral characteristics.
+10.1.6 Internet or other similar network activity, including:
+Browsing history
+Search history
+Information on a California Consumer’s interaction with online services and digital advertisements.
+Why Whispir collects this personal information:
+We collect information about your browsing history, search history and information regarding your interaction with our platform, websites, applications or advertisements automatically when you use our Sites and Services.
+We collect this information for the reasons described in section 10.1.1 above.
+10.1.7 Geolocation data, including:
+Physical location or movements from GPS, WiFi and/or Bluetooth (when a device’s operating system settings allow collection).
+Why Whispir collects this personal information:
+We collect your IP address automatically.  We may be able to determine your general location based on the IP address.
+We collect this information for the reasons described in section 10.1.1 above.
+10.1.8 Audio, electronic, visual, thermal, olfactory or similar information, including:
+Recorded telephone calls and photographs.
+Why Whispir collects this personal information:
+If you contact us via telephone, we may record the telephone call.  We will notify you if a call is being recorded at the beginning of the telephone call.  We do not collect any thermal, olfactory or similar information.  We collect your photograph if you choose to give it to us through your account.
+We collect this information for the reasons described in section 10.1.1 above.
+10.1.9 Professional or employment-related information, including:
+Depending on how and why you use the Sites or Services, we may collect information about your current employer who or that is our Customer or prospective customer.
+Why Whispir collects this personal information:
+We may use information about your position and your current employer (who or that is our Customer or prospective customer) to understand more about you in order to provide you with relevant information to promote our products and services, to deliver advertising, some of which is targeted based on your online activity and inferred interests, and to communicate with you.
+10.1.10 Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. § 1232g, 34 C.F.R. Part 99))
+We do
+not
+collect information about the institutions you have attended or the level of education you have attained except as related to your employment.
+10.1.11 Inferences drawn from other categories (A. – L above) to create a profile about a California Consumer, including:
+Profile reflecting your preferences and characteristics.
+Why Whispir collects this personal information:
+We may analyze your actual or likely preferences through the Personal Information we collect and process as described in our Privacy Policy.
+We collect this information for the reasons described in section 10.1.1 above.
+Whispir does not sell your Personal Information to third parties and accordingly, we do not provide you with information about how to opt-out of sale of your Personal Information.
+HOW TO SUBMIT A REQUEST TO EXERCISE YOUR CALIFORNIA PRIVACY RIGHTS
+To submit a request to exercise your privacy rights:
+(a) Call our Support team at 1-844-311-2141
+(b) Send an email to
+[email protected]
+Please note:
+We may (and in some cases are required to) verify your identity before we can act on your request to exercise your privacy rights.
+We may not honor part or all your request – for example, certain information we collect may be exempt from this California Privacy Notice, such as public information made available by a government entity or information covered by another privacy law.  Please also note that Personal Information collected in many types of B2B transactions is exempt from most of CCPA’s requirements until January 1, 2022.  We will explain why we do not honor your request when we respond to you.
+A different California law permits California residents to request a notice disclosing the categories of Personal Information about you that we have shared with third parties for their direct marketing purposes during the preceding calendar year.  At this time, Whispir does not share Personal Information with third parties for their direct marketing purposes.
+10.2 Notice for Individuals Located In EEA and UK
+The data controller (i.e., who determines the purpose and means of processing your personal data) for the personal data collected from or about Users and Visitors pursuant to this Privacy Policy is Whispir Holdings Pte Limited, which is located in Singapore at the address specified in Section
+13
+below.
+Please note that when we collect information about End Users, we are acting as a data processor on behalf of our Customers.  If you are an End User, please contact the business or individual that or who sent you the communication.
+We need to inform Authorized Users about the legal bases for our processing of their personal data.  Our legal bases depend on the context in which the personal data is collected and processed.  Generally, we only collect personal data when we need the personal data to perform a contract with Authorized Users (such as our Terms of Service), when we have consent to do so or when the processing is in our legitimate business interests and not overridden by the privacy or other fundamental rights and freedoms of Authorized Users (such as when we process personal data to prevent spam or fraud).
+In some cases, we also may have a legal obligation to collect personal data from Authorized Users.  If we ask you to provide personal data to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether providing your personal data is mandatory and the possible consequences if you do not provide your personal data.
+Similarly, if we collect and use personal data in reliance on our legitimate interests (or those of any third party), this interest is typically to provide our Services and communicate with you about our Services and for our legitimate commercial interests, such as responding to queries, improving our Sites and Services, advising Authorized Users about new features or maintenance or undertaking marketing activities.  We may have other legitimate interests and if appropriate we will make clear our legitimate interests at the relevant time.
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal data, please contact us using the contact details provided below.
+For personal data for which we are the data controller and for which applicable law grants you data protection rights, if you would like to access, review, correct, update, suppress, restrict or delete personal data that you have previously provided to us as or if you would like to receive an electronic copy of your personal data for purposes of transmitting it to another company (where this right to portability is provided to you by law), please submit your request to us as set out in Section
+13
+below.
+In your request, please make clear what personal data you would like to have changed, whether you would like to have your personal data suppressed from our database or other limitations you would like to put on our use of your personal data.  For your protection, we only fulfill requests for the personal data associated with the particular email address that you use to send us your request, and we may need to verify your identity and geographic residency before fulfilling your request.  We will try to comply with your request as soon as reasonably practicable and within the time periods required by applicable law.
+Please note that we often need to retain certain personal data for recordkeeping purposes and/or to complete any transaction that you began prior to requesting a change or deletion (e.g., when you make a purchase, you may not be able to change or delete the personal data provided until after the completion of such purchase or promotion).  Our databases and other records may have residual personal data which will not be removed.  We also may not allow you to review certain personal data for legal, security or other reasons.
+UK and European Economic Area (EEA) residents have the right to lodge a complaint with a data protection authority about how we process your personal data.  Please see
+https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en
+and
+https://ico.org.uk/make-a-complaint
+for more information.
+10.3 Notice for Individuals Located In Australia
+In relation to personal information collected from individuals located within Australia:
+Sections
+8
+and
+9
+of the Privacy Policy outline how you can access or seek the correction personal information we hold, and how you can make a complaint about a breach of privacy and how we will deal with such a complaint.
+If you are dissatisfied with the handling of your complaint after you have followed the complaints procedure outlined in Section
+9
+above, you may contact the Office of the Australian Information Commissioner who can be contacted at GPO Box 5218, Sydney  NSW  2001 Telephone:
+1300 363 992
+Email:
+[email protected]
+.
+10.4
+Notice for Individuals Located In All Locations
+In relation to personal information collected from individuals, if we collect and use personal data in reliance on our legitimate interests (or those of any third party), this interest is typically to provide our Services and communicate with you about our Services and for our legitimate commercial interests, such as responding to queries, improving our Sites and Services, advising Authorized Users about new features or maintenance or undertaking marketing activities.  We may have other legitimate interests and if appropriate we will make clear our legitimate interests at the relevant time.
+11. INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION
+Whispir may transfer your personal information to jurisdictions other than the one in which you reside.  We may disclose personal information (on a confidential basis) to our related entities, service providers and agents located outside the country where you reside or where the information was initially collected, including to recipients located in Australia, Singapore, the Philippines and the United States in order to perform the Services and conduct our business. We may also utilise cloud-based service providers to provide the Whispir service.  The providers may host and store personal information outside the country where you reside.  These other jurisdictions may have data protection laws that are different from the laws of your place of residence (and, in some cases, not as protective).
+If personal information is transferred by us or on our behalf, we use appropriate safeguards to protect your personal information in accordance with this Privacy Policy.  These safeguards include implementing applicable standard contractual clauses for transfers of personal information out of the EEA and UK, or other legally enforceable obligations as permitted by applicable law. Additional safeguards may also be implemented where personal information is transferred. Please contact us to learn more about our appropriate safeguards.
+12. UPDATES TO THIS PRIVACY POLICY
+We may update this Privacy Policy from time to time in response to changing legal, technical or business developments.  When we update our Privacy Policy, we will post the updated version and change the Effective Date above.  We also will take appropriate measures to inform you in advance so that you have an opportunity to review the revised Privacy Policy before it is effective.  If your consent is required by applicable privacy laws, we will obtain your consent to changes before the revised Privacy Policy applies to you.
+13. HOW TO CONTACT US
+If you have any concerns, questions about any aspect of this Privacy Policy, please contact us at
+[email protected]
+or as follows:
+Australia:
+Whispir
+Attn: Legal
+GPO Box 130,
+Melbourne, Victoria 3001 Australia
++61 3 8630 9900
+Americas:
+Whispir
+Attn: Legal
+442 5th Avenue, #2576
+Manhattan, NY 10018 USA
++1 720 310 3167
+Asia:
+Whispir
+Attn: Legal
+10 Marina Boulevard, Marina Bay Financial Centre, Tower 2, #14-02A, Singapore 018983
++65 6816 0366
+A human-to-human future
+CALL US
+USA +1 844 311 2141
+AUS +61 3 8630 9900
+SG +65 6816 0366
+NZ +64 800 944774
+PLATFORM
+Automated Workflows
+Message Builder
+Reporting
+Integrations
+Data privacy & Information Security
+FEATURES
+Bulk Messaging Tool
+2-Way SMS Conversation
+Contact Management
+Geofencing
+CHANNELS
+SMS
+Email
+WhatsApp
+Voice
+USE CASES
+Call Center Deflection
+Increase App Adoption
+Crisis Communications
+Rich Messaging & Personalization
+Appointment Reminders
+CALL US
+USA +1 844 311 2141
+AUS +61 3 8630 9900
+SG +65 6816 0366
+NZ +64 800 944774
+Facebook
+Linkedin
+Twitter
+Youtube
+TRUSTED BY
+Government
+Emergency Services
+Healthcare
+Insurance
+Education
+Recruitment
+Transport
+Mining
+COMPANY
+About Whispir
+Our Impact
+Investor Center
+Careers - we're hiring!
+D&I
+System Status
+RESOURCES
+Blog
+For Developers
+Partners
+How-To Guides
+Success Stories
+Support and FAQ
+Contact
+MORE GOODNESS
+Compare Solutions
+Whispir for Marketing
+Whispir for Safety & Compliance
+Whispir for HR
+Facebook
+Linkedin
+Twitter
+Youtube
+© 2024 Whispir Inc. All rights reserved.
+Terms of Service
+Privacy Policy
+Acceptable Use
+Data Retention Policy
+Terms of Use
+Manage Cookies
+A human-to-human future
+CALL US
+USA +1 844 311 2141
+AUS +61 3 8630 9900
+SG +65 6816 0366
+NZ +64 800 944774
+Platform
+Automated Workflows
+Message Builder
+Reporting
+Integrations
+Data privacy & Information Security
+Features
+Bulk Messaging Tool
+2-Way SMS Conversation
+Contact Management
+Geofencing
+Channels
+SMS
+Email
+WhatsApp
+Voice
+Use Cases
+Call Center Deflection
+Increase App Adoption
+Crisis Communications
+Rich Messaging & Personalization
+Appointment Reminders
+Trusted By
+Government
+Emergency Services
+Healthcare
+Insurance
+Education
+Recruitment
+Transport
+Mining
+Company
+About Whispir
+Our Impact
+Investor Center
+Careers – we’re hiring!
+D&I
+System Status
+Resources
+Blog
+For Developers
+Partners
+How-To Guides
+Success Stories
+Support and FAQ
+Contact
+More Goodness
+Blog
+For Developers
+Partners
+How-To Guides
+Success Stories
+Support and FAQ
+Contact
+Facebook
+Linkedin
+Twitter
+Youtube
+© 2024 Whispir Inc. All rights reserved.
+Terms of Service
+Privacy Policy
+Acceptable Use
+Data Retention Policy
+Terms of Use
+Manage Cookies
+Your free demo awaits

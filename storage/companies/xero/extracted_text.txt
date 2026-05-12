@@ -1,0 +1,176 @@
+Privacy Notice | Xero AU
+Last updated: 11 February 2025
+Download PDF
+|
+See archived versions
+Table of contents
+Who are we
+What does this notice cover
+What this notice doesnât cover
+Personal data we collect and how we get it
+How we use your personal data
+Cookies and similar tracking technologies
+How we share your personal data
+Personal data retention
+Security
+International transfers
+Your rights
+Updates to this notice
+How to contact us
+Additional information if youâre in the EEA or UK
+1. Who are we?
+When we say âXeroâ, âweâ, âourâ or âusâ, we mean the Xero group of companies. Our headquarters are in New Zealand, but we operate and have offices all over the world. See our
+contact us
+page for more information.
+We provide an easy-to-use global online platform for small businesses and their advisors. At the core of our platform is our beautiful cloud accounting software. To find out more about what we do, see our
+about us
+page.
+2. What does this notice cover?
+This notice describes how we process personal data. When we say âpersonal dataâ we mean information that relates to you, and from which you can be identified. Personal data includes your name, email, address, telephone number, bank account details, payment information, support queries, community comments and so on. In some countries, personal data can also include information about your device, such as your IP address and device type.
+This notice applies to personal data we collect across all our websites and apps, in connection with any services we provide. It also applies to personal data we collect from third party data sources, and through surveys, events, customer support, competitions, promotional program and training. For this notice, weâll just call them our âservicesâ.
+3. What this notice doesnât cover
+This notice doesnât apply to personal data that our subscribers (people who create and pay for subscriptions to our services) or their invited users (people other than subscribers who have been invited to use our services by a subscriber) enter into our services about their own customers, suppliers, employees or other third parties. In those cases, our subscribers control that personal data and we process it only as a service provider (or âprocessorâ) on their behalf. If youâre not a subscriber and have questions about this type of personal data, youâll need to contact the subscriber that controls it.
+If you provide us with any personal data about other people, you should make sure you are permitted to do so before sharing it with us.
+4. Personal data we collect and how we get it
+The personal data we collect depends on how you interact with us. We collect personal data:
+When you provide it to us directly.
+This includes when you visit our websites, use our services, or provide personal data directly through other interactions with us. For example, we ask for your billing information when you sign up for a subscription or trial, and collect your contact information and any other details you share when you ask for support, or take part in training and events. You donât have to provide us with personal data, but if you donât it might mean you canât use parts of our services.
+Automatically.
+We collect some personal data about you automatically when you visit our websites or use our apps and services. For example, we collect data about the pages you look at and the links you click on.
+From third parties.
+Although we collect the majority of personal data about you directly or automatically, sometimes we might collect it from other sources. For example, from trusted third parties and service providers that help us deliver our services (such as providers of email, marketing, analytics, financial, credit and payment services) and from social media platforms.
+Personal data categories and sources
+Weâve summarised the categories of personal data we collect and their sources, below.
+Identity and contact data
+such as your name, email address, telephone number, address or social-media handle. We source this directly from you, automatically or from third parties.
+Account data
+such as your login and profile information, including your password, and subscription details. We source this directly from you or from third parties.
+Payment data
+such as truncated credit or debit card details, bank account details, payment method, billing address and other details of services that you have received from us. We source this directly from you, automatically or from third parties.
+Communications data
+such as feedback on our services and other communications with us or with our service providers, competition and survey entries, chat, email or call history, and call recordings if you consent to them. We source this directly from you, automatically, or from third parties.
+Marketing and advertising data
+such as interests based on your use of our services, survey responses, promotions you enter, communication preferences, preferences for particular services, and subscription details. We source this directly from you, automatically or from third parties.
+Device data
+such as data collected using tags and pixels, including your IP address, ISP, the browser you use to visit our websites, device type and location, operating system, device identifiers and advertising identifiers. We source this automatically.
+Service usage data
+such as information about your use of and interaction with our services, including third party services you have integrated. This includes page views and searches, login information, clicks, content interaction, length of visits, and other functional information on service performance. It also includes service utilisation, such as features you buy and use, as well as (if you are a subscriber) how you manage organisations and invited users within your subscription. We source this automatically.
+Uploaded content
+such as any personal data in photographs, videos or audio recordings that you upload on our websites, apps, services or social media (where you allow us). We source this directly from you or from third parties.
+Sensitive personal information
+such as health data, or trade union membership details that you may provide to us. Note that we donât generally require or request sensitive personal information to operate our services. We source this directly from you.
+5. How we use your personal data
+We use your personal data to operate our services, and to manage our relationship with you. Weâll otherwise only use your personal data for:
+The purposes in this notice or that we explain to you when we collect your personal data.
+Other purposes that are related to the ones in the first dot-point where permitted by law.
+Purposes for using personal data
+Weâve set out more information about the specific purposes for which we use your personal data below.
+To deliver our services.
+For example, to sign you up to our services, manage your trial or subscription, facilitate purchases of services, and provide, maintain and deliver our services (including using AI/ML) in accordance with our terms of use. This includes monitoring, troubleshooting, data analysis, testing, system maintenance, reporting and hosting of data.
+The categories of personal data we use for this purpose are: identity and contact data, account data, payment data, communications data, device data, and service usage data.
+To communicate with you about our services.
+For example, we may send you service updates, invoices, technical notices, security alerts, support messages and responses to your enquiries. We may contact you through a variety of channels, for example, by email, telephone, SMS and in-product communications.
+The categories of personal data we use for this purpose are: identity and contact data, account data, payment data, communications data, device data, service usage data, and uploaded content.
+For quality assurance, training and record-keeping.
+For example, we may review communications with you for customer support, quality assurance and training purposes, and related record-keeping.
+The categories of personal data we use for this purpose are: Identity and contact data, account data, payment data, communications data, device data, service usage data, and uploaded content.
+For security management.
+For example, to address threats and fraud, and protect you, our business and people, we may use malware and other monitoring tools to detect suspicious activity and block unauthorised access.
+The categories of personal data we use for this purpose are: identity and contact data, account data, payment data, communications data, device data, location data, service usage data, and uploaded content.
+For compliance management.
+For example, to ensure compliance with our terms of use and related internal reporting.
+The categories of personal data we use for this purpose are: identity and contact data, account data, payment data, communications data, service usage data, device data, and uploaded content.
+To improve our services.
+For example, we analyse collected data to improve our websites, apps and services, to develop new products and services, and inform other business decisions by understanding customer behaviour (including using AI/ML).
+The categories of personal data we use for this purpose are: identity and contact data, account data, payment data, communications data, marketing and advertising data, device data, service usage data, and uploaded content.
+For marketing communications.
+For example, to contact you about services, promotions, competitions and events we think may be of interest, including those of our affiliates and partners. We may contact you through a variety of channels, for example, by email, telephone, SMS and in-product communications.
+The categories of personal data we use for this purpose are: identity and contact data, account data, communications data, marketing and advertising data, device data, service usage data, and uploaded content.
+To personalise content.
+For example, we may provide local or otherwise targeted content and information for customers, and to tailor the content served on our websites and apps, and via our services.
+The categories of personal data we use for this purpose are: identity and contact data, account data, marketing and advertising data, device data, and service usage data.
+For personalised advertising.
+For example, we may personalise, target, and deliver advertising on our websites and apps, and via third party websites and other online services. We may also identify audiences and individuals like you to better tailor our marketing campaigns and communications, and measure the effectiveness of our campaigns and adjust our methods.
+The categories of personal data we use for this purpose are: identity and contact data, account data, marketing and advertising data, device data, and service usage data.
+To run competitions, sweepstakes or surveys.
+The categories of personal data we use for this purpose are: identity and contact data, account data, communications data, marketing and advertising data, and uploaded content.
+For legal and regulatory compliance.
+For example, to comply with any legal and regulatory obligations which apply to us, including responding to requests under data protection or other applicable laws.
+The categories of personal data we use for this purpose are: identity and contact data, account data, payment data, communications data, device data, service usage data, and uploaded content.
+To manage legal claims.
+For example, to preserve our legal rights, and defend and bring claims to protect our interests.
+The categories of personal data we use for this purpose are: identity and contact data, account data, payment data, communications data, device data, and service usage data.
+6. Cookies and similar tracking technology
+We use cookies and similar tracking technology (âcookiesâ) to collect and use personal data about you, including to serve interest-based advertising. For more information about the types of cookies we use and why, and how you can control them, please see our
+cookie notice
+.
+7. How we share your personal data
+There will be times when we need to share your personal data with third parties. Weâll only share your personal data with:
+Other companies in the Xero group of companies
+who enable us to provide you with our services or who otherwise use personal data for the purposes in this notice.
+Third party service providers and partners
+who also enable us to provide you with our services or who otherwise use personal data for the purposes in this notice. For example, we may share your personal data with service providers that assist us with billing, customer support, hosting and storage, data analytics, security, marketing and email services. We wonât share your mobile telephone number or SMS opt-in consent status with these third parties for their own marketing purposes without your explicit consent.
+Third party services that you integrate with
+on our websites and apps, or through our services, for example, an app on the Xero App Store. Note that your personal data will be managed by the provider of those services according to their own terms and privacy policy.
+Regulators, law enforcement bodies, government agencies, courts or other third parties
+where we think it's necessary to comply with applicable laws or regulations, to exercise, establish or defend our legal rights, or to protect your interests or those of any other person. Where possible and appropriate, we'll notify you of this type of sharing.
+Actual or potential buyer
+(and its agents and advisers) in connection with any proposed purchase, merger or acquisition of any part of our business.
+Other people
+where we have your consent or where permitted by law.
+Also, if youâve been invited to use our services by a subscriber, we may share data relating to your use of our services with that subscriber.
+8. Personal data retention
+We'll retain your personal data for as long as we've a relationship with you and for a period of time afterwards where we have an ongoing business or legal need to keep it. For example, to comply with legal, tax, or accounting requirements. After that, we'll make sure itâs deleted or anonymised.
+9. Security
+Security is a priority for us when it comes to your personal data. Weâre committed to protecting your personal data and have appropriate technical and organisational measures in place to make sure that happens. For more information, check out Xeroâs
+security pages
+.
+If you want more detailed information, weâve produced a Service Organisation Control (SOC 2) report, which is available on request. The SOC 2 report was produced after an independent auditorâs examination of our service controls.
+To keep up to date on known phishing and other scams targeting our community, and for information on how to protect yourself from them, sign up to our
+security noticeboard.
+10. International transfers
+When we share personal data, it may be transferred to and processed in countries other than the country you live inâsuch as Australia, New Zealand and the United Statesâdue to the location of our teams and data hosting locations. These countries may have laws different to the ones that apply in your country. Rest assured, when we transfer personal data to another country, we put safeguards in place to protect your personal data.
+11. Your rights
+Itâs your personal data and you have certain rights relating to it. When it comes to marketing communications, you can ask us not to send you these at any time. Just follow the unsubscribe instructions in the marketing communication or make your request using the details in the âHow to contact usâ section.
+You also have rights to:
+Know whether and what personal data we hold about you, and to correct it if itâs inaccurate or out-of-date.
+Request a copy of your personal data, or ask us to restrict processing your personal data or delete it.
+Object to our continued processing of your personal data.
+Not be subject to wholly automated decisions that have legal or significant effects upon you, and to challenge the decision and request a human review.
+You can exercise these rights at any time by making a request using the details in the âHow to contact usâ section.
+If youâre not happy with how we are processing your personal data, please get in touch with us using the âHow to contact usâ section. Weâll review and investigate your complaint, and get back to you within a reasonable time frame. You can also complain to your local data protection authority. They will be able to advise you how to submit a complaint.
+12. Updates to this notice
+We may update this notice from time to time. If we make a material change, weâll make sure we let you know, usually by sending you an email or posting a notice on our websites and in our apps.
+13. How to contact us
+Weâre always keen to hear from you. If youâre a current user of our services, you can get in touch via our
+privacy at Xero
+page. For everyone else, you can contact us at
+legalnotices@xero.com
+.
+14. Additional information if youâre in the EEA or UK
+If youâre in the European Economic Area (âEEAâ) or United Kingdom (âUKâ), this section applies to you in relation to the personal data we process under this notice.
+Controllers and representative
+UK Controller.
+If youâre in the UK, Xero (UK) Limited is the controller of your personal data. Xero (UK) Limitedâs address is 5th Floor 100 Avebury Boulevard, Milton Keynes, MK9 1FH, United Kingdom.
+EEA Controller.
+If youâre in the EEA, Xero (NZ) Limited is the controller of your personal data. Xero (NZ) Limitedâs address is 19-23 Taranaki Street, Te Aro, Wellington, 6011, New Zealand.
+EU Representative.
+Xero (NZ) Limitedâs EU representative is Xero Denmark A/S. Xero Denmark A/Sâs address is KuglegÃ¥rdsvej 7, 1434, Copenhagen K, Denmark.
+Legal bases for processing personal data
+Below, weâve set out the legal bases we rely on to process your personal data for the purposes in this notice (for a description of each purpose, see the â
+How we use your personal data
+â section):
+Contractual necessity.
+We need certain personal data to provide and support the services we provide under our terms of use.
+We rely on this legal basis: to deliver our services, and to communicate with you about our services.
+Consent.
+We may ask for your consent (separately from any contract between us) before we process your personal data, in which case you can voluntarily choose to give or deny your consent.
+We rely on this legal basis: to improve our services, for marketing communications, to personalise content, for personalised advertising, and to run competitions, sweepstakes or surveys.
+Legitimate interest.
+We may process your personal data for our or a third partyâs legitimate business interests. Weâll only do this when weâre confident that a legitimate interest exists and the processing is needed to achieve it. Weâll also make sure your privacy rights are appropriately protected and donât override the legitimate interest weâve identified.
+We rely on this legal basis: for quality assurance, training and record-keeping, for security management, for compliance management, to improve our services, for marketing communications, to personalise content, for personalised advertising, and to manage legal claims.
+Legal obligation.
+There may be cases when we must use your personal data to comply with laws or to fulfil certain legal obligations.
+We rely on this legal basis: for security management, for compliance management, for legal and regulatory compliance, and to manage legal claims.
+International transfers of personal data from the EEA and UK
+If youâre in the EEA or UK, weâll only transfer your personal data to countries that provide adequate protection for EEA and UK personal data (like New Zealand), or to countries where we have appropriate safeguards in place with the recipient to protect your personal data, for example, by entering into âstandard contractual clausesâ or equivalent terms approved by the relevant authorities. For more information, please contact us using the details in the âHow to contact usâ section.

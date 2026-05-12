@@ -1,0 +1,362 @@
+Legal | WiseTech Global
+Visit our
+CargoWise website
+Watch out for scams
+There are video scams on social media featuring fake footage of what may appear to be Richard White offering a lucrative investment opportunity. The person depicted in these videos is not Richard White and the opportunity offered is neither real nor is it associated with or endorsed by Richard White or WiseTech. We have notified the various social media platforms. If you see them DO NOT click the link and block or delete them immediately.
+Terms of Use
+The information contained in this Web site has been prepared specifically to provide a way to produce and access information by licensed users and their interested parties.
+WiseTech Global created and maintains this Web site in good faith from internal and external sources. However, no representation is made as to the completeness or accuracy of the information contained within this Web site. Licensed users their clients update the data within, therefore, you, the user, are aware that the information within this Web site may be incomplete, may contain errors, may have become out of date or may have become subject to changed legal regulations. You should, therefore, verify information obtained from this Web site before acting upon it.
+THE PUBLICATION OF THIS DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OR REPRESENTATION OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OR IMPLIED TERMS OF MERCHANTABILITY, FITNESS FOR PARTICULAR OR NON INFRINGEMENT.
+BY ACCESSING THIS WEB SITE, YOU AGREE THAT WISETECH GLOBAL WILL NOT BE LIABLE FOR ANY DIRECT OR CONSEQUENTIAL LOSS ARISING FROM THE USE OF THE INFORMATION AND MATERIAL CONTAINED IN THIS WEB SITE OR FROM YOUR ACCESS OF OTHER MATERIAL ON THE INTERNET VIA WEB LINKS FROM THIS SITE.
+The exclusions and limitation contained herein apply only to the extent permitted by law. Services described in this Web site will also be subject to terms and conditions. Details may be obtained from WiseTech Global.
+The copyright in the material from this Web site belongs to WiseTech Global. Any person may copy any part of this material, subject to the following conditions:
+The material may be used only for private use and for non-commercial purposes. The copies must retain any copyright or other intellectual property notices contained in the original material; and The products, technology or processes described in this Web site may be the subject of other intellectual property rights reserved by WiseTech Global or by other third parties.
+Privacy and Data Protection Notice
+Last Updated: 12 July 2023
+A. General Information About The Processing of Personal Information
+Introduction
+WiseTech Global Limited and its related bodies corporate (“
+WTG
+”, “
+we
+”, “
+our
+”, “
+us
+”) recognize the importance of protecting the privacy and the rights of individuals in relation to their personal information and data.
+This document is our privacy and data protection notice (the “
+Notice
+”) and it tells you how we collect, manage, and disclose your Personal Information when using our website and its functions at
+https://www.wisetechglobal.com
+and
+https://www.cargowise.com
+, including any subdomain ending with “.wisetechglobal.com” or “.cargowise.com” (our “
+Website
+”). In this Section A, the term “
+Personal Information
+” shall generally refer to any information that can be used to directly or indirectly identify you as an individual. This can be your name, address, telephone number, email address, profession or occupation and other identifiers.
+Please note, this Notice is subject to change. Please check the “Last Updated” legend at the top of this page to see when this Notice was last revised. Any changes to this Notice will become effective when we post the revised Notice on our Site.
+Residents of California, US have additional rights. California residents should
+click here
+to learn more.
+In this Section A, we provide you with general information about such processing. In the sections linked below, you can find more specific information required under applicable laws of the following jurisdictions:
+Australia in Section B;
+The European Economic Area (“EEA”) in Section C;
+The United States of America (“U.S.”) in Section D; and
+The People’s Republic of China (“PRC” or “China”) in Section E.
+Who Are We?
+WiseTech Global Limited is the operator of this Website. Our group develops and provides software solutions to the logistics execution industry globally.
+You can contact us in a number of ways:
+Sydney (WiseTech Global)
+25 Bourke Road
+Alexandria NSW 2015, Australia
+PO Box 6390
+Alexandria NSW 2015, Australia
+Telephone: +61 (2) 8001 2200
+Email:
+privacyofficer@wisetechglobal.com
+How Do We Process Personal Information When You Visit This Website?
+To establish a connection to our web servers and to enable the display of our Website, your browser will automatically send certain Personal information to our web servers.
+The following categories of Personal Information are collected automatically:
+Public IP address of the requesting entity or of your end user device;
+Date and time of the request, time zone included;
+Requested URL, including query parameters and request headers;
+Access status/HTTP status code;
+Amount of data transferred in each case;
+Website from which the request originates (so-called referrer URL); and
+HTTP headers (including your browser type, version and language; your operating system and interface; name of your Internet Service Provider).
+In particular, we process the abovementioned categories of Personal Information to ensure the continuity of our business by letting you access our Website without disruptions and to maintain the integrity of our IT systems (e.g., for preventing server overload through distributed denial-of-service (DDoS) attacks). Such Personal Information will be temporarily stored in server log files for as long as necessary to maintain and improve the security and stability of our IT systems.
+How Do We Process Personal Information When You Contact Us?
+When you contact us by email, we will collect, use and store Personal Information you provide (such as your name, your email address, your contact details, details of the products and services you have purchased from us, or which you have enquired about and further information provided by you) to process and answer your enquiry adequately. We will erase such data when storage is no longer necessary according to the circumstances (e.g., when we have provided a final response to your enquiry).
+How Do We Process Personal Information When You Send Us Your Application For a Job Offer?
+We collect the following categories of Personal Information about job applicants and use the personal information for the following business or commercial purposes. Depending on the country where you are applying for one of our job offers, please refer to the applicable Section B to E below to learn more about how we process Personal Information for this purpose
+Category of personal information collected
+Categories of sources of collection
+Business or commercial purpose for use
+Categories of third parties with whom personal information is shared
+Identifiers
+Name, email address, phone number, mail address, IP address
+Directly from you if you choose to provide this when applying for a job
+From third parties, such as your representatives or references
+Recruitment
+Identify and contact you
+Evaluate your application
+Conduct background checks
+Update our records
+Comply with laws and regulations
+HR service providers
+Credit reporting agencies
+Background check agencies
+IT service providers
+Your representatives
+Affiliates and subsidiaries
+Professional or employment-related information
+Profession, occupations, job titles, work history, references
+Directly from you if you choose to provide this when applying for a job
+From third parties, such as your representatives or references
+From publicly available sources of information
+Recruitment
+Identify and contact you
+Evaluate your application
+Conduct background checks
+Update our records
+Comply with laws and regulations
+HR service providers
+Credit reporting agencies
+Background check agencies
+IT service providers
+Your representatives
+Affiliates and subsidiaries
+How Do We Process Personal Information When You Purchase or Use Our Products and Services?
+We collect the following categories of personal information about consumers and users of our Website and use the personal information for the following business or commercial purposes.
+Category of personal information collected
+Categories of sources of collection
+Business or commercial purpose for use
+Categories of third parties with whom personal information is shared
+Identifiers
+Name, email address, phone number, mail address, IP address
+Directly from you when creating an account or otherwise engaging with our Website.
+From third parties, such as our affiliates or subsidiaries, your representatives, or credit reporting agencies.
+Services registration
+Provide products/services
+Administer and manage products and services
+Improve products/services
+Provide customer service
+Provide information about our products and services
+Provide access to protected areas of our Website
+Update our records
+Comply with laws and regulations
+Cooperate with government or law enforcement
+Marketing and analytics
+Outsourced service providers who manage the services we provide
+IT service providers
+Third party providers of products and services offered on our platform
+Installation, repair, and maintenance providers
+Your representatives
+Credit reporting agencies
+Background check agencies
+Professional advisers
+Government or regulatory authorities,
+Affiliates or subsidiaries
+Financial Information
+Name, bank details, credit card number
+Directly from you when creating an account or otherwise engaging with our Website.
+From third parties, such as our affiliates or subsidiaries, your representatives, or credit reporting agencies.
+Services registration
+Collect payment for products or service
+Pay for products or services provided to us
+Provide customer service
+Update our records
+IT service providers
+Payment card providers
+Credit reporting agencies
+Background check agencies
+Commercial Information
+Current or historical products or services you have purchased from us or inquired about, dates of services, inquiries, or transaction
+Directly from you when you when you choose to purchase or inquire about our products or services
+From third parties, such as our affiliates or subsidiaries
+Services registration
+Provide products/services
+Research and develop our products and services
+Provide customer service
+Provide information about our products and services
+Update our records
+Contact you
+Outsourced service providers who manage the services we provide
+IT service providers
+Installation, maintenance, and repair service providers
+Third party providers of products and services offered on our platform
+Marketing or analytics service providers
+Installation, repair, and maintenance providers
+Your representatives
+Professional advisers
+Affiliates or subsidiaries
+Internet or other electronic network activity information
+IP address, browsing history, query parameters, Website pages visited, time spent on the Website or services, and the date, time, and time zone of requests, referrals to sites
+HTTP headers (browser type, version, language, operating system, interface, Internet Service Provider)
+Indirectly from you through your interactions with our Website, cookies, and third party analytics tools
+Provide products/services
+Research and develop our products and services
+Maintain and develop our business systems and infrastructure
+Improve products/services
+Site personalization
+Marketing and analytics
+IT service providers
+Installation, repair, and maintenance providers
+Affiliates or subsidiaries
+Social media partners
+Geolocation Data
+Directly from you if you choose to provide
+Provide products/services
+Marketing and analytics
+IT service providers
+Marketing or analytics service providers
+Audio or visual information
+Photos or videos
+Directly from you if you choose to provide when creating an account or otherwise engaging with our Website.
+Provide products/services
+IT service providers
+Inferences Drawn from Personal Data
+Preferences, characteristics, behavior
+Indirectly from you by observing your interactions with our Website, products, and services
+Improve our services
+Develop products
+Marketing and analytics
+Website personalization
+IT service providers
+Marketing or analytics service providers
+How Do We Use Cookies On Our Website?
+Please see our
+Cookie Notice
+.
+We use Cookies on our website for essential site functionality as well as marketing, personalization and analytics purposes. We confirm that any data we collect, including cookies, is utilized in accordance with this privacy and data protection notice.
+How Do We Keep Your Personal Information Secure?
+We keep your Personal Information secure by implementing appropriate technical and organizational measures, which shall protect your Personal Information against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access. For instance, our employees and all persons acting under our authority are obliged and regularly trained to comply with applicable data protection laws and to process Personal Information in a confidential manner. To protect the Personal Information of our Website visitors, we also use a secure online transfer protocol, the so-called “Transport Layer Security” (TLS) transmission. You can recognize this by a final “s” appended to the URL (“https://”) or a closed lock symbol in your browser. Clicking on the symbol provides you with further information about the TLS certificate used. Symbols and explanations may vary according to the browser you are using. TLS encryption ensures the encrypted and complete transmission of your data.
+Your Rights And How To Get More Information
+If you wish to exercise any of your rights under applicable laws as described further below in Sections B to E or if you have any questions about this Notice and the processing of your Personal Information, please use the
+contact form
+on our website or contact our Privacy Officer (as our point of contact under Australian privacy laws) at:
+WiseTech Global Limited
+Email:
+privacyofficer@wisetechglobal.com
+Post: 25 Bourke Road, Alexandria NSW 2015, Australia.
+You may also contact your local privacy officer as indicated in other Sections if applicable.
+How To Make A Complaint
+If you think we have breached applicable privacy laws, or you wish to make a complaint about the way we have handled your personal information, you can contact us using the details above.
+If you do make a complaint or allege a breach, WTG will investigate your complaint and use reasonable endeavors to respond to you in writing within 28 days of receiving the written complaint. If we fail to respond to your complaint within 28 days of receiving it in writing, or if you are dissatisfied with the response that you receive from us, you have the right, depending on the jurisdiction, to make a complaint to the applicable regulator.
+In the case of the Privacy Act, the applicable regulator is the Office of the Australian Information Commissioner. The Office of the Australian Information Commissioner can be contacted using the details below.
+Office of the Australian Information Commissioner
+Visit:
+www.oaic.gov.au
+Email:
+enquiries@oaic.gov.au
+Phone: 1300 363 992
+Mail: GPO Box 5218, Sydney NSW 2001
+In the case of the GDPR, the applicable regulator will be the local regulator in your jurisdiction in Europe.
+In the case of China, the applicable regulator will be the Cyberspace Administration of China or its designated authority.
+Changes To This Notice
+We operate in a dynamic business and technological environment. Over time, aspects of our business or technology may change as we respond to changing market and technological conditions. This may require our policies to be reviewed and revised. We reserve the right to change this Notice at any time and to notify you by posting an updated version of the Notice on our website.
+B. Specific Information Required Under Applicable Laws Of Australia
+When used in Section A of this Notice, the term “
+Personal Information
+” has the meaning given to it in Australia’s
+Privacy Act 1988
+(Cth) (the “
+Privacy Act
+”) and Australian Privacy Principles (“
+APPs
+”). In general terms, it is any information that can be used to personally identify you. If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information.
+Under the Privacy Act and APPs and subject to its terms, you are entitled to:
+access your personal information; and
+seek the correction of your personal information.
+The applicable regulator under the Privacy Act is the
+Office of the Australian Information Commissioner
+.
+Direct Marketing
+To the extent legally permissible, we may collect, hold, use and disclose your personal data to promote and market to you other services that we consider may be of interest to you, including through direct marketing and targeted online advertising. To the extent this is legally permissible, you consent to receive such marketing communications by using our products, services, or website, or by providing us with your personal information. We will provide you with an opportunity to unsubscribe from any future promotional or marketing material (such as promotional email offers) and educational material via an opt-out mechanism. You may also notify us at any time that you do not wish to receive marketing or promotional material by advising the WTG Privacy Officer at the contact details set out above under “Your Rights And How To Get More Information.”
+Cross-Border Disclosure of Personal Information
+Sometimes, the third parties with whom we share personal information as listed in Section A will be located in countries outside Australia. The countries in which these organizations or persons are located will vary, but, in the course of our ordinary operations, we generally disclose personal information to organizations or persons located in Australia, the United States of America and the United Kingdom.
+Accessing or correcting your personal information
+You can access the personal information we hold about you by contacting us using the contact details in Section A. Sometimes, we may not be able to provide you with access to all of your personal information and, where this is the case, we will tell you why. We may also need to verify your identity when you request your personal information.
+If you think that any personal information we hold about you is inaccurate, incomplete or out-of-date, please contact us and we will take reasonable steps to ensure that it is corrected and/or updated. We will generally rely on you to assist us in informing us if the personal information we hold about you is inaccurate, incomplete or out-of-date.
+C. Specific Information Required Under Applicable Laws Of The EEA
+Unless specified otherwise in this Notice, capitalized terms in this Section C have the meaning of the terms defined in Art. 4 of the EU General Data Protection Regulation (the “
+GDPR
+”). When used in Section A of this Notice, the term “
+Personal Information
+” has the same meaning as “personal data” under Art. 4(1) GDPR.
+Data Protection Officer:
+Dr. Sebastian Kraska
+Rechtsanwalt, Diplom-Kaufmann
+IITR Datenschutz GmbH, Eschenrieder Str. 62c, 82194 Gröbenzell
+Telefon: +49 89 189 1736-0
+E-Mail:
+skraska@iitr.de
+How Do We Process Personal Information When You Visit This Website?
+In addition to the information provided in Section A above, we inform you that the legal basis we rely on to process your Personal Information when you visit our Website follows from Art. 6(1), sentence 1, lit. f GDPR, which allows us to process Personal Information when it is necessary for our legitimate interests.
+How Do We Process Personal Information When You Contact Us?
+In addition to the information provided in Section A above, we inform you that the legal basis for such processing is Art. 6(1), sentence 1, lit. f GDPR, unless your enquiry is intended to take steps prior to entering into, to perform or to terminate a contract with us. In this case, the legal basis follows from Art. 6(1), sentence 1, lit. b GDPR.
+How Do We Process Personal Information When You Send Us Your Application For a Job Offer in the EEA?
+To apply for a job with us, you need to provide us with the data required for assessing and perhaps selecting you. The information required in each case can be found in the job description or will be stated specifically in the application form. This includes Personal Information such as your name, address, a means of contact, and proof of the qualifications required for a position with us. Upon request, we will be happy to provide you with the information required for a specific position.
+The legal basis for processing your Personal Information throughout the application procedure follows from Art. 6(1), sentence 1, lit. b GDPR in conjunction with applicable EEA Member State law.
+Where we collect special categories of Personal Information within the meaning of Art. 9(1) GDPR (e.g. health data, such as the existence of a severe disability, or ethnic origin) from applicants during the application process, to allow us or the applicant to exercise the specific rights in the field of employment and social security and social protection law, such data will be processed in accordance with Art. 9(2) lit. b GDPR in conjunction with applicable EEA Member State law. Where necessary for the protection of vital interests of applicants or other persons, Art. 9(2) lit. c GDPR serves as legal basis. For the purposes of preventive or occupational medicine, for the assessment of the working capacity of the applicant, medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services, we rely on Art. 9(2) lit. h GDPR in conjunction with applicable provisions from EEA or Member State law. If we ask for your voluntary and express consent in this respect, we process special categories of Personal Information on the basis of Art. 9(2) lit. a GDPR in conjunction with applicable EEA Member State law.
+If your application is successful, your applicant data will be further processed by us to establish, perform and terminate the employment relationship. Otherwise, if the application for a job offer is not successful, the data of the applicants will be retained for future roles unless deletion is requested. We will also erase Personal Information from applicants if they request us to upon withdrawing their application, which they are entitled to do at any time. We will erase Personal Information from the application procedure no later than 14 days after this procedure has been requested. Such storage is necessary to allow us to answer any follow-up questions about the application procedure and to comply with applicable time limits under applicable EEA Member State law. Invoices for any reimbursement of travel expenses will be retained in accordance with tax law requirements under applicable EEA Member State law.
+Additional to the above, as we are a Group, any collection of personal information in respect of applications will transferred to Australia where WiseTech Global Group is headquartered. If you have any queries or concerns in respect of this, please contact privacyofficer@wisetechglobal.com
+Your Rights As A Data Subject
+As a Data Subject, you have the right to obtain confirmation as to whether Personal Information relating to you is being processed by us and, where that is the case, the right to access the Personal Information and obtain a copy thereof (Art. 15(1) and (3) GDPR).
+If we process inaccurate Personal Information, you have the right to rectification (Art. 16 GDPR).
+In some cases described by law, you may request the erasure of Personal Information concerning you or the restriction of processing (Art. 17 and 18 GDPR).
+If processing is based on your consent within the meaning of Art. 6(1), sentence 1, letter a GDPR and/or Art. 9(2), letter a GDPR, you may withdraw your consent at any time (Art. 7(3) GDPR), which would not affect the lawfulness of processing based on consent before its withdrawal.
+If processing is based on your consent within the meaning of Art. 6(1), sentence 1, letter a GDPR and/or Art. 9(2), letter a GDPR and the data processing is carried out by automated means, you have a right to receive the Personal Information concerning you in a structured, commonly used and machine-readable format and the right to transmit those data to another controller without hindrance from the controller to which the Personal Information have been provided (Art. 20 GDPR).
+You have the right to object, on grounds relating to your particular situation, at any time to processing of Personal Information concerning you based on Art. 6(1), sentence 1, letter e or f GDPR (Art. 21(1) GDPR).You may object to the processing of your Personal Information on the basis of on Art. 6(1), sentence 1, letter f GDPR for direct marketing purposes at any time (Art. 21(2) GDPR), without stating grounds relating to your particular situation.
+Furthermore, you have the right to lodge a complaint with the competent data protection supervisory authority. You can, for example, contact the supervisory authority in the EEA Member State of your habitual residence, place of work or place of the alleged infringement. The lead data protection supervisory authority responsible for us in the EEA is the Hamburg Commissioner for Data Protection.
+We do not make any automated decisions based solely on automated processing, including profiling, which produce legal effects concerning the visitors of our Website or similarly significantly affects them.
+If you have any questions or complaints about how we process your Personal Information, we recommend that you first contact us (see the contact details under Section A above).
+D. Specific Information Required Under Applicable Laws Of The U.S.
+Additional Information for California Residents
+Your Rights with Regard to Your Personal Information under the CCPA
+We do not sell, trade, or rent the personal information of California residents. Like many organizations, we engage third parties to help us deliver marketing messages to you about our products or services. In doing so, we may make available or transfer your personal information (e.g., identifiers such as your IP address, geolocation data, and Internet or other similar network activity) to third parties, such as marketing or analytics service providers. We do not believe this is a “sale” of personal data as defined under the CCPA. Nevertheless, we provide you with the ability to opt-out of the disclosure of your personal data in connection with targeting cookies by following the link available in the Cookie Policy.
+If you are a resident of California, the California Consumer Privacy Act (“
+CCPA
+”) may provide you with the following rights regarding your personal information:
+Right to Know and Access Your Information:
+You have the right to request information about our collection, use, and disclosure of your personal information over the past twelve (12) months concerning:
+The specific pieces of personal information we have collected about you
+The categories of personal information that we have collected about you
+The categories of sources from which we collected the personal information
+The purpose for collecting or selling the personal information
+The categories of personal information that we have disclosed about you, the purpose for disclosing such personal information and the categories of third parties with whom we disclosed such personal information
+The categories of personal information that we have sold about you, as well as the categories of third parties to whom we sold such personal information
+Please note that we may still use aggregated and de-identified personal information that does not identify you or any individual.
+Right to Deletion:
+You have the right to request that we delete certain personal information about you that we have collected about you. We may not be able to fulfill your request if we (or our service providers) need to retain your personal information for certain authorized purposes, such as to provide a good or service you requested, to secure our services, to protect against fraud, to improve our services, or to comply with or exercise rights under applicable law.
+Right to Non-Discrimination:
+You have the right not to receive discriminatory treatment against you (e.g., through denying goods or services, charging different rates for goods or services, or providing a different level or quality of goods or services) for exercising any of your rights under the CCPA.
+How to Exercise Your Access and Deletion Rights.
+To exercise your access and deletion rights as described above, please submit a verifiable consumer request by contacting us by emailing us at
+privacyofficer@wisetechglobal.com
+.
+Verifiable Consumer Requests.
+Only you, or your agent registered with the California Secretary of State that you authorize to act on your behalf, may make a request related to your personal information. You may only make a request for access to your personal information twice within a 12-month period. We may need to verify your identity (and if applicable, your agent’s authority to make the request on your behalf) before we are able to process your request. We will ask you to provide certain information to verify your identity: name, email address, and telephone number. If an authorized agent makes the request on your behalf, then (i) we will need proof that you have provided the agent with power of attorney; (ii) you must provide the agent with signed permission to submit a request to access or delete; (iii) you must verify your identity directly with us; or (iv) you must confirm with us that you provided the authorized agent permission to submit the request.
+You must provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information. During the verification process, we will try to match the information you provided against known information in our databases. If we still need additional information, we also may contact you or your authorized agent by email or telephone to ask you additional questions about the services we last provided to you, so that we can match your identity with the personal information we have about you. In some instances, we may ask you to declare under penalty of perjury that you are a consumer whose personal information is the subject of the request.
+Making a verifiable consumer request does not require you to create an account with us. However, we do consider requests made through your password-protected account sufficiently verified when the request relates to personal information associated with that specific account. We will only use personal information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
+Your request must contain sufficient detail that allows us to properly understand, evaluate and respond to it, otherwise we may not be able to respond to it. If we cannot verify your identity or sufficiently differentiate you from another consumer, or cannot confirm an agent’s authority to act on your behalf, we are not required to fulfill your request.
+California’s Shine the Light law.
+California residents with an established business relationship with us can request information once a year about sharing their personal information with third parties for the third parties’ direct marketing purposes. If you are a California resident and would like to request more information under the California Shine the Light law, you can email us at
+privacyofficer@wisetechglobal.com
+.
+Change of Control.
+In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including, without limitation, any and all categories of personal data that we have collected about you in accordance with applicable law. We also may disclose this information in connection with the due diligence for any such transaction. Any acquirer or successor may continue to use your data as set forth in this Notice.
+E. Specific Information Required Under Applicable Laws of the People’s Republic of China (“China”)
+Additional Information for China Residents
+Unless specified otherwise in this Notice, capitalized terms in this Section E have the meaning given to them in the Personal Information Protection Law of China (the “
+PIPL
+”). When used in Section A of this Notice for residents of China, the term “
+Personal Information
+” has the same meaning given to it under Art. 4 of the PIPL.
+Basis for processing your Personal Information When You Visit This Website?
+By visiting our Website and using its services or otherwise interacting with us, you acknowledge that you have read and understand this Policy and consent to the collection and processing of your Personal Information for the purposes set out in Section A. In addition, you acknowledge that in visiting our Website and providing Personal Information to us through the Website, you are exporting your Personal Information out of China and expressly consent to such export.
+How Do We Process Personal Information When You Contact Us?
+In addition to the information provided in Section A above, when you contact us to provide information for a job application, for goods or services or for any other purposes, where required under the PIPL, we will seek your separate consent.
+Where we collect Sensitive Personal Information within the meaning of the PIPL (e.g. health data, financial data) or transfer your Personal Information out of China we will seek your separate and express consent if as required under the PIPL and other applicable Chinese laws.
+You acknowledge that separate consent may not be required where your personal information is processed on the basis of an exception to consent under the PIPL and other applicable Chinese laws, including for cross-border transactions with you.
+We do not knowingly request the Personal Information of any minor under the age of 14 years.
+If you decide not to share certain Personal Information with us, then we may not be able to provide, for example, the corresponding information or service requested. Similarly, if you disable cookie(s), you may experience some inconvenience when enjoying our service. For more information concerning cookies, please refer to our Cookie Policy.
+With Whom Do We Share Your Personal Information?
+A full list of the third parties with whom your Personal Information may be shared as outlined in Section A may be found
+here
+.
+If required by the PIPL we will enter into the required contracts with such third parties.
+Cross-Border Transfer of Your Personal Information
+We may transfer your Personal Information out of China when you apply for a job with WiseTech in China. All exports of Personal Information by WiseTech in China as a Personal Information handler will be conducted in accordance with the requirements of the PIPL and other applicable Chinese laws.
+Your Rights
+Subject to any limitations under the PIPL or other applicable Chinese laws, you have the following rights with respect to your Personal Information:
+to obtain confirmation as to whether Personal Information relating to you is being processed by us and, where that is the case, the right to access to the Personal Information to you and a copy thereof ;
+to request rectification where the Personal Information relating to you is inaccurate;
+to request the erasure of Personal Information concerning you or the restriction of processing of such Personal Information;
+if processing is based on your consent, to withdraw your consent at any time, which would not affect the lawfulness of processing based on consent before its withdrawal;
+to request that we cease processing your Personal Information for direct marketing purposes at any time (including any profiling for such purpose.); and
+to request that we clarify our Personal Information handling rules.
+We do not make any automated decisions based solely on automated processing, including profiling, which produce legal effects concerning the visitors of our Website or similarly significantly affects them.
+In the event of the death of a natural person, their next of kin, may exercise the rights to request access, copy, correct, and delete the relevant Personal Information of the deceased, unless the deceased had arranged otherwise before his/her death.
+If you have any questions or complaints about how we process your Personal Information, we recommend that you first contact us (see the contact details under Section A above).

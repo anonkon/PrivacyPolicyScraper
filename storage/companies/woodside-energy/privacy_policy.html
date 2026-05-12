@@ -1,0 +1,1169 @@
+ <!DOCTYPE html> <html lang="en-AU"> <head> <meta charset="utf-8" /><script type="text/html" id="sf-tracking-consent-manager">
+	<div class="c-consentDialog">
+	<div class="l-container">
+		<div class="l-flexContainer -columnSpacing -vAlignCenter">
+			<div class="l-flexContainer__item">
+				<strong>Use of cookies</strong>
+				<p>We use tracking technologies called ‘cookies’, including to monitor the pages accessed by browsers on our website. Third party cookies may be placed by contracted service providers on the website and we may share anonymous, aggregated information with these providers. For more information, read our <a href="/privacy">Privacy Statement</a>. You may refuse cookies without impacting the use of the website.</p>
+			</div>
+			<div class="l-flexContainer__item">
+				<button type="button" onclick="TrackingConsentManager.updateUserConsent(true)" id="tracking-consent-dialog-accept" class="a-button -dark">I accept</button>
+				<button type="button" onclick="TrackingConsentManager.updateUserConsent(false)" id="tracking-consent-dialog-reject" class="a-button -light">I refuse</button>
+			</div>
+		</div>
+	</div>
+</div>
+</script><script type="28221dd063692808628d85fe-text/javascript" src="/WebResource.axd?d=DzHrpQl5URXarFHAtrmzFgL92kbV4nrFHQEylqKOwLB3GgACktofyWTnwmCp8AUmOIb9WMd1URdms35pZgzZioB-ya2qS8kW6qlvbdTq7WLYExhYyTMfvlwaN0F5RlIrRSBO3AekmC4WPKr-JHUAPhAZGkhNLHYYekVNcZYTdzWrnJbhWNlfsCFmfy3qeFR90&amp;t=639125221320000000">
+
+</script> <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="28221dd063692808628d85fe-text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b388875461","applicationID":"215835845","transactionName":"Y1FVZktWWEYEUEVZWlobYkBQGEZHDEVQU0w=","queueTime":0,"applicationTime":1,"agent":"","atts":""}</script><script type="28221dd063692808628d85fe-text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]},feature_flags:["soft_nav"]};(window.NREUM||(NREUM={})).loader_config={licenseKey:"b388875461",applicationID:"215835845",browserID:"215835942"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(9),c=t(10),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(11);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(8),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],7:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],8:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],9:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],10:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],11:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(9),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!M++){var t=T.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+T.offset],null,"api"),c("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===m.readyState&&o()}function o(){c("mark",["domContent",a()+T.offset],null,"api")}var a=t(5),c=t("handle"),f=t(9),u=t("ee"),s=t(7),d=t(2),p=t(3),l=d.getConfiguration("ssl")===!1?"http":"https",v=window,m=v.document,g="addEventListener",y="attachEvent",h=v.XMLHttpRequest,w=h&&h.prototype,b=!1;NREUM.o={ST:setTimeout,SI:v.setImmediate,CT:clearTimeout,XHR:h,REQ:v.Request,EV:v.Event,PR:v.Promise,MO:v.MutationObserver};var E=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1216.min.js"},O=h&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),T=e.exports={offset:a.getLastTimestamp(),now:a,origin:E,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(6),m[g]?(m[g]("DOMContentLoaded",o,p(!1)),v[g]("load",r,p(!1))):(m[y]("onreadystatechange",i),v[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var M=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(10),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script><script type="28221dd063692808628d85fe-text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b388875461","applicationID":"215835845","transactionName":"Y1FVZktWWEYEUEVZWlobdmFpGEVTCEVSQFRTUURXS0FfVgAcVQBXAlUOUwEaB1MHCxwEUFdSGlAODwEYUgAIBAdSVw4HCgEEagtcRVhQWVFoV1caV0BLUkJATQ==","queueTime":0,"applicationTime":294,"agent":"","atts":""}</script><script type="28221dd063692808628d85fe-text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]},feature_flags:["soft_nav"]};(window.NREUM||(NREUM={})).loader_config={licenseKey:"b388875461",applicationID:"215835845",browserID:"215835942"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(9),c=t(10),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(11);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(8),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],7:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],8:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],9:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],10:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],11:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(9),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!M++){var t=T.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+T.offset],null,"api"),c("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===m.readyState&&o()}function o(){c("mark",["domContent",a()+T.offset],null,"api")}var a=t(5),c=t("handle"),f=t(9),u=t("ee"),s=t(7),d=t(2),p=t(3),l=d.getConfiguration("ssl")===!1?"http":"https",v=window,m=v.document,g="addEventListener",y="attachEvent",h=v.XMLHttpRequest,w=h&&h.prototype,b=!1;NREUM.o={ST:setTimeout,SI:v.setImmediate,CT:clearTimeout,XHR:h,REQ:v.Request,EV:v.Event,PR:v.Promise,MO:v.MutationObserver};var E=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1216.min.js"},O=h&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),T=e.exports={offset:a.getLastTimestamp(),now:a,origin:E,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(6),m[g]?(m[g]("DOMContentLoaded",o,p(!1)),v[g]("load",r,p(!1))):(m[y]("onreadystatechange",i),v[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var M=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(10),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script> <meta name="viewport" content="width=device-width, initial-scale=1" /> <title>
+	Privacy - Woodside Energy
+</title> <link rel="preconnect" href="https://use.typekit.net"> <link rel="stylesheet" href="https://use.typekit.net/eol4cuk.css"> <link rel="apple-touch-icon" sizes="180x180" href="/assets/static/images/icons/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/assets/static/images/icons/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/assets/static/images/icons/favicon-16x16.png"> <link rel="manifest" href="/assets/static/images/icons/site.webmanifest"> <link rel="mask-icon" href="/assets/static/images/icons/safari-pinned-tab.svg" color="#d71538"> <link rel="shortcut icon" href="/assets/static/images/icons/favicon.ico"> <link type="text/plain" rel="author" href="https://www.woodside.com.au/humans.txt" /> <meta name="msapplication-TileColor" content="#d71538"> <meta name="msapplication-config" content="/assets/static/images/icons/browserconfig.xml"> <meta name="theme-color" content="#d71538">  <link href="/assets/dist/bundleTop.2e250587995963575efb.css?package=WoodsideResources" rel="stylesheet" type="text/css" /> <script type="28221dd063692808628d85fe-text/javascript">
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-P65FJKR');</script> <meta property="og:title" content="Privacy - Woodside Energy" /><meta property="og:url" content="https://www.woodside.com/privacy" /><meta property="og:type" content="website" /><meta property="og:site_name" content="Woodside" /><meta name="Generator" content="Sitefinity 14.4.8137.0 DX" /><link rel="canonical" href="https://www.woodside.com/privacy" /></head> <body class=" template-v2narrowcontent"> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P65FJKR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <div id="site-wrap"> <header id="header"> 
+
+<div class="site-header header">
+    <div class="o-container">
+        <div class="u-flex-container u-flex-center">
+            <div class="header__logo">
+                <a href="/">
+                    <img src="/assets/static/images/svg/logo-colour-vertical.svg" alt="Woodside" width="80" height="80" loading="eager" fetchpriority="high" />
+                </a>
+            </div>
+            <div id="menu-wrapper">
+                <div id="close-menu-button" class="u-hidden-desktop">
+                    <img class="svg" src="/assets/static/images/svg/icon-cross.svg" alt="" loading="lazy" />
+                </div>
+                <div id="menu-container">
+                    <div id="nav-wrapper" class="u-flex-container u-flex-center u-tablet-block">
+                        <div id="Header_TA974569E011_Col00" class="sf_colsIn main-nav" data-sf-element="Main Navigation" data-placeholder-label="Main Navigation">
+<div class="">
+    <nav id="main-nav" role="navigation">
+        <ul class="u-flex-container u-tablet-block u-list-reset">
+                <li class="">
+                    <a href="https://www.woodside.com/who-we-are" data-toggle="dropdown" class="dropdown-toggle">
+                        Who we are
+                        <span class="nav-toggle"></span>
+                    </a>
+                    <div class="dropdown-menu">
+                        <div class="o-container l-container -fullHeight -ignoreNesting">
+                            <div class="l-flexContainer -fullHeight -vAlignTop -columnSpacing">
+
+                                <div class="nav-content l-flexContainer -fullHeight -vAlignTop">
+                                    <div class="content u-hidden-below-desktop">
+                                        <div class="heading">
+                                            Who we are
+                                        </div>
+                                        <div class="text">
+                                            We are a global energy company founded in Australia, providing the energy to help people lead better lives. 
+                                        </div>
+                                        <div>
+                                            <a href="https://www.woodside.com/who-we-are" class="btn -outline -white">
+                                                Learn More
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <ul class="nav-link-collection">
+                                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/who-we-are/our-story" target="_self">Our story</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/who-we-are/purpose-strategy-values" target="_self">Purpose, strategy &amp; values</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/who-we-are/leadership" target="_self">Leadership</a>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/who-we-are/corporate-governance-and-policies" target="_self">
+                        
+                        Corporate governance and policies
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/who-we-are/corporate-governance-and-policies/speak-up" target="_self">Speak up</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="">
+                    <a href="https://www.woodside.com/what-we-do" data-toggle="dropdown" class="dropdown-toggle">
+                        What we do
+                        <span class="nav-toggle"></span>
+                    </a>
+                    <div class="dropdown-menu">
+                        <div class="o-container l-container -fullHeight -ignoreNesting">
+                            <div class="l-flexContainer -fullHeight -vAlignTop -columnSpacing">
+
+                                <div class="nav-content l-flexContainer -fullHeight -vAlignTop">
+                                    <div class="content u-hidden-below-desktop">
+                                        <div class="heading">
+                                            What we do
+                                        </div>
+                                        <div class="text">
+                                            We are a global energy company providing reliable and affordable energy to help people lead better lives. 
+                                        </div>
+                                        <div>
+                                            <a href="https://www.woodside.com/what-we-do" class="btn -outline -white">
+                                                Learn More
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <ul class="nav-link-collection">
+                                                    <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/operations" target="_self">
+                        
+                        Operations
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/operations/pluto-lng" target="_self">
+                        
+                        Pluto LNG
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/operations/pluto-lng/pluto-lng-environmental-compliance-reporting" target="_self">Pluto LNG Environmental Compliance Reporting</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/operations/pluto-lng/pluto-KPG-interconnector" target="_self">Pluto-KGP Interconnector</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/operations/north-west-shelf" target="_self">
+                        
+                        North West Shelf Project
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/developments-and-exploration/NWS-project-extension" target="_self">NWS Project Extension</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/operations/australia-oil" target="_self">Australia Oil</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/operations/macedon" target="_self">Macedon</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/operations/shenzi" target="_self">Shenzi</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/operations/bass-strait" target="_self">Bass Strait</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/operations/mad-dog-and-atlantis" target="_self">Mad Dog and Atlantis</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/operations/wheatstone-project" target="_self">Wheatstone&#160;</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/operations/sangomar" target="_self">Sangomar</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/growth-projects" target="_self">
+                        
+                        Growth projects
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/growth-projects/Scarborough-Energy-Project" target="_self">
+                        
+                        Scarborough Energy Project
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/scarborough-project-environmental-compliance-reporting" target="_self">Scarborough Project Environmental Reporting</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/growth-projects/trion" target="_self">Trion</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/growth-projects/beaumont-new-ammonia" target="_self">Beaumont New Ammonia</a>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/growth-projects/woodside-louisiana-lng" target="_self">
+                        
+                        Woodside Louisiana LNG
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/growth-projects/woodside-louisiana-lng/pipeline-project" target="_self">Pipeline Project</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/growth-projects/hydrogen-refueller--h2perth" target="_self">Hydrogen Refueller @H2Perth</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/developments-and-exploration" target="_self">
+                        
+                        Developments and exploration
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/developments-and-exploration/browse" target="_self">Browse to NWS Project</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/developments-and-exploration/greater-sunrise" target="_self">Greater Sunrise</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/developments-and-exploration/Calypso" target="_self">Calypso</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/new-energy" target="_self">
+                        
+                        New Energy
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/new-energy/hydrogen" target="_self">
+                        
+                        Hydrogen and Ammonia
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/new-energy/hydrogen/beaumont-new-ammonia" target="_self">Beaumont New Ammonia</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/new-energy/hydrogen/hydrogen-refueller--h2perth" target="_self">Hydrogen Refueller @H2Perth</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/new-energy/solar" target="_self">Solar</a>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/new-energy/lower-carbon-services" target="_self">
+                        
+                        Lower-carbon Services
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/new-energy/lower-carbon-services/neosmelt-project" target="_self">NeoSmelt Project</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/marketing" target="_self">
+                        
+                        Marketing
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/marketing/domestic-gas-reporting" target="_self">Domestic Gas Reporting</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/woodside-global-map" target="_self">Woodside Global Map</a>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/working-openly" target="_self">
+                        
+                        Working openly
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/working-openly/membership-of-peak-industry-organisations" target="_self">Membership of peak industry organisations</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/working-openly/government-submissions" target="_self">Government submissions &amp; reports</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/working-openly/facility-maintenance-information" target="_self">Facility maintenance information</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/consultation-activities" target="_self">Consultation activities</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/community-concerns" target="_self">Community concerns</a>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/what-we-do/innovation" target="_self">
+                        
+                        Innovation
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/innovation/data-science" target="_self">Data Science</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/innovation/intelligent-assets-robotics" target="_self">Intelligent Assets &amp; Robotics</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/innovation/stem-education" target="_self">STEM Education</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/what-we-do/innovation/futurelab" target="_self">FutureLab</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="">
+                    <a href="https://www.woodside.com/sustainability" data-toggle="dropdown" class="dropdown-toggle">
+                        Sustainability
+                        <span class="nav-toggle"></span>
+                    </a>
+                    <div class="dropdown-menu">
+                        <div class="o-container l-container -fullHeight -ignoreNesting">
+                            <div class="l-flexContainer -fullHeight -vAlignTop -columnSpacing">
+
+                                <div class="nav-content l-flexContainer -fullHeight -vAlignTop">
+                                    <div class="content u-hidden-below-desktop">
+                                        <div class="heading">
+                                            Sustainability
+                                        </div>
+                                        <div class="text">
+                                            Integrity, accountability, and transparency drive Woodside’s environmental, social and governance aspirations and guide decision-making at all levels of our business.
+                                        </div>
+                                        <div>
+                                            <a href="https://www.woodside.com/sustainability" class="btn -outline -white">
+                                                Learn More
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <ul class="nav-link-collection">
+                                                    <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/sustainability/environment" target="_self">
+                        
+                        Environment
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/sustainability/environment/climate" target="_self">
+                        
+                        Climate
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/environment/climate/Scope-1-and-2-ghg-emissions" target="_self">Scope 1 and 2 GHG emissions</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/environment/climate/scope-3-ghg-emissions" target="_self">Scope 3 GHG emissions</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/environment/climate/climate-governance" target="_self">Climate governance</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/environment/climate/just-transition" target="_self">Just transition</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/sustainability/environment/environment-and-biodiversity" target="_self">
+                        
+                        Environment and biodiversity
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/environment/environment-and-biodiversity/biodiversity" target="_self">Biodiversity</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/environment/environment-and-biodiversity/environmental-management" target="_self">Environmental management</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/environment/decommissioning" target="_self">Decommissioning</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/sustainability/social" target="_self">
+                        
+                        Social
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/social/indigenous-peoples-cultural-heritage-and-engagement" target="_self">Indigenous Peoples cultural heritage and engagement&#160;</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/social/social-contribution" target="_self">Social contribution</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/social/people-and-culture" target="_self">People and culture</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/social/human-rights" target="_self">Human rights</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/social/energy-security" target="_self">Energy security</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/sustainability/governance" target="_self">
+                        
+                        Governance
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/governance/health-safety-and-wellbeing" target="_self">Health, safety and wellbeing</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/governance/corporate-governance" target="_self">Corporate governance</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/governance/major-incident-preparedness" target="_self">Major incident preparedness</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/governance/cybersecurity" target="_self">Cyber Security</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/our-stakeholders" target="_self">Our stakeholders</a>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/sustainability/sustainability-frameworks-and-supporting-information" target="_self">
+                        
+                        Sustainability frameworks and supporting information
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/sustainability-frameworks-and-supporting-information/gri-content-index" target="_self">GRI content index</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/sustainability-frameworks-and-supporting-information/ipieca-guidance" target="_self">Ipieca guidance</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/sustainability-frameworks-and-supporting-information/external-assurance-statements" target="_self">External assurance statements</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/sustainability-frameworks-and-supporting-information/united-nations-sustainable-development-goals" target="_self">United Nations Sustainable Development Goals</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/sustainability/sustainability-databook" target="_self">
+                        
+                        Sustainability Databook
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/sustainability-databook/climate-data-table" target="_self">Climate data table</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/sustainability-databook/environment-data-table" target="_self">Environment data table</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/sustainability-databook/health-and-safety-performance-data-table" target="_self">Health and safety data table</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/sustainability/sustainability-databook/people-data-table" target="_self">People data table</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="">
+                    <a href="https://www.woodside.com/investors" data-toggle="dropdown" class="dropdown-toggle">
+                        Investors
+                        <span class="nav-toggle"></span>
+                    </a>
+                    <div class="dropdown-menu">
+                        <div class="o-container l-container -fullHeight -ignoreNesting">
+                            <div class="l-flexContainer -fullHeight -vAlignTop -columnSpacing">
+
+                                <div class="nav-content l-flexContainer -fullHeight -vAlignTop">
+                                    <div class="content u-hidden-below-desktop">
+                                        <div class="heading">
+                                            Investors
+                                        </div>
+                                        <div class="text">
+                                            The information, updates and events you need to make informed investment decisions.
+                                        </div>
+                                        <div>
+                                            <a href="https://www.woodside.com/investors" class="btn -outline -white">
+                                                Learn More
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <ul class="nav-link-collection">
+                                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/why-invest-with-woodside" target="_self">Why Invest with Woodside?</a>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/investors/investor-announcements" target="_self">
+                        
+                        Announcements and filings
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/investor-announcements/asx-announcements" target="_blank">ASX Announcements</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/investor-announcements/sec-filings" target="_self">SEC filings</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/investor-announcements/lse-announcements" target="_blank">LSE Announcements (delisted)</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/investor-announcements/events" target="_self">Investor Events</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/investors/reports-investor-briefings" target="_self">
+                        
+                        Reports &amp; investor briefings
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/reports-investor-briefings/annual-and-half-year-reports" target="_blank">Annual and Half-year reports</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/reports-investor-briefings/quarterly-reports" target="_blank">Quarterly reports</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/reports-investor-briefings/investor-briefings" target="_blank">Investor briefings</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/investors/shareholder-information" target="_self">
+                        
+                        Shareholder information
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/shareholder-information/2025-full-year-results" target="_self">2025 full-year results</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/shareholder-information/2025-half-year-results" target="_self">2025 half-year results</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/shareholder-information/lse-delisting" target="_self">LSE delisting</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/share-price/shareholder-faq" target="_self">Shareholder FAQ</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/investors/dividend-information" target="_self">
+                        
+                        Dividend information
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/dividend-information/dividend-reinvestment-plan" target="_self">Dividend Reinvestment Plan</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/investors/investor-esg-information" target="_self">Investor ESG information</a>
+            </li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="">
+                    <a href="https://www.woodside.com/media-centre" data-toggle="dropdown" class="dropdown-toggle">
+                        Media centre
+                        <span class="nav-toggle"></span>
+                    </a>
+                    <div class="dropdown-menu">
+                        <div class="o-container l-container -fullHeight -ignoreNesting">
+                            <div class="l-flexContainer -fullHeight -vAlignTop -columnSpacing">
+
+                                <div class="nav-content l-flexContainer -fullHeight -vAlignTop">
+                                    <div class="content u-hidden-below-desktop">
+                                        <div class="heading">
+                                            Media centre
+                                        </div>
+                                        <div class="text">
+                                            
+                                        </div>
+                                        <div>
+                                            <a href="https://www.woodside.com/media-centre" class="btn -outline -white">
+                                                Learn More
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <ul class="nav-link-collection">
+                                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/media-centre/announcements1" target="_self">Announcements</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/media-centre/news-stories" target="_self">News stories</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/media-centre/media-toolkit" target="_self">Media toolkit</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/media-centre/events" target="_self">Events</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/media-centre/woodside-energy-fact-checker" target="_self">Woodside Energy Fact Checker</a>
+            </li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="">
+                    <a href="https://www.woodside.com/suppliers" data-toggle="dropdown" class="dropdown-toggle">
+                        Suppliers
+                        <span class="nav-toggle"></span>
+                    </a>
+                    <div class="dropdown-menu">
+                        <div class="o-container l-container -fullHeight -ignoreNesting">
+                            <div class="l-flexContainer -fullHeight -vAlignTop -columnSpacing">
+
+                                <div class="nav-content l-flexContainer -fullHeight -vAlignTop">
+                                    <div class="content u-hidden-below-desktop">
+                                        <div class="heading">
+                                            Suppliers
+                                        </div>
+                                        <div class="text">
+                                            Working together to provide energy to the world.
+                                        </div>
+                                        <div>
+                                            <a href="https://www.woodside.com/suppliers" class="btn -outline -white">
+                                                Learn More
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <ul class="nav-link-collection">
+                                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/suppliers/important-supplier-update" target="_self">Important Supplier Update</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/suppliers/why-work-with-woodside" target="_self">Why work with Woodside</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/suppliers/supplying-to-woodside" target="_self">Supplying to Woodside</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/suppliers/suppliers-reporting" target="_self">Karratha Suppliers Reporting</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/suppliers/learning---support-resources" target="_self">Icertis Support</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/suppliers/sap-ariba-support" target="_self">SAP Ariba Support</a>
+            </li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="">
+                    <a href="https://www.woodside.com/careers" data-toggle="dropdown" class="dropdown-toggle">
+                        Careers
+                        <span class="nav-toggle"></span>
+                    </a>
+                    <div class="dropdown-menu">
+                        <div class="o-container l-container -fullHeight -ignoreNesting">
+                            <div class="l-flexContainer -fullHeight -vAlignTop -columnSpacing">
+
+                                <div class="nav-content l-flexContainer -fullHeight -vAlignTop">
+                                    <div class="content u-hidden-below-desktop">
+                                        <div class="heading">
+                                            Careers
+                                        </div>
+                                        <div class="text">
+                                            Find your Woodside career today with jobs, apprenticeships &amp; traineeships across the globe.
+                                        </div>
+                                        <div>
+                                            <a href="https://www.woodside.com/careers" class="btn -outline -white">
+                                                Learn More
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <ul class="nav-link-collection">
+                                                    <li class="dropdown-submenu has-children">
+                <div class="sub-nav-link-title">
+                    <a class="link-title" href="https://www.woodside.com/careers/current-vacancies" target="_self">
+                        
+                        Explore Current Opportunities
+                    </a>
+                    <a class="link-arrow" href="#" aria-label="link arrow"></a>
+                </div>
+                <div class="sub-nav-link-collection">
+                    <ul class="nav-link-collection">
+                                    <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/current-vacancies/australia" target="_self">Australia</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/current-vacancies/asia" target="_self">Asia</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/current-vacancies/africa" target="_self">Africa</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/current-vacancies/europe" target="_self">Europe</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/current-vacancies/india" target="_self">India</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/current-vacancies/mexico" target="_self">Mexico</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/current-vacancies/usa" target="_self">USA</a>
+            </li>
+
+                    </ul>
+                </div>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/graduates-and-students" target="_self">Graduates and students</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/find-your-fit" target="_self">Find your fit</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/people-and-culture" target="_self">People and culture</a>
+            </li>
+            <li class="">
+                <a class="link-title" href="https://www.woodside.com/careers/career-stories" target="_self">Career stories&#160;</a>
+            </li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+        </ul>
+    </nav>
+</div>
+
+
+
+
+
+
+</div>
+                        <div id="nav-utilities">
+                            <div class="header-links">
+                                <ul class="u-list-reset u-flex-container u-flex-center u-tablet-block">
+                                    <li>
+                                        <a href="/media-centre/woodside-energy-fact-checker">
+                                            <div class="svg-icon">
+                                                <svg width="26" height="26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12.078 1.042c-3.451.289-6.613 2.005-8.664 4.703C2.225 7.308 1.45 9.191 1.12 11.314c-.139.899-.14 2.556-.001 3.451.339 2.178 1.18 4.096 2.533 5.775.459.569 1.433 1.519 2.014 1.963 2.762 2.11 6.3 2.942 9.638 2.266 4.931-.999 8.682-4.849 9.522-9.776.229-1.339.23-2.643.003-3.988-.129-.766-.245-1.169-.382-1.34a.925.925 0 0 0-1.614.335c-.047.169-.044.248.021.548.225 1.04.255 1.318.259 2.387.005 1.166-.045 1.608-.295 2.594-.976 3.86-4.139 6.766-8.15 7.487-.499.09-.692.101-1.69.1-1.041-.002-1.171-.011-1.718-.119-3.928-.771-7.028-3.555-8.035-7.214-.282-1.025-.34-1.496-.342-2.74-.001-1.23.043-1.607.303-2.628.635-2.484 2.194-4.616 4.397-6.011.764-.484 1.989-1.007 2.904-1.241.824-.21 1.405-.276 2.47-.279 1.075-.002 1.432.032 2.275.221.554.124.745.111 1.028-.068.226-.144.423-.49.423-.742a.938.938 0 0 0-.485-.826c-.601-.307-2.817-.537-4.12-.427m11.625 2.016c-.099.043-1.979 1.892-5.427 5.339L13 13.671l-1.657-1.651c-.912-.908-1.722-1.694-1.799-1.747-.176-.12-.546-.163-.768-.09-.515.17-.757.778-.51 1.279.102.207 4.119 4.213 4.325 4.313.223.108.55.109.777.002.226-.106 11.478-11.361 11.55-11.552.059-.16.063-.525.006-.674a1.039 1.039 0 0 0-.444-.476c-.201-.102-.559-.11-.777-.017" fill="#67676A" fill-rule="evenodd"/></svg>
+                                            </div>
+                                            <span>Fact Checker</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/what-we-do/woodside-global-map" target="_blank" rel="noreferrer">
+                                            <div class="svg-icon">
+                                                <svg width="26" height="26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.807.895c-1.905.139-3.522 1.154-4.477 2.81-.387.671-.596 1.357-.682 2.241-.076.777.039 1.432.422 2.396.563 1.417 1.881 3.535 3.464 5.568 1.033 1.325 1.195 1.473 1.615 1.473.358 0 .518-.12 1.079-.816 2.252-2.789 3.83-5.407 4.28-7.097.603-2.268-.661-4.879-2.908-6.008-.798-.401-1.928-.63-2.793-.567m7.258.737c-.384.022-1.243.111-1.347.139-.098.027-.095.035.127.331.255.339.608.91.656 1.059.026.083.051.093.177.07.283-.054 1.685-.027 2.203.041.784.103 1.705.342 2.34.607l.165.069-.197.125c-.185.117-.838.885-1.125 1.322-.485.738-.172 1.814.643 2.213.22.108.421.146 1.168.225l.303.032.013.268.013.268-.208.026-.402.05c-.275.035-.511.167-.744.416l-.202.216-.311-.327c-.453-.478-.404-.467-2.029-.452l-1.357.012-.194.498c-.408 1.046-1.113 2.341-1.999 3.673-.386.58-.409.627-.381.78.093.504.597 1.133 1.11 1.384.38.186.67.23 1.519.23.837 0 .775-.033.858.455.095.555.331.909.771 1.157.201.114.228.146.227.266 0 .075-.04.224-.089.332-.142.311-.212.684-.212 1.126 0 .779.18 1.226.813 2.02.698.875 1.002 1.1 1.598 1.185.527.075 1.068-.058 1.448-.356.068-.053.733-.804 1.479-1.668.944-1.094 1.402-1.658 1.508-1.859.143-.271.151-.312.151-.704 0-.389-.01-.433-.143-.676l-.143-.26.732-.715c.921-.899.919-.897.919-1.897 0-.375-.019-.751-.043-.836-.057-.204-.312-.497-.535-.614-.143-.074-.276-.097-.642-.111l-.461-.018-.245-.521c-.134-.286-.238-.526-.231-.533a78.29 78.29 0 0 1 2.263.12c.146.013.158.044.265.662.096.548.131 1.977.064 2.583a9.871 9.871 0 0 1-5.917 7.981c-1.248.533-2.431.771-3.834.772-2.557.002-4.861-.916-6.779-2.699l-.301-.28.138-.344c.117-.289.153-.469.226-1.145l.124-1.127c.02-.178.031-.332.023-.341-.007-.008-.078.007-.157.035-.277.096-.71.133-1.057.089a2.64 2.64 0 0 0-.347-.031c-.006.006-.041.282-.078.612a6.84 6.84 0 0 1-.083.618c-.049.049-.586-.969-.828-1.568-.085-.212-.211-.444-.278-.517-.269-.287-1.371-1.702-1.786-2.293l-.149-.211-.014.168c-.018.206.058.842.17 1.433.553 2.896 2.338 5.586 4.806 7.238a11.41 11.41 0 0 0 10.297 1.247c.634-.231 1.746-.795 2.313-1.171 3.046-2.025 4.931-5.303 5.107-8.88.101-2.047-.262-3.839-1.141-5.636-1.134-2.316-2.995-4.152-5.354-5.281-1.334-.638-2.635-.97-4.181-1.067-.381-.024-.761-.04-.845-.036l-.368.021M7.057 2.776c.45.113 1.066.424 1.447.731 1.14.919 1.648 2.475 1.226 3.751-.271.818-1.008 2.167-1.95 3.57-.65.967-1.586 2.221-1.646 2.203-.069-.022-.957-1.214-1.492-2.003-.718-1.059-1.111-1.706-1.526-2.513-.42-.817-.61-1.312-.693-1.809-.105-.623.084-1.475.486-2.187.257-.458.891-1.092 1.346-1.348a3.778 3.778 0 0 1 2.802-.395M5.592 4.557c-.234.074-.326.135-.567.376-.355.356-.453.597-.452 1.114 0 .306.017.384.141.636.275.559.774.869 1.396.869.461 0 .762-.124 1.083-.445.327-.327.448-.623.451-1.105.001-.286-.018-.39-.111-.591-.357-.77-1.131-1.111-1.941-.854m14.052.719c.619.476 1.451 1.353 1.962 2.069.425.595 1.061 1.765.996 1.831-.012.011-.527-.004-1.146-.035-1.051-.052-1.14-.05-1.327.021-.226.087-.418.268-.7.663-.401.562-.423.838-.119 1.501.51 1.112.755 1.566.934 1.729.224.205.566.312.889.278l.23-.023v.162c0 .152-.042.205-.673.831-.371.368-.719.747-.774.842a1.627 1.627 0 0 0-.039 1.483l.131.262-1.017 1.186c-1.578 1.839-1.554 1.814-1.717 1.814-.152 0-.254-.091-.671-.601-.368-.45-.451-.622-.472-.974-.017-.279-.003-.351.143-.722.142-.362.161-.456.161-.78-.001-.428-.079-.691-.306-1.034a2.235 2.235 0 0 0-.634-.591c-.045-.027-.097-.164-.139-.366-.145-.704-.541-1.174-1.172-1.391-.207-.071-.365-.084-1.028-.084-.864 0-.993-.031-1.171-.275-.083-.112-.09-.181-.089-.845.001-.695.005-.73.115-.939.063-.119.346-.48.63-.801l.516-.585 1.031-.012 1.032-.012.25.273c.344.375.636.519 1.1.543.481.024.776-.087 1.132-.426l.26-.248.387-.051c.477-.063.793-.209 1.031-.477.304-.342.354-.503.372-1.195.018-.695-.038-.975-.256-1.276-.347-.479-.716-.673-1.406-.74-.754-.073-.715-.031-.401-.435.149-.192.286-.359.305-.371.02-.012.207-.048.417-.079.254-.038.467-.102.638-.19a2.19 2.19 0 0 1 .292-.134c.019-.001.156.091.303.204" fill="#67676A" fill-rule="evenodd"/></svg>
+                                            </div>
+                                            <span>Global Map</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/contact">
+                                            <div class="svg-icon">
+                                                <svg width="26" height="26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2.643 3.039c-.533.086-1.126.508-1.378.981C.978 4.559.997 3.948.997 13c0 7.237.008 8.245.066 8.47.195.75.754 1.298 1.504 1.475.41.096 20.456.096 20.866 0a2.004 2.004 0 0 0 1.504-1.475c.058-.225.066-1.233.066-8.47 0-9.052.019-8.441-.268-8.98-.261-.49-.846-.895-1.422-.985-.356-.056-20.324-.052-20.67.004m19.795 2.07c.189.098.357.27.47.481.077.146.08.411.08 7.41v7.258l-.093.174a1.19 1.19 0 0 1-.492.482c-.146.078-.459.081-9.403.081s-9.257-.003-9.403-.081a1.19 1.19 0 0 1-.492-.482l-.093-.174V5.742l.093-.174c.106-.196.279-.369.47-.469.117-.062 1.042-.069 9.416-.071 9.054-.001 9.29.001 9.447.081m-17.704.972a.99.99 0 0 0-.617 1.165c.052.227.084.26 4.154 4.344 2.255 2.264 4.149 4.15 4.209 4.192.06.042.207.099.328.126.183.041.264.037.477-.024l.257-.074 4.085-4.081c3.161-3.157 4.11-4.129 4.192-4.295.41-.819-.435-1.693-1.279-1.323-.154.067-.965.859-3.841 3.747-2.005 2.014-3.663 3.662-3.683 3.662-.02 0-1.685-1.647-3.699-3.66C6.483 7.028 5.611 6.181 5.46 6.113a1.04 1.04 0 0 0-.726-.032m3.846 8.028c-.171.073-4.168 4.034-4.386 4.346-.107.153-.137.247-.153.477-.017.253-.005.314.106.524a.93.93 0 0 0 .768.511c.454.038.382.097 2.727-2.238 1.455-1.449 2.187-2.207 2.242-2.324.216-.463-.036-1.108-.51-1.306-.186-.078-.603-.072-.794.01m8.037-.008c-.469.204-.715.846-.501 1.304.055.117.787.875 2.242 2.324 2.345 2.335 2.273 2.276 2.727 2.238a.93.93 0 0 0 .768-.511c.111-.21.123-.271.106-.524-.016-.23-.046-.324-.153-.477-.233-.333-4.216-4.274-4.395-4.348-.196-.081-.615-.085-.794-.006" fill="#67676A" fill-rule="evenodd"/></svg>
+                                            </div>
+                                            <span>Contact</span>
+                                        </a>
+                                    </li>
+                                    <li class="u-hidden-below-desktop">
+                                        <button id="header-search-button">
+                                            <div class="svg-icon">
+                                                <svg width="26" height="26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.573 1.044c-4.08.224-7.653 3.051-8.778 6.943-.282.977-.341 1.436-.341 2.651 0 1.194.055 1.643.32 2.585.744 2.646 2.651 4.884 5.189 6.09.891.424 1.985.741 3.047.883.516.069 1.874.058 2.449-.02 1.648-.224 3.179-.823 4.461-1.747.141-.102.273-.186.293-.186.02 0 1.352 1.298 2.961 2.885 2.096 2.067 2.977 2.908 3.108 2.967a.92.92 0 0 0 1.058-.224c.076-.08.159-.201.184-.268.068-.181.056-.538-.025-.708-.042-.088-1.271-1.331-2.979-3.014-1.6-1.576-2.913-2.886-2.92-2.912-.006-.026.108-.193.254-.372 1.414-1.725 2.202-4.087 2.104-6.305-.11-2.469-1.072-4.665-2.8-6.393-2.013-2.014-4.672-3.014-7.585-2.855m1.363 1.837c1.673.103 3.547.967 4.822 2.222 1.165 1.147 1.913 2.516 2.23 4.087.135.67.145 2.12.019 2.792a7.908 7.908 0 0 1-5.855 6.213 8.414 8.414 0 0 1-3.548.088c-2.129-.434-4.044-1.759-5.175-3.583-.246-.397-.655-1.26-.784-1.657-.306-.941-.44-2.068-.356-2.999.139-1.546.649-2.863 1.589-4.107a9.236 9.236 0 0 1 1.435-1.443A8.34 8.34 0 0 1 9.66 2.989c.52-.1 1.306-.168 1.672-.145l.604.037" fill="#67676A" fill-rule="evenodd"/></svg>
+                                            </div>
+                                            <span>Search</span>
+                                        </button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="header-search" class="u-hidden-desktop">
+                        <div id="Header_TA974569E011_Col01" class="sf_colsIn header-search" data-sf-element="Search" data-placeholder-label="Search">
+
+
+<div class="search-box">
+    <div class='js-react-comp' data-js-inject-react='Search/SearchBox' data-react-type='Search/SearchBox' data-props='{&quot;resultsUrl&quot;:&quot;/search-results&quot;,&quot;customCss&quot;:&quot;&quot;,&quot;title&quot;:&quot;Search input&quot;,&quot;placeholder&quot;:&quot;Search&quot;,&quot;controlId&quot;:&quot;e35fb8a0-ef1a-49d8-b193-07182de65324&quot;,&quot;buttonId&quot;:&quot;5b5ed407-ff40-4a25-8e9d-96ef4ff842c9&quot;,&quot;buttonLabel&quot;:&quot;Search&quot;,&quot;language&quot;:&quot;en-AU&quot;,&quot;indexCatalogue&quot;:&quot;woodside-all&quot;,&quot;searchValue&quot;:&quot;&quot;,&quot;wordsMode&quot;:&quot;AllWords&quot;,&quot;disableSuggestions&quot;:&quot;false&quot;,&quot;minSuggestionsLength&quot;:3,&quot;suggestionFields&quot;:&quot;Title,Content&quot;,&quot;suggestionsRoute&quot;:&quot;/restapi/search/suggestions&quot;}'></div>   
+</div>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="mobile-menu-button" class="u-hidden-desktop">
+            <a href="javascript:void(0);" aria-label="Menu button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                    <path d="M21.1667 19H2.83333C2.37333 19 2 18.552 2 18C2 17.448 2.37333 17 2.83333 17H21.1667C21.6267 17 22 17.448 22 18C22 18.552 21.6267 19 21.1667 19Z" fill="#67676A"/>
+                    <path d="M21.1667 12.9792H2.83333C2.37333 12.9792 2 12.5312 2 11.9792C2 11.4272 2.37333 10.9792 2.83333 10.9792H21.1667C21.6267 10.9792 22 11.4272 22 11.9792C22 12.5312 21.6267 12.9792 21.1667 12.9792Z" fill="#67676A"/>
+                    <path d="M21.1667 7H2.83333C2.37333 7 2 6.552 2 6C2 5.448 2.37333 5 2.83333 5H21.1667C21.6267 5 22 5.448 22 6C22 6.552 21.6267 7 21.1667 7Z" fill="#67676A"/>
+                </svg>
+            </a>
+        </div>
+    </div>
+</div>
+<div id="Header_C026_Col00" class="sf_colsIn container l-container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+
+ </header> <main id="site-content"> 
+<div class="page-info">
+    <div class="o-container">
+        <div class="u-flex-container u-flex-center u-flex-space-between">
+            <div id="TemplateHeader_TE7E855E3001_Col00" class="sf_colsIn" data-sf-element="Breadcrumbs" data-placeholder-label="Breadcrumbs"><div class="breadcrumbs u-hidden-below-desktop">
+    <nav>
+        <ul class="u-list-reset u-flex-container">
+
+                    <li>
+                        <a href="https://www.woodside.com">Home</a>
+                    </li>
+                    <li class="is-active">
+                        <span>Privacy</span>
+                    </li>
+        </ul>
+    </nav>
+</div></div>
+            <div class="u-flex-container u-flex-center u-flex-space-between">
+                <div id="TemplateHeader_TE7E855E3001_Col01" class="sf_colsIn language-switcher current-english" data-sf-element="Language Switcher" data-placeholder-label="Language Switcher">
+<div class="c-languageSwitcher">
+
+    <div class="c-languageSwitcher__current">
+        <a class="c-languageSwitcher__language -en-au" href="javascript:void(0);" title="en-AU">
+            <span>English</span>
+        </a>
+    </div>
+
+    <div class="c-languageSwitcher__list">
+        <div class="sf-lang-selector l-flexContainer -inline -columnSpacingSmall">
+                <div class="l-flexContainer__item">
+                        <a href="" data-culture="es" class="js-language-change c-languageSwitcher__language -es " title="espa&#241;ol">
+                            <span>es</span>
+                        </a>
+                </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+</div>
+                <div class="page-info__btn share-button">
+                    <button aria-label="Share" class="js-share-button u-flex-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="24" viewBox="0 0 28 24" fill="none">
+                            <path d="M27.7849 8.45255L19.1613 1.06088C18.9796 0.904497 18.7234 0.868983 18.5032 0.968828C18.2849 1.06931 18.1447 1.28765 18.1447 1.52829V5.84854C11.2619 6.03986 7.94143 9.4469 6.36302 12.318C4.99031 14.8138 4.68234 17.2849 4.61316 18.2991C4.59994 18.4543 4.5933 18.6125 4.5933 18.7737V18.7755C4.5933 18.7755 4.5933 18.7761 4.5933 18.7767V18.7773C4.5933 18.7779 4.5933 18.7779 4.5933 18.7779V18.7803C4.5933 18.7803 4.5933 18.7808 4.5933 18.7815V18.7821C4.5933 18.7826 4.5933 18.7833 4.5933 18.7833C4.5933 18.7839 4.5933 18.7838 4.5933 18.7838V18.7856C4.5933 18.7862 4.5933 18.7869 4.5933 18.7874C4.5933 18.7874 4.5933 18.788 4.5933 18.7892V18.7916C4.5933 18.7922 4.5933 18.7928 4.5933 18.7934L4.59387 18.7952C4.59387 18.7952 4.59387 18.7952 4.59387 18.7957C4.59387 18.797 4.59387 18.7975 4.59387 18.7975C4.59387 18.7981 4.59387 18.7987 4.59387 18.7993V18.8053C4.59387 18.8059 4.59387 18.8065 4.59387 18.8071C4.59387 18.8071 4.59387 18.8083 4.59445 18.8089C4.59445 18.8089 4.59445 18.8094 4.59445 18.8106V18.8112C4.59445 18.8118 4.59445 18.8124 4.59445 18.813V18.8148C4.59445 18.8154 4.59445 18.816 4.59445 18.8166C4.59387 18.8184 4.59566 18.819 4.59503 18.819V18.8208C4.59503 18.8214 4.59503 18.822 4.59503 18.8226V18.8244C4.59503 18.8256 4.59561 18.8268 4.59561 18.8268V18.8286C4.59561 18.8292 4.59561 18.8298 4.59561 18.8304V18.8328L4.59619 18.834V18.8346C4.59619 18.8351 4.59619 18.8358 4.59619 18.8358C4.59619 18.8363 4.59619 18.8363 4.59619 18.8363V18.8387C4.59676 18.8393 4.59676 18.8393 4.59676 18.8399C4.59676 18.8399 4.59676 18.8405 4.59676 18.8411V18.8417C4.59676 18.8423 4.59676 18.8423 4.59676 18.8423V18.8435C4.59734 18.8453 4.59734 18.8453 4.59734 18.8453C4.59734 18.8459 4.59734 18.8465 4.59734 18.8471V18.8495C4.59792 18.85 4.59792 18.8507 4.59792 18.8507C4.59792 18.8519 4.59792 18.8525 4.59792 18.8525C4.63643 19.1562 4.89566 19.3908 5.20906 19.3908C5.5489 19.3908 5.82441 19.116 5.82505 18.7761V18.7755C5.82505 18.7442 5.82563 18.6678 5.83106 18.5511C6.09993 13.429 15.5627 12.2669 18.1445 12.0449V16.311C18.1445 16.5516 18.2846 16.77 18.503 16.8704C18.7225 16.9703 18.9782 16.9354 19.1611 16.7784L27.7847 9.38673C27.9212 9.27002 28 9.0992 28 8.91932C28.0002 8.74007 27.9214 8.56925 27.7849 8.45255ZM19.3766 14.9726V11.3838C19.3766 11.2154 19.308 11.0548 19.186 10.9387C19.0717 10.8286 18.9189 10.7679 18.7606 10.7679C18.7516 10.7679 18.742 10.7679 18.7323 10.7684C18.2987 10.7883 10.522 11.1889 6.6908 14.4829C7.95824 11.1402 11.0778 7.07204 18.7576 7.07204H18.7606C18.9242 7.07204 19.0807 7.00707 19.1962 6.89158C19.3117 6.77608 19.3766 6.6197 19.3766 6.45605V2.86727L26.438 8.9199L19.3766 14.9726Z" fill="white"/>
+                            <path d="M23.6884 14.7169C23.3479 14.7169 23.0724 14.9924 23.0724 15.3329V20.6235C23.0724 21.3026 22.5196 21.8554 21.8405 21.8554H2.46391C1.7848 21.8554 1.23198 21.3026 1.23198 20.6235V8.30396C1.23198 7.62485 1.7848 7.07204 2.46391 7.07204H9.42843C9.76891 7.07204 10.0444 6.79652 10.0444 6.45605C10.0444 6.11557 9.76891 5.84005 9.42843 5.84005H2.46391C1.105 5.84011 0 6.94511 0 8.30396V20.6234C0 21.9823 1.105 23.0873 2.46391 23.0873H21.8405C23.1994 23.0873 24.3045 21.9823 24.3045 20.6234V15.3329C24.3044 14.9924 24.0289 14.7169 23.6884 14.7169Z" fill="white"/>
+                        </svg>
+                        <span class="u-hidden-mobile">Share</span>
+                    </button>
+                    <div class="share-button__container">
+                        <div class="share-buttons share-btn" data-js-inject="share-button">
+                            <a class="btn-facebook u-relative" data-id="fb">
+                                <span class="sr-only">Facebook</span>
+                                <svg width="7" height="14" viewBox="0 0 7 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M5.45351 4.83901H3.26661V13.3901H2.4209V4.83901H0.695294V4.34354L2.4209 4.02747V3.30989C2.4209 2.17088 2.62877 1.33655 3.0445 0.806914C3.46594 0.271579 4.15219 0.00391157 5.10327 0.00391157C5.61582 0.00391157 6.12838 0.0807948 6.64093 0.234561L6.44445 0.969223C5.98885 0.826847 5.53609 0.755659 5.08618 0.755659C4.42555 0.755659 3.95571 0.952138 3.67666 1.3451C3.40329 1.73236 3.26661 2.36451 3.26661 3.24155V4.10435H5.45351V4.83901Z" fill="black" />
+                                </svg>
+                            </a>
+                            <a class="btn-twitter u-relative" data-id="tw">
+                                <span class="sr-only">Twitter</span>
+                                <svg width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M15.3763 4.68839C15.3763 5.06649 15.0694 5.44458 14.6091 5.44458C14.1487 5.44458 13.8419 5.1421 13.8419 4.68839C13.8419 4.31029 14.1487 3.9322 14.6091 3.9322C15.0694 3.9322 15.3763 4.31029 15.3763 4.68839ZM14.6091 6.35201C13.6884 6.35201 12.9212 5.59582 12.9212 4.68839C12.9212 3.78096 13.6884 3.02477 14.6091 3.02477C15.5297 3.02477 16.2969 3.78096 16.2969 4.68839C16.2969 5.59582 15.5297 6.35201 14.6091 6.35201ZM14.6091 2.34419C13.3048 2.34419 12.2308 3.40286 12.2308 4.68839C12.2308 5.97392 13.3048 7.1082 14.6858 7.1082C15.99 7.1082 16.9999 6.04953 16.9999 4.68839C16.9232 3.40286 15.99 2.34419 14.6091 2.34419ZM18.5985 7.03258C17.6011 11.8722 14.6858 14.292 10.1594 14.292C7.5509 14.292 5.01917 13.4602 3.56151 12.9309C5.09589 12.5528 6.32339 11.7966 7.1673 10.5111H7.24402C7.32074 10.5111 7.39746 10.5867 7.47418 10.5867C7.47418 10.6623 7.5509 10.7379 7.62762 10.7379C7.70434 10.7379 7.78106 10.8135 7.85778 10.8135C7.9345 10.8135 8.01122 10.8892 8.16465 10.8892C8.24137 10.8892 8.31809 10.9648 8.39481 10.9648C8.47153 10.9648 8.54825 11.0404 8.70169 11.0404C8.77841 11.0404 8.85513 11.116 8.93184 11.116C9.00856 11.116 9.162 11.1916 9.23872 11.1916C9.31544 11.1916 9.39216 11.1916 9.46888 11.2673C9.5456 11.2673 9.69904 11.2673 9.77575 11.3429C9.85247 11.3429 9.92919 11.3429 10.0059 11.3429C10.0826 11.3429 10.2361 11.3429 10.3128 11.3429C10.3895 11.3429 10.3895 11.3429 10.4662 11.3429C10.6197 11.3429 10.7731 11.3429 11.0033 11.3429H11.3869L11.4636 11.0404C11.5403 10.8135 11.5403 10.6623 11.5403 10.4354V6.80573C11.5403 5.5202 10.4662 4.46153 9.162 4.46153H8.85513C9.31544 2.34419 11.3101 0.831811 13.6117 0.831811C16.4503 0.831811 18.7519 3.10039 18.7519 5.8983C18.6752 6.27639 18.6752 6.65449 18.5985 7.03258ZM3.56151 5.21772H7.70434H9.00856C9.92919 5.21772 10.6197 5.8983 10.6197 6.80573V10.5111C10.6197 10.5867 10.6197 10.5867 10.6197 10.6623C9.39216 10.6623 8.24137 10.2842 7.1673 9.75488C5.40277 8.69621 4.09854 7.1082 3.56151 5.21772ZM21.4371 5.82268L19.4424 4.76401L21.0535 3.47848H18.982C18.0614 1.43676 15.99 0 13.6117 0C10.9265 0 8.54825 1.81486 7.9345 4.38591H2.64088L2.7176 4.83963C3.17791 7.03259 4.48214 8.92307 6.40011 10.133C5.47949 11.4941 4.02182 12.1747 2.10384 12.3259L0.7229 12.4772L1.95041 13.0821C2.10384 13.1577 5.9398 15.0482 10.0826 15.0482C13.535 15.0482 17.908 13.6871 19.2889 7.18382C19.3656 6.88135 19.3656 6.57887 19.4424 6.27639L21.4371 5.82268Z" fill="black" />
+                                </svg>
+                            </a>
+                            <a class="btn-linkedin u-relative" data-id="in">
+                                <span class="sr-only">LinkedIn</span>
+                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.90708 13.6113H1.06137V4.32554H1.90708V13.6113ZM0.941773 1.74568C0.941773 1.19896 1.12117 0.925595 1.47996 0.925595C1.6565 0.925595 1.79318 0.996783 1.89 1.13916C1.99251 1.28154 2.04377 1.48371 2.04377 1.74568C2.04377 2.00196 1.99251 2.20413 1.89 2.35221C1.79318 2.50028 1.6565 2.57431 1.47996 2.57431C1.12117 2.57431 0.941773 2.2981 0.941773 1.74568ZM12.4445 13.6113V7.58881C12.4445 6.65482 12.248 5.97711 11.8551 5.55567C11.4621 5.12854 10.8527 4.91498 10.0269 4.91498C8.91641 4.91498 8.10201 5.19689 7.58376 5.7607C7.07121 6.31881 6.81493 7.22717 6.81493 8.48578V13.6113H5.96922V4.32554H6.68679L6.8491 5.59839H6.90036C7.50403 4.63023 8.57755 4.14615 10.1209 4.14615C12.2281 4.14615 13.2817 5.27662 13.2817 7.53755V13.6113H12.4445Z" fill="black" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="page-info__btn print-button u-hidden-below-desktop">
+                    <button aria-label="Print" class="js-print-button u-flex-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M4.95005 8.69999H3.80005V3.99999C3.80005 2.23484 5.2349 0.799988 7.00005 0.799988H17.7579C18.6073 0.799988 19.4224 1.1348 20.0227 1.73513L21.2649 2.97732C21.8652 3.57765 22.2001 4.39272 22.2001 5.24218V8.69999H21.05V5.24218C21.05 4.70046 20.8325 4.1793 20.4477 3.79453L19.2055 2.55235C18.8207 2.16758 18.2996 1.94999 17.7579 1.94999H7.00005C5.86832 1.94999 4.95005 2.86826 4.95005 3.99999V8.69999ZM22 10.95H4.00005C2.86832 10.95 1.95005 11.8683 1.95005 13V19C1.95005 19.302 2.19801 19.55 2.50005 19.55H3.80005V17.5C3.80005 16.5598 4.5599 15.8 5.50005 15.8H20.5C21.4402 15.8 22.2001 16.5598 22.2001 17.5V19.55H23.5C23.8021 19.55 24.05 19.302 24.05 19V13C24.05 11.8683 23.1318 10.95 22 10.95ZM22.2001 20.7V23.5C22.2001 24.4401 21.4402 25.2 20.5 25.2H5.50005C4.5599 25.2 3.80005 24.4401 3.80005 23.5V20.7H2.50005C1.5599 20.7 0.800049 19.9401 0.800049 19V13C0.800049 11.2348 2.2349 9.79999 4.00005 9.79999H22C23.7652 9.79999 25.2001 11.2348 25.2001 13V19C25.2001 19.9401 24.4402 20.7 23.5 20.7H22.2001ZM5.50005 16.95C5.19801 16.95 4.95005 17.1979 4.95005 17.5V23.5C4.95005 23.802 5.19801 24.05 5.50005 24.05H20.5C20.8021 24.05 21.05 23.802 21.05 23.5V17.5C21.05 17.1979 20.8021 16.95 20.5 16.95H5.50005ZM21.25 12.8C21.502 12.8 21.7436 12.9001 21.9218 13.0782C22.1 13.2564 22.2001 13.498 22.2001 13.75C22.2001 14.0019 22.1 14.2436 21.9218 14.4217C21.7436 14.5999 21.502 14.7 21.25 14.7C20.9981 14.7 20.7565 14.5999 20.5783 14.4217C20.4001 14.2436 20.3 14.0019 20.3 13.75C20.3 13.498 20.4001 13.2564 20.5783 13.0782C20.7565 12.9001 20.9981 12.8 21.25 12.8Z" fill="white"/>
+                        </svg>
+                        <span>Print</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+ 
+<div class="o-wrapper">
+    <div class="o-container -narrow">
+        <div id="Content_TE7E855E3004_Col00" class="sf_colsIn" data-sf-element="v2 Narrow Container" data-placeholder-label="v2 Narrow Container">
+
+<div class="page-title -no-img">
+    <div class="o-container">
+        <div class="page-title__content-wrapper">
+            <div class="page-title__content">
+                    <h1 class="h1">Privacy</h1>
+                
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="content-block" >
+    <div ><div><h1 paraid="1299988547" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{116}">Woodside Privacy Statement (General)&nbsp;&nbsp;</h1></div><div><h4 paraid="1794529383" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{129}">1. About this document&nbsp;</h4></div><div><p paraid="128601772" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{135}">T<span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">his document explains what we do with your personal information, your privacy rights, and how you can contact us regarding your privacy. This document applies to:</span></p><ul role="list"><li><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;"></span><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">visitors to our premises;</span></li><li><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;"></span>business partners and customers;</li><li>website visitors;</li><li>investors and shareholders;</li><li>community stakeholders;</li><li>regulators and political stakeholders; and</li><li>media representatives.</li></ul><div></div><div><p paraid="2061313071" paraeid="{5cb8df91-e25f-48af-925f-3701e3dfbd30}{78}">To find out how we handle personal information about candidates seeking employment with Woodside, visit <a target="_blank" href="/privacy-candidates">Woodside&rsquo;s Privacy Statement (Candidates)</a>.&nbsp;<span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">For Woodside employees, contractors, officers or directors, visit&nbsp;</span><a href="https://woodsideenergy.sharepoint.com/sites/GovernanceRiskCompliance/SitePages/Privacy%20Statement%20-%20Employees.aspx?csf=1&amp;web=1&amp;e=4nZe9c" target="_blank" data-sf-ec-immutable="">Woodside&rsquo;s Privacy Statement (Employees, contractors, officers and directors)</a><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">&nbsp;on Woodside&rsquo;s Intranet. For suppliers, visit&nbsp;</span><a href="/privacy-suppliers" style="font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;white-space:inherit;" target="_blank">Woodside&rsquo;s Privacy Statement (Suppliers)</a><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">.</span></p></div></div><div><p paraid="573525470" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{151}">&nbsp;</p><h4 paraid="573525470" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{151}"><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:var(--font-size-h4);font-weight:bold;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">2. General information</span></h4><div><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">2.1 Who we are</h6><p paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">We are Woodside, an energy company founded in Australia now operating around the world. We operate through several related or subsidiary companies.</p><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">2.2 Changes to this Privacy Statement</h6><p paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">This Privacy Statement was last updated on 11 November 2024. We will update this Privacy Statement periodically to keep it up to date. You will always see the most current version on our website.</p><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">2.3 How you can contact our Privacy Officer</h6><p paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">You can contact our Privacy Officer by any of the following methods:</p><p paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}"><strong>Email</strong></p><p paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}"><a href="/cdn-cgi/l/email-protection#3242405b4453514b72455d5d56415b56571c515d5f"><span class="__cf_email__" data-cfemail="6616140f1007051f2611090902150f02034805090b">[email&#160;protected]</span></a></p><div><p><strong>Phone</strong></p><p><strong></strong><strong>Australia&nbsp;</strong>+61 08 9348 4000<br /><strong>Singapore&nbsp;</strong>+65 6709 8000<br /><strong>United States of America</strong>&nbsp;+1 713 961 8500</p></div><div><p><strong>Mail</strong></p><p><strong></strong>Privacy Officer<br />Woodside Energy Group Ltd<br />Mia Yellagonga<br />11 Mount Street<br />Perth, Western Australia 6000<br />Australia</p><p>&nbsp;</p></div><div><strong></strong></div></div></div></div>    
+</div>
+<div class="content-block" >
+    <div ><div><div><h3 paraid="1299988547" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{116}"></h3></div><div><p></p><h4><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:var(--font-size-h4);font-weight:bold;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">3. What we do with your personal information</span></h4></div></div><div><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">3.1 What personal information we collect, why we collect it, and how we collect it<strong><em></em></strong></h6><div><table style="height:2260px;text-align:left;"><thead><tr style="height:46px;"><th data-role="resizable" style="width:25%;text-align:left;vertical-align:top;">Who we collect information about</th><th data-role="resizable" style="width:25%;text-align:left;vertical-align:top;">What personal information we collect</th><th data-role="resizable" style="width:25%;text-align:left;vertical-align:top;">Why we collect it</th><th data-role="resizable" style="width:25%;text-align:left;vertical-align:top;">How we collect it<br /></th></tr></thead><tbody><tr style="height:321px;"><td style="width:25%;text-align:left;vertical-align:top;"><ul><li>Visitors to our premises</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><ul><li><strong>Identity information </strong>&ndash; full name.</li><li><strong>Contact information </strong>&ndash; email address, phone number.</li><li><strong>Site visit information </strong>&ndash; the reason for your visit, information to facilitate your visit.</li><li><strong style="background-color:transparent;color:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;">CCTV</strong><span style="background-color:transparent;color:inherit;font-family:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;"> </span><strong style="background-color:transparent;color:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;">footage</strong><span style="background-color:transparent;color:inherit;font-family:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;"> &ndash; images and video surveillance inside Woodside facilities or premises.</span></li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><ul><li>To authenticate access to and manage the safety and security of, our systems, assets and premises. </li><li>To facilitate your visit.</li><li>To ensure your security and/or safety with respect to Woodside sites, premises, systems, assets or people.</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><ul><li>Directly from you when you visit our premises (e.g., CCTV footage).</li></ul></td></tr><tr style="height:212px;"><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Business partners and customers</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul type="disc"><li data-list="0" data-level="1"><strong>Identity information</strong> &ndash; full name, signature. </li><li data-list="0" data-level="1"><strong>Contact information </strong>&ndash; email address, phone number.&nbsp;</li><li data-list="0" data-level="1"><strong>Professional information </strong>&ndash; your employer and job title.</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>To be able to conduct business with you or the organisation you are associated with.</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Directly from you and/or your organisation.</li></ul></td></tr><tr style="height:355px;"><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Website visitors</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul type="disc"><li data-list="0" data-level="1"><strong>Technical information &ndash;</strong> your IP address, the previous site you visited, the type of      browser and operating system you use.</li><li data-list="0" data-level="1"><strong style="background-color:transparent;color:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;">Website usage information</strong><span style="background-color:transparent;color:inherit;font-family:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;"> &ndash; the pages you accessed and the documents you downloaded from our website.</span><span style="background-color:transparent;color:inherit;font-family:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;"></span></li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>To manage and monitor access to our website.</li><li>To help us improve our website.</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Directly from you/your device while you interact and navigate across our website.</li><li>Via a third-party provider.</li></ul></td></tr><tr style="height:333px;"><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Investors and shareholders</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li><strong>Identity information</strong> &ndash; full name.&nbsp;</li><li><strong>Contact information</strong> &ndash; residential address, email address, phone number.</li><li><strong style="background-color:transparent;color:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;">Investment information</strong><span style="background-color:transparent;color:inherit;font-family:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;"> &ndash; information about your shareholdings or interest in our company.</span></li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>To communicate with you about our activities and other matters relating to your investment or shareholding.</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Directly from you.</li><li>From third-party share registry services.</li></ul></td></tr><tr style="height:469px;"><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Community stakeholders</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li><strong>Identity information</strong> &ndash; full name.</li><li><strong>Contact information</strong> &ndash; residential address, email address, phone number.</li><li><strong>Sensitive information</strong> - racial or ethnic origin.</li><li><strong style="background-color:transparent;color:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;">Other &ndash;</strong><span style="background-color:transparent;color:inherit;font-family:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;"> information about your feedback, complaint, or query; your interaction on our social media platforms; your responses to social and environmental impact assessments.</span></li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>To communicate with you, including to address your feedback, complaint, or query.</li><li>To comply with our legal obligations and social license to operate.</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Directly from you when you participate in a community feedback event or provide feedback to us.</li></ul></td></tr><tr style="height:265px;"><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Regulators and political stakeholders</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li><strong>Identity information</strong> &ndash; full name.</li><li><strong>Contact information</strong> &ndash; email address, phone number.</li><li><strong>Professional information</strong> &ndash; your employer and job title.</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>To communicate with you.</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Directly from you or your organisation.</li><li>From public sources.</li></ul></td></tr><tr style="height:259px;"><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>Media representatives</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><ul><li><strong>Identity information</strong> &ndash; full name.</li><li><strong>Contact information</strong> &ndash; email address, phone number.</li><li><strong style="background-color:transparent;color:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;">Professional information</strong><span style="background-color:transparent;color:inherit;font-family:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;"> &ndash; your employer and job title.</span></li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><p>&nbsp;</p><ul><li>To communicate with you and the organisation you are associated with.</li></ul></td><td style="width:25%;text-align:left;vertical-align:top;"><ul><li>Directly from you or your organisation.</li><li>From public sources.</li></ul></td></tr></tbody></table></div></div><div><p paraid="184831341" paraeid="{e0fe6c4e-9876-4f78-9abd-29e74fe130af}{249}">&nbsp;</p></div></div>    
+</div>
+<div class="content-block" >
+    <div ><div><div><p paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}"><strong><em>&nbsp;</em></strong></p><ul role="list"></ul><div></div></div><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">3.2 Who we share your personal information with</h6><div><p paraid="262513340" paraeid="{bbc26eef-a63f-41a9-9d2c-656745b62383}{119}"><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">We may need to share your personal information with:</span></p></div><div><ul><li>Our related or subsidiary companies - who require the personal information for the reasons explained in section 3.3.</li><li>Our IT vendors, facility managers and other service providers - where they are assisting us to carry out a function of our business. </li><li>Regulators, government authorities, or law enforcement agencies &ndash; where we are under a legal obligation to do so.<br /></li></ul></div><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}"><span style="background-color:transparent;color:inherit;font-family:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">3.3 Where we share your personal information to</span></h6><p paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">The global nature of our operations means that at times we may need to share your personal information to our related or subsidiary companies or a third party (as explained in&nbsp;section 3.1) who may be in a different jurisdiction to where your personal information was collected.</p><div><p paraid="125164019" paraeid="{543f87c3-d7fc-409d-944c-fa6f17fe22c0}{96}">When we do this, we take steps to ensure that there is a lawful basis and that there are appropriate technical and security controls in place to protect your personal information.</p></div><div><p paraid="1500262403" paraeid="{543f87c3-d7fc-409d-944c-fa6f17fe22c0}{110}">Some of the countries we may share personal information with include: Australia, Canada, China, Ireland, Indonesia, Japan, Mexico, Myanmar, New Zealand, Norway, Republic of Korea, Senegal, Singapore, Thailand, Timor-Leste, Trinidad and Tobago, the European Union, the United Kingdom, and the United States of America.</p></div><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">3.4 How long we keep your personal information for</h6><p paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">We keep your personal information for as long as necessary to fulfill the purpose for which it was collected and to comply with our applicable legal requirements.</p><p paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">&nbsp;</p><h4 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">4. How we use technology</h4><div><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">4.1 Cookies</h6><div><p paraid="1498400932" paraeid="{543f87c3-d7fc-409d-944c-fa6f17fe22c0}{166}">When you visit our website small text files, known as cookies, are placed on your device. These cookies record actions and information such as:</p><ul paraid="1498400932" paraeid="{543f87c3-d7fc-409d-944c-fa6f17fe22c0}{166}"><li>how you came to our website;</li><li>the pages you visited on our website;</li><li>the number of times you visited our website;</li><li>the duration you visited our website for;</li><li>whether you visited our website in full screen mode or minimised;</li><li>your language preferences; and</li><li>how many times you watched a video on our website and the settings you used to watch that video.</li></ul></div><div><div><p>We use these cookies to help us understand how people use our website and where we can improve our website. Third parties may also use the cookies for their own purposes, such as to display advertising.</p><p><span style="background-color:initial;font-family:inherit;font-size:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">You can set your browser to reject cookies, although this may affect your browsing experience.</span></p></div></div><p>&nbsp;</p></div><h4 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">5. Your privacy rights</h4><div><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">5.1 What privacy rights you have</h6><div><p paraid="1498400932" paraeid="{543f87c3-d7fc-409d-944c-fa6f17fe22c0}{166}">You may have certain privacy rights and may include the right to:</p><ul paraid="1498400932" paraeid="{543f87c3-d7fc-409d-944c-fa6f17fe22c0}{166}"><li>access your personal information;</li><li>correct your personal information if it is inaccurate or incomplete;</li><li>ask us to erase your personal information;</li><li>ask us to restrict using or sharing your personal information;</li><li>object to how we use or share your personal information;</li><li>us to transfer your personal information to another organisation or give it to you; and/or</li><li>withdraw consent if you have provided consent for us to use or share your personal information in a certain way.</li></ul></div><div><p paraid="1872107685" paraeid="{f3c3af24-7bb1-4dd2-b9a3-c195a648762e}{1}">You are also able to make a privacy complaint if you believe we have done something inappropriate with your personal information.</p></div></div><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">5.2 How you can exercise your privacy rights</h6><div><p paraid="1722420026" paraeid="{f3c3af24-7bb1-4dd2-b9a3-c195a648762e}{21}">You can exercise your privacy rights or make a privacy complaint by contacting our Privacy Officer.</p></div><div><p paraid="783649630" paraeid="{f3c3af24-7bb1-4dd2-b9a3-c195a648762e}{32}">When you do this, we may need to request further information from you to help us confirm your identity and clarify the scope of your request or privacy complaint. We will communicate with you about what we need if this is the case.</p></div><div><p paraid="1394769182" paraeid="{f3c3af24-7bb1-4dd2-b9a3-c195a648762e}{44}">We aim to respond to all requests and privacy complaints within one month. Sometimes, it may take us longer, if so, we will communicate with you to keep you informed.</p></div><h6 paraid="82074378" paraeid="{67ec1978-97a9-4034-bf07-a3eeba67d3de}{180}">5.3 What you can do if we can&rsquo;t facilitate your privacy right or resolve your privacy complaint</h6><div><p paraid="1431426523" paraeid="{a8bbfa74-0be2-4b21-a6d9-383ad5e5c371}{55}">We aim to facilitate your privacy rights and resolve any privacy complaints. If we can&rsquo;t, you may be able to escalate the matter to the relevant data protection authority.</p><p paraid="1431426523" paraeid="{a8bbfa74-0be2-4b21-a6d9-383ad5e5c371}{55}">The relevant data protection authority will depend on where the personal information was collected, some examples include:</p><ul paraid="1431426523" paraeid="{a8bbfa74-0be2-4b21-a6d9-383ad5e5c371}{55}"><li>Australia &ndash; the&nbsp;<a href="https://www.oaic.gov.au/" target="_blank" rel="noreferrer noopener" data-sf-ec-immutable="">Office of the Australian Information Commissioner</a></li><li>The United Kingdom &ndash; the&nbsp;<a href="https://ico.org.uk/" target="_blank" rel="noreferrer noopener" data-sf-ec-immutable="">Information Commissioner&rsquo;s Office</a></li><li>The Republic of Korea &ndash; the&nbsp;<a href="https://www.pipc.go.kr/cmt/main/english.do" target="_blank" rel="noreferrer noopener" data-sf-ec-immutable="">Personal Information Protection Commission (SK)</a></li><li>Japan &ndash; the&nbsp;<a href="https://www.ppc.go.jp/en/" target="_blank" rel="noreferrer noopener" data-sf-ec-immutable="">Personal Information Protection Commission (JP)</a></li><li>Singapore &ndash;&nbsp;<a href="https://www.pdpc.gov.sg/" target="_blank" rel="noreferrer noopener" data-sf-ec-immutable="">Personal Data Protection Commission</a></li><li>The United States of America &ndash; there is no single national data protection authority, some States have their own data protection authority (such as&nbsp;<a href="https://cppa.ca.gov/" target="_blank" rel="noreferrer noopener" data-sf-ec-immutable="">California&rsquo;s Privacy Protection Agency</a>)</li><li>The European Union - the data protection authority for each country is listed (along with the contact details) on&nbsp;<a href="https://www.edpb.europa.eu/about-edpb/about-edpb/members_en" target="_blank" rel="noreferrer noopener" data-sf-ec-immutable="">the European Data Protection Board&rsquo;s website</a>.</li><li>Mexico &ndash; the&nbsp;<a href="https://www.gob.mx/buengobierno" target="_blank" rel="noreferrer noopener" data-sf-ec-immutable="">Anticorruption and Proper Governance Ministry</a></li></ul></div></div><div><p paraid="184831341" paraeid="{e0fe6c4e-9876-4f78-9abd-29e74fe130af}{249}">&nbsp;</p></div></div>    
+</div></div>
+    </div>
+</div>
+ 
+
+
+
+
+ </main> <div class='l-back-to-top uk-active' id="js-scrollToTop" data-js-inject="scroll-top"> <button aria-label="Scroll back to top" class="c-back-to-top u-flex-container u-flex-center u-flex-justify" tabindex="0"> <svg viewBox="0 0 18 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.16316 9.4825L9.01834 1.70004M9.01834 1.70004L16.7281 9.4825M9.01834 1.70004L9.01834 24.3275" stroke="#4D4D4F" /> </svg> </button> </div> <footer id="site-footer" class="footer"> <div class="footer-top"> <div class="o-container"> <div class="u-flex-container u-flex-center u-flex-space-between u-desktop-block"> <div class="footer-top__left"> <p>Woodside acknowledges Indigenous Peoples as the Traditional Custodians of lands and waters across the world. We recognise their enduring cultures, knowledge, and connection to Country. We pay our respects to Elders past and present.</p> </div> <div class="footer-top__right"> <a class="btn -outline -white" href="/sustainability/social/first-nations-cultural-heritage-and-engagement">Read more</a> </div> </div> </div> </div> <div class="footer-bottom"> <div class="o-container"> <div class="u-flex-container u-flex-space-between u-flex-center u-desktop-block"> <div class="footer-bottom__nav u-flex-container u-flex-center"> <a href="/" aria-label="Woodside logo"><img src="/assets/static/images/svg/logo-white-horizontal.svg" alt="Woodside logo" width="80" height="28" loading="lazy"></a> <nav> <ul class="u-list-reset u-flex-container u-mobile-block"> <li><a href="/contact">Contact</a></li> <li><a href="/subscribe">Subscribe</a></li> <li><a href="/privacy">Privacy</a></li> <li><a href="/disclaimer">Disclaimer</a></li> <li><a href="/glossary">Glossary</a></li> <li><a href="/assets/static/pdfs/2024-woodside-modern-slavery-statement.pdf" target="_blank">Modern Slavery Statement</a></li> </ul> </nav> </div> <div class="footer-bottom__social"> <ul class="u-list-reset u-flex-container"> <li> <a href="https://www.linkedin.com/company/woodside-energy/" target="_blank" rel="noopener noreferrer" title="LinkedIn"> <svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M0.728027 1.2C0.728027 0.4 1.02803 0 1.52803 0C1.72803 0 1.92803 0.1 2.12803 0.3C2.22803 0.5 2.32803 0.8 2.32803 1.2C2.32803 1.6 2.22803 1.9 2.12803 2.1C1.92803 2.2 1.72803 2.3 1.52803 2.3C1.02803 2.3 0.728027 1.9 0.728027 1.2ZM2.12803 18H0.928027V4.8H2.12803V18Z" fill="white" /> <path d="M15.7281 17.9996V9.49961C15.7281 8.19961 15.4281 7.19961 14.9281 6.59961C14.3281 5.99961 13.5281 5.69961 12.3281 5.69961C10.7281 5.69961 9.62808 6.09961 8.82808 6.89961C8.02808 7.69961 7.72808 8.89961 7.72808 10.6996V17.9996H6.52808V4.79961H7.52808L7.72808 6.59961H7.82808C8.72808 5.29961 10.2281 4.59961 12.4281 4.59961C15.4281 4.59961 16.9281 6.19961 16.9281 9.39961V17.9996H15.7281Z" fill="white" /> </svg> <span class="sr-only">LinkedIn</span> </a> </li> <li> <a href="https://www.facebook.com/woodsideenergy/" target="_blank" rel="noopener noreferrer" title="Facebook"> <svg width="9" height="20" viewBox="0 0 9 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.22646 7.35078H4.22646V19.2508H3.02646V7.35078H0.626465V6.65078L3.02646 6.25078V5.25078C3.02646 3.65078 3.32646 2.45078 3.92646 1.75078C4.52646 0.950781 5.42646 0.550781 6.82646 0.550781C7.52646 0.550781 8.22647 0.650781 8.92647 0.850781L8.62646 1.85078C8.02646 1.65078 7.42646 1.65078 6.72646 1.65078C5.82646 1.65078 5.12646 1.95078 4.72646 2.45078C4.42646 2.95078 4.22646 3.85078 4.22646 5.05078V6.25078H7.32646V7.35078H7.22646Z" fill="white" /> </svg> <span class="sr-only">Facebook</span> </a> </li> <li> <a href="https://www.instagram.com/woodsideenergy/?hl=en" target="_blank" rel="noopener noreferrer" title="Instagram"> <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.0256 0.699219H2.97436C1.33333 0.699219 0 2.03255 0 3.67358V13.7249C0 15.3659 1.33333 16.6992 2.97436 16.6992H13.0256C14.6667 16.6992 16 15.3659 16 13.7249V3.67358C16 2.03255 14.6667 0.699219 13.0256 0.699219ZM15.0769 13.7249C15.0769 14.8531 14.1538 15.7761 13.0256 15.7761H2.97436C1.84615 15.7761 0.923077 14.8531 0.923077 13.7249V3.67358C0.923077 2.54537 1.84615 1.6223 2.97436 1.6223H13.0256C14.1538 1.6223 15.0769 2.54537 15.0769 3.67358V13.7249V13.7249Z" fill="white" /> <path d="M8 5.21094C6.10256 5.21094 4.51282 6.7494 4.51282 8.69812C4.51282 10.6468 6.05128 12.1853 8 12.1853C9.94871 12.1853 11.4872 10.6468 11.4872 8.69812C11.4872 6.7494 9.89743 5.21094 8 5.21094ZM8 11.2109C6.61538 11.2109 5.43589 10.0827 5.43589 8.64683C5.43589 7.21094 6.5641 6.08273 8 6.08273C9.38461 6.08273 10.5641 7.21094 10.5641 8.64683C10.5641 10.0827 9.38461 11.2109 8 11.2109Z" fill="white" /> <path d="M12.5129 3.21094C12.2565 3.21094 12.0001 3.3135 11.8463 3.46735C11.6924 3.62119 11.5898 3.8776 11.5898 4.13401C11.5898 4.39042 11.6924 4.64683 11.8463 4.80068C12.0001 4.95453 12.2565 5.05709 12.5129 5.05709C12.7693 5.05709 13.0257 4.95453 13.1796 4.80068C13.3334 4.64683 13.436 4.39042 13.436 4.13401C13.436 3.8776 13.3334 3.62119 13.1796 3.46735C13.0257 3.3135 12.7693 3.21094 12.5129 3.21094Z" fill="white" /> </svg> <span class="sr-only">Instagram</span> </a> </li> <li> <a href="https://x.com/WoodsideEnergy" target="_blank" rel="noopener noreferrer" title="X"> <svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 16 16" width="16" height="16"> <path fill="white" d="m9.5 6.8l6.5 9.2h-4.8l-4.3-6.2-5.5 6.2h-1.4l6.2-7.1-6.2-8.9h4.8l4.1 5.9 5.2-5.9h1.4l-6 6.8zm-1.9 2.2l4.3 6h2.2l-5.3-7.4-0.6-0.9-4.1-5.7h-2.2l5.1 7.1 0.6 0.9z" /> </svg> <span class="sr-only">X</span> </a> </li> <li> <a href="https://www.youtube.com/user/WoodsideEnergyLtd" target="_blank" rel="noopener noreferrer" title="Youtube"> <svg width="21" height="16" viewBox="0 0 21 16" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9131 15.7H3.91313C2.11313 15.7 0.613126 14.2 0.613126 12.4V3.3C0.513126 1.5 2.01313 0 3.81313 0H16.8131C18.6131 0 20.1131 1.5 20.1131 3.3V12.4C20.2131 14.2 18.7131 15.7 16.9131 15.7ZM3.81313 0.9C2.51313 0.9 1.41313 2 1.41313 3.3V12.4C1.41313 13.7 2.51313 14.8 3.81313 14.8H16.8131C18.1131 14.8 19.2131 13.7 19.2131 12.4V3.3C19.2131 2 18.1131 0.9 16.8131 0.9H3.81313V0.9Z" fill="white" /> <path d="M7.61313 11.9996C7.51313 11.9996 7.51314 11.9996 7.41314 11.8996C7.31314 11.7996 7.21313 11.6996 7.21313 11.4996V4.19961C7.21313 3.99961 7.31314 3.89961 7.41314 3.79961C7.51314 3.69961 7.71314 3.69961 7.81314 3.79961L14.7131 7.19961C14.8131 7.29961 14.9131 7.39961 15.0131 7.59961C15.0131 7.79961 14.9131 7.89961 14.8131 7.99961L7.91314 11.9996C7.81314 11.9996 7.71313 11.9996 7.61313 11.9996ZM8.11313 4.89961V10.7996L13.5131 7.59961L8.11313 4.89961Z" fill="white" /> </svg> <span class="sr-only">YouTube</span> </a> </li> <li> <a href="https://www.tiktok.com/@woodside_energy" target="_blank" rel="noopener noreferrer" title="Tiktok"> <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.645 -0.645 18 18" id="Tiktok--Streamline-Core" height="19" width="19"> <g id="tiktok"> <path id="Ellipse 16" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" d="M10.052115342857144 11.598327450000003V1.361411442857143m0 10.240938342857145c0 1.9067303571428573 -1.5457466142857146 3.4525247142857145 -3.4525008428571433 3.4525247142857145 -1.9067661642857143 0 -3.4525008428571433 -1.5457943571428572 -3.4525008428571433 -3.4525247142857145 0 -1.906754228571429 1.5457346785714288 -3.4525008428571433 3.4525008428571433 -3.4525008428571433" stroke-width="1.29"></path> <path id="Ellipse 17" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" d="M10.052115342857144 1.361411442857143c0 2.8268545714285715 2.2915616571428576 5.1184639714285725 5.118416228571429 5.1184639714285725" stroke-width="1.29"></path> </g> </svg> <span class="sr-only">Tiktok</span> </a> </li> </ul> <span class="copyright">&copy; Woodside Energy 2026</span> </div> </div> </div> </div> </footer> 
+    
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement":
+[
+            {
+            "@type":"ListItem",
+            "position":"1",
+            "name":"Home",
+            "item":"https://www.woodside.com.auhttps://www.woodside.com"
+            }
+                ,
+            {
+            "@type":"ListItem",
+            "position":"2",
+            "name":"Privacy",
+            "item":"https://www.woodside.com.auhttps://www.woodside.com/privacy"
+            }
+        ]}
+    </script>
+
+<div id="search-overlay">
+    
+    <button id="search-overlay-close-button" aria-label="Close search form">
+        <img class="svg" src="/assets/static/images/svg/svgo/icon-cross.svg" alt="Close" loading="lazy" />
+    </button>
+
+    <div class='js-react-comp' data-js-inject-react='Search/SearchBox' data-react-type='Search/SearchBox' data-props='{&quot;resultsUrl&quot;:&quot;/search-results&quot;,&quot;customCss&quot;:&quot;search-overlay-form&quot;,&quot;title&quot;:&quot;Search input&quot;,&quot;placeholder&quot;:&quot;Search&quot;,&quot;controlId&quot;:&quot;68ed532d-f213-47e5-8d7a-15bb5b7fd3be&quot;,&quot;buttonId&quot;:&quot;10aa434e-d8c7-4f07-a117-742c01b81327&quot;,&quot;buttonLabel&quot;:&quot;Search&quot;,&quot;language&quot;:&quot;en-AU&quot;,&quot;indexCatalogue&quot;:&quot;woodside-all&quot;,&quot;searchValue&quot;:&quot;&quot;,&quot;wordsMode&quot;:&quot;AllWords&quot;,&quot;disableSuggestions&quot;:&quot;false&quot;,&quot;minSuggestionsLength&quot;:3,&quot;suggestionFields&quot;:&quot;Title,Content&quot;,&quot;suggestionsRoute&quot;:&quot;/restapi/search/suggestions&quot;}'></div>   
+</div>
+ </div> <div id="sitespinner" class="spinner hide-all"> <div class="spinner-icon"></div> </div> <div class="timestamp print-only">
+        Last updated: 6/06/2025 2:13:15 PM
+    </div> <input id="placeholderRestrictionsStatus" type="hidden" value="" /> <script src="/assets/dist/bundleBottom-bundle.2e250587995963575efb.js" type="28221dd063692808628d85fe-text/javascript"></script><input data-sf-role='es' type='hidden' value='https://www.woodside.com/es/privacy-spanish'> <script type="28221dd063692808628d85fe-text/javascript">window.sentrySettings = {
+  "dsn": "https://469d296126a740919900c4702e87389a@o301139.ingest.sentry.io/5497341",
+  "environment": "PROD"
+}</script> <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="28221dd063692808628d85fe-|49" defer></script></body> </html>
