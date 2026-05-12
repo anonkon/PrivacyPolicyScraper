@@ -1,0 +1,168 @@
+Privacy | Contact Energy
+Privacy Policy update – effective 1 May 2026
+We’ve updated our Privacy Policy to explain when we collect your personal information from third‑party organisations, rather than directly from you. The update includes a new Indirect Collection Notice outlining which third-party organisations we collect information from and the reason for our collection. In some cases, you’ll need to contact these organisations who hold your information directly.
+Dismiss
+Our privacy policy
+How we keep your personal information secure.
+This Privacy Policy sets out how we collect, store, use and disclose your personal information. In this policy, “
+we
+”, “
+us
+” and “
+our
+” means Contact Energy Limited and its subsidiaries. “
+Personal information
+” is any information that identifies you, including your name, contact information, card details or anything else which would enable someone to identify you. It does not include aggregated or anonymised information.
+This policy applies when you:
+sign into your customer account;
+communicate with us (including through this website or one of our other digital platforms, such as the Contact Energy app or via social media); or
+use any of our products and services.
+We deal with your personal information in accordance with the Privacy Act 2020, the Telecommunications Information Privacy Code 2020 and this Privacy Policy. Further information about privacy and your rights can be found at
+privacy.org.nz
+.
+You can choose to not provide us with your personal information, however we may not be able to provide you with access to certain information or our services as a result.
+If you’re applying to work with us, please read our
+Careers Privacy Policy
+to find out how we use and disclose Personal Information in relation to your application for employment.
+Changes to the Privacy Policy
+We may change this policy from time to time by uploading a revised copy to our website. Any changes to our policy will apply from the date a revised policy is uploaded. If we make any significant changes to this policy, we will take extra steps to notify you in a way that we think is appropriate (including via website notice, email, text or mobile app). This policy was last updated on
+1 May 2026.
+Personal Information we collect
+We collect information so that we can supply energy and other services (such as mobile and broadband) to you, manage our relationship with you and meet our legal and regulatory obligations. Information we collect includes:
+Information about you
+: including your name, contact details, date of birth, property details, customer account login information and medical information (in limited cases for medically dependent consumers) and information on how you use our products and services.
+Financial information
+: including your payment details, billing information and other information relevant to financial and credit assessments.
+The content of your communications with us
+: including any phone calls, emails and social media conversations with us.
+Meter information
+: including ICP (installation control point number) and electricity consumption data.
+Notification settings and communication preferences
+: including marketing preferences, and app notification options.
+Mobile application information
+: including your app usage, preferences and mobile device information (e.g. brand, model, operating system, IP address).
+Website/social media usage information
+: including the details of your visit to our site/social media platforms (e.g. time and date of visit, duration, pages viewed, IP address, browser and your device’s operating system).
+Call recording
+We record calls in order to:
+improve our customer service
+train our staff
+make sure the information we give you is consistent and accurate
+make sure we have an accurate record of your call, which may be needed to support any transactions that take place over the phone or if there is a dispute.
+We record phone calls, both when we call you and when you call us. This includes when your call is waiting to be answered or when you are placed on hold, which means the recording may pick up background noise and conversations you have with other people during that time. The recording automatically stops when the call is terminated and/or when a payment is in progress.
+Calls are recorded using Genesys Cloud call recording software.
+How we collect your personal information
+We collect your information in a variety of ways, including:
+Directly from you
+: for example when you apply and/or open an account with us, when you interact with us using our products or services, contact us or enter a competition run by us.
+From service providers and third parties
+: in some situations, we collect personal information about you from service providers and third parties rather than directly from you.  This occurs in the following ways:
+Service providers
+: In some circumstances, we use service providers to help us provide our services to you. In doing so, we may collect personal information about you through those service providers and in some circumstances, disclose some of your personal information to them so they can perform services on our behalf. Service providers include metering equipment providers and contractors, telecommunications carriers and service providers, banks and other financial or bill payment providers, advertising partners, on-site service providers, credit agencies, health practitioners, budget advisors, mailing houses and after-hours call centre providers.
+Indirect collection
+: we may also collect personal information about you from third parties rather than directly from you.  This is called indirect collection.  To understand more about indirect collection, please see our
+Indirect Collection Notice
+.
+Automatic collection via cookies and other digital tracking tools
+: for example first- and third-party cookies and tracking technology to collect information relating to your website interactions, including usage and demographic reporting. (We have further information below on how we use cookies and tracking tools and how you can opt out).
+How we use and disclose your personal information
+We may use and disclose your personal information in accordance with our
+general terms and conditions
+to:
+confirm your identity and address specific connection identifiers;
+provide the services you have requested or to administer your account;
+provide personalised user experiences in our website;
+carry out credit checks or otherwise assess your creditworthiness;
+advise you of any products or services which we consider may be of interest to you, including products and services offered by our commercial partners;
+conduct, or contact you for the purpose of market research;
+collect debts;
+facilitate direct debt payments from, or refunds to, your bank account;
+enforce or apply our terms and conditions or agreements and/or protect our rights, property, or safety of our customers, or others;
+implement any scheme for the payment of rebates to customers;
+assist us in carrying out our responsibilities under the Consumer Care Obligations published by the Electricity Authority and our Consumer Care policy;
+share credit information and your payment history with other energy supply companies, either directly, indirectly or through credit agencies, for the purpose of those companies carrying out credit reference checks in relation to the supply of energy or related services to you;
+protect against illegal and fraudulent activities;
+comply with our contractual, legal and regulatory obligations; or
+otherwise communicate with you.
+We may also share your personal information with our service providers where that is necessary for them to provide services to us in relation to the above purposes.
+We may also disclose your personal information with third parties for the purposes listed above.  The relevant third parties include your local lines company, supply networks, other electricity retailers, debt collectors, government and regulatory bodies, Utilities Disputes, authorised persons listed on your account, and energy hardship and wellbeing organisations.  You can find out more about what third parties collect from us in the
+Indirect Collection Notice
+.
+How we keep your personal information safe
+We’re committed to making our website and apps secure. We take all reasonable steps to ensure the personal information we collect is stored in a secure environment that is accessed only by authorised personnel for legitimate business purposes.
+We use appropriate security safeguards in line with industry standards to keep your personal information protected. If we need to store your information in the cloud (which may be hosted outside of New Zealand), we ensure our cloud providers have standards and controls in line with industry standards and applicable laws to keep your information protected.
+We retain information for as long as reasonably required for genuine business purposes unless we are legally required to hold it longer, including after you leave us or stop using any of our products and services.
+We may assume that any verbal or online request or instruction we receive is authorised by you, if it’s accompanied by suitable verification such as your Contact account number, name, date of birth, address, email or password.
+If we become aware of a data breach that we think could compromise your security, we’ll tell you as soon as we can.
+If you use Contact Mobile and choose callerID restriction, we will prevent your number being shown on any receiver. However, your number may still be displayed to emergency or other services, when you send a TXT message and to us. Where you do not choose to use callerID restriction, your number may be displayed to the person you have called or sent a message to.
+How we collect information automatically
+We automatically collect certain information about your use of our website through cookies, web beacons, and third‑party analytics and tracking technologies.
+Cookies
+: Our website uses cookies to collect and store information about your use of our website. A cookie is a small text file that is transferred by a web server and stored on the hard drive of your computer or mobile device. It can only be read by the server that sent it to you.
+First-party cookies:
+First-party cookies enable our website to recognise you and keep track of your preferences when you use or visit our website.
+Third-party cookies:
+In addition, our website uses a range of third-party cookies, where your information is also used by that third party in accordance with its privacy policy, such as Google Analytics.
+Web beacon:
+A web beacon is a small image file on a web page that can be used to collect certain information from your computer, such as an IP address, the time content is viewed, a browser type, and the existence of cookies previously set by the same server. You have the option to render some web beacons unusable by rejecting their associated cookies. The web beacon may still record an anonymous visit from your IP address, but cookie information will not be recorded.
+This information does not identify you personally and you remain anonymous unless you have otherwise provided us with personal information.
+Most web browsers will allow you to set some control over cookies in your browser settings. This includes deleting them from your browser or disabling them altogether. If you do choose to set your browser to disable all cookies, this may affect your ability to use some of the features on our site.
+For more information on cookies and how you can manage them, visit
+allaboutcookies.org
+or
+aboutcookies.org
+Third party analytics and tracking
+:  We use Google Analytics to collect and analyse information about website usage and for marketing purposes using third-party cookies and web beacons. The information generated by the cookie is transmitted to Google, who then produce reports about behaviour and usage on our website – enabling us to better understand and improve your browsing experience. This data is aggregated and cannot personally identify you.
+The advertising features we have implemented include:
+Cross platform reporting
+to help us understand how you access our website across your various devices when logged in to your Google account.
+Remarketing
+to keep track of the content you’re interested in and tailor our advertising to ensure the right offers are shown to you after you leave our site (as a result, you may see ads from Contact when you visit other websites).
+Advertising, demographic, and interest reporting
+to provide us with an overview of visitor information broken down by age, gender and interests so that we can understand user behaviour and give you a better experience when you visit our site.
+Google’s Privacy Policy can be found
+here
+. To learn more about how Google Analytics collects and processes information
+visit this page
+.
+You can opt out of Google Analytics Advertising Features by changing your
+Google Ad Settings
+or by using the
+Google Analytics’ opt outs
+.
+Data Matching
+We may share non-personally identifiable information with data matching providers for marketing purposes and to gain insight about products and services our customers might be interested in. You can opt out of this data sharing at any time by emailing
+[email protected]
+with your name and account number.
+Your right to access and correct your personal information
+At any time, you may ask Contact to inspect, update or correct personal information that Contact may hold about you. We will provide you with access to your information as required by the Privacy Act.
+If you want to know what information we hold about you, please
+contact us
+or email
+[email protected]
+.
+If you want to know what information third parties who we disclose your information to or collect your information indirectly from as described in this policy (including in our Indirect Collection Notice), please contact the relevant third party.
+Questions and Complaints
+If you have a privacy related query or complaint, please
+contact us
+. We’ll do our best to resolve your question or complaint straight away but if it is complex, we may need to investigate it for you.
+If Contact or any relevant third party cannot adequately address your privacy concerns, you have the right to complain to the
+Office of the Privacy Commissioner
+.
+Support
+Contact us
+My Account
+About us
+Work with us
+Blog
+Legal
+Terms & Conditions
+Privacy
+Consumer Care Policy
+© Contact Energy Ltd, All rights reserved 2026
+For independent complaint or pricing advice,
+click here
+. UDL & Powerswitch can help.
+To read our Residential Consumer Care policy on how we'll keep you safe and connected,
+click here
+.

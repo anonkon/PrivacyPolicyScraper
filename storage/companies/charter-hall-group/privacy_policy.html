@@ -1,0 +1,600 @@
+ <!DOCTYPE html> <html> <head> <title>
+	Privacy policy
+</title> <meta charset="utf-8"><script type="text/html" id="sf-tracking-consent-manager">
+	<div id="tracking-consent-dialog" style="position:relative;z-index:10000000;">
+    <div class="container">
+        <div class="tracking-consent-text">
+            <strong>We value your privacy</strong>
+            <p>We use cookies to enhance your browsing experience, personalize advertising and analyse our traffic. By Clicking 'Accept' you consent to our use of cookies. <br/>To find out more, read our privacy policy <a href="/privacy-policy" target="_blank">here</a>.</p>
+        </div>
+        <div class="tracking-consent-btn">
+            <a type="button" class="round cta" id="tracking-consent-dialog-accept">Accept</a>
+            <a type="button" class="round cta" id="tracking-consent-dialog-reject" class="btn btn-default">Refuse</a>
+        </div>
+    </div>
+</div>
+
+<script>
+function setClarityConsent(granted) {
+    if (typeof window.clarity === 'function') {
+        var consentStatus = granted ? "granted" : "denied";
+        
+        window.clarity('consentv2', {
+            ad_Storage: consentStatus,
+            analytics_Storage: consentStatus
+        });
+        
+        console.log('Clarity ConsentV2: ad_Storage=' + consentStatus + ', analytics_Storage=' + consentStatus);
+    }
+}
+
+function handleConsentAccept() {
+    try {
+        // Sitefinity consent
+        TrackingConsentManager.updateUserConsent(true);
+        
+        // Clarity consent - try now and after delay
+        setClarityConsent(true);
+        setTimeout(function() { setClarityConsent(true); }, 1000);
+        
+        // Store decision
+        localStorage.setItem('clarity-consent', 'true');
+    } catch (e) {
+        console.error('Error in handleConsentAccept:', e);
+    }
+}
+
+function handleConsentReject() {
+    try {
+        // Sitefinity consent
+        TrackingConsentManager.updateUserConsent(false);
+        
+        // Clarity consent
+        setClarityConsent(false);
+        
+        // Store decision
+        localStorage.setItem('clarity-consent', 'false');
+    } catch (e) {
+        console.error('Error in handleConsentReject:', e);
+    }
+}
+
+// Attach event listeners
+(function() {
+    function initConsent() {
+        try {
+            var stored = localStorage.getItem('clarity-consent');
+            if (stored) {
+                var consent = stored === 'true';
+                setClarityConsent(consent);
+                setTimeout(function() { setClarityConsent(consent); }, 2000);
+            }
+        } catch (e) {
+            console.error('Error in initConsent:', e);
+        }
+    }
+    
+    function attachEventListeners() {
+        var acceptBtn = document.getElementById('tracking-consent-dialog-accept');
+        var rejectBtn = document.getElementById('tracking-consent-dialog-reject');
+        
+        if (acceptBtn) {
+            acceptBtn.addEventListener('click', handleConsentAccept);
+        }
+        
+        if (rejectBtn) {
+            rejectBtn.addEventListener('click', handleConsentReject);
+        }
+    }
+    
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+            initConsent();
+            attachEventListeners();
+        });
+    } else {
+        initConsent();
+        attachEventListeners();
+    }
+})();
+</script>
+</script><script type="text/javascript" src="/WebResource.axd?d=DzHrpQl5URXarFHAtrmzFpqMWHknMchIcon7BCB3-MC5HxYmj6IYZ-zcjnUDQC148itNGSxQPu8o_U8L-Sae82aWtbIW5pnkPvQxE78oeM4vLoDBzaGjM7MkBKkJMMsSOO5MTz9T4n7FY-9OD6gcOZuCcFtYayqiF9qVLKiwq7tZgMNkRxg0vnwKGSEcr7cy0&amp;t=639050308140000000">
+
+</script> <meta name="viewport" content="width=device-width,initial-scale=1"> <link href="/_assets/css/index.css?v=c38ecc394c2fc372fa29d6099555f72a" rel="stylesheet"> <link rel="shortcut icon" type="image/x-icon" href="/_assets/images/favicon.ico"> <link href="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/assets/dist/css/sf-search-box.min.css" rel="stylesheet" type="text/css" /> <script>
+    dataLayer = window.dataLayer || [];
+</script> <!-- Google Tag Manager --> <script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-N7D2CCQ');</script> <!-- End Google Tag Manager --> <meta property="og:title" content="Privacy policy" /><meta property="og:description" content="The Charter Hall Group (CHG) is committed to ensuring the confidentiality and security of individuals&#39; personal information." /><meta property="og:url" content="https://www.charterhall.com.au/privacy-policy" /><meta property="og:type" content="website" /><meta property="og:site_name" content="Corporate" /><style type="text/css" media="all">.row.sf-fieldWrp{
+  z-index:auto; 
+}</style><meta name="Generator" content="Sitefinity 15.4.8623.0 DX" /><link rel="canonical" href="https://www.charterhall.com.au/privacy-policy" /><meta property="og:image" content="https://www.charterhall.com.au/images/librariesprovider2/stock-images/charterhall-logo31d27de8-5cee-40f1-9643-3262d3255ccf.png" /><meta name="description" content="The Charter Hall Group (CHG) is committed to ensuring the confidentiality and security of individuals&#39; personal information." /><meta name="keywords" content="privacy statement, privacy policy" /></head> <body> <script src="/ScriptResource.axd?d=6DQe8ARl7A9TiuWej5ttCmPXzIDfcgS_JElrBg92xd9C1swUoyqEHvquR7_yKFB5vdev7h1k8upKiNi2dZ3HygRThE8hoYkwGVrVlfYJ8sFANYb3erQVldvlzP_qn4Zb8chrW0D9Vx2kuQ6V5zXft-Ukgs57COSIDzX6t_g2aQmeGQZPiF4UPK0-lIsJ7aGb0&amp;t=ffffffff9725581d" type="text/javascript"></script><script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js" type="text/javascript"></script><script src="/ScriptResource.axd?d=BipRCKUteAIr0PTUVR7xowfaa-TvM045237tAa4mt069O-2cuZyMR0IQ2Y5KC5nys7NnLHmPjHV_XIKqtiW12DJ9X4m_JqzR_auzgJTWBYq_Z1Jak-YpcPULAJn3WGef-EoVLQwjzwKeE-f1JOa8c2oZ0JlzuKr8St4IErC4aceUM5wXbws7q3OMXpfXZnQx0&amp;t=ffffffff9725581d" type="text/javascript"></script> <!-- Google Tag Manager (noscript) --> <noscript> <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7D2CCQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe> </noscript> <!-- End Google Tag Manager (noscript) --> <script>
+        function toLocalTime(d, id) {
+            function n(n) {
+                return n > 9 ? "" + n : "0" + n;
+            }
+
+            var str = n(d.getDate()) + "/" + n(d.getMonth() + 1) + "/" + d.getFullYear();
+            document.querySelector('#' + id).innerHTML = str;
+            return str;
+        }
+    </script> <div class="content-container"> <header class="component-header has-cta-ribbon"> <style>
+        img.inject-me, img.injectable {
+            visibility: hidden
+        }
+    </style> <div class="utility-bar-container"> <div class=container> <div class="ribbon-container"></div> <div class="utility-bar-wrapper"> <div class="utility-bar row desktop"> <div class=utility-link><a class=link href="/Contact-Us">Contact us</a></div> <div class=utility-link><a class=link href="/frequently-asked-questions">Frequently asked questions</a></div> <div class=utility-link><a class=link href="/corp-governance">Corporate governance</a></div> </div> </div> </div> </div> <div class=container> <div class="nav-bar desktop row"> <div class=logo-wrapper><a href="/"><img loading="lazy" class="inject-me" id="icon" data-src=/_assets/svg/charterhall-logo.svg></a></div> <div class=links-wrapper> <div class="parent-menu-item"> <div data-length=4 class=item data-nav=73198B6B-C7DF-4F09-A440-2B1655CD3974>
+                                Investor centre
+
+                                    <img loading="lazy" class=inject-me id=icon data-src=/_assets/svg/chevron-up-small.svg src=/_assets/svg/chevron-up-small.svg alt=arrow> </div> <div class=dropdown> <div class=container> <div class="dropdown-item _4 row" data-dropdown=73198B6B-C7DF-4F09-A440-2B1655CD3974> <div class="dropdown-col list info-column"> <div class=link> <div class="title title_head"> <span>Start investing</span> </div> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/new-to-investing"> <span>New to investing</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/invest-with-us/start-investing/investment-guide"> <span>Investment guide</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <div class="title"> <span>Investment resources</span> </div> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/all-funds/property-portfolio"> <span>Property portfolio</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <div class="title"> <span>Financial advisers</span> </div> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/financial-advisers/overview"> <span>Financial Advisers Overview</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> <div class="dropdown-col list"> <div class=link> <div class="title title_head"> <span>Unlisted direct property funds</span> </div> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/tef2"> <span>Charter Hall Telco Exchange Fund No.2 (TEF2)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/charter-hall-direct-office-fund"> <span>Charter Hall Direct Office Fund (DOF)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/charter-hall-wholesale-property-series"> <span>Charter Hall Wholesale Property Series</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/direct-industrial-fund-no4"> <span>Charter Hall Direct Industrial Fund No.4 (DIF4)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/dcrf"> <span>Charter Hall Direct Convenience Retail Fund (DCRF)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link overview-link" href="/investor-centre/unlisted-direct-property-funds/unlisted-direct-property-funds"> <span>View all direct funds</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> <div class="dropdown-col list"> <div class=link> <div class="title title_head"> <span>Listed property funds (A-REITS)</span> </div> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/Charter-Hall-Group"> <span>Charter Hall Group (ASX:CHC)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/charter-hall-retail-reit"> <span>Charter Hall Retail REIT (ASX:CQR)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/long-wale-reit"> <span>Charter Hall Long WALE REIT (ASX:CLW)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/social-infrastructure-reit"> <span>Charter Hall Social Infrastructure REIT (ASX:CQE)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link overview-link" href="/investor-centre/view-all-listed-funds"> <span>View all listed funds</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> <div class="dropdown-col list"> <div class=link> <div class="title title_head"> <span>Unlisted wholesale property funds</span> </div> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/charter-hall-prime-office-fund"> <span>Charter Hall Prime Office Fund (CPOF)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/charter-hall-prime-industrial-fund"> <span>Charter Hall Prime Industrial Fund (CPIF)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-wholesale-property-funds/charter-hall-convenience-retail-fund-(ccrf)"> <span>Charter Hall Convenience Retail Fund (CCRF)</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link overview-link" href="/investor-centre/all-wholesale-funds"> <span>View all Wholesale Funds</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> </div> </div> </div> </div> <div class="parent-menu-item"> <div data-length=4 class=item data-nav=3F73A3DF-AF45-469B-B4C1-DF19D557C3B1>
+                                Property solutions
+
+                                    <img loading="lazy" class=inject-me id=icon data-src=/_assets/svg/chevron-up-small.svg src=/_assets/svg/chevron-up-small.svg alt=arrow> </div> <div class=dropdown> <div class=container> <div class="dropdown-item _4 row" data-dropdown=3F73A3DF-AF45-469B-B4C1-DF19D557C3B1> <div class="dropdown-col list"> <div class=link> <div class="title title_head"> <span>Industrial &amp; Logistics</span> </div> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/overview"> <span>Overview</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/available-space"> <span>Space for lease</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/available-space/developments"> <span>Developments</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/active-partnerships"> <span>Active partnerships</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/asset-management"> <span>Asset management</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/energy-resilience-"> <span>Energy resilience: why it matters for industrial occupiers</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> <div class="dropdown-col list"> <div class=link> <div class="title title_head"> <span>Office</span> </div> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/office/overview"> <span>Overview</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/office/portfolio"> <span>Office Portfolio</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/office/developments"> <span>Developments</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/office/asset-management"> <span>Asset Management</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/office/asset-services"> <span>Asset Services, Place &amp; Experience</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/office/office-esg"> <span>Office ESG&#160;</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> <div class="dropdown-col list"> <div class=link> <div class="title title_head"> <span>Retail</span> </div> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/retail/overview"> <span>Overview</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/retail/portfolio"> <span>Retail portfolio</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/retail/retail-projects"> <span>Projects </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/retail/active-partnerships"> <span>Active partnerships</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> <div class="dropdown-col list info-column"> <div class=link> <div class="title title_head"> <span>Social Infrastructure</span> </div> </div> <div class=link> <a class="rollborder-link" href="/property-solutions/social-infrastructure/overview"> <span>Overview</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> </div> </div> </div> </div> <div class="parent-menu-item"> <div data-length=2 class=item data-nav=E16110C2-ADC5-4FBA-887E-DA47C2FC9268>
+                                Why Charter Hall
+
+                                    <img loading="lazy" class=inject-me id=icon data-src=/_assets/svg/chevron-up-small.svg src=/_assets/svg/chevron-up-small.svg alt=arrow> </div> <div class=dropdown> <div class=container> <div class="dropdown-item _2 row" data-dropdown=E16110C2-ADC5-4FBA-887E-DA47C2FC9268> <div class="dropdown-col list"> <div class=link> <a class="rollborder-link" href="/why-charter-hall/people-and-values/About-Us"> <span>About us</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/why-charter-hall/people-and-values/what-we-do"> <span>What we do</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/why-charter-hall/people-and-values/work-with-us"> <span>Work with us</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/sustainability"> <span>Sustainability</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> <div class="dropdown-col list"> <div class=link> <a class="rollborder-link" href="/why-charter-hall/leadership"> <span>Leadership team</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/why-charter-hall/board-of-directors"> <span>Board of Directors </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/why-charter-hall/column-2/reporting-suite"> <span>Reporting suite</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class=link> <a class="rollborder-link" href="/why-charter-hall/1h-fy26-results"> <span>1H FY26 Results</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> </div> </div> </div> </div> <div class="parent-menu-item"> <div data-length=3 class=item data-nav=45170AA2-F28F-41FF-BC48-88D1190990C7>
+                                Media centre
+
+                                    <img loading="lazy" class=inject-me id=icon data-src=/_assets/svg/chevron-up-small.svg src=/_assets/svg/chevron-up-small.svg alt=arrow> </div> <div class=dropdown> <div class=container> <div class="dropdown-item _3 row" data-dropdown=45170AA2-F28F-41FF-BC48-88D1190990C7> <div class="dropdown-col list"> <div class=link> <div class="title title_head"> <span>News and insights</span> </div> </div> <div class=link> <a class="rollborder-link" href="/media-centre/news-and-insights/View-all-News"> <span>View all news and insights</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> <div class="dropdown-col list"> <div class=link> <div class="title title_head"> <span>ASX announcements</span> </div> </div> <div class=link> <a class="rollborder-link" href="/media-centre/asx-announcements/view-all-asx-announcements"> <span>View all ASX announcements</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> <div class="dropdown-col list"> <div class=link> <div class="title title_head"> <span>Direct Insight series</span> </div> </div> <div class=link> <a class="rollborder-link" href="/media-centre/direct-insight-series/direct-insight-series"> <span>View all Direct Insight Series</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#2A6EBB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> </div> </div> </div> </div> </div> <div class=actions-wrapper> <div class="search-box search"> <label class="search-label">Search</label> <button class="button-action" type=button> <div class="blue"> <img loading="lazy" src=/_assets/svg/search-new.svg alt=search> </div> </button> </div> <button class="button-action close" type=button><img loading="lazy" class="inject-me" data-src=/_assets/svg/close-blue.svg alt=close></button> </div> </div> <div class="nav-bar mobile row"> <div class=logo-wrapper><a href=/><img loading="lazy" class="inject-me" id="icon" data-src=/_assets/svg/charterhall-logo.svg></a></div> <div class=actions-wrapper> <div class="search-box"> <label class="search-label">Search</label> <button class="button-action search" type=button><img loading="lazy" class="inject-me" data-src=/_assets/svg/search-new.svg alt=search></button> </div> <div class="vertical-line-divider"></div> <button class="button-action menu" type=button><img loading="lazy" src=/_assets/svg/hamburger.svg alt=menu></button> <button class="button-action close" type=button><img loading="lazy" class="inject-me" data-src=/_assets/svg/close-blue.svg alt=close></button> </div> <div class="links-wrapper col-sm-12"> <div class=item data-nav=73198B6B-C7DF-4F09-A440-2B1655CD3974> <div class="title-head">
+                                Investor centre
+                                            <img loading="lazy" class="inject-me icon-right" data-src=/_assets/svg/chevron-right.svg src=/_assets/svg/chevron-right.svg alt=arrow> </div> <div class="sides-dropdown" data-side=73198B6B-C7DF-4F09-A440-2B1655CD3974> <div class="go-back-title"> <svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.57031 12.1429L3.4285 6.99896L8.57031 1.85715" stroke="#2A6EBB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> </svg>
+
+                                    Investor centre
+                                        </div> <div class="child-title"> <div class="links" data-dropdown=EC611F0D-9CF4-41B9-9519-1FB2C58C08F7> <div class="child-title"> <div class=title-head>
+                                                                            
+                                                                            Start investing
+                                                                                                        <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class=links-dropdown data-dropdown=66669E36-379F-4BB5-A380-1FAC7AC571B1> <div class=link> <a class="rollborder-link" href="/investor-centre/new-to-investing">
+                                                                                        
+                                                                                        New to investing
+                                                                                                                        </a> </div> <div class=link> <a class="rollborder-link" href="/invest-with-us/start-investing/investment-guide">
+                                                                                        
+                                                                                        Investment guide
+                                                                                                                        </a> </div> </div> </div> <div class="child-title"> <div class=title-head>
+                                                                            
+                                                                            Investment resources
+                                                                                                        <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class=links-dropdown data-dropdown=848546D4-2A7C-4DD8-8C17-5EACD0C9355A> <div class=link> <a class="rollborder-link" href="/investor-centre/all-funds/property-portfolio">
+                                                                                        
+                                                                                        Property portfolio
+                                                                                                                        </a> </div> </div> </div> <div class="child-title"> <div class=title-head>
+                                                                            
+                                                                            Financial advisers
+                                                                                                        <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class=links-dropdown data-dropdown=B69C6B00-A9D7-4D87-B5A2-364C0F55ABE0> <div class=link> <a class="rollborder-link" href="/investor-centre/financial-advisers/overview">
+                                                                                        
+                                                                                        Financial Advisers Overview
+                                                                                                                        </a> </div> </div> </div> </div> </div> <div class="child-title"> <div class="title-head">
+                                                        
+                                                        Unlisted direct property funds
+                                                                            <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class="links-dropdown" data-dropdown=3C1A7B0B-CD3F-4DA2-8694-BAEEBD1E226F> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/tef2">
+                                                                                
+                                                                                Charter Hall Telco Exchange Fund No.2 (TEF2)
+                                                                                                        </a> </div> <div class=links-dropdown data-dropdown=33F54695-A2CC-40B2-A3F7-477CF86BDCFF> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/tef2/key-management-profiles">
+                                                                                        
+                                                                                        Key Management Profiles
+                                                                                                                        </a> </div> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/charter-hall-direct-office-fund">
+                                                                                
+                                                                                Charter Hall Direct Office Fund (DOF)
+                                                                                                        </a> </div> <div class=links-dropdown data-dropdown=ABE50912-C36F-4E0C-8FFE-9D7B4BF20296> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/charter-hall-direct-office-fund/key-management-profiles">
+                                                                                        
+                                                                                        Key Management Profiles
+                                                                                                                        </a> </div> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/charter-hall-wholesale-property-series">
+                                                                                
+                                                                                Charter Hall Wholesale Property Series
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/direct-industrial-fund-no4">
+                                                                                
+                                                                                Charter Hall Direct Industrial Fund No.4 (DIF4)
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/dcrf">
+                                                                                
+                                                                                Charter Hall Direct Convenience Retail Fund (DCRF)
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link overview-link" href="/investor-centre/unlisted-direct-property-funds/unlisted-direct-property-funds">
+                                                                                
+                                                                                View all direct funds
+                                                                                                                    <img loading="lazy" class="inject-me icon-right" data-src=/_assets/svg/chevron-right.svg src=/_assets/svg/chevron-right.svg alt=arrow> </a> </div> </div> </div> </div> <div class="child-title"> <div class="title-head">
+                                                        
+                                                        Listed property funds (A-REITS)
+                                                                            <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class="links-dropdown" data-dropdown=046A5BA8-471A-48D4-AA3D-1ADDD6BFB0E0> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/Charter-Hall-Group">
+                                                                                
+                                                                                Charter Hall Group (ASX:CHC)
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/charter-hall-retail-reit">
+                                                                                
+                                                                                Charter Hall Retail REIT (ASX:CQR)
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/long-wale-reit">
+                                                                                
+                                                                                Charter Hall Long WALE REIT (ASX:CLW)
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/social-infrastructure-reit">
+                                                                                
+                                                                                Charter Hall Social Infrastructure REIT (ASX:CQE)
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link overview-link" href="/investor-centre/view-all-listed-funds">
+                                                                                
+                                                                                View all listed funds
+                                                                                                                    <img loading="lazy" class="inject-me icon-right" data-src=/_assets/svg/chevron-right.svg src=/_assets/svg/chevron-right.svg alt=arrow> </a> </div> </div> </div> </div> <div class="child-title"> <div class="title-head">
+                                                        
+                                                        Unlisted wholesale property funds
+                                                                            <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class="links-dropdown" data-dropdown=DB8F0ADE-9CB6-48B3-AF0A-1312CA77A269> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/charter-hall-prime-office-fund">
+                                                                                
+                                                                                Charter Hall Prime Office Fund (CPOF)
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/charter-hall-prime-industrial-fund">
+                                                                                
+                                                                                Charter Hall Prime Industrial Fund (CPIF)
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/investor-centre/unlisted-wholesale-property-funds/charter-hall-convenience-retail-fund-(ccrf)">
+                                                                                
+                                                                                Charter Hall Convenience Retail Fund (CCRF)
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link overview-link" href="/investor-centre/all-wholesale-funds">
+                                                                                
+                                                                                View all Wholesale Funds
+                                                                                                                    <img loading="lazy" class="inject-me icon-right" data-src=/_assets/svg/chevron-right.svg src=/_assets/svg/chevron-right.svg alt=arrow> </a> </div> </div> </div> </div> </div> </div> <div class=item data-nav=3F73A3DF-AF45-469B-B4C1-DF19D557C3B1> <div class="title-head">
+                                Property solutions
+                                            <img loading="lazy" class="inject-me icon-right" data-src=/_assets/svg/chevron-right.svg src=/_assets/svg/chevron-right.svg alt=arrow> </div> <div class="sides-dropdown" data-side=3F73A3DF-AF45-469B-B4C1-DF19D557C3B1> <div class="go-back-title"> <svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.57031 12.1429L3.4285 6.99896L8.57031 1.85715" stroke="#2A6EBB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> </svg>
+
+                                    Property solutions
+                                        </div> <div class="child-title"> <div class="title-head">
+                                                        
+                                                        Industrial &amp; Logistics
+                                                                            <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class="links-dropdown" data-dropdown=6D516618-C8CD-4711-9F23-233B7D5F3A06> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/overview">
+                                                                                
+                                                                                Overview
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/available-space">
+                                                                                
+                                                                                Space for lease
+                                                                                                        </a> </div> <div class=links-dropdown data-dropdown=6C3F6E7E-32CD-4129-8A01-E204257C31B1> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/available-space/developments">
+                                                                                        
+                                                                                        Developments
+                                                                                                                        </a> </div> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/active-partnerships">
+                                                                                
+                                                                                Active partnerships
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/asset-management">
+                                                                                
+                                                                                Asset management
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/industrial-logistics/energy-resilience-">
+                                                                                
+                                                                                Energy resilience: why it matters for industrial occupiers
+                                                                                                        </a> </div> </div> </div> </div> <div class="child-title"> <div class="title-head">
+                                                        
+                                                        Office
+                                                                            <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class="links-dropdown" data-dropdown=98C154EA-4877-4AA4-AC95-BC45B91AD7CB> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/office/overview">
+                                                                                
+                                                                                Overview
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/office/portfolio">
+                                                                                
+                                                                                Office Portfolio
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/office/developments">
+                                                                                
+                                                                                Developments
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/office/asset-management">
+                                                                                
+                                                                                Asset Management
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/office/asset-services">
+                                                                                
+                                                                                Asset Services, Place &amp; Experience
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/office/office-esg">
+                                                                                
+                                                                                Office ESG&#160;
+                                                                                                        </a> </div> </div> </div> </div> <div class="child-title"> <div class="title-head">
+                                                        
+                                                        Retail
+                                                                            <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class="links-dropdown" data-dropdown=434003C6-25D7-4B0B-B617-8D970564AAB8> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/retail/overview">
+                                                                                
+                                                                                Overview
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/retail/portfolio">
+                                                                                
+                                                                                Retail portfolio
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/retail/retail-projects">
+                                                                                
+                                                                                Projects 
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/property-solutions/retail/active-partnerships">
+                                                                                
+                                                                                Active partnerships
+                                                                                                        </a> </div> </div> </div> </div> <div class="child-title"> <div class="links" data-dropdown=FF131651-42BD-43DF-B063-7C90F8105969> <div class="child-title"> <div class=title-head>
+                                                                            
+                                                                            Social Infrastructure
+                                                                                                        <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class=links-dropdown data-dropdown=2DE93B28-7BC3-4BEF-86C1-9B8589216A75> <div class=link> <a class="rollborder-link" href="/property-solutions/social-infrastructure/overview">
+                                                                                        
+                                                                                        Overview
+                                                                                                                        </a> </div> </div> </div> </div> </div> </div> </div> <div class=item data-nav=E16110C2-ADC5-4FBA-887E-DA47C2FC9268> <div class="title-head">
+                                Why Charter Hall
+                                            <img loading="lazy" class="inject-me icon-right" data-src=/_assets/svg/chevron-right.svg src=/_assets/svg/chevron-right.svg alt=arrow> </div> <div class="sides-dropdown" data-side=E16110C2-ADC5-4FBA-887E-DA47C2FC9268> <div class="go-back-title"> <svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.57031 12.1429L3.4285 6.99896L8.57031 1.85715" stroke="#2A6EBB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> </svg>
+
+                                    Why Charter Hall
+                                        </div> <div class="child-title"> <div class="links" data-dropdown=B4FAC04F-1324-4E43-BD15-3D70F3819ADD> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/why-charter-hall/people-and-values/About-Us">
+                                                                                
+                                                                                About us
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/why-charter-hall/people-and-values/what-we-do">
+                                                                                
+                                                                                What we do
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/why-charter-hall/people-and-values/work-with-us">
+                                                                                
+                                                                                Work with us
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/sustainability">
+                                                                                
+                                                                                Sustainability
+                                                                                                        </a> </div> </div> </div> </div> <div class="child-title"> <div class="links" data-dropdown=DA43827B-EF35-408E-B939-A9A026339466> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/why-charter-hall/leadership">
+                                                                                
+                                                                                Leadership team
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/why-charter-hall/board-of-directors">
+                                                                                
+                                                                                Board of Directors 
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/why-charter-hall/column-2/reporting-suite">
+                                                                                
+                                                                                Reporting suite
+                                                                                                        </a> </div> </div> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/why-charter-hall/1h-fy26-results">
+                                                                                
+                                                                                1H FY26 Results
+                                                                                                        </a> </div> </div> </div> </div> </div> </div> <div class=item data-nav=45170AA2-F28F-41FF-BC48-88D1190990C7> <div class="title-head">
+                                Media centre
+                                            <img loading="lazy" class="inject-me icon-right" data-src=/_assets/svg/chevron-right.svg src=/_assets/svg/chevron-right.svg alt=arrow> </div> <div class="sides-dropdown" data-side=45170AA2-F28F-41FF-BC48-88D1190990C7> <div class="go-back-title"> <svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.57031 12.1429L3.4285 6.99896L8.57031 1.85715" stroke="#2A6EBB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> </svg>
+
+                                    Media centre
+                                        </div> <div class="child-title"> <div class="title-head">
+                                                        
+                                                        News and insights
+                                                                            <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class="links-dropdown" data-dropdown=13DB44E3-283A-4880-96E0-3A88120D770E> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/media-centre/news-and-insights/View-all-News">
+                                                                                
+                                                                                View all news and insights
+                                                                                                        </a> </div> </div> </div> </div> <div class="child-title"> <div class="title-head">
+                                                        
+                                                        ASX announcements
+                                                                            <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class="links-dropdown" data-dropdown=9A631AF0-2F7A-4967-8DBB-CF414ABFBFBA> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/media-centre/asx-announcements/view-all-asx-announcements">
+                                                                                
+                                                                                View all ASX announcements
+                                                                                                        </a> </div> </div> </div> </div> <div class="child-title"> <div class="title-head">
+                                                        
+                                                        Direct Insight series
+                                                                            <img loading="lazy" class="inject-me icon" data-src=/_assets/svg/chevron-up.svg src=/_assets/svg/chevron-up.svg alt=arrow> </div> <div class="links-dropdown" data-dropdown=EEE0D35E-6794-4CBE-B6C4-B54C060C06D8> <div class="child-title"> <div class=link> <a class="rollborder-link" href="/media-centre/direct-insight-series/direct-insight-series">
+                                                                                
+                                                                                View all Direct Insight Series
+                                                                                                        </a> </div> </div> </div> </div> </div> </div> <div class="utility-link-nav"> <div class="utility-link"> <a href="/Contact-Us">Contact us</a> </div> <div class="utility-link"> <a href="/frequently-asked-questions">Frequently asked questions</a> </div> <div class="utility-link"> <a href="/corp-governance">Corporate governance</a> </div> </div> </div> </div> </div> </header> <div class="under-nav"></div> <div class="dropdown"> <div class="container"> <div class="dropdown-search"> <button class="button-action close" type=button><img loading="lazy" src=/_assets/svg/close-blue.svg alt=close></button> <div class=header-search> 
+
+
+
+
+
+
+<div class="search-component">
+    <div class="search-bar_form">
+        <div class="field">
+            <input class="search-bar__input-field" type="text" title="Search input" placeholder="Search" id="5f4c69e8-33fb-40da-9bec-aca1358d94c7" value="" />
+            <label for="5f4c69e8-33fb-40da-9bec-aca1358d94c7">Search</label>
+            <button type="button" id="d5b09c91-1e51-4f78-85a9-041fb3853722">Search</button>
+            <input type="hidden" data-sf-role="resultsUrl" value="/search-results" />
+            <input type="hidden" data-sf-role="indexCatalogue" value="all-content" />
+            <input type="hidden" data-sf-role="wordsMode" value="AllWords" />
+            <input type="hidden" data-sf-role="disableSuggestions" value='false' />
+            <input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+            <input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+            <input type="hidden" data-sf-role="language" value="en" />
+            <input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+            <input type="hidden" data-sf-role="searchTextBoxId" value='#5f4c69e8-33fb-40da-9bec-aca1358d94c7' />
+            <input type="hidden" data-sf-role="searchButtonId" value='#d5b09c91-1e51-4f78-85a9-041fb3853722' />
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+ </div> </div> </div> </div> 
+
+
+
+
+
+
+<div class="component-cta-ribbon index">
+    <div class=cta-ribbon-item>
+        <div class=cta-ribbon>
+        </div>
+    </div>
+</div>
+<div class=component-layout>
+    <div class=container>
+        <div class=row>
+            <div id="body_C015_Col00" class="sf_colsIn col-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div>
+    <nav aria-label="Full path to the current page">
+        <div class="sf-breadscrumb breadcrumb">
+                    <div class="breadcrumb-item"><a href="/">Home </a></div>
+                    <div>
+                        <svg fill="none" height="9" viewBox="0 0 5 9" width="5" xmlns="http://www.w3.org/2000/svg"><path d="m1.1345.378167c-.208854-.208856-.547477-.208856-.756333 0-.208856.208856-.208856.547479 0 .756333l3.365493 3.3655-3.365493 3.3655c-.208856.20885-.208856.54748 0 .75633.208856.20886.547478.20886.756333 0l3.5915-3.5915c.2929-.29289.2929-.76777 0-1.06066z" fill="#82afe3" /></svg>
+                    </div>
+                    <div class="breadcrumb-item active" aria-current="page">Privacy policy</div>
+        </div>
+    </nav>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="standard-hero component-standard-hero">
+        <div class="overflow-animation gradient reduce">
+            <div class="hero" data-bg="" data-bg-img-desktop="/images/librariesprovider2/stock-images/paradice-financial-advisors215eac8b02dd41f0a854f8fb58aedb52.tmb-hero-desk.jpg?Culture=en&amp;sfvrsn=e4215243_1" data-bg-img-mobile="https://www.charterhall.com.au/images/librariesprovider2/stock-images/paradice-financial-advisors215eac8b02dd41f0a854f8fb58aedb52.tmb-hero-mob.jpg?Culture=en&amp;sfvrsn=e4215243_1"></div>
+        </div>
+        <div class="container hero-home">
+            <div class="row">
+                <div class="col">
+                    <div class="home-title-wrapper">
+                        <div class="home-title">
+                            <div class="name">
+                                <h1>Privacy Policy</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> </div>
+<div class="spacer medium"></div><div class=component-layout>
+    <div class=container>
+        <div class=row>
+            <div id="body_C019_Col00" class="sf_colsIn col-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="content-block" >
+    <div class="sf-Long-text" ><h2 class="bodycopy-regular">The Charter Hall Group (CHG) is committed to ensuring the confidentiality and security of individuals' personal information.&nbsp;</h2><p class="bodycopy-regular"><b>Your privacy is important to us</b><br>Every day we work with personal information about our investors, our customers, our people, and other stakeholders. Our business depends on building and maintaining their trust.</p><p class="bodycopy-regular">We recognise that your confidentiality and security needs to be protected, which is why we take our obligations under the Australian Privacy Principles (APPs) and the Privacy Act 1988 (Cth) seriously.&nbsp;</p><p class="bodycopy-regular">This Privacy Policy explains how we handle the personal information we collect. It sits alongside our Terms of Use and any other terms and conditions that apply to products and/or services we provide.&nbsp;<br><br><b>What do we mean by personal information?</b><br>In the context of this Privacy Policy, 'personal information' means any information about you which, when combined with other information, perhaps from sources not even controlled by us, could identify you or make it easier for you to be reasonably identifiable.</p><p class="bodycopy-regular">We&rsquo;re open and transparent about the information we collect.<br>Tailored experiences are now a normal part of business. To provide you with products and/or services that meet these expectations, we may need to collect personal information.&nbsp;</p><p class="bodycopy-regular">Depending on the actual products and/or services, that personal information can include your name, gender, date of birth, phone numbers, postal and residential addresses, email address, occupation, professional experience and qualifications, financial information (including credit or debit card details) and bank account details.&nbsp;<br><br>Where possible, we will collect this personal information directly from you. We will also explain, in general terms, why we are collecting it and how we will use or disclose it. If we collect personal or sensitive information from someone other than you, where practicable, we will tell you that we have it, who it came from and the circumstances of the collection. We will only collect sensitive information, such as country of origin or health status, with your express consent.<br><br>We may also collect information about you from third parties, including but not limited to:</p><ul class="bodycopy-regular"><li>financial advisers;</li><li>custodians;</li><li>unit registrars and administrators;</li><li>suppliers, consultants or contractors;</li><li>potential, current or former employers and contractors; and/or </li><li>tenants</li></ul><p class="bodycopy-regular">If we receive personal information we haven&rsquo;t requested, or information that could be deemed sensitive, we will assess whether that data could have been collected lawfully. If so, we will retain and protect it in accordance with this Privacy Policy. If not, the information will be destroyed or de-identified.<br><br>Where possible, we will only use personal and sensitive information for the purpose we collected it. Occasionally we may use the information for another purpose, such as marketing. In these situations, we will only do so with your consent or if the use is, or could reasonably be expected to be, directly related to the purpose it was initially collected.&nbsp;<br><br>If you don&rsquo;t want to receive our direct marketing messages, or want to change your contact preferences, you can follow the &ldquo;unsubscribe&rdquo; instructions on the communication, change your preferences on any user account, or contact the sender using the details set out in the communication.<br><br><b>Tenants and prospective tenants</b><br>If you are looking to become a tenant, we use personal information about you to evaluate whether we will grant you a lease and/ or enter into an agreement, how we document your lease/agreement, and how we manage the relationship.&nbsp;<br><br>If you are already a tenant, we use personal information to manage your tenancy, maintain contact details and records, respond to queries or complaints, process transactions and for security and risk management purposes including incident investigation, loss prevention, claims management and litigation and to comply with laws and regulations.&nbsp;<br><b><br>Investors</b><br>If you hold securities in Charter Hall or units in an investment product offered by Charter Hall, we use your personal information to carry out registry functions. These include making distribution payments, sending you corporate communications, keeping you updated about Charter Hall and our products and services or your investment, maintaining records and contact details, processing transactions, responding to queries or complaints, and to comply with laws and regulations.&nbsp;<br><br><b>Visitors to Charter Hall owned or managed properties</b><br>Our properties and sites may use camera surveillance systems (CCTV) and visitor contractor management systems (VMS) to maintain the safety and security of the assets and individuals working at or visiting our properties. We will only use CCTV footage or still images to personally identify you for security, risk management, loss prevention and/or incident investigation purposes. Images collected by CCTV and by other means may be provided to tenants, law enforcement bodies and insurers. If you are involved in an incident, we may ask for medical information and information from other consultants and third parties.<br><br>We offer a free Wi-Fi Service at certain properties, including our shopping centres. If you are carrying a Wi-Fi enabled device within range of one of our Wi-Fi networks, we will automatically pick up location data transmitted from your device so we can give you access to our network. We collect a range of information about the devices including, for example, the type of device, its ID number or &lsquo;MAC address&rsquo;, and its movement throughout the centre. We will not use information from your device to personally identify you unless you connect to our free Wi-Fi network.&nbsp;<br><br><b>Job applicants</b><br>We are proud of our culture and the people who work here. If you apply for a position with us, we may collect information (including your name, contact details, working history and relevant records checks) from you, from a recruitment consultant, your previous employers and from others who may be able to provide information to assist us in our decision on whether or not to make you an offer of employment or engage you under a contract. If your application is not successful, we may keep this information so we can contact you if an opportunity arises in the future.<br><br><b>Users of our applications and websites</b><br>If you sign-up to access or use any of our mobile or digital applications (including our Charli App and websites), in addition to the general personal information collected above, we may also collect technical identity data including your IP address, data derived from your IP address, browser type and versions, and information about other technology on the device you use. We use this information to help you access our applications or the products and/or services we, or other third parties offer through the applications, including mobile device identifiers (e.g., &lsquo;MAC&rsquo; address) and, potentially, cookie identifiers. We may also collect location data from your device to enable us to provide our services to you. You have a right to opt-out of any collection or use of location data, but this may result in us being unable to offer all or part of products and/or services to you through the applications.<br><br>We may use &lsquo;cookies&rsquo; or an equivalent tracking technology on our websites and applications. A cookie is a small text file used to store information on your browser or device. Usually, cookies are used so our websites and applications can remember your preferences and improve your experience. A cookie cannot read data on your hard disk or read cookie files created by other websites. We may also use cookies for profiling purposes to tailor our marketing to users&rsquo; interests. Sometimes, cookies may collect and store personal information about you (but not all cookies collect personal information). We treat this information in the same way as any other personal information you provide. You can adjust your browser settings to disable cookies or to warn you when cookies are being used. If you disable cookies, you may not be able to access certain areas or experience the added features offered with the enablement of cookies. We handle personal information collected by cookies in the same way we handle all other personal information as described in this Privacy Policy.<br><br>In certain circumstances, we may collect, use and share de-identified, aggregated and/or anonymised data for analytics purposes (Aggregated Data) including the usage statistics or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not personal data under privacy laws as it does not directly or indirectly identify you or reveal your identity. For example, we may aggregate your usage data and provide to third party vendors of products or services on any application to calculate the percentage of users accessing a specific application feature, their ordering habits and spending and other anonymised analytics data and research, to enhance the accuracy of our or their digital advertising products and services to you. If we combine Aggregated Data with your personal data and we can identify you or your identity is revealed, we will treat this combined data as personal data. This data will then be used in accordance with this Privacy Policy and all applicable privacy laws.<br><br>Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These are likely to be analytical/performance cookies.<br><br><b>Third party links&nbsp;</b><br>Our websites and applications may contain links to websites operated by third parties. Those links are provided for your convenience and may not remain current or be maintained. Unless expressly stated otherwise, we are not responsible for the privacy practices of, or any content on, those linked websites, and have no control over or rights in those linked websites. We note that the privacy policies that apply to those websites may differ from this Privacy Policy. You should check those third-party websites for their respective privacy policies and for information on how they handle your personal information.<br><br><b>We&rsquo;re careful about how we use your information</b><br>We may share information with other members of the CHG without disclosing this to you. We may also disclose your personal information to third parties who assist us in the operation of our business and/or the provision of our products and services such as custodians and unit registry providers. We may also disclose your personal information to:</p><ul class="bodycopy-regular"><li>financial institutions for payment processing;&nbsp;</li><li>valuers where we are seeking to value a property or lease;&nbsp;</li><li>credit reporting agencies or guarantors;&nbsp;</li><li>claims management services;&nbsp;</li><li>injury management services;&nbsp;</li><li>property management services;&nbsp;</li><li>vendors, advertisers, and affiliated business partners - for example when you sign up for any digital application or service &ndash; in order to facilitate orders, payments, promotions and marketing for the products or services they offer;</li><li>third party service providers, contractors and partners who help us manage our business and deliver our services, including IT service providers who manage our applications, systems, and networks and/or provide hosting, storage and maintenance and support services; and/or</li><li>regulatory authorities or government agencies or bodies where required by law.&nbsp;</li></ul><p class="bodycopy-regular"><br>Where we have disclosed personal information to a third party acting on our behalf, we require those third parties not to use the personal information for their own purposes and that they use, disclose, store and otherwise handle personal information only in ways that comply with, and are consistent with, this Privacy Policy. Your personal information will not be shared, sold, rented, or disclosed other than as described in this Privacy Policy.&nbsp;<br><br>Where possible, Charter Hall will not transfer personal or sensitive information to a party in a foreign country outside the CHG, unless:</p><ul class="bodycopy-regular"><li>we are reasonably satisfied that whoever is receiving the information is subject to information privacy requirements similar to those of Australia;</li><li>they agree to abide by Australian privacy laws in how they handle your personal and/or sensitive information;</li><li>you have consented to the transfer;</li><li>the disclosure is required or permitted by Australian law or court/tribunal order; or&nbsp;</li><li>the information is required under a foreign law or regulation.</li></ul><p class="bodycopy-regular"><br>We will not disclose your personal information to third parties if we have received a request from you not to do so, unless otherwise outlined in the Australian Privacy Principles.&nbsp;<br><br><b>We take security seriously&nbsp;</b><br>We take reasonable steps to protect your personal information from misuse, interference, and loss, as well as unauthorised access, modification or disclosure.&nbsp;<br>We retain your personal information in our computer systems and databases, and in our physical files. We use technologies and processes such as access control procedures, network firewalls, encryption, password protected databases and physical security measures to protect your personal information.<br><br>We will store your personal information for as long as is reasonably necessary for the purposes for which it was collected, as explained in this Privacy Policy. Where your information is no longer needed, we will make sure it is disposed of in a secure manner.<br><br>If we establish that your personal information has been accessed or disclosed without authorisation, Charter Hall has an obligation under the Privacy Amendment (Notifiable Breaches) Act 2017 (Cth) to investigate the circumstances of the breach and take appropriate corrective actions. &ldquo;Serious harm&rdquo; is defined as a situation where the person affected could suffer serious physical, psychological, emotional, economic, or financial harm, or serious harm to their reputation. In such situations, where it seems reasonable to conclude that the access to or disclosure of your personal information is likely to result in serious harm to you, we will advise you and the Office of the Australian Information Commissioner (OAIC) of the incident and provide details of the actions we are taking. In assessing the data breach, we will carefully consider the list of relevant matters included in legislation. Where serious harm cannot be determined, we will assess the circumstances of the breach and may still act to fix the issue and report the details of the breach to you.<br><br><b>You can access and check your personal information</b><br>We want to make sure the information we collect, use, and disclose is relevant, accurate, up-to-date, and complete. In some cases, the accuracy of that personal information largely depends on the details you provide to us. Please keep us up to date with any changes.&nbsp;<br><br>You have the right to ask us what personal information we hold about you and to request changes to that information. To request access to the personal information we hold, please contact our Privacy Officer.&nbsp;<br><br>If you believe that the personal information we hold about you is incorrect, incomplete or inaccurate, you can ask us to amend it. If we have to correct personal or sensitive information about you that was previously provided to a third party, and you want us to notify the third party of the correction, we will take all reasonable steps to give that notification, unless it is impracticable or unlawful to do so.&nbsp;<br>Before we make a correction, we will review the information to ascertain if such a correction is required. In some circumstances, we may not agree that the information should be changed. If this happens, we will provide you with an explanation add a note to the personal information stating that you disagree.<br><br>We may charge a reasonable fee for responding to a request for personal information. This is to cover our costs in locating and supplying the information. There is no cost for asking for access to information.<br><br>There are several exceptions in the Privacy Principles that allow us to refuse your request for access to your personal information. These are summarised in&nbsp;<a target="_blank" data-style-val="" href="https://www.oaic.gov.au/privacy/australian-privacy-principles/read-the-australian-privacy-principles" data-sf-ec-immutable="">Privacy Fact Sheet 17: Australian Privacy Principles</a>&nbsp;which was released by the Office of the Australian Information Commissioner. If we deny a request for access, we will explain why.<br><br><b>Google Analytics 4 Advertising Features</b><br><b><u></u></b></p><p class="bodycopy-regular">Charter Hall has integrated Google Analytics 4 components into our website. The operator of Google Analytics 4 (GA4) is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, U.S. We have enabled Google Signals which comprises session data from sites and apps that Google associates with users who have signed into their Google accounts, and who have turned on Ads Personalisation. This association of data with these signed-in users is used to enable cross-device reporting, cross-device remarketing, and cross-device conversion export to Ads. <br></p><p class="bodycopy-regular">Google Signals enables:</p><ul><li>Cross Platform reporting</li><li>Remarketing with Google Analytics</li><li>Advertising Reporting Features</li><li>Demographics and Interest Reporting<br></li></ul><p class="bodycopy-regular">GA4 primarily uses a method called "client IDs" instead of relying solely on cookies for user identification and tracking. Client IDs are unique identifiers assigned to each user and are stored in first-party cookies or other persistent storage mechanisms. GA44 uses first-party cookies. The information generated by the cookie about your use of our website is usually &nbsp;transmitted to a Google server in the U.S. and stored there. Google might transfer the personal information collected via this technical procedure to third parties. You can prevent the storage of cookies in reference to the &lsquo;Users and application of our website&rsquo; section above. A cookie already set by GA4 can also be deleted at any time via the internet browser or other software programs. GA4 also employs the &lsquo;Insights&rsquo; feature to leverage machine learning algorithms to identify significant changes in user behaviour, conversion rates, engagement and other metrics, and provides automated alerts, recommendations and forecasts based on that data. The following link provides a further explanation of GA4: <a href="https://marketingplatform.google.com/about/">https://marketingplatform.google.com/about/.</a><br><br><b>Other website tracking services</b><br><br>Below is a non-exhaustive list of the other website tracking services employed by Charter Hall:</p><ul class="bodycopy-regular"><li>Microsoft Clarity</li><li>Taboola</li><li>The Trade Desk</li><li>DoubleClick</li><li>Yahoo Web Analytics/Dot</li><li>Hotjar</li><li>Bing Universal Event Tracking</li><li>LinkedIn Insights</li><li>StackAdapt</li><li>Click Cease</li><li>MediaMath</li></ul><p class="bodycopy-regular"><b>Specific rights for European Union (EU) residents</b><br>You may have additional rights around privacy if you are an EU citizen. Some of these rights will only apply in very limited circumstances.</p><ul class="bodycopy-regular"><li>You can ask us to confirm if we are using or holding your personal information.</li><li>You can ask us to delete your personal information. This right applies only on limited circumstances and will not usually apply where it remains necessary for is to use your information for the purposes for which it was collected, we are required by law to retain your information or your information is relevant to a legal dispute.</li><li>You can ask us to help you move your personal information to other companies, where this is technically possible and only if we have collected and used your data via automatic means.</li><li>You have the right to be informed about any protections that we have in in place where we are transferring your data overseas.</li></ul><p class="bodycopy-regular"><b>Specific rights for California Consumer (CC) residents</b><br>You may have additional rights around privacy if you are a Californian (U.S.) resident, under the Californian Consumer Privacy Act (CCPA) 2018. Some of these rights will only apply in very limited circumstances.</p><ul class="bodycopy-regular"><li>You can ask us to confirm what personal information has been collected about you and how it&rsquo;s used and shared.</li><li>You can ask us to delete your personal information. This right applies only on limited circumstances and will not usually apply where it remains necessary for is to use your information for the purposes for which it was collected, we are required by law to retain your information, or your information is relevant to a legal dispute.</li><li>You have the right to opt-out of the sale of your personal information.</li><li>You have the right to non-discrimination for exercising your CCPA rights.</li></ul><p class="bodycopy-regular"><b>Find out more</b><br>Please contact our Privacy Officer&nbsp; if you would like to know more about the Privacy Act, or if you would like more information about the way we use personal information.&nbsp;<br><br><b>Complaints</b><br>If you feel we have breached your privacy, or if you wish to make a complaint about the way we have handled your personal information, please contact our Privacy Officer using the contact details set out below.&nbsp;<br><br>We will investigate your complaint and contact you to advise the outcome once we have completed our investigation. If you are not happy with how your complaint has been resolved, you may apply to the Office of the Australian Information Commissioner (OAIC) to have the complaint heard and determined.&nbsp;</p>&nbsp;</div>
+</div>
+<div class="spacer medium"></div>
+
+<div class="component-contact ">
+    <div class=container>
+        <div class=row>
+            <div class="col-12 col-md-12 col-lg-4 contact-heading">
+                <h3 class="contact-heading-title">Contact</h3>
+                <p class="contact-heading-description"></p>
+            </div>
+            <div class="col-12 col-md-12 offset-lg-1 col-lg-7 contact-content">
+                    <div class="contact-item">
+                        <div class="image">
+                            <div class=avatar>
+                                <img loading="lazy" src=/_assets/images/avatar_blue.png alt="Privacy Officer">
+                            </div>
+                        </div>
+                        <div class="text">
+                            <div class=personal>
+                                <h4 class=name>Privacy Officer</h4>
+                                    <p class="position small standard">Enquiries</p>
+                            </div>
+                            <div class=details>
+                                <ul class="contact-detail">
+                                        <li class=phone>
+                                            <a class="textlink" href="tel:+61 2 8651 9000">
+                                                <img loading="lazy" src=/_assets/svg/phone_transparent.svg alt=phone>+61 2 8651 9000
+                                            </a>
+                                        </li>
+                                                                            <li class=email>
+                                            <a class="textlink" href="mailto:privacy@charterhall.com.au">
+                                                <img loading="lazy" src=/_assets/svg/mail_transparent.svg alt=email>Contact via email
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class=component-layout>
+    <div class=container>
+        <div class=row>
+            <div id="body_C024_Col00" class="sf_colsIn col-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="spacer medium"></div>
+            </div>
+        </div>
+    </div>
+</div>
+ <div> <div class="component-footer"> <div class="wrapper"> <div class="background"> <div class="container"> <div class="row"> <div class="logo-col col-sm-12 col-md-4 col-lg-5 col-xl-5"> <a class="logo" href="/"> <img loading="lazy" class="inject-me" id="icon" data-src=/_assets/svg/charterhall-logo-blue.svg> </a> <div class="social"> <div class="nav"> <h4>
+                                    We're here to help.
+                                </h4> <div class="content-block"> <a class="round dark cta" data-style-val="style1" href="/contact-us">Contact us</a> </div> </div> </div> </div> <div class="col-sm-12 col-md-8 col-lg-7 col-xl-7"> <div class="row"> <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4"> <div class="nav-folderized"> <div class="nav"> <h5 class="footer-title-dropdown">
+                                                    Investor centre
+                                                            <svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.57031 12.1429L3.4285 6.99896L8.57031 1.85715" stroke="#2A6EBB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> </svg> </h5> <div class="dropdown-item list"> <div class="link"> <a class="rollborder-link" href="/investor-centre/new-to-investing"><span>
+New to investing</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/investor-centre/financial-advisers/overview"><span>
+Financial advisors</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/investor-centre/unlisted-direct-property-funds/unlisted-direct-property-funds"> <span>
+Direct funds                                                                                            </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/investor-centre/view-all-listed-funds"> <span>
+Listed funds                                                                                            </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/investor-centre/all-wholesale-funds"> <span>
+Wholesale funds                                                                                            </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> </div> </div> </div> <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4"> <div class="nav-folderized"> <div class="nav"> <h5 class="footer-title-dropdown">
+                                                    Property solutions
+                                                            <svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.57031 12.1429L3.4285 6.99896L8.57031 1.85715" stroke="#2A6EBB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> </svg> </h5> <div class="dropdown-item list"> <div class="link"> <a class="rollborder-link" href="/property-solutions/industrial-logistics"><span>
+Industrial &amp; Logistics                                                                                </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/property-solutions/industrial-logistics/active-partnerships"> <span>
+Active partnerships                                                                                            </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/property-solutions/office"><span>
+Office                                                                                </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/property-solutions/retail/overview"> <span>
+Retail                                                                                            </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/property-solutions/social-infrastructure/overview"><span>
+Social Infrastructure</span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> </div> </div> </div> <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4"> <div class="nav-folderized"> <div class="nav"> <h5 class="footer-title-dropdown">
+                                                    Why Charter Hall
+                                                            <svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.57031 12.1429L3.4285 6.99896L8.57031 1.85715" stroke="#2A6EBB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> </svg> </h5> <div class="dropdown-item list"> <div class="link"> <a class="rollborder-link" href="/why-charter-hall/people-and-values/About-Us"> <span>
+About us                                                                                            </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/why-charter-hall/people-and-values/what-we-do"> <span>
+What we do                                                                                            </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/sustainability"> <span>
+Sustainability                                                                                            </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/why-charter-hall/leadership"> <span>
+Leadership team                                                                                            </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> <div class="link"> <a class="rollborder-link" href="/why-charter-hall/board-of-directors"> <span>
+Board of Directors                                                                                             </span> <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.42871 11.1429L6.57053 5.99896L1.42871 0.85714" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> </a> </div> </div> </div> </div> </div> <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4"> </div> <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4"> </div> <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4"> </div> <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4"> </div> </div> </div> </div> </div> </div> </div> <div class="copyright-wrapper"> <div class="container"> <div class="row"> <div class="col-12"> <div class="copyright">  <ul> <li> <p>&#169; Charter Hall Group, 2026.</p> </li> <li> <a class="rollover-link" target=_self href="/terms-of-use"><span>Terms of Use</span></a> </li> <li> <a class="rollover-link" target=_self href="/privacy-policy"><span>Privacy Policy</span></a> </li> <li> <a class="rollover-link" target=_self href="/complaints-guide"><span>Complaints Guide</span></a> </li> </ul> </div> <div class="social-block"> <div class="social-item"> <a class="social" href=https://www.linkedin.com/company/charter-hall
+                                target=_blank> <img loading="lazy" class=inject-me id=icon data-src=/_assets/svg/linkedin_footer_new.svg
+                                        src=/_assets/svg/linkedin_footer_new.svg> </a> </div> <div class="social-item"> <a class="social" href=https://www.youtube.com/channel/UChb4XB4nYcN18j4RmMfyUjQ
+                                target=_blank> <img loading="lazy" class=inject-me id=icon data-src=/_assets/svg/youtube_footer_new.svg
+                                        src=/_assets/svg/youtube_footer_new.svg> </a> </div> </div> </div> </div> </div> </div> </div> </div>  </div> <script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box.min.js?v=LTEzODM5Mjc4NDI%3d" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box-datalayer.js?v=LTE5NTMyNDkzOQ%3d%3d" type="text/javascript"></script> <script src="/_assets/js/index.js?v=2a34e6ad54de3f67ff1c2e45eeea57ec" type="text/javascript"></script> <script>
+        // OOTB search box - autocomplete width issue
+        (function () {
+            window.addEventListener('DOMContentLoaded', function () {
+                if (jQuery !== undefined && jQuery.ui !== undefined) {
+                    jQuery.ui.autocomplete.prototype._resizeMenu = function () {
+                        var ul = this.menu.element;
+                        ul.outerWidth(this.element.outerWidth());
+                    }
+                }
+            });
+        })();
+        // body theme
+        (function () {
+            var el = document.getElementById('page-theme');
+            if (el !== null) {
+                document.body.classList.add(el.value);
+            }
+        })();
+        // tab content
+        (function () {
+            var tabs = [
+                {
+                    "content": "#content1",
+                    "tab": '[for="tab1"]'
+                },
+                {
+                    "content": "#content2",
+                    "tab": '[for="tab2"]'
+                },
+                {
+                    "content": "#content3",
+                    "tab": '[for="tab3"]'
+                },
+                {
+                    "content": "#content4",
+                    "tab": '[for="tab4"]'
+                },
+                {
+                    "content": "#content5",
+                    "tab": '[for="tab5"]'
+                }
+            ];
+            var tabContents = document.querySelectorAll('.component-tabbed-content');
+            var firstTabContent = null;
+            for (var i = 0; i < tabContents.length; i++) {
+                var item = tabContents[i];
+                var firstTabVisited = false
+                tabs.forEach(function (o, _idx) {
+                    var content = item.querySelector(o.content + " .sf_colsIn");
+                    var tab = item.querySelector(o.tab);
+                    if (content !== null && content.innerText.trim() === "") {
+                        if (tab !== null) {
+                            tab.style.display = "none";
+                            return
+                        }
+                    } else {
+                        if(!firstTabVisited) {
+                            firstTabContent = tab
+                            tab.click()
+                            firstTabVisited = true
+                        }
+                    }
+                });
+            }
+            if(firstTabContent) {
+                firstTabContent.click()
+
+                setTimeout(() => {
+                    firstTabContent.click()
+                }, 500)
+            }
+            
+        })();
+    </script> <script>
+        // tab content
+        (function () {
+            if (typeof firstTabContent !== 'undefined' && firstTabContent) {
+                firstTabContent.click()
+            }
+        })();
+    </script> </body> </html>

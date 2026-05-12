@@ -1,0 +1,501 @@
+Global Privacy Notice
+COCHLEAR GLOBAL PRIVACY NOTICE
+We recognise the trust individuals place in us when they provide their personal information to us, and our responsibility to protect that information.  This Privacy Notice covers how Cochlear Limited and/or any of its affiliated companies (“Cochlear”, “we”, “us” or “our”) handle personal information when you interact with us, in your capacity as a candidate, recipient, carer, volunteer, healthcare professional, distributor, visitor, research participant, job candidate or other person with a business relationship with us.
+The Cochlear company in your country, or the Cochlear company that provides you with assistance, is the data controller of your personal information.
+What’s new in this notice
+We’ve updated our Privacy Notice to reflect developments in our products and services and to make it easier for you to understand how we handle your personal information. These changes are effective immediately. Here’s a summary of what’s changed in different sections:
+“Collection of information”: we have updated some definitions, in particular
+Health data
+, to outline the types of data that may be collected. For European Union based users of Cochlear connected products and related services we have included information relating to the
+European Data Act
+.
+"Purposes of using information": we have provided a more detailed explanation of why personal information is used in
+Enable the use of products and services, Profiling, Security
+and clarified how
+De-identified
+data may be used.
+“Products and services”: we have included products and services that may be used by a healthcare professional when providing service and support to recipients that involves personal information being processed.
+“Your rights”: we have included rights which you may exercise when available in your country.
+Collection of information
+Purposes of using information
+Sharing of information
+Storing of information
+Security
+Children’s information
+Your rights
+Cochlear Products, Apps and Services
+COLLECTION OF PERSONAL INFORMATION
+In order to provide you with products and services, we collect different types of personal information about you as described below. You are not required to provide personal information to us, but in some circumstances, we might not be able to provide our products and services to you without your personal information.
+Contact information:
+name and contact details, including postal address, email address, social media details and phone number.
+Account and login information:
+to create, maintain and provide you with access to your account, including username, email address and password.
+Information about your use of Cochlear products and services:
+which Cochlear products and services you are using, how the products and services are used, including device serial number, your account number, model and hardware version.
+Information from your computer/mobile device:
+when you use our products and services, we may receive data about the computer system or device you are using and analytical data, such as your Internet Protocol (IP) address, operating system type, web browser type and version, app version, app logs and errors encountered. If you access our products and services using a mobile device such as a smartphone or tablet, the collected information may also include, where permitted, the unique device identifier, advertising identifier, geo-location, and other similar mobile device data.
+Analytics, troubleshooting, diagnostics and crash reporting:
+when you access our products and services, data may be collected to enable performance monitoring and technical support.
+Demographic information and interests:
+your demographic or behavioural characteristics, including your date of birth, age or age range, sex (gender), geographic location (e.g., postcode/zip code/country of residence) and information about your personal hearing journey from Cochlear Community forums or other services.
+Health data:
+health information we receive directly from you or your healthcare professional before, during and after surgery, including through the use of our products and services. The information received may include your contact information, surgical session data, implantation and fitting details including implant and sound processor serial numbers, fitting record, hearing usage data (data logs), troubleshooting/diagnostics data, Remote Checks and device settings.
+Recorded media:
+photographs, videos and/or audio recordings of you which may be captured through interviews, attending Cochlear-related events, or visiting our facilities, including closed-circuit television (CCTV) recordings.
+Payment and financial information:
+information collected when you make a purchase, such as your payment method details and insurance information.
+Customer service interactions:
+information shared with our customer service teams (via telephone, online or through any “contact us” features), your customer service and purchase history, and any information that you voluntarily share with us about the experience of using our products, apps and services (e.g., market research and consumer feedback).
+User-generated content:
+content that you create and then share with us via third-party social networks, when using messaging apps (e.g., WhatsApp) or chat bots, or by uploading it to one of our websites or apps. With your permission, we may publish user-generated content as part of third-party social networking or website community and user engagement.
+Third party social network information:
+information that you share publicly on a third-party social network or information that is part of your profile on a third-party social network (e.g. Facebook) and that you allow the third-party social network to share with us. Examples include your basic account information (e.g., name, email address, gender, birthday, current city, profile picture, user ID, list of friends, etc.). We receive this information (or parts of it) when you download or interact with a Cochlear web application on a third-party social network, when you use a social networking feature that is integrated within a Cochlear site or when you interact with us through a third-party social network. Social media platforms collect personal information about you through your use of their platforms and via cookies and similar technologies. To learn more about how your information from a third-party social network is obtained by Cochlear, or to opt-out of sharing such information, please visit the website of the relevant third-party social network.
+For healthcare professionals:
+information about healthcare professionals (e.g., surgeon, clinician, audiologist or administrative staff at a healthcare organisation), your medical specialty and related clinic/hospital, your clinical and medical interests, your training records and your involvement with and use of Cochlear products and services.
+Personal information from third parties:
+we may acquire and combine data from third-party providers (such as from healthcare providers and social media platforms) to supplement the personal information we collect.
+Job Candidates:
+employment information collected during our recruitment processes e.g., resume details including employment history, skills, education, certifications, social media links and background checks.
+Biometric data:
+at certain facilities, we collect biometric data for the purpose of securing access, subject to local legal requirements.
+Further information:
+about how your personal information may be collected and used is available:
+Cookies and similar technologies, click
+here
+.
+Cochlear’s products and services.
+European Union based users of Cochlear products and services:
+Product Data:
+This is data generated through the use of cochlear implants and sound processors. It includes data that is collected or produced by these products during their operation e.g., data logs.
+Service Data:
+This is data generated related to services provided through the use of or in connection with products and services e.g., data logs about the product usage such as time device is in use and noise environments; connected device(s) if any (e.g., smart-watch); app errors; mobile device information (model, iOS version); type of sound processor; and timestamp of access token requests.
+Product Data and Service Data are subject to this Notice as far as they are related to identified or identifiable individuals. Non-personal Product and Service Data is outside the scope of this Notice.  Information about data subject to the European Data Act is available
+here.
+PURPOSES
+Cochlear uses personal information for the purposes described below.
+Purpose of using personal information
+Legal grounds
+(where applicable)
+Applicable products and services
+Creation and use of your account:
+(i) identify you within our internal systems, (ii) provide you with access to products and services (iii) enable us to maintain your information in a single account (iv) authentication.
+With your consent (where required), or legitimate interest
+Cochlear Account
+Cochlear Professional Account
+Cochlear Apps
+Cochlear Networking
+Cochlear Link
+Nucleus SmartNav
+myCochlear Professional
+Remote Check
+Remote Assist
+Online store
+Web portal
+Websites
+Cochlear learning platform
+Registration of devices, warranty and records:
+:(i) keep and maintain records relating to our medical devices and to track warranty periods, (ii) maintain a distribution record and device history record of Cochlear products (iii) maintain a record of medical queries and/or complaints relating to our products and services.
+Fulfilling contractual obligations, or regulatory obligations
+Cochlear Account
+Cochlear Professional Account
+Nucleus SmartNav
+Cochlear Link
+Cochlear Apps
+myCochlear Professional
+Marketing:
+(i) enable our marketing and promotional efforts (ii) managing events (iii) measuring the effectiveness of advertising campaigns (iv) inviting you to participate in surveys and provide feedback to us (v) providing you with offers and information related to our products and services, which we believe will be of interest to you.
+With your consent (where required), or legitimate interest
+Cochlear Account
+Cochlear Professional Account
+Cochlear Networking
+Personalisation:
+(i) analyse your preferences to understand what information you might be interested in receiving (ii) to better understand your personal hearing journey and/or your experience with hearing devices to evaluate how Cochlear can best support and communicate with you (iii) to provide you with targeted advertising and content (iv) to improve and personalise your experience on our websites and apps.
+With your consent (where required), or legitimate interest
+Cochlear Account
+Cochlear Professional Account
+Cochlear Apps
+Cochlear Networking
+Online store
+Web portal
+Websites
+Customer Service, support and notification:
+(i) provide full support for service and repairs, including programming sound processors (ii) communicate with you to provide support you request (iii) keep track of our interactions and to allow you to access relevant products and services (iv) respond to queries and requests for information about our products and services (v) provide you with service-related notifications such as alerts, warranty expirations, delivery notifications and Remote Check reminders.
+Legitimate interest, or fulfilling contractual obligations, or regulatory obligations
+Cochlear Account
+Cochlear Professional Account
+Cochlear Apps
+Cochlear Networking
+Cochlear Link
+Nucleus SmartNav
+myCochlear Professional
+Remote Check
+Remote Assist
+Online store
+Web portal
+Cochlear learning platform
+Enable the use of products and services:
+(i) transfer or share data between healthcare organisations, recipients and Cochlear (ii) store recipient data for recipients or on behalf of healthcare organisations (iii) provide technical support and fix functional issues (iv) authenticate an individual prior to accessing a product or service (where required) (v) provide notifications to recipients or healthcare professionals (vi) enable communication between recipients and healthcare professionals (vii) provide support to recipients and healthcare professionals (viii) associate or register recipient’s devices (ix) associate recipients and healthcare professionals to their respective healthcare organisations.
+With your consent (where required), or legitimate interest, or fulfilling contractual obligations, or regulatory obligations
+Cochlear Account
+Cochlear Professional Account
+Cochlear Apps
+Cochlear Link
+Nucleus SmartNav
+myCochlear Professional
+Remote Check
+Remote Assist
+Product and service innovation, development and improvement:
+(i) improve our products and services, and develop new products and services (ii) analyse product performance and service reliability (iii) improve the content, functionality and usability of our websites and apps (iv) develop and use algorithms for our products and services.
+With your consent (where required), or legitimate interest or legitimate interests and either public health or scientific research
+Cochlear Account
+Cochlear Professional Account
+Cochlear Apps
+Cochlear Networking
+Cochlear Link
+Nucleus SmartNav
+myCochlear Professional
+Remote Check
+Remote Assist
+Online store
+Web portal
+Websites
+Cochlear learning platform
+Scientific research:
+(i) develop insights which lead to improved patient care, better treatment options, and enhanced public health outcomes (ii) improve our products and services (iii) support clinical study design and clinical trials (iv) analytics.
+With your consent (where required), or legitimate interests, or legitimate interests and either public health, or scientific research
+Cochlear Account
+Cochlear Professional Account
+Cochlear Apps
+Cochlear Link
+Nucleus SmartNav
+myCochlear Professional
+Remote Check
+Remote Assist
+Data from third parties
+Profiling:
+(i) analyse data about our customers (e.g. candidates, recipients, and professionals) to create descriptions of different customer segments (ii) understand behaviours, preferences, and needs, to improve customer experience, target products and services more effectively, and personalise marketing to increase engagement, without automated decision-making.
+With your consent (where required), or legitimate interests
+Cochlear Account
+Cochlear Professional Account
+Cochlear Apps
+Cochlear Networking
+Cochlear Link
+Nucleus SmartNav
+myCochlear Professional
+Remote Check
+Remote Assist
+Online store
+Web portal
+Websites
+Cochlear learning platform
+Post-market surveillance or Clinical follow-up:
+monitor our medical devices post-implantation as required under applicable medical devices regulations.
+Regulatory obligations
+Cochlear Account
+Cochlear Apps
+Nucleus SmartNav
+myCochlear Professional
+Analytics:
+(i) analyse device usage e.g., screens, sound processor usage metrics, diagnostics, and completed Remote Checks (ii) demographic and statistical purposes to better understand our recipients and candidates (iii) understand product and service adoption (iv) understand product and service performance.
+With your consent (where required), or fulfilling contractual obligations, or legitimate interest, or scientific research purposes
+Cochlear Account
+Cochlear Professional Account
+Cochlear Apps
+Cochlear Networking
+Cochlear Link
+Nucleus SmartNav
+myCochlear Professional
+Remote Check
+Remote Assist
+Online store
+Web portal
+Websites
+Cochlear learning platform
+Third party social networks:
+(i) understand our social media audience demographics, preferences and interests (ii) analyse trends and profiles (iii) conduct market surveys through our social media platforms to enhance, modify, personalise and improve our services (iv) process and respond to requests and enquiries (v) recommend products and services we think will be of interest to you via targeted online advertising.
+With your consent (where required), or legitimate interest
+Cochlear Account
+Websites
+Cochlear Networking:
+(i) better understand your personal hearing journey and/or your experience with hearing devices (ii) evaluate how Cochlear can best support and communicate with you (iii) determine which market research activities and events will be most relevant to you (iv) better understand our customers and potential customers for demographic and statistical purposes.
+With your consent (where required), or legitimate interest
+Cochlear Account
+Cochlear Networking
+Job candidates:
+for the purposes of the hiring process and, for selected candidates, as pre-contractual information. The recruitment process includes: (i) assessing a job candidate’s suitability for one or more roles (ii) maintaining a record of representations made to Cochlear at the time of application (iii) helping us assess the effectiveness of our job applicant screening tools and processes (iv) ensuring we understand the candidates’ background, strengths, and opportunities for development. The personal information of individuals who provide references for job candidates is processed for the purpose of completing an applicant’s work reference checks.
+With your consent (where required), or legitimate interest, or fulfilling contractual obligations
+Cochlear Job Applicants
+Security:
+maintain and monitor IT system security and physical security.
+Legitimate interest, or fulfilling contractual obligations, or regulatory obligations, or with your consent where required by law
+Cochlear Account
+Cochlear Professional Account
+Cochlear Apps
+Cochlear Networking
+Cochlear Link
+Nucleus SmartNav
+myCochlear Professional
+Remote Check
+Remote Assist
+Online store
+Web portal
+Websites
+Cochlear learning platform
+Access to facilities
+Training for volunteers and healthcare professionals:
+(i) provide access to training via Cochlear learning platforms (ii) report on the status and completion of training (iii) recommend training (iv) reporting and analytics.
+With your consent (where required), or regulatory obligations
+Cochlear Account
+Cochlear Professional Account
+Cochlear learning platform
+Analytics for healthcare professionals:
+(i) analyse product and service adoption and usage (ii) analyse sales volumes (iii) conduct marketing analytics (iv) generate market insights for an individual healthcare professional and for a healthcare organisation.
+Legitimate interest
+Cochlear Professional Account
+Cochlear Apps
+Cochlear Link
+Nucleus SmartNav
+myCochlear Professional
+Remote Check
+Remote Assist
+Online store
+Cochlear learning platform
+Other purposes:
+in accordance with applicable laws, for other general business purposes (e.g., conducting internal or market research, processing orders and payments) and for the management and operation of our communications.
+Legitimate interest, or fulfilling contractual obligations
+Use of de-identified data.
+Cochlear may use or otherwise process personal information after it has been de-identified for:
+(i) product and service innovation, development and improvement;
+(ii) scientific research;
+(iii) analytics.
+Cochlear uses de-identification methods which align with applicable requirements (e.g., for the US we de-identify in accordance with HIPAA Safe Harbour or expert opinion, in the European Union we pseudonymise in accordance with GDPR). When we de-identify data, we transform or remove personal information to ensure lawful processing and to prevent re-identification of an individual.
+Analytics may include, website and app analytics, including the type of mobile device and operating system used, how often features within our app are used, and de-identified trackers to assess for example the type of noise environment and the general geographic region in which the app is used. The analytics/diagnostics feature in a Cochlear App will collect and send de-identified data to Cochlear about how the App is used and any errors it encounters. This data helps Cochlear continually improve its apps and other Cochlear products and services.
+To ensure the security of your personal information Cochlear implements technical, organisational and administrative measures to (i) de-identify your personal information, (ii) receive de-identified information from third parties and (iii) prevent de-identified data from being associated with your identity.
+Where practical and compatible with the purposes described in this Notice or communicated to you, we protect your personal information and privacy by aggregating or anonymising your personal information. In this case, after aggregation or anonymisation, the data will no longer be classified as personal information nor its use subject to this Notice.
+SHARING OF PERSONAL INFORMATION
+Within the Cochlear Group.
+We may share personal information between members of the Cochlear Group, which may be located in your country of residence and abroad. Each member of the Cochlear Group may use and share your personal information as set out in this Notice.
+With service providers.
+We share personal information with organisations that provide services to, for or on behalf of Cochlear in your country of residence or abroad. For example, our distributors, consultants, IT service providers and companies that provide website support services or that help us market our products and services.  In some cases, you may provide your personal information directly to these third-party service providers (e.g., when you make a purchase in our online store and enter your payment method information), and the data may or may not be shared by that third party with Cochlear.  Our service providers are required by contract to protect the confidentiality and security of the personal information we share with them and to use it only to provide services to us, and in compliance with applicable laws.
+With third parties.
+We share your personal information with third parties only with your consent (where required) or based on a lawful ground or obligation to do so.
+Except in situations where you have given your consent, we do not license or sell your personal information to third-party companies for their own marketing or other purposes. The identity of any such third-party company will be disclosed to you at the time we ask for your consent.
+When you visit our websites or use our online services, a third party may collect your personal information over time and across different websites or online services, based on our instructions and for the purpose of providing services to Cochlear as described in our
+Cookies Notice
+.
+With healthcare organisations and professionals.
+We may share your personal information with your healthcare organisation or healthcare professional (clinic, clinician, surgeon, hospital, reimbursement authority) for the following purposes:
+to assess your suitability for our products and services
+to complete and maintain your account record
+to support you or your healthcare professional when using our products and services,
+for other reasons related to treatment, health care operations, or payment/reimbursements, such as when you place an order for an applicable product or service, we may share your personal information with organisations paying for health services on your behalf, e.g., reimbursement authorities and insurance companies
+for scientific research.
+With parents and carers.
+When they have authority to do so, parents or carers may access your personal information.
+Business transactions.
+Your personal information may be transferred to a company that has acquired the stock or assets of a member of the Cochlear Group or one of our operating divisions, for example, as the result of a sale, merger, reorganisation or liquidation. If such a transfer occurs, the acquiring company’s use of your personal information will still be subject to this Notice and the privacy preferences you’ve expressed to us.
+Legal/government requests.
+We may disclose personal information when we, in good faith, believe disclosure is appropriate to:
+comply with the law (or a court order or subpoena)
+comply with lawful requests from authorised third parties, public and governmental authorities subject to these requests being lawful under applicable laws
+prevent or investigate a possible crime, such as fraud or identity theft
+protect the rights, property or safety of the Cochlear Group, our users or others.
+STORING OF PERSONAL INFORMATION
+Where is personal information processed and stored?
+Cochlear is a global company, headquartered in Sydney, Australia. We may process your personal information outside your country of residence for the purposes set out in this Notice.
+We store your personal information in the European Union and Australia, unless the applicable data protection laws require the storage of your personal information in your country.
+Your personal information may be used by authorised personnel in Australia, Malaysia, Panama, UK, European Union, the United States and other countries where Cochlear and its designated service providers are located.
+When we transfer your personal information to other countries, we take reasonable steps to ensure that applicable laws are being followed, that the access to your personal information is limited on a need-to-know basis as per our instructions and that adequate data transfer mechanisms are in place.
+To the extent that personal information is transferred to countries which are not considered as having an adequate level of personal data protection for the purposes of applicable privacy laws, Cochlear will:
+(i) undertake transfer impact assessments, when necessary, and implement supplementary security measures, where required
+(ii) put in place the applicable approved transfer mechanisms
+(iii) rely on your consent, where required by law.
+How long does Cochlear retain personal information?
+Cochlear retains personal information in an identifiable or de-identified form for as long as it is necessary to fulfill the purpose for which it was originally collected or any additional purposes set out in this Notice, or to satisfy our regulatory and legal record keeping obligations. After that, we will either delete the information or anonymise it so that it is no longer associated with you.
+SECURITY
+Measures taken by Cochlear.
+Cochlear has implemented appropriate physical, administrative, technical and organisational measures to help protect personal information from misuse, loss, and unauthorised access or disclosure. Our security measures include appropriate access control, encryption (where appropriate) and regular security assessments.
+Measures we expect you to take.
+It is important that you also play a role in keeping your personal information safe and secure. When signing up for an online account, please choose an account password that would be difficult for others to guess and never reveal your password to anyone else. You are responsible for keeping this password confidential and for any use of your account. If you use a shared or public computer, never choose to have your username, email address or password remembered and make sure to log out of your account every time you leave the computer. You should also use any privacy settings or controls we provide you in our products and services.
+CHILDREN'S INFORMATION
+How does Cochlear address children’s privacy and parents’ rights?
+Our websites and services are intended for general adult audiences, including candidates, recipients, parents or carers and professionals and are not specifically directed toward children.
+Child Accounts and Parental Consent
+Certain Cochlear products and services are accessed via a login which is created with a Cochlear Account. A parent or carer may create a Cochlear Account for their child and during the account creation process and provides consent on behalf of their child. An email address may be used for communications related to a Cochlear Account and date of birth helps us ensure that Child Accounts are only created with the consent of the parent or carer.
+Child Accounts access the same Cochlear products and services available to adults, which will result in personal information, including health information being sent to Cochlear.
+Parents or carers may review, edit, request the deletion, or prevent further collection or use of their children’s personal information by contacting us as described in this Notice.
+YOUR RIGHTS
+How can you access, correct or delete personal information?
+We respect your right to make choices about the personal information we collect, use and share. We take steps to help ensure that your personal information is accurate, complete and current.
+Under the privacy or data protection laws in your country of residence, you may have the following rights in respect of your personal information within Cochlear’s control: the right to request access, correction, revision, or deletion of your personal information. In some circumstances (i) we will not be able to delete your personal information without also deleting your account; and (ii) we may be required to still retain some of your personal information to satisfy our legal or contractual obligations or to satisfy our business needs (where permitted by applicable laws).
+In certain countries and under certain circumstances depending upon your country, you may also have additional rights to directly or through a nominated representative to (i) data portability (ii) opt out of sale or sharing of your personal information (iii) limit the use of your personal information or to object to the use of your personal information (iv) request compensation for damages for any harms caused by the unlawful processing of your personal information (v) complain to the competent data protection authority (vi) object to profiling for direct marketing purposes (vii) ask us for a copy of the relevant data transfer clauses (viii) not receive discriminatory treatment. The rights set out above do not limit any other rights that you may have under privacy or data protection laws in your country of residence. If you want to opt out of Cochlear sharing of your personal information with your health care provider or others, we’ll inform you about the consequences of your choice to allow you to make an informed decision.
+Where you have consented to the processing of your personal information, you have the right to withdraw your consent at any time.
+You can unsubscribe from promotional or marketing communications via the unsubscribe links within the communications or by contacting us.
+To help protect your privacy and security, we take reasonable steps to verify your identity before providing you with access to your details or correcting, amending or deleting our records. Any identification information provided to us will only be processed in accordance with, and to the extent permitted, by applicable laws.
+Whilst we hope that we can satisfy any queries you may have about the way we process your personal information, if you do have unresolved concerns, you also have the right to complain to the relevant data protection authority in your country. If you do not know the contact details of this authority in your country, contact
+.
+For US
+Cochlear’s collection, use, or disclosure of Protected Health Information as defined by the US Health Insurance Portability and Accountability Act (“HIPAA”) is also subject to our
+HIPAA Notice of Privacy Practices
+.
+For China
+In addition to this Notice, the
+China Privacy Annex
+applies when Cochlear is subject to the Personal Information Protection Law of the People's Republic of China.
+COCHLEAR PRODUCTS AND SERVICES
+Not all products and services are available in all countries and within a country not all products and services are used by all healthcare organisations.
+Cochlear Product or Service
+Use of personal information
+Cochlear™ Account
+(for candidates, recipients and carers)
+Creating a Cochlear Account enables you to establish a profile and login to use Cochlear products and services.
+When you create a Cochlear Account, we ask for your contact information and account login information. We use this information to create your account and maintain your account, associating your Cochlear devices and other information we receive from you or about you from third parties such as your healthcare professionals during your hearing journey as described in this Notice.
+Cochlear™ Professional Account
+(for healthcare professionals)
+Creating a Professional Account enables you to establish a profile and login to use Cochlear products and services available in your healthcare organisation. A Professional Account ensures that only authorised healthcare professionals can access our products and services and their respective recipients’ data.
+When you create a Professional Account, we ask for your contact information and account login information. We use this information to create and maintain your account, including associating information about you and your interactions with Cochlear and use of our products and services as described in this Notice.
+myCochlear™ Professional
+(used by healthcare professionals)
+Using myCochlear Professional, healthcare professionals can support recipients with creating their Cochlear Account, register recipient’s devices and raise service requests.
+Using myCochlear Professional, healthcare professionals can manage, request and authorise a Cochlear Professional Account for another healthcare professional from the same healthcare organisation.
+When a healthcare professional initiates the Cochlear Account creation process for a recipient (or carer) the healthcare professional provides the recipient’s name, date of birth and email (and carer’s details) to Cochlear. We use this information to create the recipient’s (and carer’s) account, associate them to the healthcare organisation and send a communication to the recipient (or carer) to enable them to complete the account creation process.
+A healthcare professional may then register the recipient’s devices and create service requests for recipients. This information will be added to the recipient’s account and enables Cochlear to provide service and support to the recipient.
+When a healthcare professional initiates the Cochlear Professional Account creation process for another healthcare professional in their healthcare organisation, the name of the new healthcare professional, profession and email are provided to Cochlear. We use this information to create the healthcare professional’s account, associate them to the healthcare organisation and send a communication to enable them to complete the account creation process.
+Cochlear Nucleus®, Baha® and Osia® Smart Apps
+(for recipients)
+With the Nucleus, Baha and Osia Smart Apps, you can update your hearing settings directly from a compatible* Apple® or Android™ device.
+The apps let you pair a compatible* sound processor via Bluetooth® with your compatible* smartphone, allowing you to change programs, adjust volume, control streaming accessories and locate a lost or misplaced sound processor.
+* For compatibility information and devices visit
+www.cochlear.com/compatibility
+When you log in to a Smart App with your Cochlear Account, information is sent to Cochlear about your Cochlear devices and smartphone, including device serial numbers.  This information allows Cochlear to validate that an app is being used with approved devices and update your account information.
+You have the option to enable your Smart App to send you alerts about your sound processor(s). This feature can be enabled or disabled in your smartphone’s app notification settings.
+Your device’s GPS and Wi-Fi or cellular network can be used to help you find a lost or misplaced sound processor. A Smart App can store the last location where a sound processor paired with the app was used.  Your location data is not sent to Cochlear. You can enable or disable this feature within your smartphone’s settings for location services.
+Additional information for Baha Smart App
+Baha Smart App allows you to register your sound processor with Cochlear and create an association with your fitting clinic to activate your device warranty and enable service and support to be provided.
+Hearing Tracker
+When you pair your sound processor with Baha Smart App your processor usage data (data logs) are collected and stored on the app and metrics may be displayed via Hearing Tracker insights on the app.
+Additional information for Nucleus Smart App
+Hearing Tracker
+When you pair your sound processor with Nucleus Smart App, you will be asked if you wish to enable Data Sync. By enabling Data Sync your device usage data (data logs) are synchronised to the Cochlear Cloud and metrics are displayed via Hearing Tracker insights on your App.
+If Data Sync is not enabled, device usage data is only stored on your app and will not be synchronised.
+Hearing Tracker is enabled on an individual recipient basis. If a parent or carer enables Data Sync for a recipient, Hearing Tracker will be enabled on all smartphones using the app with that recipient’s device, meaning data logs will be collected and sent to Cochlear. Similarly, if one parent or carer disables Data Sync, Hearing Tracker is disabled on all other smartphones.
+Bimodal Control in the Nucleus Smart App
+The Nucleus Smart App allows you to pair and manage a compatible ReSound hearing aid and Cochlear Sound Processor*. Bimodal control allows you to adjust volume or change programs for both of your hearing devices from a single app.  Cochlear does not process any personal information about your hearing aid.
+* For compatibility information and devices visit
+www.cochlear.com/compatibility
+Nucleus SmartNav
+(used by healthcare professionals)
+Surgeons use Nucleus SmartNav app during the surgical procedure to provide intraoperative insights to support the navigation of electrode insertion during surgery. The use of Nucleus SmartNav is at the discretion of the healthcare organisation.
+When a healthcare professional uses Nucleus SmartNav a record is created and stored locally on the app for each surgical session which includes recipient details (first name, last name, date of birth and gender) as well as the measurements taken during the surgical procedure.
+A healthcare professional may transfer a recipient’s intraoperative data to the fitting clinician to provide the clinician with information to support programming the recipient’s hearing device(s). This information is associated with the recipient’s record in the clinics local instance of Custom Sound Pro fitting software (in the recipient’s CDX file). Custom Sound Pro is Cochlear’s proprietary software used in-clinic by the clinician for programming Cochlear recipient’s hearing devices.
+A healthcare professional may register a recipient’s implant with Cochlear for warranty activation, service and support.
+Session data may be collected by Cochlear and processed so that it becomes de-identified data which may be used for the purposes described above under “Use of de-identified data”.
+Cochlear™ Link
+(Nucleus recipients only)
+(used by healthcare organisations)
+Cochlear Link (used with Custom Sound Pro fitting software in-clinic) furthers recipient treatment and facilitates the continuum of care by healthcare organisations. The use of Cochlear Link is at the discretion of the healthcare organisation.
+When a healthcare organisation uses Cochlear Link with Custom Sound Pro fitting software, the recipient’s fitting file (CDX file) is synchronised between the healthcare organisation and Cochlear Cloud to enable (i) service and support for recipients (ii) MAPs (recipient’s unique device settings) to be loaded onto recipient's sound processors as part of the repair/return process or device upgrades (iii) recipient's devices to be associated or registered automatically to their Cochlear Account.
+Cochlear™ Remote Assist
+(used by healthcare professional and recipient)
+Remote Assist enables recipients to have live, pre-scheduled virtual appointments with their healthcare professional without visiting the clinic.
+The use of Remote Assist is at the discretion of the healthcare organisation and use by recipients is optional.
+To use Remote Assist, a recipient must be associated to the healthcare organisation, use the compatible Smart App, be logged in with their Cochlear Account and have paired their processor with the app.
+Cochlear collects information to identify when a Remote Assist session is initiated and to ensure the security of communication between the healthcare professional and recipient.
+Vonage, the communications service provider records your IP address for customer support purposes and retains this information for seven days. Vonage processes IP addresses in accordance with the
+Vonage Privacy Policy
+. We recommend that you read this before using Remote Assist.
+Cochlear™ Remote Check
+(Nucleus recipients only)
+(used by healthcare professional and recipient)
+Remote Check is a virtual assessment tool to allow recipients to complete a range of hearing health checks at a convenient time and place, without visiting the clinic.
+The use of Remote Check is at the discretion of the healthcare organisation and use by recipients is optional.
+To use Remote Check, a recipient must be associated to the healthcare organisation, use the compatible Smart App, be logged in with their Cochlear Account and have paired their processor with the app.
+If you use Remote Check, you must provide permission via the App to share your data with your healthcare organisation and enable Data Sync, so your hearing usage data (data logs) can be used as part of the Remote Check (this means you will also have access to Hearing Tracker).
+Cochlear processes the results of your Remote Check, including your data logs and shares this with your healthcare professional for their review. Results include hearing test data, photographs of your implant site, questionnaire data, data logs and diagnostic data from your implant and sound processor.
+Cochlear Networking - Cochlear Conversations
+Cochlear Conversations is an invitation-only program offered by Cochlear to recipients, their parents and carers in select markets, to conduct market research and collect feedback from Cochlear customers to help inform and improve Cochlear products, apps and services.
+You can leave Cochlear Conversations at any time by contacting your local Cochlear office.
+Invitations are sent through different channels, depending on the contact information you have provided to us (e.g., email, mail, phone and text).
+Your feedback or responses to survey and market research will be used to help improve our products and services. Your responses will be collected and reported on at an aggregate level, and we will always notify you beforehand if survey responses will be associated with you.
+Cochlear Networking - Cochlear Events
+Cochlear regularly conducts or supports a variety of events, including conferences (Events).
+Your biographical and health information, such as your age or date of birth, your level and duration of hearing loss, and your use of hearing devices are processed for Events intended for candidates and/or recipients for Cochlear's hearing solutions and/or services: (i) to ensure that we are providing relevant content and speakers for the Event (ii) to better understand our customers and potential customers for demographic and statistical purposes (iii) to identify opportunities for you to participate in other Cochlear activities, such as the Cochlear Volunteer Program.
+At some Events, we take recorded media to use in our communications and materials within Cochlear, as well as on our external websites, social media accounts, and print publications. We will always ask you before using recorded media which features you prominently in focus in an identifiable manner (e.g., a close-up photograph or video), however we may use recorded media without your consent if you are merely in the background, out-of-focus, or otherwise not readily prominent or identifiable.
+If you agree to a separate talent/media release, we may share and use Recorded Media featuring your image and/or voice via social media, website, print or as otherwise specified in such a media release.
+In limited circumstances, we may assist with booking travel and/or accommodation for Events. In these instances, we will use travel details, including any national identity documents or payment details, only as necessary to complete the booking.
+Cochlear Networking - Cochlear Family
+Cochlear Family is a free-to-join membership program offered by Cochlear to recipients in select markets. It supports recipients, their families and carers as they learn to use and live with their device.
+Members of Cochlear Family receive communications from Cochlear, which may include information about new products and services, special offers, invitations to events and surveys.
+You can leave Cochlear Family at any time by contacting your local Cochlear office.
+Communications are delivered through different channels, depending on the contact information you have provided (e.g., email, mail, phone and text).
+We use your personal and health information to offer you the benefits of the Program membership, as described in the
+Cochlear Family Terms
+and to tailor membership communications, including marketing, to your interests.
+Cochlear Networking - Cochlear Volunteers
+Our Cochlear Volunteer Program is a team of volunteers made up of thousands of people and their loved ones around the world who hear with a Cochlear solution. They all share one thing in common – a passion for helping others on their hearing journey.
+Our Cochlear Volunteers share their stories, offer support and provide information to anyone considering or getting a Cochlear hearing solution, including parents, carers, family members or friends. We use this information, along with other biographical information, to identify opportunities for recipients, parents and carers to participate in the Cochlear Volunteer Program.
+Personal history as a Cochlear implant recipient or carer, as well as interests, skills and availability will be used to identify opportunities for you to participate in the Cochlear Volunteer Program, including connecting you with individuals interested in learning more about your personal experience with hearing loss or as a loved one to a cochlear implant recipient.
+Cochlear learning platform e.g., Cochlear Academy (for Professionals)
+Creating a Cochlear Professional Account on a Cochlear learning platform enables you to login and use a variety of Cochlear online learning, classroom-based learning, webinars, reading, videos and links to websites.
+Your training records will be available to you and others based upon your choice from the sharing options in the learning platform.
+Cochlear Job Applicants and Referees
+Personal information collected
+When you apply to work at or for Cochlear, you are asked to provide information, such as contact details, a detailed employment and educational history (e.g., resume and/or academic transcripts), proof of work eligibility (e.g., passport and/or visa), a description of your skills (e.g., foreign languages) and referees’ contact details (if any).
+Personal information about you may also be collected from others through:
+Interview feedback
+Reference checks
+Background checks
+Web searches such as via Google or LinkedIn
+Psychometric assessments
+CCTV footage (where CCTV is installed) at our offices or facilities for security purposes
+The specific information requested from you and collected from others may vary by country.
+Sharing with third parties
+Beyond our use of service providers acting on Cochlear’s behalf, personal information collected in the job application process will not be shared with third parties without your consent.  When you provide personal or employment references as part of your job application, Cochlear may contact those individuals and disclose to them that you have applied to work at Cochlear.
+We may share your personal information with the referees you designate or other third parties, and we can collect from them additional personal information about you for the purpose of completing the background check process. Likewise, if you are a referee we may collect and use your personal information.
+Retention period
+In the event that your application to work at or for Cochlear is successful, we will retain your job applicant data for the duration of your employment/engagement at Cochlear. If you leave Cochlear’s employment/engagement, your job applicant data will be deleted in accordance with Cochlear’s internal data retention and deletion standards.
+Cochlear deletes job applicant data within 12 months of an unsuccessful application, unless you have asked Cochlear to keep the application data on file to consider you for future roles, in which case the data will be deleted within 5 years of the last time you were considered for a role.
+CONTACT US
+How can you raise questions or concerns about this Notice or Cochlear’s Privacy Practices?
+Where required, Cochlear has appointed a Data Protection Officer who can be contacted via email at
+. If you wish to exercise any of your rights, or raise any questions or concerns about this Notice or how Cochlear handles your personal information, please contact us via email at or by contacting the
+; or by contacting the
+Cochlear entity
+in your country or your closest regional Cochlear office:
+Cochlear Limited
+Attn: Global Privacy Office
+1 University Avenue
+Macquarie University
+NSW 2019
+Australia
++61 2 9428 6555
+Cochlear Americas
+Attn: Privacy Office
+10350 Park Meadows Drive
+Lone Tree, CO 80124
+United States of America
++1 800 523 5798
+Cochlear AG
+Attn: Privacy Office
+Peter Merian-Weg 4
+4052 Basel BS
+Switzerland
++41 61 205 82 04
+Cochlear Latinoamérica SA
+Attn: Privacy Office
+International Business Park
+Building 3835, Office 403,
+Panama Pacifico
+Panama
++507 830 6220
+UPDATES TO THIS NOTICE
+We periodically update this Notice for a variety of reasons, including changes in laws, regulations and our business practices.  We encourage you to regularly review this Notice to make sure that you are aware of what is new.
+Publication date:
+09/09/2025
+D1425384 V16 2025-07
+Cochlear, Hear now. And always, Baha, Kanso, Nucleus, Osia, the elliptical logo, and marks bearing an ® or ™ symbol are either trademarks or registered trademarks of the Cochlear group of companies (unless otherwise noted).
+The
+Bluetooth®
+word mark and logos are registered trademarks owned by the Bluetooth SIG, Inc. and any use of such marks by Cochlear Limited is under licence.
+Apple is a trademark of Apple Inc., registered in the U.S. and other countries.
+Android is a trademark of Google LLC.

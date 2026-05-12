@@ -1,0 +1,81 @@
+Privacy Policy | BetMakers Technology Group | BetMakers
+Privacy Policy
+Privacy Policy
+BetMakers Technology Group Ltd
+ACN 164 521 395
+Privacy Policy
+_________________________________________________________________________
+1. We respect your privacy
+1.1 BetMakers respects your right to privacy and is committed to safeguarding the privacy of our customers, our Client’s customers and website visitors. We adhere to the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) (Privacy Act). You consent to us collecting, holding, using and disclosing your personal information in accordance with this Privacy Policy.
+1.2 In this Privacy Policy:
+(a) “BetMakers”, “we”, “us” and “our” means BetMakers Technology Group Ltd ACN 164 521 395 and each of its related bodies corporate in Australia.  
+(b) “personal information” means any information or an opinion about an identified individual or an individual who can be reasonably identified from the information or opinion.
+(c) “website” means https://betmakers.com/and any other related website or application owned by BetMakers.  
+2. How we collect personal information
+2.1 We collect personal information about you and your interactions with us:
+(a) directly from you when you use any of our products or services, contact us, or otherwise visit our website; and
+(b) indirectly via our online platform and technology solutions which we manage on behalf of wagering operator clients as part of our services (Clients).  
+2.2 As a provider of software and technology platform services (Platform Services) and expert trading and customer liability management services (Managed Trading Services) to our Clients, we have access to personal information which is collected and held by our Clients on a secure platform managed by BetMakers. We collect personal information from our Clients’ end user customers to the extent that it is reasonably necessary for us to host and maintain the Client’s online wagering platform and/or provide Managed Trading Services. Any such personal information which is collected via our Clients’ online platform, will be treated as confidential and held by BetMakers in accordance with this Privacy Policy.  
+3. Types of information collected
+3.1 We may collect and hold personal information that can identify you and is relevant to providing our services directly to you as a BetMakers customer, or to providing Platform Services and Managed Trading Services to our Clients (for your benefit). In particular, we may collect:
+(a) identity data including your name, age and date of birth and username and password (on our Client’s online wagering platform) or similar identifier;
+(b) contact data including your contact details such as your billing and delivery address, email address and telephone number (provided upon signing up with our Client’s online wagering platform);
+(c) financial data including banking, credit card, or other payment information;
+(d) transaction and betting data including details about betting transactions made by you on the Client’s online wagering platform;
+(e) usage data including information about how you use our Clients’ online wagering platform, products and services.
+3.2 If you are a visitor to our website, the information that we collect about you will likely be limited to identity data that you disclose to us, technical data, usage data and marketing and communication data.
+3.3 If you submit enquiries, either via the website or otherwise, we may collect basic personal information such as your name, phone number, and email address to enable us to send information, provide updates and process your service request.
+4. Use of your personal information
+4.1 We may use personal information collected from you to:
+(a) establish and maintain an online wagering account with our Clients (via the Client’s online wagering platform);
+(b) provide our services (including Platform Services and Managed Trading Services to our Clients) and enable our Clients to manage their relationship with you;
+(c) make you aware of new and additional products, services and opportunities available to you (where you are a direct customer of BetMakers);
+(d) market and advertise our Client’s online wagering platform (on behalf of our Clients);
+(e) improve our products and services and better understand your needs;
+(f) contact you, for example, to provide customer support and respond to your queries or complaints (directly, or via our Clients); or
+(g) comply with our legal obligations, court proceedings and assist government and law enforcement agencies or regulators.
+5. Disclosure of your personal information
+5.1 We may disclose your personal information to the following third parties for the relevant purposes set out above:
+(a) our employees, contractors, officers, or agents insofar as reasonably necessary for the primary purpose;
+(b) our professional advisers who provide consultancy, banking, legal, insurance, and accounting services, as necessary;
+(c) our third party service providers who provide technical infrastructure and software to facilitate the provision of our services, such as Amazon AWS and Google; and
+(d) internal third parties within the BetMakers Group (as necessary for performing our services).
+5.2 We may from time to time need to disclose personal information to comply with a legal requirement, such as a law, regulation, court order, subpoena, warrant, in the course of a legal proceeding or in response to a law enforcement agency request.
+5.3 If there is a change of control in our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible at law our user databases, together with any personal information contained in those databases. This information may be disclosed to a potential purchaser under an agreement to maintain confidentiality. We would seek to only disclose personal information in good faith and where required by any of the above circumstances.
+5.4 By providing us with personal information, you consent to the terms of this Privacy Policy and the types of disclosure covered by this Privacy Policy. We require all third parties to respect the security of your personal information and to treat it in accordance with applicable laws. We do not allow our third-party service providers to use your personal information for their own purposes and only permit to process your personal information for specified purposes and in accordance with our instructions. For clarity, we will not disclose customer data (including personal information) from our Clients to any other wagering operators Clients to whom BetMakers provides Managed Trading Services.  
+6. Quality of your personal information
+6.1 You are responsible for the quality, accuracy, and integrity of any information provided in your account details or use of our services. If the personal information you provide to us or our Clients is incomplete or inaccurate, we may be unable to provide you with the services you are seeking.
+7. Security of your personal information
+7.1 BetMakers is committed to ensuring that the information you provide to us is secure. BetMakers has achieved ISO 27001 certification and has information security management systems in place which are compliant with the ISO 27001 standard. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure. These processes and systems include:
+(a) the use of identity and access management technologies to control access to systems on which information is processed and stored;
+(b) requiring all employees to comply with internal information security policies and keep information secure, including BetMakers’ Data Breach Response Plan;
+(c) requiring all employees to complete training about information security; and
+(d) monitoring and regularly reviewing our practise against our own policies and against industry best practice.
+7.2 The transmission and exchange of information is carried out at your own risk. We cannot guarantee the security of any personal information that you transmit to us or receive from us.
+8. Disclosure of personal information overseas
+8.1 We may share your personal information within the BetMakers Group, including to our support services team located in Sri Lanka for the purpose of providing our services. This may involve transferring your personal information outside of Australia, and you acknowledge and consent to such transfer.
+8.2 Whenever we transfer your personal information out of Australia to our affiliate entities in the BetMakers Group, we will take reasonable steps to ensure the overseas affiliate entity will uphold the same privacy standards expected of BetMakers in Australia.
+8.3 In addition, BetMakers and its third party service providers use cloud services to provide its products and services and as such, its server may be located in Australia or overseas.  You acknowledge, agree and understand that your personal information will be transferred and stored in Australia and other foreign jurisdictions which the cloud services may direct the data to be stored. You consent for us to transfer your information into foreign jurisdictions for the purposes of providing you with our products and services.
+9. Use of Cookies
+9.1 We may from time to time use cookies on our website. Cookies are very small files which a website uses to identify you when you come back to the site and to store details about your use of the site. Cookies are not malicious programs that access or damage your computer. Most web browsers automatically accept cookies but you can choose to reject cookies by changing your browser settings. However, this may prevent you from taking full advantage of our website. Our website may from time to time use cookies to analyses website traffic and help us provide a better website visitor experience. In addition, cookies may be used to serve relevant ads to website visitors through third party services such as Google Adwords. These ads may appear on this website or other websites you visit.
+10. Use of third party sites
+10.1 Our website may from time to time have links to other websites not owned or controlled by us. These links are meant for your convenience only. Links to third party websites do not constitute sponsorship or endorsement or approval of these websites. Please be aware that BetMakers is not responsible for the privacy practises of other such websites. We encourage our users to be aware, when they leave our website, to read the privacy statements of each and every website that collects personal information.
+11. Data retention
+11.1 We will only retain your personal information for as long as reasonably necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. Typically, all personal information will be retained for so long as the active account linked to that personal information remains operational.
+11.2 We may retain your personal information for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.
+11.3 To determine the appropriate retention period for personal information, we consider the amount, nature and sensitivity of the personal information, the potential risk of harm from unauthorised use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
+11.4 Where we anonymise your personal information (so that it can no longer be associated with you) for research or statistical purposes, we may use this information indefinitely without further notice to you.
+12. Access to your personal information
+12.1 You may request details of personal information that we hold about you in accordance with the provisions of the Privacy Act. A small administrative fee may be payable for the provision of information. If you would like a copy of the information, which we hold about you or believe that any information we hold on you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact our privacy officer at:
+(a) Email: ​martin.tripp@betmakers.com
+(b) Mail: ​Level 4, 189 Flinders Lane, Melbourne, VIC 3000, Australia
+12.2 We reserve the right to refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
+13. Children’s privacy
+13.1 Our services (and the services of our Clients) are not directed to children under the age of 18.  We do not knowingly collect personal information from children under 18 without parental consent.  If you are under 18 years of age, then please do not use or access our services at any time.  If we learn that personal information has been collected on our services from persons under 18 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information.
+14. Complaints about privacy
+14.1 If you have any complaints about our privacy practices, please feel free to send in details of your complaints to the contact details set out above.  
+14.2 We take complaints very seriously and will respond shortly after receiving written notice of your complaint.
+14.3 If after this process you are not satisfied with our response, where you are located in Australia you can submit a complaint to the Office of the Information Commissioner. To lodge a complaint, visit the ‘Complaints’ section of the Information Commissioner’s website, located at www.oaic.gov.au/privacy/privacy-complaints to obtain the relevant complaint forms, or contact the Information Commissioner’s office.
+15. Changes to Privacy Policy
+15.1 We continually strive to implement new technologies and processes to better protect you, your privacy and your use of our services. As a result, we may change this Privacy Policy in the future. We may modify this Privacy Policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on our website or notice board.
+Last modified 21st August 2025

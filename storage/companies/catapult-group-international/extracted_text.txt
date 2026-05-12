@@ -1,0 +1,122 @@
+Privacy Policy - Catapult
+Privacy Policy
+For further information see our
+standard terms.
+1. Introduction – Who Are We?
+(a) Catapult Group International Ltd and its related bodies corporate as that term is defined in the Australian Corporations Act 2001 (Cth) (together, we, us, or our) respect your privacy. We are committed to complying with the privacy principles contained in the applicable privacy laws and regulations for the places where we do business.
+(b) This privacy policy (the policy) sets out the manner in which we collect, hold, process, use and disclose your personal and sensitive information.
+(c) This policy is version 210916.
+2. What do “personal information” and “sensitive information” mean?
+Personal information is any information about you that identifies you or by which your identity may be reasonably determined. Information about your health is categorized as sensitive information.
+3. What type of information do we collect or process, and what is our basis for collecting or processing that information?
+The type of information we collect or process from or about you will depend on how you or your organization interacts with us. Generally, we collect or process the following types of information, along with the corresponding basis for collection:
+(a) for our Catapult workers, internal contractors, and potential candidates to work for us, we collect personal details, including name, contact details, and information provided to us and collected by us that is relevant and necessary for our engagement with those people and in order to fulfill our obligations;
+(b) for athletes who use our Catapult One products and services (Catapult One), we collect your account details, payment instructions where relevant, and sports performance data during times when the device is activated, including location, speed, and distance covered. Our ability to collect, process, and use this information for the reasons stated in this document is a key part of the functionality of Catapult One. Without it, Catapult One cannot be considered fully functional. In addition, we will be obtaining your specific consent to use the information in this manner;
+(c) for athletes who make a payment on our website or on our mobile applications for Catapult One, you will provide payment information such as your payment card or other payment details via a third-party payment gateway compliant with Payment Card Industry Data Security Standards (PCI DSS) (a Third Party Payment Provider). We will only ever use PCI DSS compliant Third Party Payment Providers. Please note that your payment information will be processed subject to the terms of service and privacy terms of such Third Party Payment Provider. We do not store your credit card information;
+(d) for athletes whose information is processed in our OpenField and GPSports product, we only collect information from individual athletes as our customers allow it, and those customers determine what information we process from their athletes. Generally, this information about you is related to your training and gameday performance data, including location, speed, acceleration, distance covered, heart rate, and player load. The information is controlled by our customers/clubs, collected by them through the use of our products, and is processed and used by us as you see below. We use and process the information in this fashion as it is necessary to perform our obligations under contracts with our customers/clubs. In addition, where our customers/clubs have obtained athlete consent for our use and processing of the information in this fashion, that consent also becomes part of our basis for our use and processing of this information;
+(e) for our Athlete Management System (AMS), we only collect information as you and our customers allow it or as you allow through your consent, and those customers determine what information we process from their athletes. Generally, this information about you is related to your sports performance, health data, wellness data, and club related activity information. The information is controlled by our customers/clubs, collected by them through the use of our products, and is processed and used by us as you see below. We use and process the information in this fashion as it is necessary to perform our part of our contracts with our customers/clubs. In addition, we will be obtaining your specific consent to use the information in this manner;
+(f) for our customers and their internal (non-athlete) representatives and personnel, we only collect the following information: name and contact details and information related to our professional work with you. Our legal basis for the collection, use, and processing of this information is that we collect, use, and process the information types listed above to perform our legitimate business of maintaining necessary employee, contractor, and applicant information for the operations of our company; and
+(g) for our suppliers, consultants, and contractors, we only collect the following information: name and contact details, account and payments arrangements, and information related to and reasonably required for our professional work with you. Our legal basis for the collection, use, and processing of this information is that we collect, use, and process the information listed above to perform our legitimate business of maintaining necessary employee, contractor, and applicant information for the operations of our company. Further details are set out in our Data Processing Addendum (the DPA). The DPA applies in the circumstances where we are acting as a data processor on behalf of a data controller. The DPA is available at catapultsports.com/standard-terms, and is hereby incorporated by reference into, and form part of, this policy as if set out in full herein.
+4. How do we collect your personal information?
+4.1 General
+(a) When you directly use our Catapult One or AMS products or services, you or someone on your behalf can enter information about yourself into our software.
+(b) When our customers use our OpenField and GPSports products, certain information about you is processed in our software.
+(c) We will always try to collect your personal information directly from you where possible.
+(d) Regardless of how your personal information is collected – whether it is directly from you, from your interactions with us, or from third parties – we will deal with your personal information in accordance with this policy.
+4.2 Cookies
+(a) Our websites use “cookies” to enable you to sign in to our services and to help personalize your online experience.
+(b) These technologies and the information collected about you may be used to track your activity across multiple devices. Where appropriate, we use cookies to store your preferences and other information on your computer and mobile devices to save you time by eliminating the need to enter the same information repeatedly.
+(c) For full details, please see our Cookies Policy at catapultsports.com/cookies which contains important information about how we use cookies on our website and which is hereby incorporated by reference into, and forms part of, this policy as if set out in full herein.
+5. How do we use your information? Generally, we use your information for each of the following:
+5.1 Providing and maintaining the services that relate to this product or service
+(a) Using the information we collect, we are able to deliver the services to you and comply with our obligations under our contract with you (for Catapult One) and our contracts with our customers (for OpenField and AMS). Examples of such use includes:
+(i) for Catapult One, we need to use your information to enable you to track your training and gameday activity, to give you customer support, and for performance reporting within the Catapult One community;
+(ii) for GPSports and OpenField, we use the information for complying with our contractual obligations as product and service providers to your club or team, for product development and enhancement. We may also use the information for commercial applications and enhancement of other Catapult products and services, where that use is consistent with the applicable contractual terms;
+(iii) for AMS we use the information for complying with our contractual obligations as product and service providers to your club or team, and for product development and enhancement.
+5.2 Improving and developing the services
+(a) We use the information we collect to improve the services and to develop new ones. For example, we use the information to troubleshoot and protect against errors; perform data analysis and testing; conduct research and surveys; and develop new features and services.
+5.3 Communicating with you
+(a) We use your information when needed to send you notifications and respond to you when you contact us. For Catapult One, we also use your information to promote new features or products that we think you would be interested in. You can control marketing communications and most service notifications by using your notification preferences in account settings or via the “Unsubscribe” link in an email. We use your information to provide customer service and assistance to you or our customers.
+5.4 Promoting safety and security
+(a) We use the information we collect to improve and maintain the safety and security of our products and services, our users, and other parties. For example, we may use the information to authenticate users, protect against fraud and abuse, respond to a legal request or claim, conduct audits, and enforce our terms and policies.
+5.5 Internal business purposes
+(a) We use the information that we collect from our workers, internal contractors, potential candidates, customers and their internal (non-athlete) representatives and personnel, suppliers, consultants, and contractors for our internal business purposes, including (as applicable) to better operate our business and to communicate with customers and prospects.
+6. Will we disclose your personal information to others?
+6.1 General
+(a) For Catapult One, performance data of players in the Catapult One community is shared through features in the software which enable comparisons and rankings of player performance.
+(b) For GPSports and OpenField, we may disclose the information to comply with our contractual obligations as product and service providers to your club or team, and for product development and enhancement. We may also share information for commercial applications and enhancement of other Catapult products and services, where that use is consistent with the applicable contractual terms.
+(c) For AMS, we limit disclosures of your information to others within our company with a need to know in order to comply with our contractual obligations as product and service providers to your club or team.
+(d) For other individuals (such as employees, customer employees, suppliers, etc.), we do not send your information outside of our company for any reason which is not necessary to further run the operations of the company. We limit these disclosures to those we believe absolutely necessary and limit the scope of such disclosures where feasible.
+(e) Sometimes we will need to disclose your personal information to other people or entities that we collaborate with to provide our products or services (third parties) for the purposes set out in this policy.
+(f) We will do our best to ensure that we do not disclose your personal information to a third party if you have not approved it. Your consent to the disclosure of your personal information may be given expressly, or it may be implied from your interaction with us.
+(g) In addition to the reasons above, we will need to disclose your personal information where the law requires us to do so.
+6.2 Sub-processors
+(a) We use certain sub-processors to perform various functions in the general running of our business and to assist in providing services to you.
+(b) A sub-processor is a third-party service provider or data processor engaged by us who has, or potentially will have, access to, or processes, your personal data.
+(c) A list of our sub-processors, the purposes for which they process personal data, and a list of our products and services to which these sub-processors apply is set out in the DPA.
+7. Will we disclose your personal information to people or entities outside of your region?
+(a) A list of our sub-processors and their locations is set out in the DPA.
+(b) If your information is processed within our OpenField, AMS or GPSports products or services, we will not transfer your personal information to any person or organisation outside your region, without your permission. Your information will only be accessible to persons outside your region as follows:
+(i) for our Catapult One, GPsports, OpenField, and AMS products and services, we may disclose personal information outside your region for the purposes of customer service and product support where that disclosure is consistent with the applicable contractual terms. For example, information from Catapult One products and services may be disclosed in different regions as part of performance reporting within the Catapult One community.
+(ii) for our Catapult workers, internal contractors, and potential candidates, we will generally disclose personal information outside your region for the purposes of personnel evaluation and general business operations.
+(iii) for our customers and their internal (non-athlete) representatives and personnel, we only allow access to your information outside of your region for reasonable and permitted purposes related to our work with you.
+(iv) for our suppliers, consultants and contractors we only allow access to your information outside of your region for reasonable and permitted purposes related to our work with you.
+(c) If we do allow access to or transferal of your information to persons outside your region we will take steps designed to ensure that such persons handle your personal information with the same level of protection as set out in this policy and in a manner compliant with applicable laws and regulation.
+8. How do we keep your personal information secure?
+(a) We will take all reasonable precautions designed to safeguard personal information that is processed or used by us from loss, misuse, unauthorized access, modification, or disclosure.
+(b) To ensure that your personal information is secure, we employ several means, including contracting with reputable data storage service providers which comply with relevant regulatory requirements. Further, we have and apply an Information Security Policy which includes a range of measures including:
+(i) external and internal premises security;
+(ii) the requirement for all employees to enter into a confidentiality agreement;
+(iii) computer firewall protection;
+(iv) restricted access to personal files and information;
+(v) computer maintenance to prevent unauthorized access;
+(vi) document handling and shredding procedures with respect to personal information; and
+(vii) limiting access to your personal information.
+9. What are your rights?
+9.1 Accessing and exporting information
+(a) For Catapult One, by logging into your account, you (or your team manager) can access your personal information.
+(b) For all other individuals: you may access the personal information used, collected or processed by us by contacting us by email at privacy@catapultsports.com
+9.2 Editing and deleting information
+(a) For Catapult One, your settings let you change and delete your personal information.
+(b) For all other individuals: you may request the editing or deletion of your information by contacting us by email at privacy@catapultsports.com
+(c) We may also preserve information for legal reasons or to prevent harm.
+(d) If you consider the use of your information by us to be inappropriate, you may object to that use by contacting us by email at privacy@catapultsports.com
+9.3 Further rights
+(a) If you live in a Designated Country (European Economic Area, United Kingdom, and Switzerland), in certain circumstances, you can object to our processing of your information where we do so on the legal basis of legitimate interests.
+(b) You have a general right to object to the use of your information for direct marketing purposes.
+(c) In addition to the various controls that we offer, if you live in a Designated Country, you can seek to restrict our processing of your information in certain circumstances. Please note that you can always delete your account at any time.
+(d) To exercise your rights under (a)-(c) above, please contact us by email at privacy@catapultsports.com
+(e) If you need further assistance regarding your rights, please contact our Data Protection Officer by email at privacy@catapultsports.com, and we will consider your request in accordance with applicable laws.
+9.4 Direct marketing
+(a) We may use your personal information, such as your address or contact details, to provide you with information about services that we offer. We process your personal information, on the legal basis of legitimate interests, to provide you with information about the services that we offer.
+(b) If at any time you do not wish to receive any information about these services, please feel free to contact us, and we will not send you any further material.
+(c) We will not transfer or allow access to your personal information to any other entity or person for the purposes of allowing them to market their products or services to you.
+9.5 Our policies for children
+(a) We appreciate the importance of taking additional measures to protect children’s privacy.
+(b) Persons under the applicable minimum age in the jurisdiction where that person lives are not permitted to create accounts unless their parent or legal guardian has consented in accordance with applicable law. If you are purchasing Catapult One for use by someone who is under the applicable minimum age in the jurisdiction where that person lives, you agree and acknowledge that appropriate parental or legal guardian consent has been given by virtue of your purchase of Catapult One and your acceptance of the Order and General Terms and Conditions
+(which incorporates this policy by reference). Further, if we become aware that we have collected the personal information of a child under the relevant minimum age without parental or legal guardian consent, we will at our election either attempt to secure parent or legal guardian consent or delete the information as soon as possible. Parents or legal guardians who believe that their child has submitted personal information to us and would like to have it deleted may contact us by email at privacy@catapultsports.com
+10. For how long do we store your information?
+(a) We store information for the duration of, and in accordance with, any applicable contractual term and retain or delete that data as we are required to do under applicable privacy rules.
+(b) We may create and retain materials, data and insights created by or on behalf of us and which are based on, or created or derived from, your information (Derivative Materials) and use, or permit third parties to use, such Derivative Materials, but only to the extent that such Derivative Materials do not incorporate your information in a form that could reasonably identify you. Such use may include, for example, research, commercialization, and product and service development.
+11. Changes to this privacy policy
+(a) We monitor regulations, policies and procedures to ensure that we are up-to-date with changes in the law and market practices. As a result, we may amend this policy from time to time. Please review this policy occasionally. If we make changes to this policy, the updated policy will be posted on our website in a timely manner and, if we make material changes, we will provide a prominent notice. If you, as an individual consumer of Catapult One object to any of the amendments to this policy, you should stop using the product and services and delete your account by contacting us by email at privacy@catapult.com
+12. How do you access the personal information we store?
+(a) Should you wish to access your personal information, contact us by email at privacy@catapultsports.com.
+(b) We will respond to all requests as quickly as is reasonably possible (and within any timelines imposed by applicable laws and regulations).
+13. Complaints about breaches of privacy
+(a) If you believe that we have wrongfully disclosed your personal information or have breached this policy, then you may lodge a complaint with us by writing to: Data Protection Officer Catapult Group International Ltd 75 High Street Prahan VIC 3181, Australia
+(b) Or by email: privacy@catapultsports.com
+(c) If you are not satisfied with the response you receive from us, you can contact the Office of the Australian Information Commissioner by phoning 1300 363 992 or writing to: Office of the Australian Information Commissioner GPO Box 5218 Sydney NSW 2001
+(d) We will respond to you within 30 days of receiving your complaint and outline what we have or will do in response to your complaint, or explaining why we believe there is no breach of this policy or the law.
+14. Links to third party websites and services
+As stated in clause 5.5 of our General Terms and Conditions, we may provide you with access to, or require you to use, content or technology that is used directly or indirectly by us in providing, or required by us to be used by you in using or accessing, products or services (each a Separately Licensed Offering). Some Separately Licensed Offerings
+(such as third-party direct payment gateways, e-commerce platforms, and other payment transaction processors) may require you to leave our website and be redirected to a third-party website or application. In this case, you are no longer governed by this policy. We are not responsible for the privacy practices of third-party websites or applications and encourage you to read their privacy statements.
+15. ANNEXURE 1: APPLIES TO USERS OF AMS IN THE UNITED STATES OF AMERICA
+(a) In the course of performing our contractual obligations and our various corporate functions and activities, we collect some health information from athletes via AMS. In the US, the Health Insurance Portability and Accountability Act (HIPPA) sets out a number of rules that businesses must comply with in relation to the collection of protected health information (PHI). We will comply with the requirements of HIPPA to the extent that they apply to the PHI we collect of athletes in the US.
+(b) We have processes in place to ensure HIPPA compliance, including:
+(i) we have safeguards to protect the privacy of PHI and set limits on the use and disclosure of this information;
+(ii) we provide individuals with the ability to access information about their health and request corrections where appropriate;
+(iii) we have appropriate administrative, physical, and technical safeguards in place to assist in maintaining the confidentiality, integrity, and security of PHI;
+(iv) in the event of the unauthorized acquisition, access, use, or disclosure of PHI that compromises the security or privacy of the PHI, we will make all necessary notifications under HIPPA;
+(v) we have appointed a privacy officer and an incident response team; and
+(vi) our employees are adequately trained about the use and disclosure of PHI and how to safeguard it appropriately.
