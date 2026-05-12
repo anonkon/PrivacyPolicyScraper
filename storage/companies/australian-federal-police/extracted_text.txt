@@ -1,0 +1,126 @@
+Privacy | Australian Federal Police
+Skip to main content
+Privacy notice
+Explaining how we collect and handle personal information
+About us
+Disclaimer
+Report a crime
+Website privacy policy
+This policy sets out privacy considerations when visiting our websites or websites that we host.
+We're committed to protecting your privacy and this statement describes privacy consideration relevant to our website.
+We don't collect your personal information purely from your visit to our website. In circumstances where our website collects personal information directly from individuals, the AFP handles this information in accordance with its privacy obligations and privacy policy.
+Please read the information on this page together with the:
+File icon
+AFP Privacy Policy
+(pdf, 408.23 KB)
+File icon
+AFP Privacy Policy
+(docx, 534.62 KB)
+Personal details
+Some online forms on this website can be used to send us personal information necessary for the submitting of reports and processing of certain applications.
+We'll keep information which you send in a secure environment and will use it only for the purpose for which it was submitted.
+For further information on the Internet and security, you should read our
+Disclaimer
+.
+Email addresses
+We'll only record your email address if you send us an email message. The email address you supply will be used only for the purpose for which you've provided it, and won't be disclosed or added to a mailing list without your consent.
+Clickstream data
+When you go to a page or document on one of our websites, the following information may be logged for statistical purposes:
+the date and time at which you accessed each page or document
+the Internet Protocol (IP) address of your computer
+the pages you accessed and documents downloaded
+the type of browser and operating system used
+the number of bytes transmitted and received for each request
+the previous site or page visited
+the name of any search engine and search terms used to get to the page or document
+anonymous cookie information.
+No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency (or other government agency) may exercise a legal authority to inspect the service provider's logs.
+The statistics and log files may be retained indefinitely and used at any time and in any way necessary to prevent security breaches and to ensure the integrity of the information supplied by the AFP.
+Cookies
+We use cookies to improve your experience on our website. A cookie is a piece of data that a site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. The AFP can't and doesn't use cookies to identify individuals or collect any personal information about individuals.
+You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, some pages in the site may not work properly.
+Cookies are either persistent or session based. Persistent cookies are stored on your computer, contain an expiry date, and may be used to track your browsing behaviour upon return to the issuing site. Session cookies are short-lived, are used only during a browsing session, and expire when you quit your browser.
+Our site uses “first party” persistent and session based cookies which allow us to better analyse user navigation trends and provide additional information to our web analysis software. A “first party” cookie collects analytics data (for example the links you clicked on our website and how long you spent on each webpage) to help us understand user engagement.
+Information collected by third-party software vendors
+In addition to web server logs, our websites use online tools, provided by third-party software vendors, to measure website interaction and use. These tools help us improve the efficiency and usability of our websites. We may use this information to:
+find out when our systems are not working as expected
+understand user needs and which online services and applications are hard to use
+learn where we can streamline services
+cater for different types of browsers and devices
+develop relevant support information to help you interact with us
+improve our ability to assist stakeholders when they contact us for help
+understand when a user has visited our website by clicking on a paid advertisement (for example, a recruitment notice) and on which site this advertisement was viewed by the user
+target relevant advertising to you via your browser when you visit partner websites such as Facebook and LinkedIn.
+Third-party software vendors we use include:
+Monsido
+Google Analytics
+Google Tag Manager
+Google APIs (such as search console and reCAPTCHA)
+Google Translate
+Hotjar
+social media sites (such as Twitter, Facebook, LinkedIn and YouTube).
+For information on how these third-party vendors handle your personal information, please review their respective privacy policies.
+We also use
+Swift Digital
+, an online marketing automation platform and service provider to send and manage emails and events. In using this service, Swift Digital may collect personal information which may contain email addresses and other information to be used for the distribution of emails and other important information (for example, media releases).
+All information collected using Swift Digital is the property of the AFP and is never shared or used by third parties. Swift Digital maintains your data in compliance with Australia's
+SPAM Act 2003
+and Australian Privacy Provisions.
+All data is maintained within Australia and never leaves Australian jurisdiction. Where stipulated data is encrypted in transit using SSL connections. All data stored via Swift Digital is encrypted at rest.
+Get in touch
+If you have any enquiries regarding the privacy of this site please contact us by completing our enquiry form.
+NOTE:
+This form is for general website enquiries only.
+Do not use it to check the status of a police check or report a crime.
+To check on a police check fill out our
+Police check status form
+To report a Commonwealth crime fill out our
+Report a crime form
+Type of enquiry
+- Select -
+General website enquiry
+Report broken link
+Report inaccessible content
+Suggest enhancement
+Technical fault
+Website privacy enquiry
+Details
+Your contact details
+First name
+Last name
+Email
+Phone number
+Please check the box below so we know you're a human.
+Submit
+Was this page helpful?
+Yes
+No
+Do not
+use this form for reporting or complaints, please use the right form:
+Report a crime
+Make a complaint
+Or
+contact the AFP
+In an emergency, call
+000
+and ask for police.
+If you need help in a non-urgent situation, call the Police Assistance Line on
+131 444
+to be connected to your local police.
+This form is for page feedback only and is used to improve our website, feedback will
+NOT
+be responded to or forwarded.
+How can we improve this page? (optional)
+Email address
+Please check the box below so we know you're a human.
+Error message
+Your message has been blocked.
+Submit
+Reset
+Menu
+Keywords
+Search site
+Content type
+All
+News Centre
+Content

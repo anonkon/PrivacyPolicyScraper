@@ -1,0 +1,266 @@
+Privacy Policy | Aussie Broadband
+Skip to main content
+Select property type
+View products and information about the property type that best suits your needs.
+Personal
+(current)
+Business
+Enterprise and Gov
+Wholesale
+Search
+Close
+Privacy Policy
+Privacy and Credit Reporting Policy
+Your privacy is important to us. Review our Privacy Policy to see how we protect your information.
+Download as a PDF
+(opens in new tab)
+Overview
+This Privacy and Credit Reporting Policy applies to Aussie Broadband Limited (ACN 132 090 192) and its subsidiaries and businesses who have not adopted their own privacy policy. This means that in addition to Aussie Broadband Limited, this Privacy and Credit Reporting Policy applies to Over the Wire, Netsip, Digital Sense, Comlinx, Sanity, Access Digital Networks, Faktortel, VPN Solutions and Telarus (
+Aussie
+,
+us
+,
+we
+or
+our
+). It does not apply to Buddy Telco or Symbio Holdings Limited and its subsidiaries, which have their own privacy policies.
+This Privacy and Credit Reporting Policy explains how we are committed to collecting, using, disclosing, storing, handling and protecting your personal information under the applicable privacy laws.
+This Privacy and Credit Reporting Policy applies to all personal information collected through our interactions with you, including through our websites, apps (including the MyAussie® app), platforms, social media, telephone or emails.
+What do we do?
+Aussie Broadband Limited (ACN 132 090 192) and its subsidiaries and businesses provide telecommunications services and IT solutions to both residential customers and businesses of all sizes, including wholesale. This includes internet, phone services, mobile services, business hardware, managed networks, managed security and managed cloud services.
+What is personal information?
+In this Privacy and Credit Reporting Policy, '
+personal information
+' has the meaning set out in applicable privacy laws, including the Privacy Act 1988 (Cth) (as amended or updated from time to time) (Privacy Act). In general terms, personal information is information (whether fact or opinion) about an individual who is identified or reasonably identifiable that information or other information combined in with that information.
+What types of information do we collect?
+Personal information
+The types of personal information we collect about you will depend on the purpose for which the personal information is collected, including the types of products or services you buy from us, how you use them and our general relationship with you. This can include, in the case of:
+Customers buying our Services:
+Information needed to verify you and set up your account, including your name, date of birth, email address, proof of identity, financial information, including billing or mailing address, payment information (including credit or debit card information or bank account details), order details and phone number. For business, enterprise and government clients, your individual relationship or account manager contact information will also be collected;
+Customers using the MyAussie® app:
+Location data
+including the precise or approximate location information from your mobile devices when the MyAussie® app is running in the foreground (app open and on-screen) or background (app open but not on-screen), and transaction information relating to the use of the MyAussie® app, including route details (such as date and time, start and finish locations, distance travelled);
+Usage data
+including access dates and times, app features, pages viewed, browser type, app crashes and other system activity; and
+Device data
+including hardware models, device IP addresses or other unique device identifiers, operating systems and versions, software, advertising identifiers, device motion data and mobile network data;
+Customers using our website:
+Technical information and general analytics about how you use our Website, systems and applications, such as web browser type and browsing preferences, Internet service provider, referring/exit pages, date/time stamps, IP address, time zone and geolocation data, some of which is collected automatically, arising from your use of our websites, systems and/or applications, as well as information about your usage of our website systems and/or applications when browsing;
+Customers using our Services while signed into their Google account:
+Technical information and general analytics as described under the 'Use of Google Analytics' section below;
+Customers who elect to receive news about exclusive offers, promotions, or events:
+Your name, mailing or street address, email address, and telephone number(s);
+Customers who have contacted Aussie to make a complaint, provide feedback, submit an enquiry, request a call-back, or request a product replacement:
+Your name, mailing or street address, email address, and telephone number;
+Customers using the OTWmobile app:
+where enabled in permissions or settings by the user, information contained in mobile phone contact lists for the purposes of facilitating the transmission of calls and messages; where enabled in permissions or settings by the user a hash of email addresses is sent to Gravatar for the display of avatar images (this means that an identification code is assigned to a user’s email address for use by Gravatar, our third party provider of avatar images, for the purposes of Gravatar providing the functionality to display user avatar images);
+Trade credit applicants:
+Information required to assess your credit worthiness, including your credit or business history and any trade referees;
+Prospective employees or contractors:
+Information contained in your application or CV; information recorded during any interview (where permitted by law); credit information obtained through pre-employment checks; government-issued identifiers such as tax file numbers; and
+Corporate suppliers and distributors:
+Mailing or street addresses and individual relationship or account manager contact information including email addresses and business telephone numbers.
+In some circumstances we may ask you to provide us with personal information about other individuals, such as family members or authorised representatives. We need you to obtain the consent of those individuals and provide them with a copy of this Privacy and Credit Reporting Policy before providing their personal information to us.
+Telecommunications information
+Telecommunications Data has the meaning given in section 276(1) of the Telecommunications Act 1997 (Cth) (as amended or updated from time to time). Depending upon the Services you buy from us, we may also collect Telecommunications Data about you including:
+Transaction information
+relating to the use of the MyAussie® app, including route details (such as date and time, start and finish locations, distance travelled), usage data on how customers interact with the MyAussie® app, including access dates and times, app features or pages viewed, browser type, app crashes and other system activity;
+Device data
+on how customers interact with the MyAussie® app, including hardware models, device IP address or other unique device identifiers, operating systems and versions, software, advertising identifiers, device motion data and mobile network data;
+Technical information and general analytics
+such as web browser type and browsing preferences, Internet service provider, referring/exit pages, date/time stamps, IP address, time zone and geolocation data (if applicable), some of which is collected automatically, arising from your use of our websites or platforms, as well as information about your usage of our websites or platforms when browsing.
+Sensitive information
+We may also collect limited sensitive information about you, for example, your criminal history (if applicable for fraud screening purposes), or where we use biometric information (fingerprints or voice recognition) to identify you, or if we are required to collect health information to provide you with a specific product or service. We will obtain your consent before we collect and use sensitive personal information about you, unless otherwise required or permitted by law.
+How do we collect your personal information?
+We collect your personal information directly from you and when you use your services, including when you:
+interact with our websites, apps, platforms or call centre team;
+use our network, products or services;
+sign up to receive news and offers, promotions, or events;
+make inquiries about us or our products or services or otherwise communicate with us by email, by telephone, in person, via a website or otherwise; and
+apply to work with us as an employee or contractor.
+We may also collect personal information about you from sources other than you such as through:
+credit reporting agencies;
+by video surveillance if you attend our premises (your image may be captured by CCTV);
+publicly available information including websites, social media platforms, Internet or telephone directories;
+if you are an applicant for a role with us, from recruiters or referees; and
+our suppliers and business partners.
+Do we use cookies and other tracking technologies?
+We use the following technologies to collect technical information and general analytics:
+cookies, which are data files that are placed on your device and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit
+www.allaboutcookies.org
+;
+log files, which track actions occurring on our Website or MyAussie® app; and
+web beacons, tags, and pixels, which are electronic files used to record information about how you browse our Website or MyAussie® app.
+You may disable your web browser from accepting cookies and other tracking technologies used to collect technical information and general analytics when browsing our Website. If you do so, you can still access our Website, but it may impact your user experience.
+Use of Google Analytics
+In addition to Aussie's cookies, certain third parties may deliver cookies to your device for a variety of reasons. For example, we sometimes use various web analytics tools that help us understand how visitors engage with our websites, including for example, Google Analytics or Google Signals.
+Any third party links or advertising on our websites may also use cookies. You may receive these cookies by clicking on the link to the third party site or advertising. Where you consent to ads personalisation from these third parties, please be aware that we do not control the collection or use of information by these third parties, and these third party cookies or analytics services are not subject to this Privacy and Credit Reporting Policy.
+You should therefore contact these companies directly if you have any questions about their collection and/or use of your information. When linking to any other site, you should always check the relevant website's privacy policy before providing any personal information.
+Can I opt-out of targeted advertising?
+Aussie Broadband utilises tracking pixel links with the following companies, which may lead to targeted advertising on their respective platforms. You may opt-out of targeted advertising from these companies by using the suggested links below:
+Facebook
+Google
+Bing
+Amazon
+The Trade Desk
+Zoominfo
+LinkedIn
+Spotify
+Taboola
+Additionally, you can opt out of some of these services by visiting the
+Digital Advertising Alliance's opt-out portal
+.
+Do you have to give us your personal information?
+If you contact us to make a general enquiry about us or our business, you do not have to identify yourself or provide any personal information. Alternatively, you can also notify us that you wish to deal with us using a pseudonym.
+If we cannot collect personal information about you or if you use a pseudonym, we may not be able to provide you with the products, services or information you require. For example, we will not be able to send you information you have requested if you have not provided us with a valid email address or telephone number. If you do not provide us with relevant billing and payment information, we will not be able to provide services to you.
+How do we use your personal information?
+We use your personal information for purposes collected, including for the purposes of:
+Managing our business and providing our products and services to you
+, including to:
+provide you with the services you have requested;
+verify your identity; and
+bill you for our products and services;
+Improving our services
+, including to:
+enable the proper operation and functionality of our services;
+monitor our network use, quality, and performance, and when operating, maintaining, developing, testing and upgrading our products, systems and infrastructure; and
+use analysis and intelligence techniques to obtain high level insights into usage and location patterns or trends, network performance, demographic trends, and other types of behavioural data monitoring as further outlined in this Privacy and Credit Reporting Policy;
+Compliance with laws
+, including:
+as required and permitted by laws that apply to us, including telecommunications laws and related industry codes and standards;
+to provide access to emergency services where permitted by applicable laws; and
+to assist law enforcement agencies and emergency services;
+Network, Security and Fraud Protection
+, including to:
+prevent, detect and investigate any suspicious, fraudulent, criminal or other malicious (including scams) activity that may cause you, us or others harm, including in relation to our services;
+secure our networks, and inform you of any network security or data breach issues; and
+conduct audits or determine your creditworthiness;
+Direct Marketing
+, including to:
+send you newsletters or direct marketing communications as set out below, unless you have opted out of receiving direct marketing communications; and
+conduct general market research and analysis (Please see our 'Direct Marketing' section below for more information or if you wish to opt out of direct marketing activities); and
+Communication
+, including to:
+communicate with you regarding any of the above, including via electronic messaging such as SMS and email, by mail, by phone or in any other lawful manner; and
+for applicants for roles with us, to communicate with you regarding your application or other vacancies.
+Analytics and Data Aggregation
+We also use your personal information to create aggregated or de-identified information so that we can serve you better, personalise your experience or enhance the services that we offer to you.
+We use technical information and data analytics for the purpose of gauging visitor traffic and trends, and delivering personalised content to you while you are on our websites, and to improve our services.
+Direct marketing
+We may send you direct marketing communications through different channels including mail, SMS, email or third party marketing platforms. We do this to market, promote or update you on offers, promotions or changes relating to products and services that you acquire from us, or that we, our subsidiaries or our business partners, consider may be of interest to you. We may use your personal information to do so for up to 12 months after you cease to acquire products or services from us.
+However, we will not send you direct marketing communications where you have told us that you do
+not
+want to receive these communications. You have the right to opt out of receiving any and all marketing communications from us at any time, by contacting us on the details below, or by using the specific opt-out facilities provided in the relevant direct marketing communication. If you use our online MyAussie® account management portal, you can also directly view and modify your direct marketing preferences via the MyAussie® app settings.
+You cannot opt out of receiving operational emails (e.g., network outages, invoices or emergencies). However, you can set SMS notification times in your MyAussie® portal to either receive operational notifications 24/7 or just between 9am and 9pm.
+You can opt out by:
+phoning
+us on 1300 880 905;
+emailing
+us with the subject line 'Opt-out of direct marketing' at
+[email protected]
+; and/or
+writing
+to us at the below address:
+Direct Marketing Team
+Privacy Aussie Broadband Limited
+PO Box 3351
+Gippsland Mail Centre VIC 3841
+Do we share your personal information with third parties?
+We may need to share your personal information with third parties in connection with the purposes described in this Privacy and Credit Reporting Policy. This may include disclosing your personal information to the following types of third parties:
+our employees, contractors and third party service providers;
+organisations authorised by us to conduct promotional, research and / or marketing services, including managing exclusion from targeted or direct marketing communications;
+if you are a candidate for a role with us, third parties to whom you have authorised us to disclose your information (e.g., referees);
+credit information to Credit Reporting Bodies (as further described below in our 'Credit Reporting Policy' section below);
+to our subsidiaries and businesses for the uses set out in this Privacy and Credit Reporting Policy, and to give you a seamless and personalised experience while interacting with our subsidiaries and businesses;
+any potential third party acquirer of our business or assets, and advisors to that third party; and
+any other person as required or permitted by law.
+We may also disclose your personal information to third parties where:
+you have consented to the disclosure;
+it is required or authorised by law or reasonably necessary for law enforcement or for public safety; or
+it will prevent or lessen a serious and imminent threat to somebody’s life or health.
+Do we disclose your personal information overseas?
+We may disclose your personal information to organisations located outside Australia, including suppliers who may provide products or services connected with our business.
+We use service providers located in New Zealand, the United States (including in California), Singapore, Malaysia, India and the Philippines, which are each subject to laws that apply to the protection of personal information in their respective locations.
+We will take reasonable steps to ensure that any overseas recipient of your personal information handles the information in a manner consistent with applicable Australian privacy laws. For more details about any specific transfer of your personal information, please contact us using the details provided in the 'How to contact us’ section below.
+How do we store your personal information?
+We store your personal information using electronic record keeping methods and secure databases. We may combine or link personal information we hold about you with other personal information about you from third party sources and use this internally, for example for data analytics, to identify trends and opportunities.
+How do we protect and secure your personal information?
+We implement measures to protect and safeguard your personal information from misuse, loss, theft and unauthorised access, modification or disclosure. We maintain physical security over paper and electronic data stores, such as through security systems at our premises. We also maintain various computer and network security, for example, we use firewalls (security measures for the internet) and other industry standard security systems such as user identifiers and passwords to control access to our computer systems.
+Please notify us immediately if you know or reasonably suspect that your personal information has been subject to any data breach, breach of security or other unauthorised activity. If you have any questions about security of information, please refer to our 'How to Contact Us' section below.
+Credit Reporting Policy
+We may collect information about you from and disclose your personal information to organisations whose businesses involve handling personal information in order to provide another entity with information about the credit worthiness of an individual (Credit Reporting Bodies) in connection with your application for Services, or other dealings with us. Those Credit Reporting Bodies may then include that information in reports that they provide to other credit providers to assist in assessing your credit worthiness. For example, if you fail to meet your payment obligations to us, or if you commit a serious credit infringement in relation to credit for our Services, we may be entitled to disclose this information to Credit Reporting Bodies. We may collect information about your credit worthiness or to establish your eligibility for consumer credit from a Credit Reporting Body.
+We hold credit and credit eligibility information in the same manner that we hold personal information.
+The types of credit and credit eligibility information that we may collect, maintain or disclose includes:
+information about your identity;
+information requests to credit reporting bodies;
+credit applications and arrangements;
+details about default listings, overdue payments or serious credit infringements, and subsequent payments or arrangements;
+bankruptcy or credit related court proceedings and other publicly available information; and
+credit scores, risk assessments and credit worthiness
+We may use or disclose information about your credit to:
+process applications and manage credit;
+develop our credit rating systems;
+assist you to avoid default and to assess or manage a financial hardship application;
+collect debts from you;
+deal with serious credit infringements;
+deal with complaints;
+deal with regulatory matters, court orders and when required or authorised by law;
+assign debts; and
+adhere to our credit reporting obligations.
+You have a right to make a request to Credit Reporting Bodies to not use credit reporting information about you for pre-screening of direct marketing by a credit provider. You can also request Credit Reporting Bodies to not use or disclose credit reporting information about you if you have reason to believe you are a victim of fraud.
+The Credit Reporting Bodies that we use are:
+Equifax Australian Group Pty Ltd
+Telephone: 138 332
+Address: Equifax Australian Group Pty Ltd, PO Box 964 North Sydney NSW 2059
+Email:
+[email protected]
+Website:
+www.mycreditfile.com.au
+Creditor Watch Pty Ltd
+Address: Level 49, 25 Martin Place, Sydney NSW 2000
+Website:
+www.creditorwatch.com.au
+A Credit Reporting Body is required to have a policy which explains how they will manage your credit related personal information. You can view the credit policy for Equifax at
+www.equifax.com.au/credit-reporting-policy
+provided at their website above. You can view the credit policy for Creditor Watch at
+www.creditorwatch.com.au/privacy
+provided at their website above.
+Your Rights - to access and correct your personal information
+You may request access to any personal information we hold about you at any time by contacting us on the details set out in the 'How to Contact Us' section below. We will provide access to that information in accordance with the Privacy Act, subject to any exemptions that may apply. We may charge an administration fee in limited circumstances, but we will let you know in advance if that is the case.
+If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may also request us to correct and amend it by contacting us on the details set out in the 'How to Contact Us' section below. Where we agree that the information needs to be corrected, we will update it. If we do not agree, you can request that we make a record of your correction request with the relevant information.
+You can also ask us to notify any third parties to whom we provided incorrect information about the correction. We’ll try and help where we can - if we can’t, then we’ll let you know.
+If you use our online MyAussie® account management portal, you will be able to directly view and modify your personal information via the settings.
+How to contact us
+If you have any questions in relation to this Privacy and Credit Reporting Policy, our management or handling of your personal information or if you would like a hardcopy of this Privacy and Credit Reporting Policy or of the credit eligibility information that we hold about you, you may contact us by:
+phone
+on 1300 880 905;
+email
+at
+[email protected]
+; or
+writing
+to us at the below address:
+Privacy Aussie Broadband Limited
+PO Box 3351
+Gippsland Mail Centre VIC 3841
+Complaints process
+You can also contact us on the details above if you wish to lodge a complaint or obtain a copy of our complaints handling process. We will acknowledge receipt promptly (within 7 days where it relates to a credit reporting issue) and will aim to investigate and respond to you within 30 days of receipt of your complaint, in accordance with our complaints handling process (or earlier, if required by law).
+If we need more time, we will notify you about the reasons for the delay and provide a new estimated timeframe. If your complaint relates to our handling of your personal information or a privacy issue, please refer to our 'How to Contact Us' section above so that we can seek to resolve the complaint for you in the first instance. If we cannot resolve it to your satisfaction, you may contact the Australian Information and Privacy Commissioner at any time, whose contact details are set out below:
+Office of the Australian Information Commissioner
+GPO Box 5218
+Sydney NSW 2001
+Phone: 1300 363 992
+Online:
+www.oaic.gov.au
+Email:
+[email protected]
+If your complaint relates to telecommunications data handling or other matter relating to the provision of telecommunications services, you can also contact the
+Telecommunications Industry Ombudsman
+, as appropriate.
+Updates to this Privacy and Credit Reporting Policy
+We may change or update this Privacy and Credit Reporting Policy from time to time to keep up to date with legal requirements and the way we operate our business. An up-to-date version of this Privacy and Credit Reporting Policy is available at any time on this Website. You are responsible for reviewing this Privacy and Credit Reporting Policy periodically and informing yourself of any changes. We suggest that you check back regularly. If we make significant changes to our Privacy and Credit Reporting Policy, we will seek to inform you by notice on our website or by email.
+This Privacy and Credit Reporting Policy was last updated in
+January 2025
+.
+Return to legal home page.
+Download a copy of our Privacy and Credit Reporting Policy

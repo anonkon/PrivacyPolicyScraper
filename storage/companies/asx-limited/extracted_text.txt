@@ -1,0 +1,212 @@
+Privacy statement
+publish
+×
+Haven't signed up?
+JOIN NOW
+WELCOME
+Sign up at ASX
+First Name
+{{ errors.first('firstName') }}
+Last Name
+{{ errors.first('lastName') }}
+Email address
+{{ errors.first('email') }}
+Next
+WELCOME
+Sign up at ASX
+Create new password
+Confirm password
+Your password should be 8-64 characters
+Invalid password: this word has been flagged as unsuitable for use as a secure password. Please choose another
+Invalid password: must not contain more than 3 consecutive identical characters
+Invalid password: must not contain more than 3 consecutive sequential characters
+The password cannot contain the user name, given name, or family name
+I acknowledge that I have read and understood the
+ASX Privacy Statement
+and the notification of
+Collection Statement
+SIGN UP
+Edit name and email
+WELCOME
+Sign up at ASX
+A verification email has been sent.
+Thank you for registering.
+An email containing a verification link has been sent to {{verificationEmail}}.
+Please check your inbox.
+WELCOME
+Sign up at ASX
+An account with your email already exists.
+You might already have an ASX account with another platform. Please log in with your existing credentials
+Privacy statement
+This privacy statement explains how your personal information is collected and used by ASX, and your rights in relation to that information.
+Introduction
+This Privacy Statement explains how your personal information is collected and used by ASX, and your rights in relation to that information.
+References to “ASX”, “ASX Group”, “us”, or “we” are to ASX Limited and its related bodies corporate. References to “you” are to individuals whose personal information is collected by ASX. “Personal information” includes any information about an identified or reasonably identifiable individual. “Operating Rules” means the operating rules of ASX markets and clearing and settlement facilities available on
+ASX’s website
+. References to “controlling participants” include sponsoring participants which have a sponsorship agreement in place with a holder.
+Please click on the headings below for further information on each topic.
+Contents
+What personal information does ASX collect?
+How does ASX collect personal information?
+How does ASX hold personal information?
+Why does ASX collect, hold, use and disclose personal information?
+Sensitive information and government identifiers
+How does ASX use personal information collected through cookies?
+Does ASX transfer personal information overseas?
+Data retention
+Your rights
+Marketing activities and opting-out
+Avoiding phishing and scams - information for investors
+Links to other sites
+Contact us
+Updates to this Privacy Statement
+What personal information does ASX collect?
+ASX collects personal information about the following persons (or their staff or representatives):
+investors
+suppliers
+employees
+listed entities, participants and issuers
+customers
+candidates for employment
+potential new listed entities, participants or customers
+third parties seeking services or seeking to provide services
+subscribers to ASX information
+subscribers to the ASX sharemarket game, education and webinars
+other individuals who we come into contact with in the ordinary course of business.
+The kinds of personal information that ASX collects include:
+name, date of birth, personal contact details including email, phone number and address
+business contact details including email, phone number, address, company and job title
+billing and payment details
+marketing preferences, interest in products or services or contractual relationships with ASX
+IP address, computer name or login details for ASX systems or portals
+survey responses, feedback or complaints
+website usage information
+records of access to our premises, including CCTV footage
+voice recordings
+financial holdings information, investor status, and other information collected under the Operating Rules
+any other information required for the purposes of collection described below (see section 4 “Why does ASX collect, hold, use and disclose personal information?”).
+The ASX Schools Sharemarket Game Rules available on our website explain the personal information that ASX collects in relation to students for the purposes of the Game, how and why it is collected and the period for which it is retained by ASX. Our services are otherwise not specifically aimed at or intended for children.
+In certain situations, if you do not provide your personal information to us this may prevent us from being able to provide a service to you, for example where we are required to collect personal information by law or under the terms of a contract, or in order to investigate a complaint, respond to a query or process an application.
+Further information for investors
+If you are an individual investor (holder) on ASX we receive your personal information in CHESS, a clearing and settlement (
+CS
+)
+facility operated by ASX. This includes:
+your name, address and residency indicator (being a code which identifies you as having “domestic”, “foreign” or “mixed” residency) provided by your controlling participant – these registration details are required in order to establish and maintain your account with ASX
+the Holder Identification Number (HIN) which identifies your account – issued by ASX on creation of your account and used to identify you as a holder of financial products in CHESS
+information about the financial products you hold in CHESS
+additional contact information that may be optionally provided by your controlling participant, including your email address where you have elected to receive electronic communications from ASX and/or issuers, or, in relation to mFund products, your mobile phone number for provision to the unit registry
+your bank account details, where optionally provided by your controlling participant, which are passed on by ASX to the issuer in order to facilitate electronic direct credit of distributions
+in relation to mFund products, your date of birth, address and tax residency details, provided by your controlling participant on an initial mFund application and passed on by ASX to the mFund issuer to assist them to comply with their regulatory reporting obligations
+in relation to mFund products, your distribution preference (full distribution reinvestment plan, partial distribution reinvestment plan or cash), provided by your controlling participant on an initial mFund application
+If you are an issuer sponsored holder, we may receive your Security holder Reference Number (SRN) and holding balance in respect of your issuer sponsored holding to support the processing of a conversion or transfer of a holding from the issuer sponsored subregister to the CHESS subregister.
+How does ASX collect personal information?
+ASX collects personal information in a variety of ways, including through:
+direct contact with individuals, including in business activities, at events and through correspondence by mail, telephone, and email
+subscriptions to ASX notifications or marketing communications
+registrations for products and services on our website, including through our investor portal and registration forms on our website for courses, games, education or services
+recruitment processes
+the use of cookies and similar technology on the ASX website
+publicly available sources
+in relation to investors – participants, issuers and registries acting on behalf of issuers that provide information under CHESS
+in some circumstances, other third parties, including when you provide personal information to a third party for the purpose of sharing it with us, such as a recruitment agency.
+Where required by applicable data protection laws, we will notify you and seek your specific consent to the collection and use of your personal information by ASX.
+How does ASX hold personal information?
+The security, integrity, and confidentiality of your information is very important to us. We have implemented technical, procedural and physical security measures that are designed to protect your information from misuse, interference and loss and from unauthorised access, modification or disclosure. These measures include:
+Personal information is stored in electronic databases which are managed by ASX and/or by ASX’s third party providers. In the case of third party providers, ASX requires those third parties to comply with appropriate confidentiality and security requirements such as industry standards for information security.
+ASX has a number of security measures, processes and standards in place to protect personal information, such as the use of encryption protocols and tools for data in transit, user authentication, and data handling procedures and standards.
+We regularly review our security procedures to consider appropriate new technology and methods.
+Why does ASX collect, hold, use and disclose personal information?
+ASX collects, holds and uses personal information:
+to provide education services
+to service investors
+to service ASX customers, subscribers and individuals participating in ASX events and games
+to provide ongoing information, updates or publications about our products, services or events to you where you have expressed an interest in such information
+to market our products and services to you, including by phone or email, provided that you have an option to unsubscribe or opt-out of further marketing communications
+to provide you with relevant products and services
+to administer its relationships with employees and contractors
+to enable ASX to discharge its contractual obligations, including employment contracts or when providing products and services to, or receiving products or services from, third parties
+to enable the resolution of a concern or complaint
+for security purposes such as monitoring and detection to protect ASX’s systems, infrastructure, information and other property
+to consider potential services and service providers
+to fulfil its functions and provide its services as a market licensee and CS facility licensee under the Operating Rules, as well as monitoring and enforcing compliance with those rules in accordance with its obligations under the Corporations Act
+to fulfil its functions and provide its services as benchmark administrator licensee, Australian Financial Services licensee or other licensed or regulated business
+to enable ASX to comply with industry standards and legal and regulatory obligations, including statutory obligations imposed on members of the ASX Group under the Corporations Act, including as a listed entity, market operator, CS facility operator, benchmark administrator, Australian Financial Services licensee or other licensed or regulated business
+From time to time, ASX will disclose personal information to:
+entities within the ASX Group
+our technology partners who support our systems and services
+person(s) to whom ASX is under a legal or regulatory obligation to disclose the information, such as under a subpoena or court order
+other third parties under contracts we enter into with them for the provision of services, such as customer relationship management services, survey response collation or event coordination
+in relation to investors – participants, issuers, registries acting on behalf of issuers and certain regulatory and government bodies, where required or permitted under the Operating Rules.
+Where we disclose personal information under contracts with third parties, our contracts include protections for that personal information such as requiring those parties to keep the information confidential and secure and to treat it in accordance with applicable laws and regulations.
+Further information for investors
+ASX uses and discloses personal information of investors as outlined in Section 1 in order to provide its CS services in accordance with the Operating Rules. This includes:
+to allow your controlling participant to establish and maintain your holder record, in order to operate one or more CHESS holdings on your behalf
+to provide you with periodic statements to allow you to keep track of your investments, as well as other notifications in relation to your account
+for purposes relating to the maintenance of your holdings, including managing holding locks and holder record locks (for example, if you are declared bankrupt or pursuant to a court freezing order)
+to process and record financial transactions through our CS facility
+to administer the CHESS subregister on behalf of issuers
+to process holding movements between the CHESS subregister and the issuer-sponsored subregister
+to otherwise comply with applicable legal and regulatory requirements, including our obligations under the Corporations Act to provide our CS services in a fair and effective way and to monitor and enforce compliance with the Operating Rules
+Sensitive information and government identifiers
+Sensitive information includes personal information such as an individual’s criminal record, health information, membership of a professional or trade association, or membership of a trade union.
+ASX does not collect sensitive information about an individual unless:
+it is required or authorised by law to do so, or
+the individual has consented and the information is reasonably necessary for one or more of ASX’s functions or activities.
+Government identifiers such as Tax File Numbers will generally not be collected or used unless required by law or in accordance with the Operating Rules, or where necessary to complete a transaction or service.
+How does ASX use personal information collected through cookies?
+Our website uses cookies. Please see our
+Cookie Policy
+for further information on the cookies used on our website and how you can manage them.
+Most cookies on our website are used to store information anonymously in relation to your visit, for example using a unique identifier or a value to indicate whether you have visited a webpage.
+Your personal information may be collected in session information to authenticate access to certain areas of our website, in order to allow you to access and participate in those areas of the website. Once you have closed your browser, this type of cookie is deactivated.
+We will not combine anonymous information collected through cookies with other information we hold about you to identify you unless:
+you have consented
+we are required by law or a regulatory obligation to do so, such as where a law enforcement agency issues a warrant to inspect the service provider’s logs
+your usage is causing technical issues for ASX’s website which need to be resolved, or
+you may have won a game.
+Does ASX transfer personal information overseas?
+ASX does not generally transfer personal information to overseas parties unless required by law or enforcement activity or unless working with international service providers. ASX shares or stores personal information with vendors who have been contracted to provide customer relationship systems and technological solutions. These third parties may not be subject to the same privacy and data protection laws as those located in Australia, however they may be subject to applicable data protection laws in their own jurisdiction. When ASX transfers personal information overseas to third party service providers, ASX’s normal practice is to take reasonable steps to ensure that appropriate safeguards are in place, such as standard contractual provisions requiring those parties to keep the information confidential or ensuring that the third party has an appropriate certification. Personal information is encrypted where possible when transferred overseas.
+These third-party service providers change from time to time and may be located in Australia, the United States, Japan, the United Kingdom and other countries. You can contact ASX at the details below for a list of the current countries.
+Data retention
+ASX has a data retention policy. Where personal information is no longer required for the purpose for which it was collected ASX will take reasonable steps to destroy or permanently de-identify the information, unless:
+it is required to allow ASX to address any complaints or for legal or compliance matters, or for another purpose permitted under applicable data protection laws, or
+ASX is required by law or a regulatory obligation to retain it.
+ASX will take reasonable steps to destroy unsolicited personal information received from third parties that does not serve an appropriate purpose unless it is required by law or a regulatory obligation to retain it.
+To determine the appropriate retention period for personal information, ASX considers the nature and sensitivity of the personal information, the purposes for which it is held and the applicable legal requirements. When ASX deletes personal information it holds electronically that information will be removed from our active database, but it will generally remain in archival or back-up systems for a period of time where it is not practicable or possible to delete it. In some circumstances we may anonymise your personal information (so that it can no longer be associated with you) for research, statistical or data analysis purposes, in which case we may use this information indefinitely without further notice to you. If you would like further information on the retention periods we apply to your personal information, please contact us in writing at the details below.
+Further information for investors
+ASX retains personal information of investors received by CHESS where permitted by applicable data protection laws. ASX retains this information for the purposes of providing its CS services or for related purposes including to maintain records of ownership history for investors or as required in order to allow us to satisfy applicable legal or regulatory requirements.
+Your rights
+Under Australian privacy law, you have the right to request access to your personal information held by ASX and to request that your personal information be corrected. Depending on the nature of your personal information and the purposes for which it is used by ASX, you may have the right under applicable data protection laws to request the deletion of your personal information or in some circumstances, to restrict or object to the processing of your personal information. If you would like to take steps to exercise any of your rights, please contact us in writing at the details below. A fee may be charged for providing access if permitted under applicable law.
+ASX takes reasonable steps to ensure that personal information held about you is accurate, complete and up to date. Please advise us in writing of any changes to your information using the contact details below.
+Marketing activities and opting-out
+If you have previously provided consent, we may from time to time email you about an event or new feature, product or service that we think might be of interest. If you receive marketing communications from us, you may request not to receive further communications at any time by clicking ‘unsubscribe’ or ‘opt-out’. Alternatively, you can let us know your preferences by contacting us at the details below or by logging into the customer portal on our website if you have an account with us. If you make this request we will stop sending these marketing communications to you.
+Avoiding phishing and scams
+If you are a broker-sponsored investor on ASX, when you communicate with ASX we may ask you to confirm details in relation to your account (such as your HIN, name and address) to assist us with identification. However, we will never ask you to provide other personal or financial information such as passwords, date of birth, bank account balances, portfolio balances or your personal bank account details, or instruct you to pay funds into third party bank accounts.
+If you receive a communication from someone who claims to be from ASX and who asks you to provide your personal or financial information, this may indicate that you are the target of a scam. If this happens to you, please immediately report this to ASX by calling 131 279 or by sending the details to us at
+privacy@asx.com.au
+.
+Your prompt action can assist us to minimise the impact to other market users of ASX-related scam activity.
+You can report any non-ASX related scam activity to SCAMwatch (a scam reporting website run by the Australian Competition and Consumer Commission) at
+http://www.scamwatch.gov.au/
+.
+Links to other sites
+This site links to other non-ASX sites. ASX is not responsible for the privacy practices or the content of such web sites.
+Contact us
+ASX has appointed a Chief Privacy Officer to manage privacy enquiries and complaints. They can be contacted by phone, post or email at:
+Address:
+ASX Limited
+Level 27
+39 Martin Place
+SYDNEY NSW 2000
+Telephone: 131 279
+Email:
+privacy@asx.com.au
+If you make a complaint, we will make a record of your complaint and refer it to our internal complaints resolution department for further investigation. For more details on how ASX handles complaints, see the
+ASX Complaints Management Policy
+.
+You can also obtain information or lodge a complaint at the Office of the Australian Information Commissioner’s website at
+www.oaic.gov.au
+Updates to this Privacy Statement
+This Privacy Statement will be reviewed from time to time as required. We reserve the right to update this Privacy Statement from time to time to reflect changes in the law or technology or business practices. It is your responsibility to review the updated Statement.
+Last updated: March 2022
