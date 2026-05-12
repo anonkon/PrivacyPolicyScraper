@@ -1,0 +1,296 @@
+Privacy Policy
+×
+Privacy Policy
+Last Updated: 23 June 2025
+The Megaport group of companies, being Megaport Limited and its subsidiaries (
+listed here
+) (“
+Megaport
+”, “
+we
+”, “
+us
+” or “
+our
+”) is committed to protecting the privacy of personal information (being any information relating to an identified or identifiable human being, as defined by applicable personal data and privacy laws) - more specifically, the privacy of each individual whose personal information we control the processing of in the course of our business (
+Data Subject
+or
+you
+).
+This Privacy Policy (“
+this Policy
+”) explains how Megaport companies collect, use, share, store and retain (i.e. ‘processes’) personal information when they do so as the ‘controller’ (as such term is understood in Article 4 No. 7 EU Regulation 2016/679 (“
+GDPR
+”) and the Brazilian Data Protection Law (Law 13.709/2018) ("
+LGPD
+"). For purposes of this Policy ‘controller’ is used in the same capacity as ‘business’ as that term is defined by the California Consumer Privacy Act, as amended by the California Privacy Rights Act (“
+CCPA
+”) respectively). This means that details of how Megaport may process our customers’ data as part of our services to them are not set out here, but are instead contained in the relevant service agreement/s.
+As we process personal information in different contexts and for different reasons, this Policy is divided into different Parts, with our relevant controlling entity being specified in each Part (and you can access their contact information
+here
+). More specifically:
+Part 1
+relates to our customers and prospective customers;
+Part 2
+relates to our recruitment of future employees;
+Part 3
+relates to all visitors to the Megaport websites, including the use of cookies;
+Part 4
+relates to our vendors and other business partners;
+Part 5
+relates to our Partner Programme
+Part 6
+contains general provisions affecting all categories of personal information, setting out where it is stored or shared, how it is protected, and what your rights as a data subject are.
+Important terminology used throughout this Policy:
+NaaS
+- refers to any/all of our ‘network-as-a-service’ offerings, be it a Port, IX, VXC, MCR and/or MVE.
+Portal
+– means Megaport’s NaaS user interface via which NaaS can be ordered and/or provisioned.
+Customer
+– means a company with a Portal account in its name for purposes of provisioning NaaS we provide to it.
+Reseller
+– means a NaaS Customer at the wholesale level who buys NaaS from us in order to resell it (in its own name) to other companies.
+Agent
+– means a company that helps us to find and/or manage our Customers in some way, be it by referring, selling, supporting, billing, provisioning or otherwise.
+Partner
+– means a company participating in our ‘Partner Program’ (as described in Part 5).
+Related Offerings
+– means products or services complementary to our NaaS, being those that our SDN can be used to connect to from time to time, like the services of certain data centre operators, cloud service providers and SD-WAN providers.
+Megaport may update this Policy from time to time by posting the revised version on our website.
+IMPORTANT:
+Megaport’s services are aimed at corporate customers who act through their duly authorized representatives. We thus have no need for, and do not knowingly process, any data related to minors. If you are under 18 years of age you should not use our website or attempt to register an account with us.
+Updates to This Privacy Policy:
+We may update this Policy from time to time to reflect changes to our information processing practices. When we change this Policy in a material way, we will update the effective date at the beginning of the document. We will also provide you with notice of changes and obtain your consent to any such changes where and as required by applicable law. We encourage you to review this Policy periodically for the latest updates on our information processing practices.
+PART 1: CUSTOMERS & PROSPECTS
+1.1 -
+Customers
+:
+The personal data processing details relating to Customers are as follows:
+Data Controller:
+The Megaport entity providing the services to that Customer.
+Personal Information:
+Customer contact details, including the workplace, name, position, email address and phone numbers of Customers’ employees and representatives, and related business insights;
+Customer credit card details and credit information (to the extent that it relates to any individual);
+Customer representative passwords and usernames for accessing the Portal; and records of each customer’s use of our services with Megaport;
+Customer representative user authentication credentials, including name and email address; and
+Records of each Customer’s communications with Megaport, including any participation in Customer surveys, correspondences, sensory information including call and video recordings and their transcriptions and analyses.
+How we collect it:
+From our Customers via their human representatives, be it in person (at networking events or otherwise), via phone, email, virtual meeting platforms, our Websites (as detailed in Part 3), or by actively submitting it online, be it to us directly; via one of our Agents; or via third-party authentication providers (such as Google Sign-In). We may use cookies to track customer participation in our surveys. Customers are responsible for the completeness and accuracy of the personal information so provided and for ensuring that the people to whom the information relates (i.e. customer’s employees or other representatives) have been notified and, where required by law, have consented. If a Customer does not provide Megaport with the personal information requested, our Services to that Customer may be restricted or prevented; and
+Pursuant to Part 1.2 (Prospective Customers) below.
+Why we need it:
+Although Megaport’s business is not consumer-facing and our Customers are corporate entities, we need such personal information to promote, explain and provide our Services, including to carry out incidental functions, like account management and service support. Doing so falls within Megaport’s legitimate and legally protected interests. More specifically, we use such personal information to:
+process a Customer’s application, including carrying out checks for credit-worthiness;
+provision or connect each Customer’s Services;
+deal with Customer enquiries, provide Customer support and improve Customer service; manage each Customer’s Services, including account management, billing, processing payments and collecting debts;
+investigate complaints and carry out dispute resolution;
+administer our agreement with each Customer;
+product research and development, business planning and staff training;
+communicate with our Customers about our Services and related promotions (in the latter case, provided you have not opted-out of receiving such promotional material, which can be done via the unsubscribe links within those communications or by contacting
+privacy@megaport.com
+);
+communicate with our Customer about Related Offerings, subject to the requirements of direct marketing laws;
+How we share it:
+To the extent necessary for the above purposes (or otherwise permitted by law), within the Megaport group and with other organisations such as:
+our Service-related suppliers, Resellers and Agents;
+our out-sourced service providers who perform functions and services on Megaport’s behalf, such as contact centre services, mailing functions, call analysis functions, credit card payment processing, marketing or IT services (eg: Salesforce, Marketo, Gong, and Stripe);
+credit reporting bodies, credit providers or debt collection agencies (where permitted by law);
+other telecommunications and information service providers;
+the companies providing Related Offerings and marketing partners who may also process it in their capacities as controllers (subject to privacy laws and direct marketing laws) provided that (a) you are entitled to object to us sharing your data in this manner; (b) if you’re Japanese, we will only do so with your prior consent; and (c) if you’re Californian, you may be entitled to opt-out from your data being sold to them as described in Part 6 below;
+our legal, accounting and financial advisers;
+Customer’s other authorised representatives.
+How long we keep it:
+As long as needed to satisfy the above purposes, normally being for so long as the relevant Customer agreement is effective and for such further period as required or permitted by law.
+1.2. -
+Prospective Customers
+:
+For purposes hereof ‘prospective Customers’ are those companies that do not yet have a Portal account in their name and the personal data processing details relating to them are as follows:
+Data Controller:
+The Megaport entity operational in the relevant region, hoping to provide Services to the prospective Customer.
+Personal Information:
+prospective Customer contact details, including the name, workplace, position, email address and phone number of its employees and representatives, and related business insights;
+records of any communications between us and the prospective Customer, including any participation in surveys, correspondences, sensory information including call and video recordings, and transcriptions and analyses.
+How we collect it:
+Directly and indirectly in various ways, i.e., via the prospective Customer’s representatives’ participation at conferences, trade shows, networking events, seminars and product demos, and virtual meeting platforms; our Websites (as detailed in Part 3); the operators of third party websites on which our content has been published (subject to the notice and consent requirements of privacy and direct marketing laws); our marketing/sales related service providers; publicly available sources (e.g. prospective Customer’s website; LinkedIn); our referral/sales Agents; and sometimes the providers of Related Offerings.
+Why we need it:
+To promote and explain our Services to prospective Customers (in accordance with applicable direct marketing laws) and to carry out incidental functions i.e., responding to enquiries, complaints and/or disputes, doing product research and development, business planning, and staff training. Doing so falls within Megaport’s legally protected legitimate interests.
+How we share it:
+To the extent necessary for the above purposes (or otherwise permitted by law), Megaport may share such personal information within the Megaport group and with other organisations being:
+our Service-related suppliers, Resellers and Agents;
+our outsourced service providers performing functions on Megaport’s behalf, such as contact centre services, mailing functions, marketing, or IT services (eg: Salesforce and Marketo);
+our Related Offering providers who may also process it in their capacities as controllers (subject to privacy laws and direct marketing laws) provided that (a) you are entitled to object to us sharing your data in this manner; (b) if you’re Japanese, we will only do so with your prior consent; and (c) if you’re Californian, you may be entitled to opt-out from having your data sold to them as described in Part 6 below;
+our legal and other professional advisers.
+How long we keep it:
+As long as needed to satisfy the above purposes i.e., for so long as we are engaging in discussion with the prospective Customer prior to becoming a Customer (in which case Part 1.1 above applies to the continued retention of such personal data) or until 5 years after discussions have ceased.
+PART 2: RECRUITMENT
+The personal data processing details relating to our recruitment activities are as follows:
+Data Controller:
+The relevant Megaport entity that will be employing the successful candidate.
+Personal Information:
+The types of personal information processed include what one would ordinarily expect of any job application process, i.e.:
+contact details (such as your name, physical address, email address and phone number);
+employment-related information (such as previous work experience, skills, qualifications and referees, as well as your working rights and your police clearance, to the extent permitted under relevant employment laws);
+Results of any pre‑employment assessments (e.g. personality, aptitude, situational judgment or skills test);
+records of the candidate’s communications with us (including information gathered during interviews, which may include video recordings; and
+whatever other information the candidate has chosen to include in their resume and/or cover letter.
+Note that, save for very specific roles which may necessitate police checks or other more specific types of background checks (as allowed by applicable law), we do not need any sensitive personal data (i.e. data relating to race, ethnicity, health, political opinions, religious, philosophical or other beliefs, political or trade union membership, biometrics, sexual orientation or criminal convictions) and a candidate’s provision of such information would be entirely voluntary.
+How we collect it:
+Usually directly from the candidates, like when candidates provide information to us in person, by phone or email, via our Website and related recruitment system, or when they provide their details via our recruitment websites or social media accounts (including via job portals like Seek or LinkedIn). We may also collect certain information about candidates more indirectly from our recruitment agencies, candidates’ referees, background checking service providers, and from other public sources (e.g. LinkedIn profile).
+Why we need it:
+Megaport will only process a candidate’s personal information to the extent necessary for the job application process and/or their subsequent employment with Megaport, as required by our legitimate legally protected interests, or applicable laws. More specifically, your personal information is used to assess and process your job application; to make a decision about whether to employ you; to deal with your queries and defend against potential claims in relation to the recruitment process; to consider you for future job opportunities with us (if you have consented to us retaining your details for such purpose); and, if you are hired, to make decisions about your employment with us. If we don’t receive the specific information we require, we may not be able to assess or proceed with a candidate’s job application. Note that voluntarily submitted data about veteran status, race and gender is used for statutorily-required aggregated reporting in specific jurisdictions, where relevant.
+How we share it:
+To the extent necessary for the above purposes (or otherwise permitted by law), Megaport may share such personal information within the Megaport group and with other organisations being: our outsourced service providers performing functions on Megaport’s behalf (such as our recruitment system provider and other recruitment-related service providers); your referees; third parties who conduct background and police checks; and the institutions that issued your qualifications.
+How long we keep it:
+Megaport deletes unsuccessful candidates’ personal information after the application process is finished (i.e. once a suitable candidate is hired) save for those who have consented to their data being retained for future employment offers, or applicable laws entitle or require Megaport to retain the information for longer (for example, to defend against potential legal claims related to the recruitment process). The successful candidate’s personal information will be retained and processed in accordance with Megaport’s internal employee-facing policies and processes.
+PART 3: VISITORS TO THE MEGAPORT WEBSITES
+This section applies to all visitors to the Megaport website (
+www.megaport.com
+) or any other Megaport website properties, subdomains and our Portal (
+Websites
+), whether visited by job applicants, customer or supplier representatives, or anyone else.
+Data Controller:
+Regardless of who may operate the specific Website, the Data Controller is the relevant Megaport entity (a) holding the relationship with the company you represent (if applicable), alternatively (b) operational in the region in which you or the company you represent are based.
+Personal Information:
+We may collect and process the following personal data about or from you via the Websites:
+your name, business address, e-mail address, phone number, live web chat content, and possibly your financial and credit card information (“
+Submitted Data
+”);
+technical information, including the Internet protocol (IP) address used to connect your computer to the Internet (from which we can infer your generalised location), your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform (“
+Technical Data
+”); and
+information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Websites (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, videos watched, and mouse-overs), and methods used to browse away from the page (“
+Behavioral Data
+”).
+How we collect it:
+Submitted Data is actively provided by you directly when you fill in forms on the Websites or correspond with us via our AI powered online chat, e-mail or otherwise (e.g. the phone number used to contact our customer service). This includes information you provide when you register with the Websites, subscribe to our Services, and when you report a problem with any Website.
+Technical Data and Behavioural Data is automatically collected during each of your visits to the Website. This is enabled by various common tracking technologies like cookies (small files stored on an individual’s browser or computer hard drive to optimise the individual’s interaction with a website) and web beacons (tiny graphics files containing unique identifiers to recognize someone as having received an email or visited our website before). Some cookies are purely technical and necessary for the Website to work properly, while others track user behaviour in a personally identifiable or aggregated anonymous fashion. You can choose your preferences for cookie settings by accessing the Preference Center during your first visit to our website. Visit our
+Cookie Policy
+for more information about the individual cookies, which data is processed by them, how we use them and why, and to change your cookie settings.
+Why we need it:
+We use such personal information to:
+enable you to use the Website and to provide our services, including by sending you promotional communications;
+administer the Website and for internal operations (including troubleshooting, data analysis, testing, research, statistical and survey purposes);
+improve the Website to ensure that content is presented in the most effective manner for you and your computer (e.g. logging page visits indicates missing pages or other web server problems);
+keep the Website safe and secure (e.g. authentication cookies make sure you are the same person over a given “session” time); and
+deliver personalised advertising to you and to measure or understand the effectiveness of advertising we serve to you and others, including across third-party websites and platforms such as Google Ads and LinkedIn Ads
+We use the above personal information only to the extent required for these legally protected legitimate interests, with your consent where required by applicable law or where necessary to provide requested services.
+How we share it:
+To the extent required for the purposes described above, we may share personal information within the Megaport group of companies and with suppliers, subcontractors and marketing partners that support our Websites, services and marketing activities. Note specifically:
+Our Websites use cookies from third-party service providers (e.g. Google Analytics) and potentially other third parties over which we have no control (e.g. advertising networks, web traffic analysis providers). For more information on how Google uses this data, go to
+www.google.com/policies/privacy/partners/
+.
+When you visit or log in to our Website, our marketing partners and service providers may use cookies and similar technologies to link your activity to other information they or others have about you, including by association with your email or online profiles. We (or service providers on our behalf) may then send communications and marketing to these emails or profiles.
+We may use remarketing services to advertise on third party websites to you after you visit ours. These services may use cookies and other information you’ve shared with us through our Websites or otherwise (such as at an event, and subject to applicable laws) to inform, optimize and serve ads based on your past interactions with us.
+Our advertising and analytics partners typically receive only technical or pseudonymised information from us, unless identifying data is necessary to deliver a requested service or you’ve provided consent.
+Our Websites may incorporate social media features enabling you to share content on social media (e.g. a Facebook ‘like’ button) and in doing so, you will be sharing your IP address and the page you are visiting with such social media site, subject to its privacy policy and practices.
+Note: These cookies usually include Targeting and Performance cookies and, depending on your jurisdiction, may be subject to your prior consent. You can manage your Cookie Settings at any time by visiting our
+Cookie Policy
+.
+How long we keep it:
+Megaport retains such personal information only to the extent required for the above purposes and as required or permitted by law.
+PART 4: VENDORS & OTHER BUSINESS PARTNERS
+Data Controller:
+For each of our Agents and other forms of service providers, suppliers, independent contractors and other business partners (each a “
+Vendor
+”), the controller of any relevant personal information is the Megaport entity holding the relevant account or business relationship with it, possibly in joint control with one or more other Megaport affiliates.
+Personal Information:
+The personal data processed in relation to Vendors include their contact details (i.e. the name, position, email address and phone numbers of their employees/representatives and of the Vendors themselves if they’re sole proprietorships or partnerships); their communications with Megaport; and, if they’re sole proprietorships or partnerships, their banking details, invoices and service history.
+How we collect it:
+Such personal information is collected directly from the Vendor via their websites or representatives (be it in person, via phone or email) or, if they are Agents using Portal accounts of their own to manage our Customers’ Services, then also via their Portal accounts. Vendors are responsible for the completeness and accuracy of information supplied and for ensuring that the people to whom the information relates have been notified and, where required by law, have consented. Personal information related to prospective Vendors is collected from publicly available sources (e.g. prospective Vendor’s website or LinkedIn), via participation at conferences and other networking events, via referrals from our existing business associates.
+Why we need it:
+We need such personal information to appropriately engage with the Vendor for purposes of managing our relationship with it, as required by our contract with it, alternatively in our legitimate and legally protected interests. More specifically, we use it for prospective Vendor assessment and contract negotiation purposes as well as the ongoing administration of our agreement with each Vendor (including for paying invoices and raising service-related queries or complaints);
+How we share it:
+To the extent necessary for the aforesaid purposes (or otherwise permitted by law), Megaport may share a Vendor’s personal information within the Megaport group, with Vendor’s other authorised representatives, and with our outsourced service providers who perform functions and services on our behalf (such as our financial and billing systems, mailing functions, IT services, and professional advisors).
+How long we keep it:
+Vendor-related personal information is stored only as long as needed to satisfy the above purposes, normally being for so long as Vendor’s business relationship with us is effective and for such further period as required or permitted by law.
+PART 5: PARTNER PROGRAM
+Our Partner Program (
+the Program
+) is aimed at companies willing and able to drive adoption of our NaaS in the market (either in their capacity as Reseller or Agent).
+Data Controller:
+The Megaport entity holding the relevant Program relationship with the Partner (or prospective Partner), possibly in joint control with one or more other Megaport affiliates.
+The personal information processed by us solely in the context of the Program, as well as our collection methods and purposes, are set out in the table below:
+Personal Information
+How we collect it
+Why we need it
+Prospective Partners
+Personal data actively submitted as part of their Program participation application, including data about the prospective Partner’s shareholders, directors, and other key staff (such as their names, job titles and business contact details) ("
+Partner Application Data
+")
+Actively submitted by the prospective Partner’s representative online and/or possibly also via email. The prospective Partner is responsible for the completeness and accuracy of the personal information so provided and for ensuring that the people to whom the information relates have been notified and, where required by law, have consented
+To assess the prospective Partner’s suitability for participation in our Program. So, if a prospective Partner does not provide all the personal information requested, our ability to assess its suitability for Program participation may be constrained and the application may be rejected. We also use it to contact the prospective Partner in relation to its application and if successful, to facilitate contract negotiations and administer its participation in the Program
+Partners who are Resellers
+The names, job titles and contact details associated with the Resellers’ own customers/clients (
+Resale Contacts Data
+)
+Actively provided to us by the participating Reseller when it submits a ‘Deal Registration Form’ and/or if it inserts such Resale Contacts Data into its Portal account (and more specifically into the Portal sub-accounts it may have created)
+To verify the Partner’s entitlement to Program benefits associated with the existence and nature of the Reseller’s customers
+How we share it:
+To the extent necessary for the aforesaid purposes (or otherwise permitted by law), Megaport may share the personal information within the Megaport group, with the Partner’s (or prospective Partner’s) other authorised representatives, and with our outsourced service providers who perform functions and services on our behalf.
+How long we keep it:
+Program-specific personal information is stored only as long as needed to satisfy the above purposes, normally being for so long as the Partner remains a participant in the Program and for such further period as required or permitted by law.
+PART 6: GENERAL
+Use of Artificial Intelligence (AI):
+We may use third-party service providers that incorporate AI technologies as part of our business operations. These AI-enabled tools may be used to support functions such as customer service, sales insights, communication analytics, and process automation.
+Examples include:
+Conversational support tools (e.g. AI-powered chatbots like Salesforce Einstein) that help respond to queries and direct you to the appropriate resources.
+Sales and communication intelligence platforms (e.g. Gong.io) that use AI to analyze sales calls and interactions for training purposes, customer account management and business insights.
+These tools may process personal information such as contact details, communication metadata and interactions with our team or services. While AI may be used to assist decision-making, it is not used to make fully automated decisions that have legal or similarly significant effects on individuals without human involvement.
+All personal information processed by AI tools is handled in accordance with applicable data protection laws and is subject to appropriate safeguards, including contractual commitments with our service providers to ensure privacy, security and transparency.
+If you have questions about how your data may be processed by AI tools we use, or if you would like to exercise your rights in relation to this processing, please contact us using the details provided in the “Contact Megaport” section below.
+Where personal information is stored and processed:
+Megaport operates in various countries globally and the organisations that Megaport may share personal information with may be located in countries both within and outside of the European Union (“
+EU
+”) and Brazil, including the United States, Canada, Australia, New Zealand, Singapore, Hong Kong, the Philippines, Japan and the United Kingdom. Note that the personal data protection and privacy laws in certain non-EU and non-Brazilian countries may not be as protective of personal data as they are within the EU or Brazil and may thus expose you to certain risks (such as a lower standard of protection applying to the processing of your personal information, or your having fewer rights to access your personal information, or there not being a regulatory body dedicated to personal data protection in that country that you can approach). Megaport will take all reasonable steps to ensure that recipients in such countries comply with a level of data protection that is considered to be adequate from the perspective of EU or Brazilian data protection laws, such as being subject to standard contractual clauses approved by the European Commission, or by the Brazilian National Data Protection Authority (ANPD). You nevertheless acknowledge the aforesaid potential risks to your data being processed in such countries. Customers in the United States likewise acknowledge that their personal information may be processed outside of the United States.
+How else we may share personal information:
+Megaport may further disclose personal information as follows:
+Mergers & Acquisitions: to a specific third party and its advisors in order to facilitate an acquisition or sale of assets between such third party and Megaport. This is most likely to occur in relation to a purchase (or potential purchase) by such third party of any Megaport entity or its business or assets (as customer-related data and employee-related data may be part of the assets so sold);
+Regulatory & Contractual Compliance: To government, law enforcement & regulatory bodies where required to comply with our legal obligations or to enforce our agreements, as well as to other companies and organisations who assist us with fraud protection and credit risk reduction; and
+Other: Except as described above or when sharing certain personal information with providers of Related Offerings (as explained in Part 1), Megaport does not generally “share” or “sell” personal data with third parties for their own independent use, as those terms are defined under applicable U.S. state privacy laws. Where such disclosures may occur, they are in accordance with applicable data protection laws, based on our overriding legitimate interests or your prior consent (depending on your jurisdiction), with prior notice to you, and with you being entitled to object. You may have the right to opt out of such “sales” or “sharing” under U.S. state privacy laws. Where applicable, you can exercise this right via our
+Do Not Sell or Share page
+.
+How we protect personal information:
+Megaport stores personal information electronically and sometimes in hard copy form, treating it all as confidential. We take a range of measures to protect the security of personal information, including by storing electronic information in password-protected servers that are in restricted and monitored areas. We do not store full credit card details on our own systems, but instead make use of a PCI DSS-compliant payment service provider.
+How to access and correct your personal information:
+Megaport takes all reasonable steps to ensure that the personal information we hold is accurate, complete and up to date. Customer representatives can access and correct most Customer-related personal information (such as contact details) directly via the Customer’s Portal account. Similarly, Agents who have Portal accounts pursuant to their agreement with us can access and correct most of their personal information directly via that Portal account. Otherwise, personal information can be accessed and corrected by contacting Megaport at
+privacy@megaport.com
+.
+Your other rights
+: Depending on your location, you may have additional rights regarding your personal information. These rights may include, subject to any exceptions or limitations:
+The right to not receive any direct marketing messages from us.
+The right to information about the personal data of yours we process (including who we may have shared it with and why, and the safeguards implemented for any transfers).
+The right to request copies of your personal information.
+The right to have your personal information rectified, corrected or updated.
+The right to request the deletion, blocking or restriction of processing of your personal data.
+The right to data portability in certain situations.
+The right to object to how we process your data if it’s based on our legitimate interests and your objection is related to your specific situation.
+The right not to be subject to any automated decision making and profiling.
+The right to opt out of the “sale” or “sharing” of your personal information, as defined under applicable U.S. state privacy laws (see our
+Do Not Sell or Share page
+for this).
+If the processing of your personal data is based on your consent, you have the right to withdraw your consent at any time to stop future processing.
+You can exercise such rights at any time by contacting us at
+privacy@megaport.com
+. You may also lodge a complaint with your local data protection supervisory authority (see for eg:
+https://edpb.europa.eu/about-edpb/board/members_en
+)
+Global Privacy Control:
+Some browsers and browser extensions support the
+Global Privacy Control
+(“GPC”), which sends a signal to websites indicating your choice to opt out of the “sale” of your personal data, as defined by applicable laws. When we detect a GPC signal, we make reasonable efforts to honour your opt-out preference signal as required by law.
+Verifiable Consumer Requests (California Residents
+): California residents may request what personal information we collected, used and disclosed to third parties in the preceding 12 months. They may also submit a request that we correct or delete the personal information we have collected from them. Individuals may designate an authorised agent to submit a request on their behalf. We may ask for additional information, such as mailing address or telephone in order to verify the identity of the individual submitting the request. Authorized agents must submit proof of authorization from the owner of the data being requested. If we are unable to verify the requestor’s identity, we will need to deny the request. In the event a request is denied, we will provide you with an explanation of the denial. Requests may be submitted by sending an email to
+privacy@megaport.com
+with the subject line “California Verifiable Consumer Request”. We will reply to your requests within 45 days or provide you with an explanation on why it may take more than 45 days to comply with your request. We will not discriminate against you for exercising any of your data rights. We do not charge a fee to process or respond to your requests unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+Anonymous data
+: We may permanently anonymize personal data: (a) as part of producing certain aggregated anonymous survey result reports (in which case, if Customer-related, the reports may be shared with our Agents, Resellers or providers of Related Offerings) or (b) as an alternative to deletion where deletion is not reasonably possible.
+Links to third party websites:
+Our Websites may contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Contact Megaport:
+If you have an enquiry regarding privacy, or you wish to raise a complaint, please contact
+privacy@megaport.com
+.
+View PDF
+View PDF
+(Portuguese version)
+View Summary of Changes
+Cookie Details
